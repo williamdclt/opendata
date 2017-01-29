@@ -1,5 +1,6 @@
 // The parse() function (parse.js) expect a callback to which it will
-// send the collection of artists.
+// send the collection of artists. The index in the array is NOT the
+// ID of the artist
 parse(main);
 
 /**
