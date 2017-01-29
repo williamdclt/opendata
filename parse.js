@@ -5,25 +5,42 @@ function parse(callback) {
         d3.csv("collection/artwork_data.csv", function (artworks) {
             retypeArtworks(artworks);
 
-            artists.forEach(function (artist) {
-                artist.artworks = artworks.filter(function (artwork) {
-                    artwork.artistId == artist.id;   
+            /*
+             * Dunno why the filter doesn't work. Let's do it by hand
+             */
+            artworks.forEach(function (artwork) {
+                artists.forEach(function (artist) {
+                    if (artist.id == artwork.artistId) {
+                        artist.artworks.push(artwork);
+                    }
                 });
             });
+            //artists.forEach(function (artist) {
+            //    artist.artworks = artworks.filter(function (artwork) {
+            //        artwork.artistId == artist.id;   
+            //    });
+            //});
 
             callback(artists);
         });
     });
 }
 
+/**
+ * Convert properties to correct type
+ */
 function retypeArtists(artists) {
     artists.forEach(function (artist) {
         artist.id = +artist.id;
         artist.yearOfBirth = +artist.yearOfBirth;
         artist.yearOfDeath = +artist.yearOfDeath;
+        artist.artworks = [];
     });
 }
 
+/**
+ * Convert properties to correct type
+ */
 function retypeArtworks(artworks) {
     artworks.forEach(function (artwork) {
         artwork.id = +artwork.id;
