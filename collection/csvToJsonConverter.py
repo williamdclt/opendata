@@ -21,17 +21,10 @@ fartworkname = "artwork_data.csv"
 fileartist = open(fartistname, 'rb')
 fileartwork = open(fartworkname, 'rb')
 
-##le json final
-jsoneddata={"name":"collection","children":[]}
-
 artistreader = csv.reader(fileartist)
 artworkreader = csv.reader(fileartwork)
 next(artistreader) # skip header
 next(artworkreader) # skip header
-
-pays_dict = {}
-cities_dict = {}
-artists_dict = {}
 
 def dumper(obj):
     try:
@@ -47,7 +40,7 @@ class Artist:
         self.url = url
         self.placeOfBirth = placeOfBirth
         self.placeOfDeath = placeOfDeath
-        self.artworks = [] 
+        self.children = [] 
 
     def place():
         if self.placeOfBirth is None or self.placeOfBirth == "":
@@ -55,7 +48,7 @@ class Artist:
         return placeOfBirth
 
     def add_artwork(self, artwork):
-        self.artworks.append(artwork)
+        self.children.append(artwork)
 
 class Dimensions:
     def __init__(self, width, height, depth, unit):
@@ -68,20 +61,30 @@ class Dimensions:
 class Pays:
     def __init__(self, name):
         self.name = name.lower()
-        self.cities = []
+        self.children = []
 
     def add_city(self, city):
-        if city not in self.cities:
-            self.cities.append(city)
+        if city not in self.children:
+            self.children.append(city)
 
 
 class City:
     def __init__(self, name):
         self.name = name.lower()
-        self.artists = []
+        self.children = []
 
     def add_artist(self, artist):
-        self.artists.append(artist)
+        self.children.append(artist)
+
+
+class Collection:
+    def __init__(self):
+        self.name = "collection"
+        self.children = []
+
+    def add_pays(self, pays):
+        if pays not in self.children:
+            self.children.append(pays)
 
 
 class Artwork:
@@ -106,6 +109,11 @@ def get_city(city):
     if city not in cities_dict:
         cities_dict[city] = City(city)
     return cities_dict[city]
+
+pays_dict = {}
+cities_dict = {}
+artists_dict = {}
+collection = Collection()
 
 
 for artist in artistreader:
@@ -137,10 +145,13 @@ for artist in artistreader:
     #on extrait l'artiste
     id = artist[0]
     artist = Artist(id, artist[1], artist[4], artist[8], artist[6], artist[7])
-    artists_dict[id] = artist
     city = get_city(city)
+    pays = get_pays(pays)
+
+    artists_dict[id] = artist
     city.add_artist(artist)
-    get_pays(pays).add_city(city)
+    pays.add_city(city)
+    collection.add_pays(pays)
 
 for artwork in artworkreader:
     artist_id = artwork[4]
@@ -149,4 +160,4 @@ for artwork in artworkreader:
     artwork = Artwork(artwork[0], artwork[2], artist_id, artwork[5], artwork[9], artwork[12], artwork[13], artwork[14], artwork[15], artwork[18], artwork[19])
     artists_dict[artist_id].add_artwork(artwork)
 
-print(json.dumps(pays_dict, default=dumper, sort_keys=True,indent=4, separators=(',', ': ')))
+print(json.dumps(collection, default=dumper, sort_keys=True,indent=4, separators=(',', ': ')))
