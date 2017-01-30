@@ -131,8 +131,10 @@ for artist in artistreader:
         city = citypaysstrings[0].strip()
 
     #on insere pas ceux qui sont vide, apres tout ballec
-    if pays=='' or city=='' or pays is None or city is None:
-        continue
+    if pays=='' or pays is None:
+        pays = 'unknown'
+    if city=='' or city is None:
+        city = 'unknown'
 
     #on extrait l'artiste
     id = artist[0]
