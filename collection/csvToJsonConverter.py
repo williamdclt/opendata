@@ -161,4 +161,8 @@ for artwork in artworkreader:
     artwork = Artwork(artwork[0], artist_id, artwork[5], artwork[9], artwork[12], artwork[13], artwork[14], artwork[15], artwork[18], artwork[19])
     artists_dict[artist_id].add_artwork(artwork)
 
+for a in artists_dict:
+    artists_dict[a].size = len(artists_dict[a].children)
+    artists_dict[a].children = []
+
 print(json.dumps(collection, default=dumper, indent=2, separators=(',', ': ')))
