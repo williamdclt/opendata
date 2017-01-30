@@ -36,11 +36,12 @@ class Artist:
     def __init__(self, id, name, year, url, placeOfBirth, placeOfDeath):
         self.id = id
         self.name = name
+        self.size = 1
         self.year = year
         self.url = url
         self.placeOfBirth = placeOfBirth
         self.placeOfDeath = placeOfDeath
-        self.children = [] 
+        self.children = []
 
     def place():
         if self.placeOfBirth is None or self.placeOfBirth == "":

@@ -19,7 +19,7 @@
 //            });
 //            //artists.forEach(function (artist) {
 //            //    artist.artworks = artworks.filter(function (artwork) {
-//            //        artwork.artistId == artist.id;   
+//            //        artwork.artistId == artist.id;
 //            //    });
 //            //});
 //

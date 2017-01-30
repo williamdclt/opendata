@@ -49,8 +49,9 @@ var color = d3.scaleLinear()
     .interpolate(d3.interpolateHcl);
 
 function main(countries) {
+    console.log("ghhello");
     root = d3.hierarchy(countries)
-        .sum(function(d) { return d.value ? 1 : 0 })
+        .sum(function(d) { return d.size; })
         .sort(function(a, b) { return b.value - a.value; });
     var focus = root,
         nodes = pack(root).descendants(),
