@@ -41,7 +41,7 @@ class Artist:
         self.url = url
         self.placeOfBirth = placeOfBirth
         self.placeOfDeath = placeOfDeath
-        #self.children = []
+        self.children = []
 
     def place():
         if self.placeOfBirth is None or self.placeOfBirth == "":
@@ -154,12 +154,12 @@ for artist in artistreader:
     pays.add_city(city)
     collection.add_pays(pays)
 
-# for artwork in artworkreader:
-#     artist_id = artwork[4]
-#     if artist_id not in artists_dict:
-#         continue
-#     artwork = Artwork(artwork[0], artist_id, artwork[5], artwork[9], artwork[12], artwork[13], artwork[14], artwork[15], artwork[18], artwork[19])
-#     artists_dict[artist_id].add_artwork(artwork)
+for artwork in artworkreader:
+    artist_id = artwork[4]
+    if artist_id not in artists_dict:
+        continue
+    artwork = Artwork(artwork[0], artist_id, artwork[5], artwork[9], artwork[12], artwork[13], artwork[14], artwork[15], artwork[18], artwork[19])
+    artists_dict[artist_id].add_artwork(artwork)
 
 for a in artists_dict:
     artists_dict[a].size = len(artists_dict[a].children)
