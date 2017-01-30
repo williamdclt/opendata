@@ -47,7 +47,7 @@ class Artist:
         self.url = url
         self.placeOfBirth = placeOfBirth
         self.placeOfDeath = placeOfDeath
-        self.artworks = {}
+        self.artworks = [] 
 
     def place():
         if self.placeOfBirth is None or self.placeOfBirth == "":
@@ -55,8 +55,7 @@ class Artist:
         return placeOfBirth
 
     def add_artwork(self, artwork):
-        if artwork.id not in self.artworks:
-            self.artworks[id] = artwork
+        self.artworks.append(artwork)
 
 class Dimensions:
     def __init__(self, width, height, depth, unit):
@@ -69,21 +68,20 @@ class Dimensions:
 class Pays:
     def __init__(self, name):
         self.name = name.lower()
-        self.cities = {}
+        self.cities = []
 
     def add_city(self, city):
-        if city.name not in self.cities:
-            self.cities[city.name] = city
+        if city not in self.cities:
+            self.cities.append(city)
 
 
 class City:
     def __init__(self, name):
         self.name = name.lower()
-        self.artists = {}
+        self.artists = []
 
     def add_artist(self, artist):
-        if artist.id not in self.artists:
-            self.artists[artist.id] = artist
+        self.artists.append(artist)
 
 
 class Artwork:
@@ -117,7 +115,7 @@ for artist in artistreader:
     #on trie, on extrait la city et le pays
     #on fait en sorte que l'artiste ne soit la que si son pays est present, sinn NSM
     if citypaysstring is None :
-        continue
+        citypaysstring = "unknown, unknown"
 
     citypaysstrings = citypaysstring.split(',')
     pays, city = None, None
