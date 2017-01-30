@@ -18,16 +18,17 @@ fileartist = open(fartistname, 'rb')
 fileartwork = open(fartworkname, 'rb')
 
 ##le json final
-jsoneddata = Set([])
+jsoneddata={"name":"collection","children":[]}
 
 try:
 	artistreader = csv.reader(fileartist)
 	artworkreader = csv.reader(fileartwork)
 
 	for artist in artistreader:
-		#on ajoute le ville,pays
+		#on extrait le ville,pays
 		villepaysstring = artist[6]
 		#on trie, on extrait la ville et le pays
+		#on fait en sorte que l'artiste ne soit la que si son pays est present, sinn NSM
 		if villepaysstring is not None :
 			villepaysstrings = villepaysstring.split(',');
 			pays = None
@@ -43,8 +44,20 @@ try:
 			#si jamais y'a un espace devant, on l'enleve
 			if pays is not None and pays!='' and pays[0]==' ':
 				pays = pays[1:]
-			#on l'ajoute au set
-			jsoneddata.add(pays)
+
+			#on enleve ceux qui sont vide, apres tout ballec
+			if pays='' :
+				pays=None
+
+			#on extrait l'artiste
+			artistname=artist[1]
+			year=artist[4]
+			url=artist[8]
+
+			##on insere dans le json TODO TODO
+
+
+
 
 finally:
 	for elem in jsoneddata:
