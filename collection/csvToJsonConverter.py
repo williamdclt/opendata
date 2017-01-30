@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+
+from json import JSONEncoder
 import csv
 import json
 from sets import Set
@@ -21,46 +24,96 @@ fileartwork = open(fartworkname, 'rb')
 ##le json final
 jsoneddata={"name":"collection","children":[]}
 
-try:
-	artistreader = csv.reader(fileartist)
-	artworkreader = csv.reader(fileartwork)
-	pays_array = {}
+artistreader = csv.reader(fileartist)
+artworkreader = csv.reader(fileartwork)
+next(artistreader)
+next(artworkreader)
+pays_dict = {}
+artists_dict = {}
 
-	for artist in artistreader:
-		#on extrait le ville,pays
-		villepaysstring = artist[6]
-		#on trie, on extrait la ville et le pays
-		#on fait en sorte que l'artiste ne soit la que si son pays est present, sinn NSM
-		if villepaysstring is not None :
-			villepaysstrings = villepaysstring.split(',');
-			pays = None
-			ville = None
-			if len(villepaysstrings)==2 :
-				pays = villepaysstrings[1]
-				ville = villepaysstrings[0]
-			elif len(villepaysstrings)==1 :
-				pays = villepaysstrings[0]
-			else:  #c'est 3
-				pays = villepaysstrings[2]
-				ville = villepaysstrings[0]
-			#si jamais y'a un espace devant, on l'enleve
-			if pays is not None and pays!='' and pays[0]==' ':
-				pays = pays[1:]
+def dumper(obj):
+    try:
+        return obj.toJSON()
+    except:
+        return obj.__dict__
 
-			#on enleve ceux qui sont vide, apres tout ballec
-			if pays=='' :
-				pays=None
+class Artist:
+    def __init__(self, id, name, year, url, placeOfBirth, placeOfDeath):
+        self.id = id
+        self.name = name
+        self.year = year
+        self.url = url
+        self.placeOfBirth = placeOfBirth
+        self.placeOfDeath = placeOfDeath
+        self.artworks = []
 
-			#on extrait l'artiste
-			artistname=artist[1]
-			year=artist[4]
-			url=artist[8]
+    def place():
+        if self.placeOfBirth is None or self.placeOfBirth == "":
+            return placeOfDeath
+        return placeOfBirth
 
-			##on insere dans le json TODO TODO
-			if pays!=None :
-				if pays not in pays_array:
-					pays_array[pays] = []
-				pays_array[pays].append(artistname)
 
-finally:
-	print(json.dumps(pays_array, sort_keys=True,indent=4, separators=(',', ': ')))
+class Dimensions:
+    def __init__(self, width, height, depth, unit):
+        self.width = width
+        self.height = height
+        self.depth = depth
+        self.unit = unit
+
+
+class Artwork:
+    def __init__(self, id, artist_name, artist_id, title, year, width, height, depth, unit, thumbnail_url, url):
+        self.id = id
+        self.title = title
+        self.artist_name = artist_name
+        self.artist_id = artist_id
+        self.year = year
+        self.dimensions = Dimensions(width, height, depth, unit)
+        self.thumbnail_url = thumbnail_url
+        self.url = url
+
+
+def get_pays(pays):
+    if pays not in pays_dict:
+        pays_dict[pays] = []
+    return pays_dict[pays]
+
+
+for artist in artistreader:
+    #on extrait le ville,pays
+    villepaysstring = artist[6]
+
+    #on trie, on extrait la ville et le pays
+    #on fait en sorte que l'artiste ne soit la que si son pays est present, sinn NSM
+    if villepaysstring is None :
+        continue
+
+    villepaysstrings = villepaysstring.split(',')
+    pays, ville = None, None
+    if len(villepaysstrings)==2 :
+        pays = villepaysstrings[1].strip()
+        ville = villepaysstrings[0].strip()
+    elif len(villepaysstrings)==1 :
+        pays = villepaysstrings[0].strip()
+    else:  #c'est 3
+        pays = villepaysstrings[2].strip()
+        ville = villepaysstrings[0].strip()
+
+    #on insere pas ceux qui sont vide, apres tout ballec
+    if pays=='':
+        continue;
+
+    #on extrait l'artiste
+    id = artist[0]
+    artist = Artist(id, artist[1], artist[4], artist[8], artist[6], artist[7])
+    artists_dict[id] = artist
+    get_pays(pays).append(artist)
+
+for artwork in artworkreader:
+    artist_id = artwork[4]
+    if artist_id not in artists_dict:
+        continue
+    artwork = Artwork(artwork[0], artwork[2], artist_id, artwork[5], artwork[9], artwork[12], artwork[13], artwork[14], artwork[15], artwork[18], artwork[19])
+    artists_dict[artist_id].artworks.append(artwork)
+
+print(json.dumps(pays_dict, default=dumper, sort_keys=True,indent=4, separators=(',', ': ')))
