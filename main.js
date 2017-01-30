@@ -37,6 +37,7 @@ parse(main);
 function main(artists) {
     artists.forEach(function (artist) {
         console.log(artist.name + " " + artist.artworks.length);
+      //  $("body").append(artist.name + " " + artist.artworks.length+"</br>");
         artist.artworks.forEach(function (artwork) {
         });
     });
