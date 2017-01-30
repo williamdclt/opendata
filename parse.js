@@ -1,28 +1,39 @@
+//function parse(callback) {
+//    d3.csv("collection/artist_data.csv", function (error, artists) {
+//        if (error) throw error;
+//        retypeArtists(artists);
+//
+//        d3.csv("collection/artwork_data.csv", function (error, artworks) {
+//            if (error) throw error;
+//            retypeArtworks(artworks);
+//
+//            /*
+//             * Dunno why the filter doesn't work. Let's do it by hand
+//             */
+//            artworks.forEach(function (artwork) {
+//                artists.forEach(function (artist) {
+//                    if (artist.id == artwork.artistId) {
+//                        artist.artworks.push(artwork);
+//                    }
+//                });
+//            });
+//            //artists.forEach(function (artist) {
+//            //    artist.artworks = artworks.filter(function (artwork) {
+//            //        artwork.artistId == artist.id;   
+//            //    });
+//            //});
+//
+//            callback(artists);
+//        });
+//    });
+//}
+//
+
 function parse(callback) {
-    d3.csv("collection/artist_data.csv", function (artists) {
-        retypeArtists(artists);
+    d3.json("collection/collection.json",function (error, data) {
+        if (error) throw error;
 
-        d3.csv("collection/artwork_data.csv", function (artworks) {
-            retypeArtworks(artworks);
-
-            /*
-             * Dunno why the filter doesn't work. Let's do it by hand
-             */
-            artworks.forEach(function (artwork) {
-                artists.forEach(function (artist) {
-                    if (artist.id == artwork.artistId) {
-                        artist.artworks.push(artwork);
-                    }
-                });
-            });
-            //artists.forEach(function (artist) {
-            //    artist.artworks = artworks.filter(function (artwork) {
-            //        artwork.artistId == artist.id;   
-            //    });
-            //});
-
-            callback(artists);
-        });
+        return data;
     });
 }
 

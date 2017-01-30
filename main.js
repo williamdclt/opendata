@@ -39,12 +39,18 @@ var svg = d3.select("svg"),
     g = svg.append("g").attr("transform", "translate(" + diameter / 2 + "," + diameter / 2 + ")");
 
 var pack = d3.pack()
-             .size([diameter - margin, diameter - margin])
-             .padding(2);
+     .size([diameter - margin, diameter - margin])
+     .padding(2);
+
+
+var color = d3.scaleLinear()
+    .domain([-1, 5])
+    .range(["hsl(152,80%,80%)", "hsl(228,30%,40%)"])
+    .interpolate(d3.interpolateHcl);
 
 function main(countries) {
-    root = d3.hierarchy(root)
-        .sum(function(d) { return d.???; })
+    root = d3.hierarchy(countries)
+        .sum(function(d) { return d.value ? 1 : 0 })
         .sort(function(a, b) { return b.value - a.value; });
     var focus = root,
         nodes = pack(root).descendants(),
