@@ -88,10 +88,9 @@ class Collection:
 
 
 class Artwork:
-    def __init__(self, id, artist_name, artist_id, title, year, width, height, depth, unit, thumbnail_url, url):
+    def __init__(self, id, artist_id, title, year, width, height, depth, unit, thumbnail_url, url):
         self.id = id
         self.title = title
-        self.artist_name = artist_name
         self.artist_id = artist_id
         self.year = year
         self.dimensions = Dimensions(width, height, depth, unit)
@@ -105,10 +104,11 @@ def get_pays(pays):
     return pays_dict[pays]
 
 
-def get_city(city):
-    if city not in cities_dict:
-        cities_dict[city] = City(city)
-    return cities_dict[city]
+def get_city(city, pays):
+    index = city + pays
+    if index not in cities_dict:
+        cities_dict[index] = City(city)
+    return cities_dict[index]
 
 pays_dict = {}
 cities_dict = {}
@@ -145,7 +145,7 @@ for artist in artistreader:
     #on extrait l'artiste
     id = artist[0]
     artist = Artist(id, artist[1], artist[4], artist[8], artist[6], artist[7])
-    city = get_city(city)
+    city = get_city(city, pays)
     pays = get_pays(pays)
 
     artists_dict[id] = artist
@@ -157,7 +157,7 @@ for artwork in artworkreader:
     artist_id = artwork[4]
     if artist_id not in artists_dict:
         continue
-    artwork = Artwork(artwork[0], artwork[2], artist_id, artwork[5], artwork[9], artwork[12], artwork[13], artwork[14], artwork[15], artwork[18], artwork[19])
+    artwork = Artwork(artwork[0], artist_id, artwork[5], artwork[9], artwork[12], artwork[13], artwork[14], artwork[15], artwork[18], artwork[19])
     artists_dict[artist_id].add_artwork(artwork)
 
-print(json.dumps(collection, default=dumper, sort_keys=True,indent=4, separators=(',', ': ')))
+print(json.dumps(collection, default=dumper, indent=2, separators=(',', ': ')))
