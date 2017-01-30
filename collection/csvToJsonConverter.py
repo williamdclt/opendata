@@ -26,9 +26,11 @@ jsoneddata={"name":"collection","children":[]}
 
 artistreader = csv.reader(fileartist)
 artworkreader = csv.reader(fileartwork)
-next(artistreader)
-next(artworkreader)
+next(artistreader) # skip header
+next(artworkreader) # skip header
+
 pays_dict = {}
+cities_dict = {}
 artists_dict = {}
 
 def dumper(obj):
@@ -45,13 +47,16 @@ class Artist:
         self.url = url
         self.placeOfBirth = placeOfBirth
         self.placeOfDeath = placeOfDeath
-        self.artworks = []
+        self.artworks = {}
 
     def place():
         if self.placeOfBirth is None or self.placeOfBirth == "":
             return placeOfDeath
         return placeOfBirth
 
+    def add_artwork(self, artwork):
+        if artwork.id not in self.artworks:
+            self.artworks[id] = artwork
 
 class Dimensions:
     def __init__(self, width, height, depth, unit):
@@ -59,6 +64,26 @@ class Dimensions:
         self.height = height
         self.depth = depth
         self.unit = unit
+
+
+class Pays:
+    def __init__(self, name):
+        self.name = name.lower()
+        self.cities = {}
+
+    def add_city(self, city):
+        if city.name not in self.cities:
+            self.cities[city.name] = city
+
+
+class City:
+    def __init__(self, name):
+        self.name = name.lower()
+        self.artists = {}
+
+    def add_artist(self, artist):
+        if artist.id not in self.artists:
+            self.artists[artist.id] = artist
 
 
 class Artwork:
@@ -75,45 +100,53 @@ class Artwork:
 
 def get_pays(pays):
     if pays not in pays_dict:
-        pays_dict[pays] = []
+        pays_dict[pays] = Pays(pays)
     return pays_dict[pays]
 
 
-for artist in artistreader:
-    #on extrait le ville,pays
-    villepaysstring = artist[6]
+def get_city(city):
+    if city not in cities_dict:
+        cities_dict[city] = City(city)
+    return cities_dict[city]
 
-    #on trie, on extrait la ville et le pays
+
+for artist in artistreader:
+    #on extrait le city,pays
+    citypaysstring = artist[6]
+
+    #on trie, on extrait la city et le pays
     #on fait en sorte que l'artiste ne soit la que si son pays est present, sinn NSM
-    if villepaysstring is None :
+    if citypaysstring is None :
         continue
 
-    villepaysstrings = villepaysstring.split(',')
-    pays, ville = None, None
-    if len(villepaysstrings)==2 :
-        pays = villepaysstrings[1].strip()
-        ville = villepaysstrings[0].strip()
-    elif len(villepaysstrings)==1 :
-        pays = villepaysstrings[0].strip()
+    citypaysstrings = citypaysstring.split(',')
+    pays, city = None, None
+    if len(citypaysstrings)==2 :
+        pays = citypaysstrings[1].strip()
+        city = citypaysstrings[0].strip()
+    elif len(citypaysstrings)==1 :
+        pays = citypaysstrings[0].strip()
     else:  #c'est 3
-        pays = villepaysstrings[2].strip()
-        ville = villepaysstrings[0].strip()
+        pays = citypaysstrings[2].strip()
+        city = citypaysstrings[0].strip()
 
     #on insere pas ceux qui sont vide, apres tout ballec
-    if pays=='':
-        continue;
+    if pays=='' or city=='' or pays is None or city is None:
+        continue
 
     #on extrait l'artiste
     id = artist[0]
     artist = Artist(id, artist[1], artist[4], artist[8], artist[6], artist[7])
     artists_dict[id] = artist
-    get_pays(pays).append(artist)
+    city = get_city(city)
+    city.add_artist(artist)
+    get_pays(pays).add_city(city)
 
 for artwork in artworkreader:
     artist_id = artwork[4]
     if artist_id not in artists_dict:
         continue
     artwork = Artwork(artwork[0], artwork[2], artist_id, artwork[5], artwork[9], artwork[12], artwork[13], artwork[14], artwork[15], artwork[18], artwork[19])
-    artists_dict[artist_id].artworks.append(artwork)
+    artists_dict[artist_id].add_artwork(artwork)
 
 print(json.dumps(pays_dict, default=dumper, sort_keys=True,indent=4, separators=(',', ': ')))
