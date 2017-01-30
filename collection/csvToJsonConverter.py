@@ -1,6 +1,7 @@
 import csv
 import json
 from sets import Set
+from collections import defaultdict
 
 ####### Structure des fichiers csv #######
 ## artists
@@ -23,6 +24,7 @@ jsoneddata={"name":"collection","children":[]}
 try:
 	artistreader = csv.reader(fileartist)
 	artworkreader = csv.reader(fileartwork)
+	pays_array = {}
 
 	for artist in artistreader:
 		#on extrait le ville,pays
@@ -46,7 +48,7 @@ try:
 				pays = pays[1:]
 
 			#on enleve ceux qui sont vide, apres tout ballec
-			if pays='' :
+			if pays=='' :
 				pays=None
 
 			#on extrait l'artiste
@@ -55,10 +57,10 @@ try:
 			url=artist[8]
 
 			##on insere dans le json TODO TODO
-
-
-
+			if pays!=None :
+				if pays not in pays_array:
+					pays_array[pays] = []
+				pays_array[pays].append(artistname)
 
 finally:
-	for elem in jsoneddata:
-		print(elem)
+	print(json.dumps(pays_array, sort_keys=True,indent=4, separators=(',', ': ')))
