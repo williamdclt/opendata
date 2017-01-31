@@ -28,8 +28,8 @@ class Country:
 		self.continent = None
 
 class ContiCountry:
-	def __init__(self, cntry, continent):
-        	self.cntry = cntry
+	def __init__(self, country, continent):
+        	self.country = country
         	self.continent = continent
 
 def getMiniCountry(text, name, native):
@@ -46,6 +46,7 @@ def getWordsRatio(length1, length2, levenValue):
 	return (s - levenValue) / s
 
 def getContiCountry(text):
+	text = text.lower()
 	with open('countries.json') as json_data:
 		d = json.load(json_data)
 		res = Country(None, sys.maxsize)
@@ -57,9 +58,11 @@ def getContiCountry(text):
 				res.name = tmp.name
 				res.levenValue = tmp.levenValue
 				res.continent = d["countries"][ctry]["continent"]
-		
+
 		if getWordsRatio(len(text), len(res.name), res.levenValue) < 0.54:
 			return None
+
+		print(getWordsRatio(len(text), len(res.name), res.levenValue))
 
 		continent = d["continents"][res.continent]
 		return ContiCountry(res, continent)
