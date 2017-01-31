@@ -58,5 +58,3 @@ def getCountry(text):
 			return NONE
 
 		return res.name
-
-getCountry("Al-Jaza'ir")
