@@ -38,15 +38,25 @@ def getMiniCountry(text, name, native):
 	else:
 		return CountryCheck(native, tmp2)
 
+def getWordsRatio(length1, length2, levenValue):
+	s = float(length1 + length2)
+	return (s - levenValue) / s
+
 def getCountry(text):
 	with open('countries.json') as json_data:
 		d = json.load(json_data)
 		res = CountryCheck(None, sys.maxsize)
 		for country in d["countries"]:
-			tmp = getMiniCountry(text, d["countries"][country]["name"], d["countries"][country]["native"])
+			name = d["countries"][country]["name"].lower()
+			native = d["countries"][country]["native"].lower()
+			tmp = getMiniCountry(text, name, native)
 			if tmp.levenValue <= res.levenValue or res.name is None:
 				res.name = tmp.name
 				res.levenValue = tmp.levenValue
-		print(res.name)
+		
+		if getWordsRatio(len(text), len(res.name), res.levenValue) < 0.54:
+			return NONE
 
-getCountry("Blackheath, United Kingdom")
+		return res.name
+
+getCountry("Al-Jaza'ir")
