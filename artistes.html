@@ -48,7 +48,7 @@ d3.json("miserables.json", function(error, graph) {
       .call(d3.drag()
           .on("start", dragstarted)
           .on("drag", dragged)
-          .on("end", dragended));
+          .on("end", dragended));*/
 
   node.append("title")
       .text(function(d) { return d.id; });
