@@ -21,40 +21,48 @@ def minimumEditDistance(s1,s2):
         distances = newDistances
     return distances[-1]
 
-class CountryCheck:
-    def __init__(self, name, levenValue):
-        self.name = name
-        self.levenValue = levenValue
- 
-    def getBiCountryDistance(self, country):
-        return min (minimumEditDistance(country, self.name), minimumEditDistance(country, self.native))
+class Country:
+	def __init__(self, name, levenValue):
+        	self.name = name
+        	self.levenValue = levenValue
+		self.continent = None
+
+class ContiCountry:
+	def __init__(self, country, continent):
+        	self.country = country
+        	self.continent = continent
 
 def getMiniCountry(text, name, native):
 	tmp1 = minimumEditDistance(text, name)
 	tmp2 = minimumEditDistance(text, native)
 
 	if tmp1 <= tmp2:
-		return CountryCheck(name, tmp1)
+		return Country(name, tmp1)
 	else:
-		return CountryCheck(native, tmp2)
+		return Country(native, tmp2)
 
 def getWordsRatio(length1, length2, levenValue):
 	s = float(length1 + length2)
 	return (s - levenValue) / s
 
-def getCountry(text):
+def getContiCountry(text):
+	text = text.lower()
 	with open('countries.json') as json_data:
 		d = json.load(json_data)
-		res = CountryCheck(None, sys.maxsize)
-		for country in d["countries"]:
-			name = d["countries"][country]["name"].lower()
-			native = d["countries"][country]["native"].lower()
+		res = Country(None, sys.maxsize)
+		for ctry in d["countries"]:
+			name = d["countries"][ctry]["name"].lower()
+			native = d["countries"][ctry]["native"].lower()
 			tmp = getMiniCountry(text, name, native)
 			if tmp.levenValue <= res.levenValue or res.name is None:
 				res.name = tmp.name
 				res.levenValue = tmp.levenValue
-		
+				res.continent = d["countries"][ctry]["continent"]
+
 		if getWordsRatio(len(text), len(res.name), res.levenValue) < 0.54:
 			return None
 
-		return res.name
+		print(getWordsRatio(len(text), len(res.name), res.levenValue))
+
+		continent = d["continents"][res.continent]
+		return ContiCountry(res, continent)

@@ -3,33 +3,59 @@
 <head>
     <meta charset="utf-8">
 
-<style>
+    <style>
+
+
+    .links line {
+      stroke: #999;
+      stroke-opacity: 0.6;
+    }
+
+    .nodes circle {
+      stroke: #fff;
+      stroke-width: 1.5px;
+    }
+
 
     .node {
-                cursor: pointer;
+        cursor: pointer;
     }
 
     .node:hover {
-                stroke: #000;
-                stroke-width: 1.5px;
+        stroke: #000;
+        stroke-width: 1.5px;
     }
 
     .node--leaf {
-                fill: white;
+        fill: white;
     }
 
     .label {
-                font: 11px "Helvetica Neue", Helvetica, Arial, sans-serif;
-                text-anchor: middle;
-                text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+        font: 11px "Helvetica Neue", Helvetica, Arial, sans-serif;
+        text-anchor: middle;
+        text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
     }
 
     .label,
-              .node--root,
-              .node--leaf {
-                pointer-events: none;
-              }
+    .node--root,
+    .node--leaf {
+        pointer-events: none;
+    }
+    #graph, #infos,#artist{
+        display: inline-block;
+        width: 800px;
+        text-transform: capitalize;
+    }
 
+    #infos{
+        display: block;
+        background-color: rgb(239, 240, 242);
+        padding: 10px;
+        text-align: center;
+    }
+    body {
+        margin: 0; /* pour éviter les marges */
+    }
     </style>
 
     <script
@@ -39,7 +65,15 @@
 </head>
 
 <body>
-    <svg width="960" height="960"></svg>
+    <div id="infos" >
+        Hello
+    </div>
+    <div id="graph" >
+        <svg id="map" width="800" height="800"></svg>
+    </div>
+    <div id="artist" >
+        <svg id="artists" width="800" height="800"></svg>
+    </div>
     <script src="https://d3js.org/d3.v4.min.js"></script>
     <script src="parse.js"></script>
     <script src="main.js"></script>
