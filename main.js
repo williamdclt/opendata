@@ -146,7 +146,7 @@ function artist(){
     .force("charge", d3.forceManyBody().strength(-1000))
     .force("center", d3.forceCenter(width / 2, height / 2));
 
-    d3.json("miserables.json", function(error, graph) {
+    d3.json("collection/0.json", function(error, graph) {
         if (error) throw error;
 
         var link = svg.append("g")

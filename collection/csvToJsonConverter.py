@@ -167,13 +167,28 @@ class Collection(Decoupable):
 class Artwork:
     def __init__(self, id, artist_id, title, year, width, height, depth, unit, thumbnail_url, url):
         self.id = id
-        self.name = title.lower() 
+        self.name = title.lower()
         self.artist_id = artist_id
         self.year = year
         self.dimensions = Dimensions(width, height, depth, unit)
         self.thumbnail_url = thumbnail_url
         self.url = url
 
+#pour l'affichage des tableaux par artiste
+class Node:
+    def __init__(self,id, size, name, url, tatelink):
+        self.id = id
+        self.group = 1
+        self.size = size
+        self.name = name
+        self.url = url
+        self.tatelink = tatelink
+
+class Link:
+    def __init__(self,source, target):
+        self.source = source
+        self.target = target
+        self.value = 1
 
 def get_pays(pays):
     if pays not in pays_dict:
@@ -240,7 +255,28 @@ for artwork in artworkreader:
 
 for a in artists_dict:
     artists_dict[a].size = sqrt(len(artists_dict[a].children))
+    #on va desormais creer un fichier json pour chaque artiste contenant ses oeuvres
+    #on cree chaque tableau
+    #le nodes contient au moins l'artiste, avec un lien vesr sa page
+    nodeArtist = Node("Artist", 5, artists_dict[a].name, None, artists_dict[a].url)
+    tableauNodes = [nodeArtist]
+    tableauLinks = []
+    for artwork in artists_dict[a].children:
+        #print(artwork)
+        artnode = Node(str(artwork.id),50,artwork.name, artwork.thumbnail_url,artwork.url)
+        tableauNodes.append(artnode)
+        artlink = Link("Artist",str(artwork.id))
+        tableauLinks.append(artlink)
+    artistPersonaljson = {"nodes" : tableauNodes, "links" : tableauLinks};
+
+    #on ouvre 1 fichier par artiste et on dump le json
+    f = open(str(artists_dict[a].id)+".json",'w')
+    f.write(json.dumps(artistPersonaljson, default=dumper, indent=2, separators=(',', ': ')))
+    f.close()
+
+    #on reset pour l'affichage
     artists_dict[a].children = []
+
 
 for c in cities_dict:
     cities_dict[c].compute_decoupable()
@@ -249,4 +285,6 @@ for p in pays_dict:
 collection.compute_decoupable()
 collection.male_ratio()
 
-print(json.dumps(collection, default=dumper, indent=2, separators=(',', ': ')))
+f = open("collection.json", 'w')
+f.write(json.dumps(collection, default=dumper, indent=2, separators=(',', ': ')))
+f.close()
