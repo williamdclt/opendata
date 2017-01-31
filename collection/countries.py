@@ -55,6 +55,6 @@ def getCountry(text):
 				res.levenValue = tmp.levenValue
 		
 		if getWordsRatio(len(text), len(res.name), res.levenValue) < 0.54:
-			return NONE
+			return None
 
 		return res.name
