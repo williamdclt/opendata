@@ -1,10 +1,12 @@
 #!/usr/bin/env python
 
+from math import sqrt
 from json import JSONEncoder
 import csv
 import json
 from sets import Set
 from collections import defaultdict
+from string import ascii_lowercase
 
 ####### Structure des fichiers csv #######
 ## artists
@@ -32,10 +34,53 @@ def dumper(obj):
     except:
         return obj.__dict__
 
-class Artist:
+
+class Part:
+    def __init__(self, begin):
+        self.name = begin
+        self.children = []
+
+    def end(self, letter):
+        self.name = self.name + "-" + letter
+
+
+class Decoupable:
+    def __init__(self):
+        self.children = []
+
+    def add_children(self, child):
+        if child not in self.children:
+            self.children.append(child)
+
+    def compute_decoupable(self):
+        min_dec = 7
+        if len(self.children) <= min_dec: # no need to decouping
+            return
+
+        partition = []
+        current_char = 0 # 'a'
+        while current_char < len(ascii_lowercase):
+            current_part = Part(ascii_lowercase[current_char])
+            while len(current_part.children) < min_dec and current_char < len(ascii_lowercase):
+                children = self.get_children_beginning_with(ascii_lowercase[current_char])
+                current_part.children.extend(children)
+                current_char += 1
+            current_part.end(ascii_lowercase[current_char - 1])
+            partition.append(current_part)
+        self.children = partition
+
+    def get_children_beginning_with(self, char):
+        part = []
+        for child in self.children:
+            if child.name[0] == char:
+                part.append(child)
+        return part
+
+
+class Artist(Decoupable):
     def __init__(self, id, name, year, url, placeOfBirth, placeOfDeath):
         self.id = id
-        self.name = name
+        self.name = name.lower()
         self.size = 1
         self.year = year
         self.url = url
@@ -43,13 +88,14 @@ class Artist:
         self.placeOfDeath = placeOfDeath
         self.children = []
 
-    def place():
+    def place(self):
         if self.placeOfBirth is None or self.placeOfBirth == "":
             return placeOfDeath
         return placeOfBirth
 
     def add_artwork(self, artwork):
         self.children.append(artwork)
+
 
 class Dimensions:
     def __init__(self, width, height, depth, unit):
@@ -59,39 +105,28 @@ class Dimensions:
         self.unit = unit
 
 
-class Pays:
+class Pays(Decoupable):
     def __init__(self, name):
         self.name = name.lower()
         self.children = []
 
-    def add_city(self, city):
-        if city not in self.children:
-            self.children.append(city)
 
-
-class City:
+class City(Decoupable):
     def __init__(self, name):
         self.name = name.lower()
         self.children = []
 
-    def add_artist(self, artist):
-        self.children.append(artist)
 
-
-class Collection:
+class Collection(Decoupable):
     def __init__(self):
         self.name = "collection"
         self.children = []
-
-    def add_pays(self, pays):
-        if pays not in self.children:
-            self.children.append(pays)
 
 
 class Artwork:
     def __init__(self, id, artist_id, title, year, width, height, depth, unit, thumbnail_url, url):
         self.id = id
-        self.title = title
+        self.name = title.lower() 
         self.artist_id = artist_id
         self.year = year
         self.dimensions = Dimensions(width, height, depth, unit)
@@ -150,9 +185,9 @@ for artist in artistreader:
     pays = get_pays(pays)
 
     artists_dict[id] = artist
-    city.add_artist(artist)
-    pays.add_city(city)
-    collection.add_pays(pays)
+    city.add_children(artist)
+    pays.add_children(city)
+    collection.add_children(pays)
 
 for artwork in artworkreader:
     artist_id = artwork[4]
@@ -162,7 +197,13 @@ for artwork in artworkreader:
     artists_dict[artist_id].add_artwork(artwork)
 
 for a in artists_dict:
-    artists_dict[a].size = len(artists_dict[a].children)
+    artists_dict[a].size = sqrt(len(artists_dict[a].children))
     artists_dict[a].children = []
+
+for c in cities_dict:
+    cities_dict[c].compute_decoupable()
+for p in pays_dict:
+    pays_dict[p].compute_decoupable()
+collection.compute_decoupable()
 
 print(json.dumps(collection, default=dumper, indent=2, separators=(',', ': ')))
