@@ -253,6 +253,7 @@ for artwork in artworkreader:
     artwork = Artwork(artwork[0], artist_id, artwork[5], artwork[9], artwork[12], artwork[13], artwork[14], artwork[15], artwork[18], artwork[19])
     artists_dict[artist_id].add_artwork(artwork)
 
+#on limite a une trentaine de tableaux a cause de l'ami turner
 for a in artists_dict:
     artists_dict[a].size = sqrt(len(artists_dict[a].children))
     #on va desormais creer un fichier json pour chaque artiste contenant ses oeuvres
@@ -261,16 +262,20 @@ for a in artists_dict:
     nodeArtist = Node("Artist", 5, artists_dict[a].name, None, artists_dict[a].url)
     tableauNodes = [nodeArtist]
     tableauLinks = []
+    max_nodes=30
     for artwork in artists_dict[a].children:
         #print(artwork)
         artnode = Node(str(artwork.id),50,artwork.name, artwork.thumbnail_url,artwork.url)
         tableauNodes.append(artnode)
         artlink = Link("Artist",str(artwork.id))
         tableauLinks.append(artlink)
+        max_nodes-=1
+        if max_nodes==0:
+            break
     artistPersonaljson = {"nodes" : tableauNodes, "links" : tableauLinks};
 
     #on ouvre 1 fichier par artiste et on dump le json
-    f = open(str(artists_dict[a].id)+".json",'w')
+    f = open("artists/"+str(artists_dict[a].id)+".json",'w')
     f.write(json.dumps(artistPersonaljson, default=dumper, indent=2, separators=(',', ': ')))
     f.close()
 
