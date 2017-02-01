@@ -2,7 +2,7 @@
 // send the collection of artists. The index in the array is NOT the
 // ID of the artist
 parse(main);
-
+artist(558);
 /**
 * Properties of an Artist object:
 * id
@@ -36,7 +36,7 @@ parse(main);
 var currentDepth = 0;
 
 var svg = d3.select("#map"),
-margin = 20,
+margin = 5,
 diameter = +svg.attr("width"),
 g = svg.append("g").attr("transform", "translate(" + diameter / 2 + "," + diameter / 2 + ")");
 
@@ -78,9 +78,6 @@ function main(countries) {
             else
                 zoom(d.parent), d3.event.stopPropagation();
         }
-
-
-
     });
 
     var text = g.selectAll("text")
@@ -103,7 +100,7 @@ function main(countries) {
         var focus0 = focus;
         focus = d;
 
-        d3.select("#infos").text(d.data.name);
+        d3.select("#infos").text("Level : "+d.data.level+", "+d.data.name);
         var transition = d3.transition()
         .duration(d3.event.altKey ? 7500 : 750)
         .tween("zoom", function(d) {
@@ -140,105 +137,5 @@ function main(countries) {
         view = v;
         node.attr("transform", function(d) { return "translate(" + (d.x - v[0]) * k + "," + (d.y - v[1]) * k + ")"; });
         circle.attr("r", function(d) { return d.r * k; });
-    }
-}
-
-function artist(_id_artist){
-    d3.select("#artists").selectAll("*").remove();
-    var svg = d3.select("#artists"),
-    width = +svg.attr("width"),
-    height = +svg.attr("height");
-
-    var color = d3.scaleOrdinal(d3.schemeCategory20);
-
-    var simulation = d3.forceSimulation()
-    .force("link", d3.forceLink().id(function(d) { return d.id; }).distance(200))
-    .force("charge", d3.forceManyBody().strength(-1000))
-    .force("center", d3.forceCenter(width / 2, height / 2));
-
-    d3.json("collection/artists/"+_id_artist+".json", function(error, graph) {
-        if (error) throw error;
-
-        var link = svg.append("g")
-        .attr("class", "links")
-        .selectAll("line")
-        .data(graph.links)
-        .enter().append("line")
-        .attr("stroke-width", function(d) { return Math.sqrt(d.value); });
-
-        var node = svg.append("g")
-        .attr("class", "nodes")
-        .selectAll("circle")
-        .data(graph.nodes)
-        .enter().append("circle")
-        .attr("r", function(d){return d.size;})
-        .attr("fill", function(d){return "url(#image"+d.id+")"})
-        //.attr("fill", function(d) { return color(d.group); })
-        .call(d3.drag()
-          .on("start", dragstarted)
-          .on("drag", dragged)
-          .on("end", dragended));
-
-          console.log(graph.nodes);
-          var pictures = svg.append("defs")
-          .selectAll("pattern")
-          .data(graph.nodes)
-          .enter()
-          .append("pattern")
-          .attr("id", function(d){return "image"+d.id;})
-          .attr("x", "0%")
-          .attr("y", "0%")
-          .attr("height", "100%")
-          .attr("width", "100%")
-          .attr("viewBox", "0 0 512 512");
-
-          pictures.append("rect")
-          .attr("fill","white")
-          .attr("width","512")
-          .attr("height","512");
-
-          pictures.append("image")
-          .attr("xlink:href",function(d){return d.url != "" ? d.url : "copyright.png";})
-          .attr("width","512")
-          .attr("height","512");
-
-
-
-
-        node.append("title")
-        .text(function(d) { return d.id; });
-
-        simulation.nodes(graph.nodes).on("tick", ticked);
-
-        simulation.force("link").links(graph.links);
-
-        function ticked() {
-            link
-            .attr("x1", function(d) { return d.source.x; })
-            .attr("y1", function(d) { return d.source.y; })
-            .attr("x2", function(d) { return d.target.x; })
-            .attr("y2", function(d) { return d.target.y; });
-
-            node
-            .attr("cx", function(d) { return d.x; })
-            .attr("cy", function(d) { return d.y; });
-        }
-    });
-
-        function dragstarted(d) {
-      if (!d3.event.active) simulation.alphaTarget(0.3).restart();
-      d.fx = d.x;
-      d.fy = d.y;
-    }
-
-    function dragged(d) {
-      d.fx = d3.event.x;
-      d.fy = d3.event.y;
-    }
-
-    function dragended(d) {
-      if (!d3.event.active) simulation.alphaTarget(0);
-      d.fx = null;
-      d.fy = null;
     }
 }

@@ -57,6 +57,14 @@
     body {
         margin: 0; /* pour éviter les marges */
     }
+
+    #content{
+        width: 100%;
+        text-align: center;
+
+    }
+
+
     </style>
 
     <script
@@ -69,14 +77,17 @@
     <div id="infos" >
         Hello
     </div>
-    <div id="graph" >
-        <svg id="map" width="800" height="800"></svg>
-    </div>
-    <div id="artist" >
-        <svg id="artists" width="800" height="800"></svg>
+    <div id="content">
+        <div id="graph" >
+            <svg id="map" width="800" height="800"></svg>
+        </div>
+        <div id="artist" >
+            <svg id="artists" width="800" height="800" style="background:#EDEDED;"></svg>
+        </div>
     </div>
     <script src="https://d3js.org/d3.v4.min.js"></script>
     <script src="parse.js"></script>
+    <script src="artists.js"></script>
     <script src="main.js"></script>
 </body>
 </html>
