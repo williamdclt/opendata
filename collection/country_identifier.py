@@ -67,6 +67,3 @@ def getContinentCountry(text):
 		codeRes.countryContinent.continentName = d["continents"][continentCode]
 		appendInBuffer(text, codeRes.countryContinent)
 		return codeRes.countryContinent
-
-res = getContinentCountry("Ellas")
-print(res.countryName + " " + res.continentName)
