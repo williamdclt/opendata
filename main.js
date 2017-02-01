@@ -164,8 +164,9 @@ function artist(_id_artist){
         .selectAll("line")
         .data(graph.links)
         .enter().append("line")
-        .attr("stroke-width", function(d) { return Math.sqrt(d.value); });
+        .attr("stroke-width", function(d) { return 0; });
 
+        // Création des cercles pour les oeuvres et l'artiste
         var node = svg.append("g")
         .attr("class", "nodes")
         .selectAll("circle")
@@ -173,13 +174,11 @@ function artist(_id_artist){
         .enter().append("circle")
         .attr("r", function(d){return d.size;})
         .attr("fill", function(d){return "url(#image"+d.id+")"})
-        //.attr("fill", function(d) { return color(d.group); })
         .call(d3.drag()
           .on("start", dragstarted)
           .on("drag", dragged)
           .on("end", dragended));
 
-          console.log(graph.nodes);
           var pictures = svg.append("defs")
           .selectAll("pattern")
           .data(graph.nodes)
@@ -198,7 +197,11 @@ function artist(_id_artist){
           .attr("height","512");
 
           pictures.append("image")
-          .attr("xlink:href",function(d){return d.url != "" ? d.url : "copyright.png";})
+          .attr("xlink:href",function(d){
+              if(d.id == "Artiste")
+                  return d.gender+".png";
+              return d.url != "" ? d.url : "copyright.png";
+          })
           .attr("width","512")
           .attr("height","512");
 
