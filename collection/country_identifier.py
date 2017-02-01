@@ -22,26 +22,26 @@ class CodeCountryContinent:
 
 def getCountryInBuffer(text):
 	if not os.path.isfile('buffer_countries.json'):
-		with codecs.open('buffer_countries.json', 'a', "utf-8-sig") as json_data:
+		with open('buffer_countries.json', 'a') as json_data:
 			d = {}
-			json.dump(d, json_data)
+			json.dump(d, json_data, ensure_ascii=False)
 			return None
-	with codecs.open('buffer_countries.json', 'r', "utf-8-sig") as json_data:
+	with codecs.open('buffer_countries.json', 'r', "utf-8") as json_data:
 		d = json.load(json_data)
 		if text not in d:
 			return None
 		return CountryContinent(d[text]["countryName"], d[text]["continentName"])
 
 def appendInBuffer(text, contiCountry):
-	with codecs.open('buffer_countries.json', 'r', "utf-8-sig") as json_data:
+	with codecs.open('buffer_countries.json', 'r', "utf-8") as json_data:
 		d = json.load(json_data)
 		d[text] = {
 			'countryName': contiCountry.countryName,
 			'continentName': contiCountry.continentName
 			}
 
-	with codecs.open('buffer_countries.json', 'w', "utf-8-sig") as outfile:
-		json.dump(d, outfile)
+	with codecs.open('buffer_countries.json', 'w', "utf-8") as outfile:
+		json.dump(d, outfile, ensure_ascii=False)
 
 def getAPICountry(text):
 	r = requests.get('http://api.geonames.org/searchJSON?q=' + text + '&username=OpenBoniData')
@@ -65,7 +65,7 @@ def getContinentCountry(text):
         countryContinent = CountryContinent(text, "unknown")
         appendInBuffer(text, countryContinent)
         return countryContinent
-    with codecs.open('countries.json', 'r', "utf-8-sig") as json_data:
+    with codecs.open('countries.json', 'r', "utf-8") as json_data:
 		d = json.load(json_data)
 		continentCode = d["countries"][codeRes.countryCode]["continent"]
 		codeRes.countryContinent.continentName = d["continents"][continentCode]
