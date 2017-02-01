@@ -32,22 +32,22 @@ body {
 .node--leaf {
     pointer-events: none;
 }
-#graph, #infos,#artist{
+#graph, #artist{
     display: inline-block;
     width: 800px;
     text-transform: capitalize;
+    border: 2px solid white;
 }
 
 #artist{
     display: none;
 }
 
-#infos{
+#infos_map,#infos_artist{
     display: block;
     background-color:#EDEDED;
     padding: 10px;
     text-align: center;
-
 }
 
 #content{

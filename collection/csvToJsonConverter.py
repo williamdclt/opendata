@@ -272,6 +272,8 @@ for artwork in artworkreader:
 #on limite a une trentaine de tableaux a cause de l'ami turner
 for a in artists_dict:
     artists_dict[a].size = sqrt(len(artists_dict[a].children))
+    if artists_dict[a].size < 1:
+        artists_dict[a].size = 0.5;
     #on va desormais creer un fichier json pour chaque artiste contenant ses oeuvres
     #on cree chaque tableau
     #le nodes contient au moins l'artiste, avec un lien vesr sa page

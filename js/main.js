@@ -2,7 +2,6 @@
 // send the collection of artists. The index in the array is NOT the
 // ID of the artist
 parse(main);
-
 var currentDepth = 0;
 
 var svg = d3.select("#map"),
@@ -42,7 +41,7 @@ function main(countries) {
         // S'il n'y a pas de noeud enfant, alors il s'agit d'un artiste et on
         // affiche le panneau latéral correspondant à l'artiste sur lequel on a cliqué
         if(! d.children){
-            artist(d.data.id);
+            artist(d.data.id, getNameFormated(d.data.name));
         }
         else if (focus !== d){
             zoom(d);
@@ -64,17 +63,13 @@ function main(countries) {
     .style("display", function(d) { return d.parent === root ? "inline" : "none"; })
     .text(function(d) {
         if(d.data.level_child == "Artwork"){
-            var res = d.data.name.split(",");
-            if(res.length > 1){
-                return res[1]+" "+res[0];
-            }
-            return res[0];
+             return getNameFormated(d.data.name);
         }
         else{
             return d.data.name;
         }
     });
-    
+
     var node = g.selectAll("circle,text");
 
     // Ajout d'un event qui dézoome sur l'ensemble du graphe au clic sur le background du svg
@@ -86,7 +81,7 @@ function main(countries) {
         var focus0 = focus;
         focus = d;
 
-        d3.select("#infos").text("Level : "+d.data.level+" ["+d.data.name+"]");
+        d3.select("#infos_map").text("Level : "+d.data.level+" ["+d.data.name+"]");
         var transition = d3.transition()
         .duration(d3.event.altKey ? 7500 : 750)
         .tween("zoom", function(d) {
@@ -123,5 +118,13 @@ function main(countries) {
         view = v;
         node.attr("transform", function(d) { return "translate(" + (d.x - v[0]) * k + "," + (d.y - v[1]) * k + ")"; });
         circle.attr("r", function(d) { return d.r * k; });
+    }
+
+    function getNameFormated(_name){
+        var res = _name.split(",");
+        if(res.length > 1){
+            return res[1]+" "+res[0];
+        }
+        return res[0];
     }
 }
