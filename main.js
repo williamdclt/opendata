@@ -36,7 +36,7 @@ parse(main);
 var currentDepth = 0;
 
 var svg = d3.select("#map"),
-margin = 20,
+margin = 5,
 diameter = +svg.attr("width"),
 g = svg.append("g").attr("transform", "translate(" + diameter / 2 + "," + diameter / 2 + ")");
 
@@ -164,7 +164,7 @@ function artist(_id_artist){
         .selectAll("line")
         .data(graph.links)
         .enter().append("line")
-        .attr("stroke-width", function(d) { return 0; });
+        .attr("stroke-width", function(d) { return 1; });
 
         // Création des cercles pour les oeuvres et l'artiste
         var node = svg.append("g")
@@ -198,8 +198,8 @@ function artist(_id_artist){
 
           pictures.append("image")
           .attr("xlink:href",function(d){
-              if(d.id == "Artiste")
-                  return d.gender+".png";
+              if(d.id == "Artist")
+                  return d.gender ? d.gender+".png" : "female.png";
               return d.url != "" ? d.url : "copyright.png";
           })
           .attr("width","512")
@@ -208,8 +208,7 @@ function artist(_id_artist){
 
 
 
-        node.append("title")
-        .text(function(d) { return d.id; });
+        node.append("title").text(function(d) { return d.name; });
 
         simulation.nodes(graph.nodes).on("tick", ticked);
 
