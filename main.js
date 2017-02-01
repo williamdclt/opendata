@@ -103,7 +103,7 @@ function main(countries) {
         var focus0 = focus;
         focus = d;
 
-        d3.select("#infos").text(d.data.name);
+        d3.select("#infos").text("Level : "+d.data.level+", "+d.data.name);
         var transition = d3.transition()
         .duration(d3.event.altKey ? 7500 : 750)
         .tween("zoom", function(d) {
