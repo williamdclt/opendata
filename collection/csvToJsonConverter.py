@@ -262,7 +262,9 @@ for a in artists_dict:
     nodeArtist = Node("Artist", 30, artists_dict[a].name, None, artists_dict[a].url)
     tableauNodes = [nodeArtist]
     tableauLinks = []
-    max_nodes=30
+    ##########################Changer ici le nombre de bulles max par artiste###
+    max_nodes=40
+    ############################################################################
     for artwork in artists_dict[a].children:
         #print(artwork)
         artnode = Node(str(artwork.id),50,artwork.name, artwork.thumbnail_url,artwork.url)
