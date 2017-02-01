@@ -73,7 +73,7 @@ class Decoupable:
             self.children.append(child)
 
     def compute_decoupable(self):
-        min_dec = 7
+        min_dec = 10
         if len(self.children) <= min_dec: # no need to decouping
             return
 
