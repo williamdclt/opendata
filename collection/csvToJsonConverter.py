@@ -35,6 +35,16 @@ def dumper(obj):
         return obj.__dict__
 
 
+class MaleRatio:
+    def __init__(self):
+        self.nb_male = 0
+        self.nb_artists = 0
+
+    def add(self, ratio):
+        self.nb_male += ratio.nb_male
+        self.nb_artists += ratio.nb_artists
+
+
 class Part:
     def __init__(self, begin):
         self.name = begin
@@ -42,6 +52,16 @@ class Part:
 
     def end(self, letter):
         self.name = self.name + "-" + letter
+
+    def male_ratio(self):
+        ratio = MaleRatio()
+        for child in self.children:
+            ratio.add(child.male_ratio())
+        if len(self.children) == 0:
+            ratio.nb_male = 1
+            ratio.nb_artists = 1
+        self.ratio = float(ratio.nb_male) / ratio.nb_artists
+        return ratio
 
 
 class Decoupable:
@@ -76,9 +96,19 @@ class Decoupable:
                 part.append(child)
         return part
 
+    def male_ratio(self):
+        ratio = MaleRatio()
+        for child in self.children:
+            ratio.add(child.male_ratio())
+        if len(self.children) == 0:
+            ratio.nb_male = 1
+            ratio.nb_artists = 1
+        self.ratio = float(ratio.nb_male) / ratio.nb_artists
+        return ratio
+
 
 class Artist(Decoupable):
-    def __init__(self, id, name, year, url, placeOfBirth, placeOfDeath):
+    def __init__(self, id, name, year, url, placeOfBirth, placeOfDeath, gender):
         self.id = id
         self.name = name.lower()
         self.size = 1
@@ -86,6 +116,7 @@ class Artist(Decoupable):
         self.url = url
         self.placeOfBirth = placeOfBirth
         self.placeOfDeath = placeOfDeath
+        self.gender = gender.lower()
         self.children = []
 
     def place(self):
@@ -95,6 +126,16 @@ class Artist(Decoupable):
 
     def add_artwork(self, artwork):
         self.children.append(artwork)
+
+    def male_ratio(self):
+        ratio = MaleRatio() 
+        ratio.nb_artists = 1
+        if self.gender == "male":
+            ratio.nb_male = 1
+        else:
+            ratio.nb_male = 0
+        self.ratio = float(ratio.nb_male) / ratio.nb_artists
+        return ratio
 
 
 class Dimensions:
@@ -161,6 +202,7 @@ def get_city(city, pays):
         cities_dict[index] = City(city)
     return cities_dict[index]
 
+
 pays_dict = {}
 cities_dict = {}
 artists_dict = {}
@@ -195,7 +237,7 @@ for artist in artistreader:
 
     #on extrait l'artiste
     id = artist[0]
-    artist = Artist(id, artist[1], artist[4], artist[8], artist[6], artist[7])
+    artist = Artist(id, artist[1], artist[4], artist[8], artist[6], artist[7], artist[2])
     city = get_city(city, pays)
     pays = get_pays(pays)
 
@@ -246,6 +288,7 @@ for c in cities_dict:
 for p in pays_dict:
     pays_dict[p].compute_decoupable()
 collection.compute_decoupable()
+collection.male_ratio()
 
 f = open("collection.json", 'w')
 f.write(json.dumps(collection, default=dumper, indent=2, separators=(',', ': ')))

@@ -2,7 +2,7 @@
 // send the collection of artists. The index in the array is NOT the
 // ID of the artist
 parse(main);
-artist();
+//artist();
 /**
 * Properties of an Artist object:
 * id
@@ -46,8 +46,8 @@ var pack = d3.pack()
 
 
 var color = d3.scaleLinear()
-.domain([-1, 5])
-.range(["rgb(234, 251, 255)", "rgb(21, 154, 178)"])
+.domain([0, 1])
+.range(["rgb(253, 63, 146)", "rgb(0, 51, 102)"])
 .interpolate(d3.interpolateHcl);
 
 function main(countries) {
@@ -62,15 +62,15 @@ function main(countries) {
     .data(nodes)
     .enter().append("circle")
     .attr("class", function(d) { return d.parent ? (d.children ? "node" : "node ") : "node node--root"; })
-    .style("fill", function(d) { return d.children ? color(d.depth) : null; })
+    .style("fill", function(d) { return color(d.data.ratio); })
     .style("display", function(d) { return d.parent === root || d.depth == 0 ? "inline" : "none"; })
     .on("click", function(d) {
         currentDepth = d.depth;
 
         if (focus !== d)
-        zoom(d), d3.event.stopPropagation();
+            zoom(d), d3.event.stopPropagation();
         else
-        zoom(d.parent), d3.event.stopPropagation();
+            zoom(d.parent), d3.event.stopPropagation();
     });
 
     var text = g.selectAll("text")
@@ -84,11 +84,10 @@ function main(countries) {
     var node = g.selectAll("circle,text");
 
     // Ajout d'un event qui dézoome sur l'ensemble du graphe au clic sur le background du svg
-    svg.style("background", color(-1))
+    svg.style("background", "rgb(108, 142, 186)")
     .on("click", function() { console.log("svg"); zoom(root); currentDepth = 0 });
 
     zoomTo([root.x, root.y, root.r * 2 + margin]);
-
 
     function zoom(d) {
         var focus0 = focus;
@@ -105,6 +104,7 @@ function main(countries) {
         transition.selectAll("text")
         .filter(function(d) { return d.parent === focus || this.style.display === "inline"; })
         .style("fill-opacity", function(d) { return d.parent === focus ? 1 : 0; })
+        .style("stroke-opacity", function(d) { return d.parent === focus ? 1 : 0; })
         .on("start", function(d) { if (d.parent === focus) this.style.display = "inline"; })
         .on("end", function(d) { if (d.parent !== focus) this.style.display = "none"; });
 
@@ -123,8 +123,6 @@ function main(countries) {
             if (d.parent !== focus && d !== focus && d !== root && d.depth > currentDepth)
             this.style.display = "none";
         });
-
-
     }
 
     function zoomTo(v) {
