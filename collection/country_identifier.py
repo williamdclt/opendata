@@ -53,7 +53,6 @@ def getAPICountry(text):
 def getContinentCountry(text):
     res = getCountryInBuffer(text)
     if res is not None:
-    	print("JE L'AI TROUVE OMGGG")
         return res
 
     codeRes = getAPICountry(text)
