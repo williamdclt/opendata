@@ -2,7 +2,7 @@
 // send the collection of artists. The index in the array is NOT the
 // ID of the artist
 parse(main);
-
+artist(558);
 /**
 * Properties of an Artist object:
 * id

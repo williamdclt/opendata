@@ -1,6 +1,9 @@
 
 function artist(_id_artist){
+    // Efface les informations déjà affichées
     d3.select("#artists").selectAll("*").remove();
+
+
     var svg = d3.select("#artists"),
     width = +svg.attr("width"),
     height = +svg.attr("height");
@@ -8,8 +11,9 @@ function artist(_id_artist){
     var color = d3.scaleOrdinal(d3.schemeCategory20);
 
     var simulation = d3.forceSimulation()
-    .force("link", d3.forceLink().id(function(d) { return d.id; }).distance(200))
-    .force("charge", d3.forceManyBody().strength(-1000))
+    .force("link", d3.forceLink().id(function(d) { return d.id; }).distance(150))
+    .force("charge", d3.forceManyBody().strength(-2000))
+    .force("collision", d3.forceCollide(50) )
     .force("center", d3.forceCenter(width / 2, height / 2));
 
     d3.json("collection/artists/"+_id_artist+".json", function(error, graph) {
