@@ -4,7 +4,7 @@ import csv
 import json
 import sys
 import country_identifier
-from math import sqrt
+import math
 from json import JSONEncoder
 from sets import Set
 from collections import defaultdict
@@ -77,18 +77,13 @@ class Ensemble(Drawable):
 
 
 class Part(Ensemble):
-    def __init__(self, level):
+    def __init__(self, level, children):
         Ensemble.__init__(self, "", level)
+        self.children = children
+        self.name = self.get_child_name(0) + " - " + self.get_child_name(-1)
 
     def get_child_name(self, child_index):
         return self.children[child_index].name.split(',')[0].capitalize()
-
-    def add_children(self, children):
-        if len(children) == 0:
-            return
-        self.children.extend(children)
-        self.children.sort(key=lambda c: c.name)
-        self.name = self.get_child_name(0) + " - " + self.get_child_name(-1)
 
 
 class Decoupable(Ensemble):
@@ -97,20 +92,18 @@ class Decoupable(Ensemble):
         self.level_child = level_child
 
     def compute_decoupable(self):
-        min_dec = 10
-        if len(self.children) <= min_dec: # no need to decouping
+        self.children.sort(key = lambda c: c.name)
+        if len(self.children) <= 10: # no need to decouping
             return
 
         partition = []
-        current_char = 0 # 'a'
-        while current_char < len(ascii_lowercase):
-            current_part = Part(self.level_child)
-            while len(current_part.children) < min_dec and current_char < len(ascii_lowercase):
-                children = self.get_children_beginning_with(ascii_lowercase[current_char])
-                current_part.add_children(children)
-                current_char += 1
-            if len(current_part.children) > 0:
-                partition.append(current_part)
+        size_part = int(math.ceil(math.sqrt(len(self.children))))
+        i = 0
+        while i < len(self.children):
+            children_part = self.children[i:min(i+size_part,len(self.children))] 
+            part = Part(self.level_child, children_part)
+            partition.append(part)
+            i += size_part 
         self.children = partition
 
     def get_children_beginning_with(self, char):
@@ -285,6 +278,7 @@ for artist in artistreader:
     continent.add_child(country)
     collection.add_child(continent)
 
+
 for artwork in artworkreader:
     artist_id = artwork[4]
     if artist_id not in artists_dict:
@@ -294,7 +288,7 @@ for artwork in artworkreader:
 
 #on limite a une trentaine de tableaux a cause de l'ami turner
 for a in artists_dict:
-    artists_dict[a].size = sqrt(len(artists_dict[a].children))
+    artists_dict[a].size = math.sqrt(len(artists_dict[a].children))
     if artists_dict[a].size < 1:
         artists_dict[a].size = 0.5;
     #on va desormais creer un fichier json pour chaque artiste contenant ses oeuvres
@@ -307,7 +301,6 @@ for a in artists_dict:
     max_nodes=40
     ############################################################################
     for artwork in artists_dict[a].children:
-        #print(artwork)
         artnode = Node(str(artwork.id),50,artwork.name, None, artwork.thumbnail_url,artwork.url)
         tableauNodes.append(artnode)
         artlink = Link("Artist",str(artwork.id))
@@ -328,8 +321,13 @@ for a in artists_dict:
 
 for c in cities_dict:
     cities_dict[c].compute_decoupable()
-for p in countries_dict:
-    countries_dict[p].compute_decoupable()
+    print("CITY " + c + " : " + str(len(cities_dict[c].children)) + " parts artistes")
+for c in countries_dict:
+    countries_dict[c].compute_decoupable()
+    print("PAYS " + c + " : " + str(len(countries_dict[c].children)) + " parts villes")
+for c in continents_dict:
+    continents_dict[c].compute_decoupable()
+    print("CONT " + c + " : " + str(len(continents_dict[c].children)) + " parts pays")
 collection.compute_decoupable()
 collection.male_ratio()
 
