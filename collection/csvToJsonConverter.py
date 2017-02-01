@@ -46,9 +46,10 @@ class MaleRatio:
 
 
 class Part:
-    def __init__(self, begin):
+    def __init__(self, begin, level):
         self.name = begin
         self.children = []
+        self.level = level
 
     def end(self, letter):
         self.name = self.name + "-" + letter
@@ -67,20 +68,21 @@ class Part:
 class Decoupable:
     def __init__(self):
         self.children = []
+        self.level_child = ""
 
     def add_children(self, child):
         if child not in self.children:
             self.children.append(child)
 
     def compute_decoupable(self):
-        min_dec = 7
+        min_dec = 10
         if len(self.children) <= min_dec: # no need to decouping
             return
 
         partition = []
         current_char = 0 # 'a'
         while current_char < len(ascii_lowercase):
-            current_part = Part(ascii_lowercase[current_char])
+            current_part = Part(ascii_lowercase[current_char], self.level_child)
             while len(current_part.children) < min_dec and current_char < len(ascii_lowercase):
                 children = self.get_children_beginning_with(ascii_lowercase[current_char])
                 current_part.children.extend(children)
@@ -118,6 +120,8 @@ class Artist(Decoupable):
         self.placeOfDeath = placeOfDeath
         self.gender = gender.lower()
         self.children = []
+        self.level = "Artist"
+        self.level_child = "Artwork"
 
     def place(self):
         if self.placeOfBirth is None or self.placeOfBirth == "":
@@ -150,18 +154,24 @@ class Pays(Decoupable):
     def __init__(self, name):
         self.name = name.lower()
         self.children = []
+        self.level = "Country"
+        self.level_child = "City"
 
 
 class City(Decoupable):
     def __init__(self, name):
         self.name = name.lower()
         self.children = []
+        self.level = "City"
+        self.level_child = "Artist"
 
 
 class Collection(Decoupable):
     def __init__(self):
         self.name = "collection"
         self.children = []
+        self.level = "Collection"
+        self.level_child = "Country"
 
 
 class Artwork:
