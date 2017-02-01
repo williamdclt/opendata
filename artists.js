@@ -37,7 +37,8 @@ function artist(_id_artist){
         .call(d3.drag()
           .on("start", dragstarted)
           .on("drag", dragged)
-          .on("end", dragended));
+          .on("end", dragended))
+          .on("click", redirect);
 
           var pictures = svg.append("defs")
           .selectAll("pattern")
@@ -102,5 +103,9 @@ function artist(_id_artist){
       if (!d3.event.active) simulation.alphaTarget(0);
       d.fx = null;
       d.fy = null;
+    }
+
+    function redirect(d) {
+      window.open(d.tatelink)
     }
 }
