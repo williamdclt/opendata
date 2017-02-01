@@ -47,7 +47,7 @@ var pack = d3.pack()
 
 var color = d3.scaleLinear()
 .domain([0, 1])
-.range(["rgb(253, 63, 146)", "rgb(0, 51, 102)"])
+.range(["rgb(253, 63, 146)", "rgb(4, 109, 154)"])
 .interpolate(d3.interpolateHcl);
 
 function main(countries) {
