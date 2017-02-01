@@ -45,14 +45,9 @@ class MaleRatio:
         self.nb_artists += ratio.nb_artists
 
 
-class Part:
-    def __init__(self, begin, level):
-        self.name = begin
-        self.children = []
-        self.level = level
-
-    def end(self, letter):
-        self.name = self.name + "-" + letter
+class Drawable:
+    def __init__(self):
+        pass
 
     def male_ratio(self):
         ratio = MaleRatio()
@@ -65,14 +60,35 @@ class Part:
         return ratio
 
 
-class Decoupable:
+class Ensemble(Drawable):
     def __init__(self):
         self.children = []
-        self.level_child = ""
 
-    def add_children(self, child):
+    def add_child(self, child):
         if child not in self.children:
             self.children.append(child)
+
+
+class Part(Ensemble):
+    def __init__(self, level):
+        Ensemble.__init__(self)
+        self.level = level
+
+    def get_child_name(self, child_index):
+        return self.children[child_index].name.split(',')[0].capitalize()
+
+    def add_children(self, children):
+        if len(children) == 0:
+            return
+        self.children.extend(children)
+        self.children.sort(key=lambda c: c.name)
+        self.name = self.get_child_name(0) + " - " + self.get_child_name(-1)
+
+
+class Decoupable(Ensemble):
+    def __init__(self, level_child):
+        Ensemble.__init__(self)
+        self.level_child = level_child
 
     def compute_decoupable(self):
         min_dec = 10
@@ -82,13 +98,13 @@ class Decoupable:
         partition = []
         current_char = 0 # 'a'
         while current_char < len(ascii_lowercase):
-            current_part = Part(ascii_lowercase[current_char], self.level_child)
+            current_part = Part(self.level_child)
             while len(current_part.children) < min_dec and current_char < len(ascii_lowercase):
                 children = self.get_children_beginning_with(ascii_lowercase[current_char])
-                current_part.children.extend(children)
+                current_part.add_children(children)
                 current_char += 1
-            current_part.end(ascii_lowercase[current_char - 1])
-            partition.append(current_part)
+            if len(current_part.children) > 0:
+                partition.append(current_part)
         self.children = partition
 
     def get_children_beginning_with(self, char):
@@ -98,19 +114,10 @@ class Decoupable:
                 part.append(child)
         return part
 
-    def male_ratio(self):
-        ratio = MaleRatio()
-        for child in self.children:
-            ratio.add(child.male_ratio())
-        if len(self.children) == 0:
-            ratio.nb_male = 1
-            ratio.nb_artists = 1
-        self.ratio = float(ratio.nb_male) / ratio.nb_artists
-        return ratio
-
 
 class Artist(Decoupable):
     def __init__(self, id, name, year, url, placeOfBirth, placeOfDeath, gender):
+        Decoupable.__init__(self, "Artwork")
         self.id = id
         self.name = name.lower()
         self.size = 1
@@ -119,17 +126,12 @@ class Artist(Decoupable):
         self.placeOfBirth = placeOfBirth
         self.placeOfDeath = placeOfDeath
         self.gender = gender.lower()
-        self.children = []
         self.level = "Artist"
-        self.level_child = "Artwork"
 
     def place(self):
         if self.placeOfBirth is None or self.placeOfBirth == "":
             return placeOfDeath
         return placeOfBirth
-
-    def add_artwork(self, artwork):
-        self.children.append(artwork)
 
     def male_ratio(self):
         ratio = MaleRatio()
@@ -140,6 +142,9 @@ class Artist(Decoupable):
             ratio.nb_male = 0
         self.ratio = float(ratio.nb_male) / ratio.nb_artists
         return ratio
+
+    def add_child(self, child): # Do not check if exists, would be too computationally heavy
+        self.children.append(child)
 
 
 class Dimensions:
@@ -152,26 +157,23 @@ class Dimensions:
 
 class Pays(Decoupable):
     def __init__(self, name):
+        Decoupable.__init__(self, "City")
         self.name = name.lower()
-        self.children = []
         self.level = "Country"
-        self.level_child = "City"
 
 
 class City(Decoupable):
     def __init__(self, name):
+        Decoupable.__init__(self, "Artist")
         self.name = name.lower()
-        self.children = []
         self.level = "City"
-        self.level_child = "Artist"
 
 
 class Collection(Decoupable):
     def __init__(self):
+        Decoupable.__init__(self, "Country")
         self.name = "collection"
-        self.children = []
         self.level = "Collection"
-        self.level_child = "Country"
 
 
 class Artwork:
@@ -184,6 +186,7 @@ class Artwork:
         self.thumbnail_url = thumbnail_url
         self.url = url
 
+
 #pour l'affichage des tableaux par artiste
 class Node:
     def __init__(self,id, size, name, url, tatelink):
@@ -194,11 +197,13 @@ class Node:
         self.url = url
         self.tatelink = tatelink
 
+
 class Link:
     def __init__(self,source, target):
         self.source = source
         self.target = target
         self.value = 1
+
 
 def get_pays(pays):
     if pays not in pays_dict:
@@ -252,16 +257,16 @@ for artist in artistreader:
     pays = get_pays(pays)
 
     artists_dict[id] = artist
-    city.add_children(artist)
-    pays.add_children(city)
-    collection.add_children(pays)
+    city.add_child(artist)
+    pays.add_child(city)
+    collection.add_child(pays)
 
 for artwork in artworkreader:
     artist_id = artwork[4]
     if artist_id not in artists_dict:
         continue
     artwork = Artwork(artwork[0], artist_id, artwork[5], artwork[9], artwork[12], artwork[13], artwork[14], artwork[15], artwork[18], artwork[19])
-    artists_dict[artist_id].add_artwork(artwork)
+    artists_dict[artist_id].add_child(artwork)
 
 #on limite a une trentaine de tableaux a cause de l'ami turner
 for a in artists_dict:
