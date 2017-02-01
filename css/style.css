@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    background:#EDEDED;
+    font-family: 'Lato', sans-serif;
+    color: black;
+}
+
+.links line {
+    stroke: #999;
+    stroke-opacity: 0.6;
+}
+
+.node {
+    cursor: pointer;
+    stroke: #222;
+    stroke-width: 1.5px;
+    stroke-opacity: 0;
+}
+.node:hover {
+    stroke: #fff;
+}
+
+.label {
+    font-size: : 11px;
+    text-anchor: middle;
+    color: white;
+    text-shadow: 0 1px 0 black, 1px 0 0 black, -1px 0 0 black, 0 -1px 0 black;
+}
+
+.label,
+.node--root,
+.node--leaf {
+    pointer-events: none;
+}
+#graph, #infos,#artist{
+    display: inline-block;
+    width: 800px;
+    text-transform: capitalize;
+}
+
+#artist{
+    display: none;
+}
+
+#infos{
+    display: block;
+    background-color:#EDEDED;
+    padding: 10px;
+    text-align: center;
+
+}
+
+#content{
+    width: 100%;
+    text-align: center;
+}
