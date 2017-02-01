@@ -53,7 +53,6 @@ def getAPICountry(text):
 def getContinentCountry(text):
     res = getCountryInBuffer(text)
     if res is not None:
-    	print("JE L'AI TROUVE OMGGG")
         return res
 
     codeRes = getAPICountry(text)
@@ -67,6 +66,3 @@ def getContinentCountry(text):
 		codeRes.countryContinent.continentName = d["continents"][continentCode]
 		appendInBuffer(text, codeRes.countryContinent)
 		return codeRes.countryContinent
-
-res = getContinentCountry("Ellas")
-print(res.countryName + " " + res.continentName)
