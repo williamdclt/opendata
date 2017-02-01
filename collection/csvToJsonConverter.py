@@ -186,13 +186,14 @@ class Artwork:
 
 #pour l'affichage des tableaux par artiste
 class Node:
-    def __init__(self,id, size, name, url, tatelink):
+    def __init__(self,id, size, name, gender, url, tatelink):
         self.id = id
         self.group = 1
         self.size = size
         self.name = name
         self.url = url
         self.tatelink = tatelink
+        self.gender = gender
 
 class Link:
     def __init__(self,source, target):
@@ -269,7 +270,7 @@ for a in artists_dict:
     #on va desormais creer un fichier json pour chaque artiste contenant ses oeuvres
     #on cree chaque tableau
     #le nodes contient au moins l'artiste, avec un lien vesr sa page
-    nodeArtist = Node("Artist", 30, artists_dict[a].name, None, artists_dict[a].url)
+    nodeArtist = Node("Artist", 30, artists_dict[a].name, artists_dict[a].gender, None, artists_dict[a].url)
     tableauNodes = [nodeArtist]
     tableauLinks = []
     ##########################Changer ici le nombre de bulles max par artiste###
@@ -277,7 +278,7 @@ for a in artists_dict:
     ############################################################################
     for artwork in artists_dict[a].children:
         #print(artwork)
-        artnode = Node(str(artwork.id),50,artwork.name, artwork.thumbnail_url,artwork.url)
+        artnode = Node(str(artwork.id),50,artwork.name, None, artwork.thumbnail_url,artwork.url)
         tableauNodes.append(artnode)
         artlink = Link("Artist",str(artwork.id))
         tableauLinks.append(artlink)
