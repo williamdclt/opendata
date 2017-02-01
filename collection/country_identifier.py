@@ -4,6 +4,10 @@ import json
 import requests
 import os.path
 import time
+import sys
+reload(sys)
+
+sys.setdefaultencoding('utf-8')
 
 class CountryContinent:
 	def __init__(self, countryName, continentName="unknown"):
@@ -66,3 +70,6 @@ def getContinentCountry(text):
 		codeRes.countryContinent.continentName = d["continents"][continentCode]
 		appendInBuffer(text, codeRes.countryContinent)
 		return codeRes.countryContinent
+
+#res = getContinentCountry("Ellas")
+#print(res.countryName + " " + res.continentName)
