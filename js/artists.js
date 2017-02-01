@@ -1,9 +1,11 @@
 
-function artist(_id_artist){
+function artist(_id_artist,_name){
     // Efface les informations déjà affichées
     d3.select("#artists").selectAll("*").remove();
     // Affiche le conteneur d'artiste
     d3.select("#artist").style("display","inline-block");
+
+    d3.select("#infos_artist").text(_name);
 
     var svg = d3.select("#artists"),
     width = +svg.attr("width"),
@@ -54,7 +56,11 @@ function artist(_id_artist){
         .attr("y", "0%")
         .attr("height", "100%")
         .attr("width", "100%")
-        .attr("viewBox","0 0 256 256");
+        .attr("viewBox",function(d){
+            if(!d.url || d.id == "Artist")
+                return "0 0 256 256";
+            return "43 43 170 170";
+        });
 
         // Ajout d'un fond blanc pour remplir le cercle
         pictures.append("rect")
