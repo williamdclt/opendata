@@ -77,8 +77,8 @@ class Ensemble(Drawable):
 
 
 class Part(Ensemble):
-    def __init__(self, name, level):
-        Ensemble.__init__(self, name, level)
+    def __init__(self, level):
+        Ensemble.__init__(self, "", level)
 
     def get_child_name(self, child_index):
         return self.children[child_index].name.split(',')[0].capitalize()
