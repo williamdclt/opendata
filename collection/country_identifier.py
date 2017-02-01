@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 import json
-import requests
+#import requests
 import os.path
 import time
 import sys
@@ -21,6 +21,7 @@ class CodeCountryContinent:
 		self.countryCode = countryCode
 
 def getCountryInBuffer(text):
+	text = unicode(text, "utf-8")
 	if not os.path.isfile('buffer_countries.json'):
 		with open('buffer_countries.json', 'a') as json_data:
 			d = {}
@@ -44,7 +45,7 @@ def appendInBuffer(text, contiCountry):
 		json.dump(d, outfile, ensure_ascii=False)
 
 def getAPICountry(text):
-	r = requests.get('http://api.geonames.org/searchJSON?q=' + text + '&username=OpenBoniData')
+	#r = requests.get('http://api.geonames.org/searchJSON?q=' + text + '&username=OpenBoniData')
 	d = r.json()
 
 	for elem in d["geonames"]:
