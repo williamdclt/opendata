@@ -1,12 +1,17 @@
 #!/usr/bin/env python
 
-from math import sqrt
-from json import JSONEncoder
 import csv
 import json
+import sys
+import country_identifier
+from math import sqrt
+from json import JSONEncoder
 from sets import Set
 from collections import defaultdict
 from string import ascii_lowercase
+reload(sys)
+
+sys.setdefaultencoding('utf-8')
 
 ####### Structure des fichiers csv #######
 ## artists
@@ -46,8 +51,9 @@ class MaleRatio:
 
 
 class Drawable:
-    def __init__(self):
-        pass
+    def __init__(self, name, level):
+        self.name = name
+        self.level = level
 
     def male_ratio(self):
         ratio = MaleRatio()
@@ -61,7 +67,8 @@ class Drawable:
 
 
 class Ensemble(Drawable):
-    def __init__(self):
+    def __init__(self, name, level):
+        Drawable.__init__(self, name, level)
         self.children = []
 
     def add_child(self, child):
@@ -70,9 +77,8 @@ class Ensemble(Drawable):
 
 
 class Part(Ensemble):
-    def __init__(self, level):
-        Ensemble.__init__(self)
-        self.level = level
+    def __init__(self, name, level):
+        Ensemble.__init__(self, name, level)
 
     def get_child_name(self, child_index):
         return self.children[child_index].name.split(',')[0].capitalize()
@@ -86,8 +92,8 @@ class Part(Ensemble):
 
 
 class Decoupable(Ensemble):
-    def __init__(self, level_child):
-        Ensemble.__init__(self)
+    def __init__(self, name, level, level_child):
+        Ensemble.__init__(self, name, level)
         self.level_child = level_child
 
     def compute_decoupable(self):
@@ -117,16 +123,14 @@ class Decoupable(Ensemble):
 
 class Artist(Decoupable):
     def __init__(self, id, name, year, url, placeOfBirth, placeOfDeath, gender):
-        Decoupable.__init__(self, "Artwork")
+        Decoupable.__init__(self, name, "Artist", "Artwork")
         self.id = id
-        self.name = name.lower()
         self.size = 1
         self.year = year
         self.url = url
         self.placeOfBirth = placeOfBirth
         self.placeOfDeath = placeOfDeath
         self.gender = gender.lower()
-        self.level = "Artist"
 
     def place(self):
         if self.placeOfBirth is None or self.placeOfBirth == "":
@@ -155,25 +159,24 @@ class Dimensions:
         self.unit = unit
 
 
-class Pays(Decoupable):
+class Continent(Decoupable):
     def __init__(self, name):
-        Decoupable.__init__(self, "City")
-        self.name = name.lower()
-        self.level = "Country"
+        Decoupable.__init__(self, name, "Continent", "Country")
+
+
+class Country(Decoupable):
+    def __init__(self, name):
+        Decoupable.__init__(self, name, "Country", "City")
 
 
 class City(Decoupable):
     def __init__(self, name):
-        Decoupable.__init__(self, "Artist")
-        self.name = name.lower()
-        self.level = "City"
+        Decoupable.__init__(self, name, "City", "Artist")
 
 
 class Collection(Decoupable):
     def __init__(self):
-        Decoupable.__init__(self, "Country")
-        self.name = "collection"
-        self.level = "Collection"
+        Decoupable.__init__(self, "collection", "Collection",  "Continent")
 
 
 class Artwork:
@@ -206,61 +209,81 @@ class Link:
         self.value = 1
 
 
-def get_pays(pays):
-    if pays not in pays_dict:
-        pays_dict[pays] = Pays(pays)
-    return pays_dict[pays]
+class Location:
+    def __init__(self, city, country, continent):
+        self.city = city
+        self.country = country
+        self.continent = continent
 
 
-def get_city(city, pays):
-    index = city + pays
+def get_continent(continent):
+    if continent not in continents_dict:
+        continents_dict[continent] = Continent(continent)
+    return continents_dict[continent]
+
+
+def get_country(country):
+    if country not in countries_dict:
+        countries_dict[country] = Country(country)
+    return countries_dict[country]
+
+
+def get_city(city, country):
+    index = city + country
     if index not in cities_dict:
         cities_dict[index] = City(city)
     return cities_dict[index]
 
 
-pays_dict = {}
+def getContiCountryCity(string):
+    if string is None :
+        string = "unknown, unknown"
+
+    strings = string.split(',')
+    country, city = None, None
+    if len(strings)==2:
+        country = strings[1].strip()
+        city = strings[0].strip()
+    elif len(strings)==1 :
+        country = strings[0].strip()
+    else:  #c'est 3
+        country = strings[2].strip()
+        city = strings[0].strip()
+
+    if country=='' or country is None:
+        country = 'unknown'
+    if city=='' or city is None:
+        city = 'unknown'
+
+    conticountry = country_identifier.getContinentCountry(country) 
+    return Location(city, conticountry.countryName, conticountry.continentName)
+
+
+continents_dict = {}
+countries_dict = {}
 cities_dict = {}
 artists_dict = {}
 collection = Collection()
 
 
 for artist in artistreader:
-    #on extrait le city,pays
-    citypaysstring = artist[6]
+    location = getContiCountryCity(artist[6])
 
     #on trie, on extrait la city et le pays
     #on fait en sorte que l'artiste ne soit la que si son pays est present, sinn NSM
-    if citypaysstring is None :
-        citypaysstring = "unknown, unknown"
-
-    citypaysstrings = citypaysstring.split(',')
-    pays, city = None, None
-    if len(citypaysstrings)==2 :
-        pays = citypaysstrings[1].strip()
-        city = citypaysstrings[0].strip()
-    elif len(citypaysstrings)==1 :
-        pays = citypaysstrings[0].strip()
-    else:  #c'est 3
-        pays = citypaysstrings[2].strip()
-        city = citypaysstrings[0].strip()
-
-    #on insere pas ceux qui sont vide, apres tout ballec
-    if pays=='' or pays is None:
-        pays = 'unknown'
-    if city=='' or city is None:
-        city = 'unknown'
 
     #on extrait l'artiste
     id = artist[0]
     artist = Artist(id, artist[1], artist[4], artist[8], artist[6], artist[7], artist[2])
-    city = get_city(city, pays)
-    pays = get_pays(pays)
+    city = get_city(location.city, location.country)
+    country = get_country(location.country)
+    continent = get_continent(location.continent)
 
     artists_dict[id] = artist
     city.add_child(artist)
-    pays.add_child(city)
-    collection.add_child(pays)
+    country.add_child(city)
+    continent.add_child(country)
+    collection.add_child(continent)
 
 for artwork in artworkreader:
     artist_id = artwork[4]
@@ -305,8 +328,8 @@ for a in artists_dict:
 
 for c in cities_dict:
     cities_dict[c].compute_decoupable()
-for p in pays_dict:
-    pays_dict[p].compute_decoupable()
+for p in countries_dict:
+    countries_dict[p].compute_decoupable()
 collection.compute_decoupable()
 collection.male_ratio()
 

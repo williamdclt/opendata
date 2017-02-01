@@ -2,9 +2,15 @@
 
 import json
 import requests
+import os.path
+import time
+import sys
+reload(sys)
+
+sys.setdefaultencoding('utf-8')
 
 class CountryContinent:
-	def __init__(self, countryName, continentName=None):
+	def __init__(self, countryName, continentName="unknown"):
 		self.countryName = countryName
 		self.continentName = continentName
 
@@ -13,45 +19,57 @@ class CodeCountryContinent:
 		self.countryContinent = CountryContinent(countryName)
 		self.countryCode = countryCode
 
-def getCountryInBuffer(text)
-	with open('buffer_countries.json') as json_data:
+def getCountryInBuffer(text):
+	if not os.path.isfile('buffer_countries.json'):
+		with open('buffer_countries.json', 'a') as json_data:
+			d = {}
+			json.dump(d, json_data)
+			return None
+	with open('buffer_countries.json', 'r') as json_data:
 		d = json.load(json_data)
-		if text not in d or d[text]["countryName"] is None:
+		if text not in d:
 			return None
 		return CountryContinent(d[text]["countryName"], d[text]["continentName"])
 
-def appendInBuffer(text, contiCountry)
-	data = {}
-	data[text] = []
-	data[text].append({
-		'countryName': contiCountry.countryName,
-		'continentName': contiCountry.countryContinent
-		})
-	with open('buffer_countries.json', 'w') as outfile:
-		json.dump(data, outfile)
+def appendInBuffer(text, contiCountry):
+	with open('buffer_countries.json') as json_data:
+		d = json.load(json_data)
+		d[text] = {
+			'countryName': contiCountry.countryName,
+			'continentName': contiCountry.continentName
+			}
 
-def getCountry(text):
+	with open('buffer_countries.json', 'w') as outfile:
+		json.dump(d, outfile)
+
+def getAPICountry(text):
 	r = requests.get('http://api.geonames.org/searchJSON?q=' + text + '&username=OpenBoniData')
 	d = r.json()
 
 	for elem in d["geonames"]:
-		if elem["fcode"]=="PCLI":
-			return CodeCountryContinent(CountryContinent(elem["countryName"]), elem["countryCode"])
+		if "fcode" in elem and elem["fcode"]=="PCLI":
+			return CodeCountryContinent(elem["countryName"], elem["countryCode"])
+		elif "fcode" not in elem:
+			print("Pas de fcode pour " + text)
 
 	return None
 
 def getContinentCountry(text):
-	res = getCountryInBuffer(text)
-	if res is not None:
-		return res
+    res = getCountryInBuffer(text)
+    if res is not None:
+        return res
 
-	codeRes = getCountry(text)
-	if codeRes is None:
-		appendInBuffer(text, CountryContinent(None))
-		return None
-	with open('countries.json') as json_data:
+    codeRes = getAPICountry(text)
+    if codeRes is None:
+        countryContinent = CountryContinent(text, "unknown")
+        appendInBuffer(text, countryContinent)
+        return countryContinent
+    with open('countries.json') as json_data:
 		d = json.load(json_data)
 		continentCode = d["countries"][codeRes.countryCode]["continent"]
 		codeRes.countryContinent.continentName = d["continents"][continentCode]
 		appendInBuffer(text, codeRes.countryContinent)
 		return codeRes.countryContinent
+
+#res = getContinentCountry("Ellas")
+#print(res.countryName + " " + res.continentName)
