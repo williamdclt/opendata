@@ -21,25 +21,25 @@ class CodeCountryContinent:
 
 def getCountryInBuffer(text):
 	if not os.path.isfile('buffer_countries.json'):
-		with open('buffer_countries.json', 'a') as json_data:
+		with open('buffer_countries.json', 'a', "utf-8") as json_data:
 			d = {}
 			json.dump(d, json_data)
 			return None
-	with open('buffer_countries.json', 'r') as json_data:
+	with open('buffer_countries.json', 'r', "utf-8") as json_data:
 		d = json.load(json_data)
 		if text not in d:
 			return None
 		return CountryContinent(d[text]["countryName"], d[text]["continentName"])
 
 def appendInBuffer(text, contiCountry):
-	with open('buffer_countries.json') as json_data:
+	with open('buffer_countries.json', 'r', "utf-8") as json_data:
 		d = json.load(json_data)
 		d[text] = {
 			'countryName': contiCountry.countryName,
 			'continentName': contiCountry.continentName
 			}
 
-	with open('buffer_countries.json', 'w') as outfile:
+	with open('buffer_countries.json', 'w', "utf-8") as outfile:
 		json.dump(d, outfile)
 
 def getAPICountry(text):
@@ -64,7 +64,7 @@ def getContinentCountry(text):
         countryContinent = CountryContinent(text, "unknown")
         appendInBuffer(text, countryContinent)
         return countryContinent
-    with open('countries.json') as json_data:
+    with open('countries.json', 'r', "utf-8") as json_data:
 		d = json.load(json_data)
 		continentCode = d["countries"][codeRes.countryCode]["continent"]
 		codeRes.countryContinent.continentName = d["continents"][continentCode]
