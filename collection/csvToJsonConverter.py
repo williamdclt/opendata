@@ -1,12 +1,17 @@
 #!/usr/bin/env python
 
-from math import sqrt
-from json import JSONEncoder
 import csv
 import json
+import sys
+import country_identifier
+from math import sqrt
+from json import JSONEncoder
 from sets import Set
 from collections import defaultdict
 from string import ascii_lowercase
+reload(sys)
+
+sys.setdefaultencoding('utf-8')
 
 ####### Structure des fichiers csv #######
 ## artists
@@ -63,7 +68,7 @@ class Drawable:
 
 class Ensemble(Drawable):
     def __init__(self, name, level):
-        Drawable.__init__(name, level)
+        Drawable.__init__(self, name, level)
         self.children = []
 
     def add_child(self, child):
@@ -88,7 +93,7 @@ class Part(Ensemble):
 
 class Decoupable(Ensemble):
     def __init__(self, name, level, level_child):
-        Ensemble.__init__(self, level)
+        Ensemble.__init__(self, name, level)
         self.level_child = level_child
 
     def compute_decoupable(self):
@@ -159,7 +164,7 @@ class Continent(Decoupable):
         Decoupable.__init__(self, name, "Continent", "Country")
 
 
-class Pays(Decoupable):
+class Country(Decoupable):
     def __init__(self, name):
         Decoupable.__init__(self, name, "Country", "City")
 
@@ -211,14 +216,20 @@ class Location:
         self.continent = continent
 
 
-def get_pays(pays):
-    if pays not in countries_dict:
-        countries_dict[pays] = Pays(pays)
-    return countries_dict[pays]
+def get_continent(continent):
+    if continent not in continents_dict:
+        continents_dict[continent] = Continent(continent)
+    return continents_dict[continent]
 
 
-def get_city(city, pays):
-    index = city + pays
+def get_country(country):
+    if country not in countries_dict:
+        countries_dict[country] = Country(country)
+    return countries_dict[country]
+
+
+def get_city(city, country):
+    index = city + country
     if index not in cities_dict:
         cities_dict[index] = City(city)
     return cities_dict[index]
@@ -264,9 +275,9 @@ for artist in artistreader:
     #on extrait l'artiste
     id = artist[0]
     artist = Artist(id, artist[1], artist[4], artist[8], artist[6], artist[7], artist[2])
-    continent = get_continent(location.continent)
     city = get_city(location.city, location.country)
-    country = get_pays(country)
+    country = get_country(location.country)
+    continent = get_continent(location.continent)
 
     artists_dict[id] = artist
     city.add_child(artist)
