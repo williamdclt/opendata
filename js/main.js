@@ -2,37 +2,7 @@
 // send the collection of artists. The index in the array is NOT the
 // ID of the artist
 parse(main);
-//artist(558);
-/**
-* Properties of an Artist object:
-* id
-* name
-* yearOfBirth
-* yearOfDeath
-* placeOfBirth ("city, country" | "country")
-* placeOfDeath ("city, country" | "country")
-* gender ("Female" | "Male")
-* artworks (array of Artwork objects)
-*/
 
-/**
-* Properties of an Artwork object:
-* id
-* artist (theoretically equivalent to its artist name)
-* artistId (equivalent to its artist id)
-* title
-* medium
-* year
-* dimension (Dimension object)
-*/
-
-/**
-* Properties of a Dimension object:
-* width
-* height
-* depth
-* unit
-*/
 var currentDepth = 0;
 
 var svg = d3.select("#map"),
@@ -58,29 +28,33 @@ function main(countries) {
     nodes = pack(root).descendants(),
     view;
 
+    // Création des nodes
     var circle = g.selectAll("circle")
     .data(nodes)
     .enter().append("circle")
-    .attr("class", function(d) { return d.parent ? (d.children ? "node" : "node") : "node node--root"; })
+    .attr("class", function(d) { return d.parent ? "node" : "node node--root"; })
     .style("fill", function(d) { return color(d.data.ratio); })
     .style("stroke-opacity", function(d) { return d.depth == 1 ? 1 : 0; })
     .style("display", function(d) { return d.parent === root || d.depth == 0 ? "inline" : "none"; })
     .on("click", function(d) {
         currentDepth = d.depth;
 
+        // S'il n'y a pas de noeud enfant, alors il s'agit d'un artiste et on
+        // affiche le panneau latéral correspondant à l'artiste sur lequel on a cliqué
         if(! d.children){
             artist(d.data.id);
-            console.log(d.data.id);
-            d3.event.stopPropagation();
+        }
+        else if (focus !== d){
+            zoom(d);
         }
         else{
-            if (focus !== d)
-                zoom(d), d3.event.stopPropagation();
-            else
-                zoom(d.parent), d3.event.stopPropagation();
+            zoom(d.parent);
         }
+
+        d3.event.stopPropagation();
     });
 
+    // Création des labels des nodes
     var text = g.selectAll("text")
     .data(nodes)
     .enter().append("text")
@@ -91,14 +65,16 @@ function main(countries) {
     .text(function(d) {
         if(d.data.level_child == "Artwork"){
             var res = d.data.name.split(",");
-            return res[1]+" "+res[0];
+            if(res.length > 1){
+                return res[1]+" "+res[0];
+            }
+            return res[0];
         }
         else{
             return d.data.name;
         }
-
     });
-
+    
     var node = g.selectAll("circle,text");
 
     // Ajout d'un event qui dézoome sur l'ensemble du graphe au clic sur le background du svg
