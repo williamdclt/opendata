@@ -321,13 +321,10 @@ for a in artists_dict:
 
 for c in cities_dict:
     cities_dict[c].compute_decoupable()
-    print("CITY " + c + " : " + str(len(cities_dict[c].children)) + " parts artistes")
 for c in countries_dict:
     countries_dict[c].compute_decoupable()
-    print("PAYS " + c + " : " + str(len(countries_dict[c].children)) + " parts villes")
 for c in continents_dict:
     continents_dict[c].compute_decoupable()
-    print("CONT " + c + " : " + str(len(continents_dict[c].children)) + " parts pays")
 collection.compute_decoupable()
 collection.male_ratio()
 
