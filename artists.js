@@ -2,7 +2,7 @@
 function artist(_id_artist){
     // Efface les informations déjà affichées
     d3.select("#artists").selectAll("*").remove();
-
+    d3.select("#artist").style("display","inline-block");
 
     var svg = d3.select("#artists"),
     width = +svg.attr("width"),
@@ -50,12 +50,14 @@ function artist(_id_artist){
           .attr("y", "0%")
           .attr("height", "100%")
           .attr("width", "100%")
-          .attr("viewBox", "0 0 512 512");
+          .attr("viewBox", function(d){
+            return "0 0 256 256";
+        });
 
           pictures.append("rect")
           .attr("fill","white")
-          .attr("width","512")
-          .attr("height","512");
+          .attr("width","256")
+          .attr("height","256");
 
           pictures.append("image")
           .attr("xlink:href",function(d){
@@ -63,8 +65,8 @@ function artist(_id_artist){
                   return d.gender ? d.gender+".png" : "female.png";
               return d.url != "" ? d.url : "copyright.png";
           })
-          .attr("width","512")
-          .attr("height","512");
+          .attr("width","256")
+          .attr("height","256");
 
 
 
@@ -108,4 +110,5 @@ function artist(_id_artist){
     function redirect(d) {
       window.open(d.tatelink)
     }
+
 }
