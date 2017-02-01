@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
     <meta charset="utf-8">
 
     <style>
@@ -14,13 +15,14 @@
     .nodes circle {
       stroke: #fff;
       stroke-width: 1.5px;
-    }
 
+    }
 
     .node {
         cursor: pointer;
         stroke: #222;
         stroke-width: 1.5px;
+        stroke-opacity: 0;
     }
 
     .node:hover {
@@ -32,9 +34,11 @@
     }
 
     .label {
-        font: 11px "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+        font-size: : 11px;
         text-anchor: middle;
-        text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+        color: white;
+        text-shadow: 0 1px 0 black, 1px 0 0 black, -1px 0 0 black, 0 -1px 0 black;
     }
 
     .label,
@@ -48,22 +52,28 @@
         text-transform: capitalize;
     }
 
+    #artist{
+        display: none;
+    }
+
     #infos{
         display: block;
-        background-color: rgb(239, 240, 242);
+        background-color:#EDEDED;
         padding: 10px;
         text-align: center;
+
     }
     body {
-        margin: 0; /* pour éviter les marges */
+        margin: 0;
+        background:#EDEDED;
+        font-family: 'Lato', sans-serif;
+        color: black;
     }
 
     #content{
         width: 100%;
         text-align: center;
-
     }
-
 
     </style>
 
@@ -74,11 +84,13 @@
 </head>
 
 <body>
-    <div id="infos" >
-        Hello
-    </div>
+
     <div id="content">
+
         <div id="graph" >
+            <div id="infos" >
+                Hello
+            </div>
             <svg id="map" width="800" height="800"></svg>
         </div>
         <div id="artist" >
