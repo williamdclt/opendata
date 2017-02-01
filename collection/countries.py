@@ -25,7 +25,7 @@ class Country:
 	def __init__(self, name, levenValue):
         	self.name = name
         	self.levenValue = levenValue
-		self.continent = None
+			self.continent = None
 
 class ContiCountry:
 	def __init__(self, country, continent):
