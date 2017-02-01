@@ -2,7 +2,7 @@
 // send the collection of artists. The index in the array is NOT the
 // ID of the artist
 parse(main);
-//artist();
+
 /**
 * Properties of an Artist object:
 * id
@@ -61,16 +61,26 @@ function main(countries) {
     var circle = g.selectAll("circle")
     .data(nodes)
     .enter().append("circle")
-    .attr("class", function(d) { return d.parent ? (d.children ? "node" : "node ") : "node node--root"; })
+    .attr("class", function(d) { return d.parent ? (d.children ? "node" : "node") : "node node--root"; })
     .style("fill", function(d) { return color(d.data.ratio); })
     .style("display", function(d) { return d.parent === root || d.depth == 0 ? "inline" : "none"; })
     .on("click", function(d) {
         currentDepth = d.depth;
 
-        if (focus !== d)
-            zoom(d), d3.event.stopPropagation();
-        else
-            zoom(d.parent), d3.event.stopPropagation();
+        if(! d.children){
+            artist(d.data.id);
+            console.log(d.data.id);
+            d3.event.stopPropagation();
+        }
+        else{
+            if (focus !== d)
+                zoom(d), d3.event.stopPropagation();
+            else
+                zoom(d.parent), d3.event.stopPropagation();
+        }
+
+
+
     });
 
     var text = g.selectAll("text")
@@ -133,8 +143,8 @@ function main(countries) {
     }
 }
 
-function artist(){
-
+function artist(_id_artist){
+    d3.select("#artists").selectAll("*").remove();
     var svg = d3.select("#artists"),
     width = +svg.attr("width"),
     height = +svg.attr("height");
@@ -146,7 +156,7 @@ function artist(){
     .force("charge", d3.forceManyBody().strength(-1000))
     .force("center", d3.forceCenter(width / 2, height / 2));
 
-    d3.json("collection/0.json", function(error, graph) {
+    d3.json("collection/artists/"+_id_artist+".json", function(error, graph) {
         if (error) throw error;
 
         var link = svg.append("g")
@@ -180,11 +190,19 @@ function artist(){
           .attr("y", "0%")
           .attr("height", "100%")
           .attr("width", "100%")
-          .attr("viewBox", "0 0 512 512")
-          .append("image")
-          .attr("xlink:href",function(d){return d.url;})
+          .attr("viewBox", "0 0 512 512");
+
+          pictures.append("rect")
+          .attr("fill","white")
           .attr("width","512")
           .attr("height","512");
+
+          pictures.append("image")
+          .attr("xlink:href",function(d){return d.url != "" ? d.url : "copyright.png";})
+          .attr("width","512")
+          .attr("height","512");
+
+
 
 
         node.append("title")

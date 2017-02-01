@@ -132,7 +132,7 @@ class Artist(Decoupable):
         self.children.append(artwork)
 
     def male_ratio(self):
-        ratio = MaleRatio() 
+        ratio = MaleRatio()
         ratio.nb_artists = 1
         if self.gender == "male":
             ratio.nb_male = 1
@@ -269,7 +269,7 @@ for a in artists_dict:
     #on va desormais creer un fichier json pour chaque artiste contenant ses oeuvres
     #on cree chaque tableau
     #le nodes contient au moins l'artiste, avec un lien vesr sa page
-    nodeArtist = Node("Artist", 5, artists_dict[a].name, None, artists_dict[a].url)
+    nodeArtist = Node("Artist", 30, artists_dict[a].name, None, artists_dict[a].url)
     tableauNodes = [nodeArtist]
     tableauLinks = []
     max_nodes=30
