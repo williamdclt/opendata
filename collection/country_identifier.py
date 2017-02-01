@@ -3,6 +3,7 @@
 import json
 import requests
 import os.path
+import time
 
 class CountryContinent:
 	def __init__(self, countryName, continentName="unknown"):
@@ -16,7 +17,10 @@ class CodeCountryContinent:
 
 def getCountryInBuffer(text):
 	if not os.path.isfile('buffer_countries.json'):
-		return None
+		with open('buffer_countries.json', 'a') as json_data:
+			d = {}
+			json.dump(d, json_data)
+			return None
 	with open('buffer_countries.json', 'r') as json_data:
 		d = json.load(json_data)
 		if text not in d:
@@ -24,14 +28,15 @@ def getCountryInBuffer(text):
 		return CountryContinent(d[text]["countryName"], d[text]["continentName"])
 
 def appendInBuffer(text, contiCountry):
-	data = {}
-	data[text] = {
-		'countryName': contiCountry.countryName,
-		'continentName': contiCountry.continentName
-		}
+	with open('buffer_countries.json') as json_data:
+		d = json.load(json_data)
+		d[text] = {
+			'countryName': contiCountry.countryName,
+			'continentName': contiCountry.continentName
+			}
 
-	with open('buffer_countries.json', 'a+') as outfile:
-		json.dump(data, outfile)
+	with open('buffer_countries.json', 'w') as outfile:
+		json.dump(d, outfile)
 
 def getAPICountry(text):
 	r = requests.get('http://api.geonames.org/searchJSON?q=' + text + '&username=OpenBoniData')
@@ -57,11 +62,11 @@ def getContinentCountry(text):
         appendInBuffer(text, countryContinent)
         return countryContinent
     with open('countries.json') as json_data:
-        d = json.load(json_data)
-        continentCode = d["countries"][codeRes.countryCode]["continent"]
-        codeRes.countryContinent.continentName = d["continents"][continentCode]
-        appendInBuffer(text, codeRes.countryContinent)
-        return codeRes.countryContinent
+		d = json.load(json_data)
+		continentCode = d["countries"][codeRes.countryCode]["continent"]
+		codeRes.countryContinent.continentName = d["continents"][continentCode]
+		appendInBuffer(text, codeRes.countryContinent)
+		return codeRes.countryContinent
 
-res = getContinentCountry("Mabyth")
+res = getContinentCountry("Ellas")
 print(res.countryName + " " + res.continentName)
