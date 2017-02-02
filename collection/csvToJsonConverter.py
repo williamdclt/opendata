@@ -235,8 +235,6 @@ research = Research()
 
 for artist in artistreader:
     location = city_country_identifier.getLocation(artist[6])
-    if location.continentName == "unknown":
-        print("UNKNOWN: " + artist[6])
 
     #on trie, on extrait la city et le pays
     #on fait en sorte que l'artiste ne soit la que si son pays est present, sinn NSM
