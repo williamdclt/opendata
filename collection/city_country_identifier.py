@@ -118,8 +118,6 @@ def getLocation(text):
 		return location
 	with codecs.open('countries.json', 'r', "utf-8") as json_data:
 		d = json.load(json_data)
-		print("Le texte : " + text)
-		print("Je cherche le pays " + codeRes.countryCode + " de " + codeRes.location.cityName + " " + codeRes.location.countryName)
 		if codeRes.countryCode in d["countries"]:
 			continentCode = d["countries"][codeRes.countryCode]["continent"]
 			codeRes.location.continentName = d["continents"][continentCode]
