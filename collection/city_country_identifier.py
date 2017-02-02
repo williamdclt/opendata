@@ -46,7 +46,16 @@ def appendLocationInBuffer(text, contiCountry):
 		json.dump(d, outfile, ensure_ascii=False)
 
 def getCountry(country):
-	r = requests.get('http://api.geonames.org/searchJSON?q=' + country + '&username=OpenBoniData&fuzzy=0.8')
+	r = requests.get('http://api.geonames.org/searchJSON?q=' + country + '&username=OpenBoniData&fuzzy=0.85')
+	d = r.json()
+	isPCLH=False
+	for elem in d["geonames"]:
+		if "fcode" in elem and elem["fcode"].startswith("PC"):
+			if elem["fcode"]=="PCLH":
+				isPCLH=True
+			return CodeLocation("unknown", elem["countryName"], elem["countryCode"]), isPCLH
+
+	r = requests.get('http://api.geonames.org/searchJSON?q=' + country + '&username=OpenBoniData')
 	d = r.json()
 	isPCLH=False
 	for elem in d["geonames"]:
@@ -66,8 +75,10 @@ def getAPILocationStereo(splitText):
 		countryObj.location.countryName=splitText[-1]
 		return countryObj
 
-	r = requests.get('http://api.geonames.org/searchJSON?q=' + splitText[0] + '&country=' + countryObj.countryCode + '&username=OpenBoniData&fuzzy=0.8')
+	r = requests.get('http://api.geonames.org/searchJSON?q=' + splitText[0] + '&country=' + countryObj.countryCode + '&username=OpenBoniData&fuzzy=0.85')
 	d = r.json()
+
+	countryObj.location.cityName=splitText[0]
 
 	if d["totalResultsCount"] == 0:
 		return countryObj
@@ -81,7 +92,7 @@ def getAPILocationStereo(splitText):
 
 
 def getAPILocationMono(text):
-	r = requests.get('http://api.geonames.org/searchJSON?q=' + text + '&username=OpenBoniData&fuzzy=0.8')
+	r = requests.get('http://api.geonames.org/searchJSON?q=' + text + '&username=OpenBoniData&fuzzy=0.85')
 	d = r.json()
 	for elem in d["geonames"]:
 			if "fcode" in elem and elem["fcode"].startswith("PC"):
