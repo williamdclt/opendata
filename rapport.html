@@ -101,7 +101,12 @@
                     <div class=p_3>
                         <h3>Gestion de la localisation</h3>
                         <p>
-                        <span class="todo"><< TODO : Parler ici de API GeoNames pour les continents >></span>
+                        Les données utilisées ont la particularité de ne pas avoir de formalisme précis. Un lieu de naissance peut par exemple être indiqué par un couple "Ville, Pays", "Région, Pays", mais aussi par un simple mot étant "Pays", ou encore simplement "Ville".</br></br>
+                        Dans l'écriture des villes et des pays, un autre problème se pose. Ces deux éléments peuvent être écrits sous différentes langues. Nous pouvons trouver pour la Chine par exemple son écriture anglaise "China", mais nous pouvons le retrouver écrit comme "Zhonghua". La Grèce se retrouve ainsi parfois nommée "Ellás", qui est une façon peu orthodoxe d'écrire le nom de ce pays en Grec ancien avec des caractères modernes.</br></br>
+                        Pour palier à ce problème, nous utilisons l'API de GeoNames, très efficace pour retrouver le nom anglais d'un lieu géographique passé à l'API. Une succession de cas particuliers, mêlé à l'agencement des informations (couple d'information, information simple, ville ou pays selon les cas) a nécessité un long travail sur cette étape d'harmonisation des noms de localités, indispensable pour présenter un visuel de classification uniforme (on ne peut pas voir une bulle nommée "Greece", puis une autre nommée "Ellás").</br></br>
+                        Enfin, pour économiser des appels à l'API, nous utilisons une solution tout aussi efficace en terme de résultats, et surtout plus rapide, en utilisant un fichier JSON regroupant tous les pays du monde selon leur code pays (par exemple FR pour la France). Le code pays est récupéré à la volée dans l'étape précédente de l'appel à l'API GeoNames. Chaque pays a l'information du continent où elle se trouve.</br></br>
+                        Les appels à l'API prenant un temps non négligeable (moins d'une dizaine de minutes), nous avons mis en place un fichier buffer qui sauvegarde les résultats des appels à l'API selon la requête passée, en ne gardant que l'information de localisation nécessaire. Si une donnée est présente dans le buffer (écrit en JSON), la donnée sera récupérée dans ce fichier plutôt que grâce à un appel à l'API distante.
+
                         </p>
                     </div>
                     <div class=p_3>
