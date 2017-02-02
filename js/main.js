@@ -39,6 +39,27 @@ function levenshtein(a, b) {
   } return u[n];
 }
 
+function onNodeClick(d) {
+    currentDepth = d.depth;
+
+    // S'il n'y a pas de noeud enfant, alors il s'agit d'un artiste et on
+    // affiche le panneau latéral correspondant à l'artiste sur lequel on a cliqué
+    if(! d.children){
+        document.getElementById('research_artist').value = '';
+        artist(d.data.id, main.getNameFormated(d.data.name));
+    }
+    else if (focus !== d){
+        main.zoom(d);
+    }
+    else{
+        main.zoom(d.parent);
+    }
+
+    d3.event.stopPropagation();
+}
+
+var nodes;
+var root;
 //recherche sur l'ensemble des artistes lorsqu'on appuie sur entrée dans le champ recherche
 function researchKeyPressed(event) {
     if (event.keyCode == 13 && document.getElementById('research_artist').value != '') {
@@ -55,11 +76,20 @@ function researchKeyPressed(event) {
             }
         }
 
+        node = main.getById(tablo[minind].id);
+
+        parent = main.getById(node._groups[0][0].__data__.parent.data.id);
+        parent._groups[0][0].dispatchEvent(new Event('click'));
         artist(tablo[minind].id, tablo[minind].artist);
     }
 }
 
 function main(countries) {
+    function getById(id) {
+        return d3.select("#id" + id);
+    }
+    main.getById = getById;
+
     root = d3.hierarchy(countries)
     .sum(function(d) { return d.size; })
     .sort(function(a, b) { return b.value - a.value; });;
@@ -73,27 +103,11 @@ function main(countries) {
     .data(nodes)
     .enter().append("circle")
     .attr("class", function(d) { return d.parent ? "node" : "node node--root"; })
+    .attr("id", function (d) { return "id" + d.data.id })
     .style("fill", function(d) { return color(d.data.ratio); })
     .style("stroke-opacity", function(d) { return d.depth == 1 ? 1 : 0; })
     .style("display", function(d) { return d.parent === root || d.depth == 0 ? "inline" : "none"; })
-    .on("click", function(d) {
-        currentDepth = d.depth;
-
-        // S'il n'y a pas de noeud enfant, alors il s'agit d'un artiste et on
-        // affiche le panneau latéral correspondant à l'artiste sur lequel on a cliqué
-        if(! d.children){
-            document.getElementById('research_artist').value = ''
-            artist(d.data.id, getNameFormated(d.data.name));
-        }
-        else if (focus !== d){
-            zoom(d);
-        }
-        else{
-            zoom(d.parent);
-        }
-
-        d3.event.stopPropagation();
-    });
+    .on("click", onNodeClick);
 
     // Création des labels des nodes
     var text = g.selectAll("text")
@@ -115,7 +129,7 @@ function main(countries) {
     var node = g.selectAll("circle,text");
 
     // Ajout d'un event qui dézoome sur l'ensemble du graphe au clic sur le background du svg
-    svg.on("click", function() { console.log("svg"); zoom(root); currentDepth = 0 });
+    svg.on("click", function() { zoom(root); currentDepth = 0 });
 
     zoomTo([root.x, root.y, root.r * 2 + margin]);
 
@@ -132,14 +146,14 @@ function main(countries) {
         });
 
         transition.selectAll("text")
-        .filter(function(d) { return d.parent === focus || this.style.display === "inline"; })
+        .filter(function(d) { return d.parent === focus || this.style.display === "inline" || focus.parent === d || d === focus || d.parent === focus.parent;  })
         .style("fill-opacity", function(d) { return d.parent === focus ? 1 : 0; })
         .on("start", function(d) { if (d.parent === focus) this.style.display = "inline"; })
         .on("end", function(d) { if (d.parent !== focus) this.style.display = "none"; });
 
         transition.selectAll("circle")
         .filter(function(d) {
-            return d.parent === focus || this.style.display === "inline"
+            return d.parent === focus || this.style.display === "inline" || focus.parent === d || d === focus || d.parent === focus.parent;
         })
         .style("fill-opacity", function(d) {
             return d.parent === focus || d.depth <= currentDepth ? 1 : 0;
@@ -154,6 +168,13 @@ function main(countries) {
             this.style.display = "none";
         });
     }
+    main.zoom = zoom;
+
+    function fakeClick(d) {
+        d3.event = { altKey: false };
+        zoom(d);
+    }
+    main.fakeClick = fakeClick;
 
     function zoomTo(v) {
         var k = diameter / v[2];
@@ -169,4 +190,5 @@ function main(countries) {
         }
         return res[0];
     }
+    main.getNameFormated = getNameFormated;
 }
