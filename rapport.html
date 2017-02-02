@@ -20,6 +20,18 @@
                     </ul>
                 </div>
                 <div class="p_2">
+                  <h2>Avant toute chose : déploiement du projet</h2>
+                  <p>L'archive fournie ne contient que les données au format <i>CSV</i>. Ces données ne sont pas exploitables par notre programme pour le moment</p>
+                  <p>Pour pouvoir faire fonctionner le projet correctement, le script <strong>./launch.sh</strong> est fourni à la racine. Celui-ci s'occupera de générer les fichiers JSON nécessaires
+                    grâce au script Python <strong>collection/csvToJsonConverter.py</strong>, puis de démarrer un serveur simple sur le port 8000 grâce à la commande <strong>python -m SimpleHTTPServer 8000</strong>.
+                  </p>
+                  <p>Il est possible de faire ces opérations indépendamment en lançant le script <strong>csvToJsonConverter.py</strong> depuis le dossier <i>collection</i>, puis en lançant la commande <strong>python -m SimpleHTTPServer 8000</strong> depuis la racine du projet.</p>
+                  <p>Il est important de noter que l'on a besoin de générer les données JSON une seule fois. Le script utilise le module <strong>requests</strong> de python, qui n'est pas installé sur les ordinateurs de l'Ensimag.
+                    Si vous souhaitez le lancer depuis un ordinateur de l'Ensimag, une autre version du script utilisant ce module est fournie : <strong>collection/city_country_identifier.py-bufferonly</strong>. Il suffit de le renommer en <strong>collection/city_country_identifier.py</strong>. Le buffer sera fourni dans l'archive.
+                  </p>
+
+                </div>
+                <div class="p_2">
                     <h2>Présentation du projet</h2>
                     Notre projet a pour but de donner une vision globale de la provenance des œuvres issues de la collection des musées Tate.
 
