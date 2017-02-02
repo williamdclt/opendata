@@ -33,7 +33,7 @@
                         </ul>
                         Ces fichiers contiennent plus de 3 500 artistes et 70 000 œuvres.</br>
                         Nous avons choisi de prendre les données dans ce format plutôt que de prendre directement les fichiers <i>JSON</i> disponibles afin d'avoir plus d'informations dans un même fichier et de pouvoir extraire seulement les données qui nous intéressent.</br>
-                        << TODO : Parler ici de http://api.geonames.org/searchJSON >>
+                        <span style="color:red"><< TODO : Parler ici de http://api.geonames.org/searchJSON >></span>
                     </p>
                 </div>
                 <div class="p_3">
@@ -54,11 +54,25 @@
             <div class="p_2">
                 <h2>Traitements opérés</h2>
                 <p>
-                    Nous traitons les données grâce à un script Python qui va parser les données CSV pour en extraire les données dont nous avons besoin et les exporter dans plusieurs fichiers JSON. Tout d'abord on récupère les données des artistes du fichier <i>artist_data.csv</i>, dont sa localisation de naissance qui dans la plupart des cas est composée de "ville, pays" mais qui parfois ne contient que la ville ou le pays. Lorsque que l'une ou l'autre de ces information est manquante nous avons classé l'artiste dans le pays ou la ville "unknown" qui nous permettra de regrouper tous les artistes dont nous ne connaisons pas leur localisation exacte. Nous pouvons ensuite générer un fichier JSON qui contient cette répartition d'artistes et qui sera utilisé ensuite pour l'affichage des noeuds.
+                    Nous traitons les données grâce à un script Python qui va parser les données CSV pour en extraire les données dont nous avons besoin et les exporter dans plusieurs fichiers JSON. Tout d'abord on récupère les données des artistes du fichier <i>artist_data.csv</i>, dont sa localisation de naissance qui dans la plupart des cas est composée de "ville, pays" mais qui parfois ne contient que la ville ou le pays. Lorsque que l'une ou l'autre de ces information est manquante nous avons classé l'artiste dans le pays ou la ville "unknown" qui nous permettra de regrouper tous les artistes dont nous ne connaisons pas leur localisation exacte. </br>
+                    <span style="color:red"><< TODO : Parler de la fragmentation alphabétique >></span>
+                    <span style="color:red"><< TODO : Parler ici de API GeoNames pour les continents >></span>
+                    </br>Nous pouvons ensuite générer un fichier JSON qui contient cette répartition d'artistes et qui sera utilisé ensuite pour l'affichage des noeuds.
                 </p>
                 <p>
                     Nous associons ensuite les oeuvres du fichier <i>artwork_data.csv</i> à chaque artiste. Ceci permet ensuite de créer un fichier JSON par artiste avec une liste de ses oeuvres, nous avons limité le nombre d'oeuvres à 40.
+
                 </p>
+                <div class="p_3">
+                    <h3>Problèmes rencontrés</h3>
+                    <p>
+                        Dans un premier temps nous affichions tous les niveaux d'imbrication et chaque élément indépendamment sans regroupement. Mais etant donné que le nombre de pays, de villes et d'artistes est assez important le navigateur avait beaucoup de mal à afficher l'ensemble des informations et cela était illisible. </br>Nous avons donc tout d'abord choisi de n'afficher qu'un seul niveau d'imbrication à la fois en masquant l'intérieur d'un noeud tant qu'on ne clique pas dessus. Ensuite la granularité était encore trop fine pour les 3 niveaux d'imbrication donc nous les avons regroupés par ordre-alphabétique.</li>
+                    </p>
+                    <p>
+                        Certains artistes, comme Joseph Mallord William Turner, ont beaucoup d'oeuvres répertoriées contrairement à d'autres, ce qui fait que certains noeuds étaient trop grand comparé aux autres avec peu d'oeuvres. Nous avons donc appliqué une taille du noeud en fonction de la racine carrée du nombre d'oeuvres.
+                    </p>
+
+                </div>
 
             </div>
             <div class="p_2">
