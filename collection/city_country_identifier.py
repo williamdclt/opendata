@@ -45,8 +45,23 @@ def appendLocationInBuffer(text, contiCountry):
 	with codecs.open('buffer_countries.json', 'w', "utf-8") as outfile:
 		json.dump(d, outfile, ensure_ascii=False)
 
+def getCountryCode(text):
+	s = (text.split(","))[-1]
+	r = requests.get('http://api.geonames.org/searchJSON?q=' + s + '&username=OpenBoniData')
+	d = r.json()
+	for elem in d["geonames"]:
+		if "fcode" in elem and elem["fcode"]=="PCLI":
+			return elem["countryCode"]
+
+	return None
+
 def getAPILocation(text, twoParts):
-	r = requests.get('http://api.geonames.org/searchJSON?q=' + text + '&username=OpenBoniData')
+
+	if twoParts:
+		countryCode = getCountryCode(text)
+		r = requests.get('http://api.geonames.org/searchJSON?q=' + (text.split(","))[0] + '&country=' + countryCode + '&username=OpenBoniData')
+	else:
+		r = requests.get('http://api.geonames.org/searchJSON?q=' + text + '&username=OpenBoniData')
 	d = r.json()
 
 	if not twoParts:
