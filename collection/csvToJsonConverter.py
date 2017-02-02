@@ -156,8 +156,9 @@ class Country(Partitionnable):
 
 
 class City(Partitionnable):
-    def __init__(self, name):
+    def __init__(self, id, name):
         Partitionnable.__init__(self, name, "City", "Artist")
+        self.id = id
 
 
 class Collection(Partitionnable):
@@ -219,10 +220,13 @@ def get_country(country):
     return countries_dict[country]
 
 
+id_city = 0
 def get_city(city, country):
+    global id_city
     index = city + country
     if index not in cities_dict:
-        cities_dict[index] = City(city)
+        cities_dict[index] = City("city" + str(id_city), city)
+        id_city += 1
     return cities_dict[index]
 
 
