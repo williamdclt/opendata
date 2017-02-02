@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 import json
-import requests
+#import requests
 import os.path
 import time
 import sys
@@ -46,7 +46,7 @@ def appendLocationInBuffer(text, contiCountry):
 		json.dump(d, outfile, ensure_ascii=False)
 
 def getAPILocation(text, twoParts):
-	r = requests.get('http://api.geonames.org/searchJSON?q=' + text + '&username=OpenBoniData')
+	#r = requests.get('http://api.geonames.org/searchJSON?q=' + text + '&username=OpenBoniData')
 	d = r.json()
 
 	if not twoParts:
