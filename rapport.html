@@ -29,6 +29,7 @@
                   <p>Il est important de noter que l'on n'a besoin de générer les données JSON qu'une seule fois. Le script utilise le module <strong>requests</strong> de python, qui n'est pas installé sur les ordinateurs de l'Ensimag.
                     Si vous souhaitez le lancer depuis un ordinateur de l'Ensimag, une autre version du script utilisant ce module est fournie : <strong>collection/city_country_identifier.py-bufferonly</strong>. Il suffit de le renommer en <strong>collection/city_country_identifier.py</strong>. Le buffer sera fourni dans l'archive.
                   </p>
+                  <p>Il suffira ensuite d'ouvrir un navigateur et d'aller à l'adresse <strong>localhost:8000</strong> pour lancer l'application</p>
 
                 </div>
                 <div class="p_2">
@@ -134,6 +135,15 @@
                 <div class="p_2">
                     <h2>Architecture</h2>
                     <p>
+                        L'architecture du projet est la suivante : <br>
+                        <ul>
+                          <li><strong>/</strong> : la racine. Elle contient les 2 fichiers html, ainsi que le script <i>launch.sh</i></li>
+                          <li><strong>/js</strong> : contient tous les fichiers Javascript nécessaires au bon fonctionnement du site web</li>
+                          <li><strong>/css</strong> : contient le fichier style.css, qui contient le style des pages web ainsi que de ce rapport</li>
+                          <li><strong>/assets</strong> : contient quelques images qui seront affichées lors de la présentation des tableaux. Une pour les tableaux dont l'image n'est pas disponible à cause du copyright, une pour représenter les artistes de sexe masculin et une pour représenter les artistes de sexe féminin.</li>
+                          <li><strong>/collection</strong> : contient les 2 fichiers artist_data.csv et artwork_data.csv, quelques fichiers .json nécessaires à la détermination du pays, et plus important, les scripts nécessaires à la conversion de ces données en multiples fichiers json.
+                            C'est dans ce dossier que seront générées les données concernant les artistes et leur géolocalisation, ainsi que celui permettant de faciliter la recherche.</li>
+                          <li><strong>/collection/artists</strong> : ce dossier contiendra de nombreux fichiers json (un par artiste), générés par les scripts python. Ces fichiers contiennent les graphes représentant l'artiste et ses oeuvres.</li>
                     </p>
                 </div>
                 <div class="p_2">

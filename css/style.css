@@ -16,6 +16,11 @@ i {
     color: #586e75;
 }
 
+p {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
 .page-wrap {
     min-height: 100%;
     margin-bottom: -50px;
