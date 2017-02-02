@@ -45,34 +45,38 @@ def appendLocationInBuffer(text, contiCountry):
 	with codecs.open('buffer_countries.json', 'w', "utf-8") as outfile:
 		json.dump(d, outfile, ensure_ascii=False)
 
-def getCountryCode(text):
-	s = (text.split(","))[-1]
-	r = requests.get('http://api.geonames.org/searchJSON?q=' + s + '&username=OpenBoniData&fuzzy=0.8')
+def getCountry(country):
+	r = requests.get('http://api.geonames.org/searchJSON?q=' + country + '&username=OpenBoniData&fuzzy=0.8')
 	d = r.json()
 	for elem in d["geonames"]:
 		if "fcode" in elem and elem["fcode"]=="PCLI":
-			return elem["countryCode"]
+			return CodeLocation("unknown", elem["countryName"], elem["countryCode"])
 
 	return None
 
-def getAPILocation(text, twoParts):
-	if twoParts:
-		countryCode = getCountryCode(text)
-		if countryCode == None:
-			return None
-		r = requests.get('http://api.geonames.org/searchJSON?q=' + (text.split(","))[0] + '&country=' + countryCode + '&username=OpenBoniData&fuzzy=0.8')
-	else:
-		r = requests.get('http://api.geonames.org/searchJSON?q=' + text + '&username=OpenBoniData&fuzzy=0.8')
+def getAPILocationStereo(splitText):
+	countryObj = getCountry(splitText[-1])
+	if countryObj is None:
+		return getAPILocationMono(splitText[0])
 
+	r = requests.get('http://api.geonames.org/searchJSON?q=' + splitText[0] + '&country=' + countryObj.countryCode + '&username=OpenBoniData&fuzzy=0.8')
 	d = r.json()
 
-	if twoParts and d["totalResultsCount"] == 0:
-		r = requests.get('http://api.geonames.org/searchJSON?q=' + (text.split(","))[-1] + '&username=OpenBoniData&fuzzy=0.8')
-		d = r.json()
-		twoParts=False
+	if d["totalResultsCount"] == 0:
+		return countryObj
 
-	if not twoParts:
-		for elem in d["geonames"]:
+	for elem in d["geonames"]:
+			if "fcode" in elem and elem["fcode"].startswith("PP"):
+				countryObj.location.cityName=elem["name"]
+				return countryObj
+
+	return None
+
+
+def getAPILocationMono(text):
+	r = requests.get('http://api.geonames.org/searchJSON?q=' + text + '&username=OpenBoniData&fuzzy=0.8')
+	d = r.json()
+	for elem in d["geonames"]:
 			if "fcode" in elem and elem["fcode"]=="PCLI":
 				return CodeLocation("unknown", elem["countryName"], elem["countryCode"])
 
@@ -82,25 +86,25 @@ def getAPILocation(text, twoParts):
 
 	return None
 
-def isInTwoParts(text):
-	return len(text.split(",")) >= 2
-
 def getLocation(text):
 	if not text.strip():
 		return Location()
 
 	text = unicode(text, "utf-8")
+	splitText = text.split(",")
+	b = len(splitText) > 1
 
-	b = isInTwoParts(text)
 	res = getLocationInBuffer(text)
 	if res is not None:
 		return res
 
-	codeRes = getAPILocation(text, b)
+	if b:
+		codeRes = getAPILocationStereo(splitText)
+	else:
+		codeRes = getAPILocationMono(text)
 	if codeRes is None:
 		if b:
-			sp = text.split(",")
-			location = Location(sp[0].strip(), sp[-1].strip())
+			location = Location(splitText[0].strip(), splitText[-1].strip())
 		else:
 			location = Location(text)
 		appendLocationInBuffer(text, location)
