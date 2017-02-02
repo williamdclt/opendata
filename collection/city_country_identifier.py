@@ -79,8 +79,12 @@ def isInTwoParts(text):
 	return len(text.split(",")) >= 2
 
 def getLocation(text):
-	b = isInTwoParts(text)
+	if not text.strip()
+		return Location()
+
 	text = unicode(text, "utf-8")
+
+	b = isInTwoParts(text)
 	res = getLocationInBuffer(text)
 	if res is not None:
 		return res
