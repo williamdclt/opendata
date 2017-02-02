@@ -1,44 +1,57 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <meta charset="utf-8">
-    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
-</head>
+    <head>
+        <meta charset="utf-8">
+        <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+        <link href="css/style.css" rel="stylesheet">
+    </head>
 
-<body>
-    <div style="width:1180px;margin:auto;">
-        <div class="well">
-            <h1>Rapport du challenge OpenData </h1>
-            <div class="p_2">
-                <h2>Equipe</h2>
-                <ul>
-                    <li>Corentin COURNAC</li>
-                    <li>Mathieu DAURE</li>
-                    <li>William DUCLOT</li>
-                    <li>Pierre PRESENT</li>
-                </ul>
-            </div>
-            <div class="p_2">
-                <h2>Présentation du projet</h2>
-                Notre projet a pour but de donner une vision globale de la provenance des œuvres issues de la collection des musées Tate.
+    <body>
+        <div style="width:1180px;margin:auto;">
+            <div class="well">
+                <h1>Rapport du challenge OpenData </h1>
+                <div class="p_2">
+                    <h2>Equipe</h2>
+                    <ul>
+                        <li>Corentin COURNAC</li>
+                        <li>Mathieu DAURE</li>
+                        <li>William DUCLOT</li>
+                        <li>Pierre PRESENT</li>
+                    </ul>
+                </div>
+                <div class="p_2">
+                    <h2>Présentation du projet</h2>
+                    Notre projet a pour but de donner une vision globale de la provenance des œuvres issues de la collection des musées Tate.
 
-                <div class="p_3">
-                    <h3>Source des données</h3>
-                    <p>
+                    <div class="p_3">
+                        <h3>Source des données</h3>
+                        <p>
                         Les données proviennent du dépôt GitHub <a href="https://github.com/tategallery/collection">tategallery/collection</a>, nous avons récupéré les données au format <i>CSV</i> soit 2 fichiers :
                         <ul>
                             <li><a href="collection/artist_data.csv">artist_data.csv</a> de 482 ko</li>
                             <li><a href="collection/artwork_data.csv">artwork_data.csv</a> de 24,4 Mo</li>
                         </ul>
-                        Ces fichiers contiennent plus de 3 500 artistes et 70 000 œuvres.</br>
-                        Nous avons choisi de prendre les données dans ce format plutôt que de prendre directement les fichiers <i>JSON</i> disponibles afin d'avoir plus d'informations dans un même fichier et de pouvoir extraire seulement les données qui nous intéressent.</br>
-                        <span style="color:red"><< TODO : Parler ici de http://api.geonames.org/searchJSON >></span>
-                    </p>
-                </div>
-                <div class="p_3">
-                    <h3>Technologies utilisées</h3>
-                    <p>
+                        Ces fichiers contiennent environ 3 500 artistes et 70 000 œuvres.</br>
+                        <span class="todo"><< TODO : Parler ici de http://api.geonames.org/searchJSON >></span>
+                        </p>
+                    </div>
+                    <div class="p_3">
+                        <h3>Visualisation</h3>
+                        <p>
+                        L'idée est de représenter l'ensemble des œuvres présentes dans la collection sous la forme de <i>packed circles</i>, c'est à dire de cercles inclus les un dans les autres, regroupant les œuvres selon des critères de plus en plus fins.<br/>
+                        Ainsi, on peut zoomer dans chaque cercle pour affiner de plus en plus les critères, jusqu'à visualiser les artistes et leurs œuvres. Ces critères, dans l'ordre, sont les suivants :
+                        <ul>
+                            <li>Continent</li>
+                            <li>Pays</li>
+                            <li>Ville</li>
+                            <li>Artiste</li>
+                        </ul>
+                        Par exemple, pour accéder aux œuvres de Joseph Turner, on pourra cliquer sur le continent Europe, puis United Kingdom, puis London, puis Joseph Turner. On peut ainsi visualiser une sélection des œuvres de cet artiste, et accéder à la page dédiée à une œuvre sur le site du Tate Museum en cliquant sur sa vignette.
+                        </p>
+                    </div>
+                    <div class="p_3">
+                        <h3>Technologies utilisées</h3>
+                        <p>
                         <ul>
                             <li>Python : Pour le traitement des données CSV et la génération des fichier JSON dont nous avons besoin.</li>
                             <li>Javascript + bibliothèque <a href="https://d3js.org/">D3.js</a> : D3.js est une bibliothèque graphique pour manipuler, traiter et afficher des données sous plusieurs formats. Nous avons utilisés 2 types de représentations à partir de modèles existants :
@@ -48,44 +61,84 @@
                                 </ul>
                             </li>
                         </ul>
-                    </p>
+                        </p>
+                    </div>
                 </div>
-            </div>
-            <div class="p_2">
-                <h2>Traitements opérés</h2>
-                <p>
-                    Nous traitons les données grâce à un script Python qui va parser les données CSV pour en extraire les données dont nous avons besoin et les exporter dans plusieurs fichiers JSON. Tout d'abord on récupère les données des artistes du fichier <i>artist_data.csv</i>, dont sa localisation de naissance qui dans la plupart des cas est composée de "ville, pays" mais qui parfois ne contient que la ville ou le pays. Lorsque que l'une ou l'autre de ces information est manquante nous avons classé l'artiste dans le pays ou la ville "unknown" qui nous permettra de regrouper tous les artistes dont nous ne connaisons pas leur localisation exacte. </br>
-                    <span style="color:red"><< TODO : Parler de la fragmentation alphabétique >></span>
-                    <span style="color:red"><< TODO : Parler ici de API GeoNames pour les continents >></span>
-                    </br>Nous pouvons ensuite générer un fichier JSON qui contient cette répartition d'artistes et qui sera utilisé ensuite pour l'affichage des noeuds.
-                </p>
-                <p>
-                    Nous associons ensuite les oeuvres du fichier <i>artwork_data.csv</i> à chaque artiste. Ceci permet ensuite de créer un fichier JSON par artiste avec une liste de ses oeuvres, nous avons limité le nombre d'oeuvres à 40.
-
-                </p>
-                <div class="p_3">
-                    <h3>Problèmes rencontrés</h3>
-                    <p>
+                <div class="p_2">
+                    <h2>Traitements opérés</h2>
+                    <div class=p_3>
+                        <h3>Génération des JSON</h3>
+                        <p>
+                        La librairie D3 peut lire assez simplement des fichiers <i>CSV</i>, néanmoins il est beaucoup plus simple pour générer des graphes hiérarchiques (tels que les packed circles) d'utiliser un fichier JSON, qui est par essence hiérarchique.<br>
+                        Nous effectuons donc un traitement des données grâce à un script Python qui va parser les données CSV pour en extraire les données dont nous avons besoin et les exporter dans plusieurs fichiers JSON. Tout d'abord on parse les données des artistes du fichier <i>artist_data.csv</i> dans des structures de données (dictionnaires) correspondant à la hiérarchie que l'on va chercher à obtenir dans le JSON : les continents sont un ensemble de pays, qui sont un ensemble
+                        de villes, qui sont un ensemble d'artistes, qui sont un ensemble d'œuvres. Une fois ces structures créées, on les parcourt pour extraire des données supplémentaires (ratio homme/femme, partition par ordre alphabétique).</br>
+                        </br>Nous pouvons ensuite générer un fichier JSON qui contient cette répartition d'artistes et qui sera utilisé ensuite pour l'affichage des noeuds.
+                        </p>
+                        <p>
+                        Nous associons ensuite les oeuvres du fichier <i>artwork_data.csv</i> à chaque artiste. Ceci permet ensuite de créer un fichier JSON par artiste avec une liste de ses oeuvres, nous avons limité le nombre d'oeuvres à 40 pour ne pas saturer la visualisation.
+                        </p>
+                    </div>
+                    <div class="p_3">
+                        <h3>Visualisation</h3>
+                        <p>
+                        On utilise D3-hierarchy pour facilement utiliser le layout <i>pack</i> afin d'obtenir la visualisation sous forme de cercles imbriqués. Pour clarifier la visualisation, nous avons choisi de n'afficher qu'un seul niveau hiérarchique à la fois (dans un continent, on voit les pays mais pas les villes). Pour voir les niveaux inférieurs, il faut zoomer sur un cercle en cliquant dessus.</br>
+                        Pour ces effets de zooms et d'affichage, on utilise a la fois des propriétés SVG, des propriétés CSS et des traitements Javascript.
+                        </p>
+                    </div>
+                    <div class=p_3>
+                        <h3>Gestion de la localisation</h3>
+                        <p>
+                        <span class="todo"><< TODO : Parler ici de API GeoNames pour les continents >></span>
+                        </p>
+                    </div>
+                    <div class=p_3>
+                        <h3>Partitionnement par ordre alphabétique</h3>
+                        <p>
+                        <span>Le nombre de données étant très important, on peut se retrouver avec un grand nombre de "bulles" affichées à un niveau donné (beaucoup de villes dans un pays par example), ce qui rend la visualisation peu claire et informative. Nous avons fait le choix, lorsqu'il y a trop de données sur un niveau, de les grouper par intervalle alphabétique. Ce groupement se fait à partir d'un minimum de 10 données sur un niveau, et les intervalles sont
+                            construits pour équilibrer le nombre d'intervalles affichés et le nombre de données dans chaque intervalle : si l'on doit afficher 25 villes, on affichera 5 intervalles de 5 villes chacun.</span><br/>
+                        Ces groupements peuvent se faire à tout niveau (sauf continents) : groupement de pays, de villes ou d'artistes.
+                        </p>
+                    </div>
+                    <div class="p_3">
+                        <h3>Problèmes rencontrés</h3>
+                        <p>
                         Dans un premier temps nous affichions tous les niveaux d'imbrication et chaque élément indépendamment sans regroupement. Mais etant donné que le nombre de pays, de villes et d'artistes est assez important le navigateur avait beaucoup de mal à afficher l'ensemble des informations et cela était illisible. </br>Nous avons donc tout d'abord choisi de n'afficher qu'un seul niveau d'imbrication à la fois en masquant l'intérieur d'un noeud tant qu'on ne clique pas dessus. Ensuite la granularité était encore trop fine pour les 3 niveaux d'imbrication donc nous les avons regroupés par ordre-alphabétique.</li>
-                    </p>
-                    <p>
+                        </p>
+                        <p>
                         Certains artistes, comme Joseph Mallord William Turner, ont beaucoup d'oeuvres répertoriées contrairement à d'autres, ce qui fait que certains noeuds étaient trop grand comparé aux autres avec peu d'oeuvres. Nous avons donc appliqué une taille du noeud en fonction de la racine carrée du nombre d'oeuvres.
-                    </p>
+                        </p>
+
+                    </div>
 
                 </div>
+                <div class="p_2">
+                    <h2>Architecture</h2>
+                    <p>
+                    </p>
+                </div>
+                <div class="p_2">
+                    <h2>Bonus</h2>
+                    <p>
+                    Sur une note plus mathématique, nous avons voulu "jouer" avec ces données du Tate Museum en mettant en pratique des outils vu dans un autre cours : la mesure de similarité et le clustering.<br/>
+                    L'idée est de calculer et visualiser le degré de similarité entre œuvres. Ceci se fait en 3 phases :
+                    <ul>
+                        <li><strong>Pré-traitement</strong> en python, en lisant l'ensemble des fichiers JSON fournis par le Tate, extrayant pour chaque œuvre les données qu'on peut comparer. On exporte en CSV ces données (une ligne par œuvre).</li>
+                        <li>
+                            <strong>Traitement</strong> avec le langage R, outil extrêmement puissant qui nous permet de faire une matrice de dissimilarité comparant chaque paire d'œuvre.
+                            <ul>
+                                <li>On commence par créer une Dataframe, c'est a dire une matrice dont les colonnes ont différents types (artiste, année, dimensions...), chaque ligne étant une œuvre.</li>
+                                <li>On calcule la matrice de dissimilarité pour chaque couple d'œuvres. Pour cela, on calcule la dissimilarité pour chaque colonne puis on fait la moyenne. On utilise différentes methodes pour calculer ces dissimilarités puisque les colonnes sont de différents types (numérique, ordinal ou nominal).</li>
+                                <li>On fait une segmentation hiérarchique ascendante pour obtenir une structure hiérarchique qu'on peut exporter en JSON.</li>
+                            </ul>
+                        </li>
+                        <li><strong>Visualisation</strong> grâce à D3, sous la forme d'un dendrogramme (arbre hiérarchique regroupant les œuvres les plus similaires).</li>
+                    </ul>
 
-            </div>
-            <div class="p_2">
-                <h2>Architecture</h2>
-                <p>
-                </p>
-            </div>
-            <div class="p_2">
-                <h2>Bonus</h2>
-                <p>Nous avons également utilisé le logiciel R pour effectuer un clustering sur les oeuvres et afficher un dendogramme sous forme d'arbre avec D3.js, <a href="collection/tree.html">accéder à la page</a>.
-                </p>
+                    Ainsi, un utilisateur appréciant une œuvre pourrait aller chercher les œuvres similaires grâce à cet arbre.<br/>
+                    Il est a noter que cette visualisation pourrait être beaucoup plus poussée et précise, mais ce n'est que le résultat d'expériences par curiosité, que nous avons inclu en ouverture sur ce jeu de données !
+                    </p>
+                </div>
             </div>
         </div>
-    </div>
-</body>
+    </body>
 </html>
