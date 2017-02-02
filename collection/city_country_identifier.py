@@ -48,16 +48,23 @@ def appendLocationInBuffer(text, contiCountry):
 def getCountry(country):
 	r = requests.get('http://api.geonames.org/searchJSON?q=' + country + '&username=OpenBoniData&fuzzy=0.8')
 	d = r.json()
+	isPCLH=False
 	for elem in d["geonames"]:
-		if "fcode" in elem and elem["fcode"]=="PCLI":
-			return CodeLocation("unknown", elem["countryName"], elem["countryCode"])
+		if "fcode" in elem and elem["fcode"].startswith("PC"):
+			if elem["fcode"]=="PCLH":
+				isPCLH=True
+			return CodeLocation("unknown", elem["countryName"], elem["countryCode"]), isPCLH
 
-	return None
+	return None, isPCLH
 
 def getAPILocationStereo(splitText):
-	countryObj = getCountry(splitText[-1])
+	countryObj, isPCLH = getCountry(splitText[-1])
 	if countryObj is None:
 		return getAPILocationMono(splitText[0])
+	elif isPCLH:
+		countryObj.location.cityName=splitText[0]
+		countryObj.location.countryName=splitText[-1]
+		return countryObj
 
 	r = requests.get('http://api.geonames.org/searchJSON?q=' + splitText[0] + '&country=' + countryObj.countryCode + '&username=OpenBoniData&fuzzy=0.8')
 	d = r.json()
@@ -66,7 +73,7 @@ def getAPILocationStereo(splitText):
 		return countryObj
 
 	for elem in d["geonames"]:
-			if "fcode" in elem and elem["fcode"].startswith("PP"):
+			if "fcode" in elem and elem["fcode"].startswith("PP") or elem["fcode"].startswith("AD"):
 				countryObj.location.cityName=elem["name"]
 				break
 
@@ -77,11 +84,11 @@ def getAPILocationMono(text):
 	r = requests.get('http://api.geonames.org/searchJSON?q=' + text + '&username=OpenBoniData&fuzzy=0.8')
 	d = r.json()
 	for elem in d["geonames"]:
-			if "fcode" in elem and elem["fcode"]=="PCLI":
+			if "fcode" in elem and elem["fcode"].startswith("PC"):
 				return CodeLocation("unknown", elem["countryName"], elem["countryCode"])
 
 	for elem in d["geonames"]:
-			if "fcode" in elem and elem["fcode"].startswith("PP"):
+			if "fcode" in elem and elem["fcode"].startswith("PP") or elem["fcode"].startswith("AD"):
 				return CodeLocation(elem["name"], elem["countryName"], elem["countryCode"])
 
 	return None
@@ -111,8 +118,11 @@ def getLocation(text):
 		return location
 	with codecs.open('countries.json', 'r', "utf-8") as json_data:
 		d = json.load(json_data)
-		continentCode = d["countries"][codeRes.countryCode]["continent"]
-		codeRes.location.continentName = d["continents"][continentCode]
+		print("Le texte : " + text)
+		print("Je cherche le pays " + codeRes.countryCode + " de " + codeRes.location.cityName + " " + codeRes.location.countryName)
+		if codeRes.countryCode in d["countries"]:
+			continentCode = d["countries"][codeRes.countryCode]["continent"]
+			codeRes.location.continentName = d["continents"][continentCode]
 		appendLocationInBuffer(text, codeRes.location)
 		return codeRes.location
 
