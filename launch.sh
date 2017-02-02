@@ -1,2 +1,5 @@
 #! /bin/sh
-cd collection/ && ./csvToJsonConverter.py && cd .. && python -m SimpleHTTPServer 8000
+cd collection/
+./csvToJsonConverter.py
+./clustering.py ; R -f clusterize.R ; cd ..
+python -m SimpleHTTPServer 8000

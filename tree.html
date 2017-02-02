@@ -34,7 +34,7 @@ var svg = d3.select("body").append("svg")
 var i = 0,
     duration = 750,
     root;
-d3.json("tree.json", function(error, tree){    
+d3.json("collection/tree.json", function(error, tree){    
     if (error) throw error;
     root = tree;
     var nodes = cluster.nodes(root);    
