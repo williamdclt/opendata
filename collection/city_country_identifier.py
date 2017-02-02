@@ -74,7 +74,7 @@ def getLocation(text):
 	if codeRes is None:
 		if b:
 			sp = text.split(",")
-			location = Location(sp[0].trim(), sp[1].trim())
+			location = Location(sp[0].strip(), sp[1].strip())
 		else:
 			location = Location(text)
 		appendLocationInBuffer(text, location)

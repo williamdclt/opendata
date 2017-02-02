@@ -3,7 +3,7 @@
 import csv
 import json
 import sys
-import country_identifier
+import city_country_identifier
 import math
 from json import JSONEncoder
 from sets import Set
@@ -106,13 +106,6 @@ class Decoupable(Ensemble):
             i += size_part 
         self.children = partition
 
-    def get_children_beginning_with(self, char):
-        part = []
-        for child in self.children:
-            if child.name[0] == char:
-                part.append(child)
-        return part
-
 
 class Artist(Decoupable):
     def __init__(self, id, name, year, url, placeOfBirth, placeOfDeath, gender):
@@ -202,13 +195,6 @@ class Link:
         self.value = 1
 
 
-class Location:
-    def __init__(self, city, country, continent):
-        self.city = city
-        self.country = country
-        self.continent = continent
-
-
 def get_continent(continent):
     if continent not in continents_dict:
         continents_dict[continent] = Continent(continent)
@@ -228,30 +214,6 @@ def get_city(city, country):
     return cities_dict[index]
 
 
-def getContiCountryCity(string):
-    if string is None :
-        string = "unknown, unknown"
-
-    strings = string.split(',')
-    country, city = None, None
-    if len(strings)==2:
-        country = strings[1].strip()
-        city = strings[0].strip()
-    elif len(strings)==1 :
-        country = strings[0].strip()
-    else:  #c'est 3
-        country = strings[2].strip()
-        city = strings[0].strip()
-
-    if country=='' or country is None:
-        country = 'unknown'
-    if city=='' or city is None:
-        city = 'unknown'
-
-    conticountry = country_identifier.getContinentCountry(country) 
-    return Location(city, conticountry.countryName, conticountry.continentName)
-
-
 continents_dict = {}
 countries_dict = {}
 cities_dict = {}
@@ -260,7 +222,7 @@ collection = Collection()
 
 
 for artist in artistreader:
-    location = getContiCountryCity(artist[6])
+    location = city_country_identifier.getLocation(artist[6])
 
     #on trie, on extrait la city et le pays
     #on fait en sorte que l'artiste ne soit la que si son pays est present, sinn NSM
@@ -268,9 +230,9 @@ for artist in artistreader:
     #on extrait l'artiste
     id = artist[0]
     artist = Artist(id, artist[1], artist[4], artist[8], artist[6], artist[7], artist[2])
-    city = get_city(location.city, location.country)
-    country = get_country(location.country)
-    continent = get_continent(location.continent)
+    city = get_city(location.cityName, location.countryName)
+    country = get_country(location.countryName)
+    continent = get_continent(location.continentName)
 
     artists_dict[id] = artist
     city.add_child(artist)
@@ -326,7 +288,7 @@ for c in countries_dict:
 for c in continents_dict:
     continents_dict[c].compute_decoupable()
 collection.compute_decoupable()
-collection.male_ratio()
+collection.male_ratio() 
 
 f = open("collection.json", 'w')
 f.write(json.dumps(collection, default=dumper, indent=2, separators=(',', ': ')))
