@@ -5,12 +5,26 @@
     <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
     <style>
-    h2{
+    .p_2{
         padding-left: 20px;
     }
 
     .p_3{
         padding-left: 40px;
+    }
+
+    .well {
+        min-height: 20px;
+        margin-bottom: 20px;
+        background-color: #f5f5f5;
+        border: 1px solid #e3e3e3;
+        border-radius: 4px;
+        -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.05);
+        box-shadow: inset 0 1px 1px rgba(0,0,0,.05);
+    }
+
+    li{
+        margin-bottom: 5px;
     }
     </style>
 </head>
@@ -20,7 +34,7 @@
         <div>
             <h1>Rapport du challenge OpenData </h1>
 
-            <div>
+            <div class="p_2">
                 <h2>Equipe</h2>
                 <ul>
                     <li>Corentin COURNAC</li>
@@ -29,26 +43,48 @@
                     <li>Pierre PRESENT</li>
                 </ul>
             </div>
-            <div>
+            <div class="p_2">
                 <h2>Présentation du projet</h2>
+                Notre projet a pour but de donner une vision globale de la provenance des œuvres issues de la collection des musées Tate.
 
                 <div class="p_3">
                     <h3>Source des données</h3>
                     <p>
                         Les données proviennent du dépôt GitHub <a href="https://github.com/tategallery/collection">tategallery/collection</a>, nous avons récupéré les données au format <i>CSV</i> soit 2 fichiers :
                         <ul>
-                            <li>artist_data.csv de 482 ko</li>
-                            <li>artwork_data.csv de 24,4 Mo</li>
+                            <li><a href="collection/artist_data.csv">artist_data.csv</a> de 482 ko</li>
+                            <li><a href="collection/artwork_data.csv">artwork_data.csv</a> de 24,4 Mo</li>
                         </ul>
-                        Nous avons choisi de prendre les données dans ce format plutôt que de prendre directement les fichiers <i>JSON</i> disponibles afin d'avoir plus d'informations dans un même fichier et de pouvoir extraire seulement les données qui nous intéressent.
+                        Ces fichiers contiennent plus de 3 500 artistes et 70 000 œuvres.</br>
+                        Nous avons choisi de prendre les données dans ce format plutôt que de prendre directement les fichiers <i>JSON</i> disponibles afin d'avoir plus d'informations dans un même fichier et de pouvoir extraire seulement les données qui nous intéressent.</br>
+                        << TODO : Parler ici de http://api.geonames.org/searchJSON >>
+                    </p>
+                </div>
+                <div class="p_3">
+                    <h3>Technologies utilisées</h3>
+                    <p>
+                        <ul>
+                            <li>Python : Pour le traitement des données CSV et la génération des fichier JSON dont nous avons besoin.</li>
+                            <li>Javascript + bibliothèque <a href="https://d3js.org/">D3.js</a> : D3.js est une bibliothèque graphique pour manipuler, traiter et afficher des données sous plusieurs formats. Nous avons utilisés 2 types de représentations à partir de modèles existants :
+                                <ul>
+                                    <li><a href="https://bl.ocks.org/mbostock/7607535">Zoomable Circle Packing</a> : Utilisé pour l'affichage de la répartition des artistes par localisation géographique.</li>
+                                    <li><a href="https://bl.ocks.org/mbostock/4062045">Force-Directed Graph</a> : Utilisé pour l'affichage des oeuvres d'un artiste, nous n'affichons que 40 oeuvres au maximum.</li>
+                                </ul>
+                            </li>
+                        </ul>
                     </p>
                 </div>
             </div>
-            <div>
+            <div class="p_2">
                 <h2>Traitements opérés</h2>
+                <p>
+                    
+                </p>
             </div>
-            <div>
+            <div class="p_2">
                 <h2>Architecture</h2>
+                <p>
+                </p>
             </div>
         </div>
     </div>
