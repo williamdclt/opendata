@@ -26,7 +26,7 @@
                     grâce au script Python <strong>collection/csvToJsonConverter.py</strong>, puis de démarrer un serveur simple sur le port 8000 grâce à la commande <strong>python -m SimpleHTTPServer 8000</strong>.
                   </p>
                   <p>Il est possible de faire ces opérations indépendamment en lançant le script <strong>csvToJsonConverter.py</strong> depuis le dossier <i>collection</i>, puis en lançant la commande <strong>python -m SimpleHTTPServer 8000</strong> depuis la racine du projet.</p>
-                  <p>Il est important de noter que l'on a besoin de générer les données JSON une seule fois. Le script utilise le module <strong>requests</strong> de python, qui n'est pas installé sur les ordinateurs de l'Ensimag.
+                  <p>Il est important de noter que l'on n'a besoin de générer les données JSON qu'une seule fois. Le script utilise le module <strong>requests</strong> de python, qui n'est pas installé sur les ordinateurs de l'Ensimag.
                     Si vous souhaitez le lancer depuis un ordinateur de l'Ensimag, une autre version du script utilisant ce module est fournie : <strong>collection/city_country_identifier.py-bufferonly</strong>. Il suffit de le renommer en <strong>collection/city_country_identifier.py</strong>. Le buffer sera fourni dans l'archive.
                   </p>
 
@@ -90,6 +90,7 @@
                         <p>
                         Nous associons ensuite les oeuvres du fichier <i>artwork_data.csv</i> à chaque artiste. Ceci permet ensuite de créer un fichier JSON par artiste avec une liste de ses oeuvres, nous avons limité le nombre d'oeuvres à 40 pour ne pas saturer la visualisation.
                         </p>
+                        <p>En plus de cela, il est nécessaire pour économiser de la puissance de calcul de générer un autre fichier JSON qui contient un tableau d'associations entre les noms des artistes et leur identifiant respectif. Ceci permet d'optimiser la fonction de recherche, qui n'ira donc que chercher dans ce fichier <i>research.json</i> plutôt que de parcourir toute la hiérarchie.</p>
                     </div>
                     <div class="p_3">
                         <h3>Visualisation</h3>
@@ -117,16 +118,22 @@
                         Ces groupements peuvent se faire à tout niveau (sauf continents) : groupement de pays, de villes ou d'artistes.
                         </p>
                     </div>
+                    <div class=p_3>
+                        <h3>Gestion de la recherche d'artiste</h3>
+                        <p>Après génération du fichier <i>research.json</i>, et de chaque fichier correspondant à l'artiste et ses oeuvres sous le format <i>&lt;id&gt;.json</i>, il nous a suffi de parcourir le tableau de noms des artistes en exécutant une distance de Levenshtein sur chaque nom, afin d'en trouver le plus proche.
+                          Une fois qu'on l'a trouvé, on récupère l'id de l'artiste, puis on lance le traitement d'affichage de ses oeuvres, comme si on avait cliqué dessus dans la hiérarchie du <i>packed circles</i>.
+                        </p>
+                        </div>
                     <div class="p_3">
                         <h3>Problèmes rencontrés</h3>
                         <p>
-                        Dans un premier temps nous affichions tous les niveaux d'imbrication et chaque élément indépendamment sans regroupement. Mais etant donné que le nombre de pays, de villes et d'artistes est assez important le navigateur avait beaucoup de mal à afficher l'ensemble des informations et cela était illisible. </br>Nous avons donc tout d'abord choisi de n'afficher qu'un seul niveau d'imbrication à la fois en masquant l'intérieur d'un noeud tant qu'on ne clique pas dessus. Ensuite la granularité était encore trop fine pour les 3 niveaux d'imbrication donc nous les avons regroupés par ordre-alphabétique.</li>
+                        Dans un premier temps nous affichions tous les niveaux d'imbrication et chaque élément indépendamment sans regroupement. Mais etant donné que le nombre de pays, de villes et d'artistes est assez important le navigateur avait beaucoup de mal à afficher l'ensemble des informations et cela était illisible. </br>Nous avons donc tout d'abord choisi de n'afficher qu'un seul niveau d'imbrication à la fois en masquant l'intérieur d'un noeud tant qu'on ne clique pas dessus. Ensuite la granularité était encore trop fine pour les 3 niveaux d'imbrication donc nous les avons regroupés par intervalle, suivant leur ordre alphabétique.</li>
                         </p>
                         <p>
-                        Certains artistes, comme Joseph Mallord William Turner, ont beaucoup d'oeuvres répertoriées contrairement à d'autres, ce qui fait que certains noeuds étaient trop grand comparé aux autres avec peu d'oeuvres. Nous avons donc appliqué une taille du noeud en fonction de la racine carrée du nombre d'oeuvres.
+                        Certains artistes, comme Joseph Mallord William Turner, ont beaucoup d'oeuvres répertoriées, contrairement à d'autres, ce qui fait que certains noeuds étaient trop grands comparés aux autres avec peu d'oeuvres. Nous avons donc appliqué une taille du noeud en fonction de la racine carrée du nombre d'oeuvres.
                         </p>
-
                     </div>
+
 
                 </div>
                 <div class="p_2">
