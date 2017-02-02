@@ -244,7 +244,8 @@ for artist in artistreader:
     #on extrait l'artiste
     id = artist[0]
     artist = Artist(id, artist[1], artist[4], artist[8], artist[6], artist[7], artist[2])
-    research.add_elem(ResearchElement(artist[1],id))
+    #on rajoute au json de recherche
+    research.add_elem(ResearchElement(artist.name,int(id)))
     city = get_city(location.cityName, location.countryName)
     country = get_country(location.countryName)
     continent = get_continent(location.continentName)
