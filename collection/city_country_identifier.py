@@ -47,7 +47,7 @@ def appendLocationInBuffer(text, contiCountry):
 
 def getCountryCode(text):
 	s = (text.split(","))[-1]
-	r = requests.get('http://api.geonames.org/searchJSON?q=' + s + '&username=OpenBoniData')
+	r = requests.get('http://api.geonames.org/searchJSON?q=' + s + '&username=OpenBoniData&fuzzy=0.8')
 	d = r.json()
 	for elem in d["geonames"]:
 		if "fcode" in elem and elem["fcode"]=="PCLI":
@@ -60,14 +60,14 @@ def getAPILocation(text, twoParts):
 		countryCode = getCountryCode(text)
 		if countryCode == None:
 			return None
-		r = requests.get('http://api.geonames.org/searchJSON?q=' + (text.split(","))[0] + '&country=' + countryCode + '&username=OpenBoniData')
+		r = requests.get('http://api.geonames.org/searchJSON?q=' + (text.split(","))[0] + '&country=' + countryCode + '&username=OpenBoniData&fuzzy=0.8')
 	else:
-		r = requests.get('http://api.geonames.org/searchJSON?q=' + text + '&username=OpenBoniData')
+		r = requests.get('http://api.geonames.org/searchJSON?q=' + text + '&username=OpenBoniData&fuzzy=0.8')
 
 	d = r.json()
 
 	if twoParts and d["totalResultsCount"] == 0:
-		r = requests.get('http://api.geonames.org/searchJSON?q=' + (text.split(","))[-1] + '&username=OpenBoniData')
+		r = requests.get('http://api.geonames.org/searchJSON?q=' + (text.split(","))[-1] + '&username=OpenBoniData&fuzzy=0.8')
 		d = r.json()
 		twoParts=False
 
