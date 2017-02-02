@@ -45,8 +45,8 @@ def appendLocationInBuffer(text, contiCountry):
 	with codecs.open('buffer_countries.json', 'w', "utf-8") as outfile:
 		json.dump(d, outfile, ensure_ascii=False)
 
-def getCountry(country):
-	r = requests.get('http://api.geonames.org/searchJSON?q=' + country + '&username=OpenBoniData&fuzzy=0.85')
+def getCountryFuzzy(country, fuzzy):
+	r = requests.get('http://api.geonames.org/searchJSON?q=' + country + '&username=OpenBoniData&fuzzy=' + fuzzy)
 	d = r.json()
 	isPCLH=False
 	for elem in d["geonames"]:
@@ -55,14 +55,18 @@ def getCountry(country):
 				isPCLH=True
 			return CodeLocation("unknown", elem["countryName"], elem["countryCode"]), isPCLH
 
-	r = requests.get('http://api.geonames.org/searchJSON?q=' + country + '&username=OpenBoniData')
-	d = r.json()
-	isPCLH=False
-	for elem in d["geonames"]:
-		if "fcode" in elem and elem["fcode"].startswith("PC"):
-			if elem["fcode"]=="PCLH":
-				isPCLH=True
-			return CodeLocation("unknown", elem["countryName"], elem["countryCode"]), isPCLH
+	return None, isPCLH
+
+def getCountry(country):
+
+	res, isPCLH=getCountryFuzzy(country, "0.85")
+
+	if res is not None:
+		return res, isPCLH
+
+	res, isPCLH=getCountryFuzzy(country, "1")
+	if res is not None:
+		return res, isPCLH
 
 	return None, isPCLH
 
@@ -92,12 +96,12 @@ def getAPILocationStereo(splitText):
 
 
 def getAPILocationMono(text):
+	res, isPCLH = getCountry(text)
+	if res is not None:
+		return res
+
 	r = requests.get('http://api.geonames.org/searchJSON?q=' + text + '&username=OpenBoniData&fuzzy=0.85')
 	d = r.json()
-	for elem in d["geonames"]:
-			if "fcode" in elem and elem["fcode"].startswith("PC"):
-				return CodeLocation("unknown", elem["countryName"], elem["countryCode"])
-
 	for elem in d["geonames"]:
 			if "fcode" in elem and elem["fcode"].startswith("PP") or elem["fcode"].startswith("AD"):
 				return CodeLocation(elem["name"], elem["countryName"], elem["countryCode"])
