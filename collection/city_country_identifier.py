@@ -68,9 +68,9 @@ def getAPILocationStereo(splitText):
 	for elem in d["geonames"]:
 			if "fcode" in elem and elem["fcode"].startswith("PP"):
 				countryObj.location.cityName=elem["name"]
-				return countryObj
+				break
 
-	return None
+	return countryObj
 
 
 def getAPILocationMono(text):
