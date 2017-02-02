@@ -18,6 +18,47 @@ var color = d3.scaleLinear()
 .range(["#C42D6A", "#318ECC"])
 .interpolate(d3.interpolateHcl);
 
+//On récupere la table artiste-id
+var research;
+d3.json("/collection/research.json", function(error, json) {
+    research = json;
+})
+
+/**
+  Merci https://rosettacode.org/wiki/Levenshtein_distance#JavaScript
+*/
+function levenshtein(a, b) {
+  var t = [], u, i, j, m = a.length, n = b.length;
+  if (!m) { return n; }
+  if (!n) { return m; }
+  for (j = 0; j <= n; j++) { t[j] = j; }
+  for (i = 1; i <= m; i++) {
+    for (u = [i], j = 1; j <= n; j++) {
+      u[j] = a[i - 1] === b[j - 1] ? t[j - 1] : Math.min(t[j - 1], t[j], u[j - 1]) + 1;
+    } t = u;
+  } return u[n];
+}
+
+//recherche sur l'ensemble des artistes lorsqu'on appuie sur entrée dans le champ recherche
+function researchKeyPressed(event) {
+    if (event.keyCode == 13 && document.getElementById('research_artist').value != '') {
+        var restext = document.getElementById('research_artist').value;
+
+        var tablo = research.table;
+
+        var minind = 0;
+        var mincorresp=levenshtein(tablo[0].artist, restext);
+        for (var i=1; i<tablo.length; i++) {
+            if (levenshtein(tablo[i].artist, restext) < mincorresp) {
+                mincorresp=levenshtein(tablo[i].artist, restext);
+                minind=i;
+            }
+        }
+
+        artist(tablo[minind].id, tablo[minind].artist);
+    }
+}
+
 function main(countries) {
     root = d3.hierarchy(countries)
     .sum(function(d) { return d.size; })
@@ -41,6 +82,7 @@ function main(countries) {
         // S'il n'y a pas de noeud enfant, alors il s'agit d'un artiste et on
         // affiche le panneau latéral correspondant à l'artiste sur lequel on a cliqué
         if(! d.children){
+            document.getElementById('research_artist').value = ''
             artist(d.data.id, getNameFormated(d.data.name));
         }
         else if (focus !== d){

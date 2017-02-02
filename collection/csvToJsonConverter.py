@@ -100,10 +100,10 @@ class Decoupable(Ensemble):
         size_part = int(math.ceil(math.sqrt(len(self.children))))
         i = 0
         while i < len(self.children):
-            children_part = self.children[i:min(i+size_part,len(self.children))] 
+            children_part = self.children[i:min(i+size_part,len(self.children))]
             part = Part(self.level_child, children_part)
             partition.append(part)
-            i += size_part 
+            i += size_part
         self.children = partition
 
 
@@ -194,6 +194,18 @@ class Link:
         self.target = target
         self.value = 1
 
+#tout ceci sert uniquement a la partie recherche
+class ResearchElement:
+    def __init__(self, artist, id):
+        self.artist = artist
+        self.id = id
+
+class Research:
+    def __init__(self):
+        self.table=[]
+
+    def add_elem(self, elem):
+        self.table.append(elem)
 
 def get_continent(continent):
     if continent not in continents_dict:
@@ -219,7 +231,7 @@ countries_dict = {}
 cities_dict = {}
 artists_dict = {}
 collection = Collection()
-
+research = Research()
 
 for artist in artistreader:
     location = city_country_identifier.getLocation(artist[6])
@@ -230,6 +242,7 @@ for artist in artistreader:
     #on extrait l'artiste
     id = artist[0]
     artist = Artist(id, artist[1], artist[4], artist[8], artist[6], artist[7], artist[2])
+    research.add_elem(ResearchElement(artist[1],id))
     city = get_city(location.cityName, location.countryName)
     country = get_country(location.countryName)
     continent = get_continent(location.continentName)
@@ -288,8 +301,12 @@ for c in countries_dict:
 for c in continents_dict:
     continents_dict[c].compute_decoupable()
 collection.compute_decoupable()
-collection.male_ratio() 
+collection.male_ratio()
 
 f = open("collection.json", 'w')
 f.write(json.dumps(collection, default=dumper, indent=2, separators=(',', ': ')))
+f.close()
+
+f = open("research.json",'w')
+f.write(json.dumps(research, default=dumper, indent=2, separators=(',', ': ')))
 f.close()
