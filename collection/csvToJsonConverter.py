@@ -86,7 +86,7 @@ class Part(Ensemble):
         return self.children[child_index].name.split(',')[0].capitalize()
 
 
-class Decoupable(Ensemble):
+class Partitionnable(Ensemble):
     def __init__(self, name, level, level_child):
         Ensemble.__init__(self, name, level)
         self.level_child = level_child
@@ -100,16 +100,16 @@ class Decoupable(Ensemble):
         size_part = int(math.ceil(math.sqrt(len(self.children))))
         i = 0
         while i < len(self.children):
-            children_part = self.children[i:min(i+size_part,len(self.children))] 
+            children_part = self.children[i:min(i+size_part,len(self.children))]
             part = Part(self.level_child, children_part)
             partition.append(part)
-            i += size_part 
+            i += size_part
         self.children = partition
 
 
-class Artist(Decoupable):
+class Artist(Partitionnable):
     def __init__(self, id, name, year, url, placeOfBirth, placeOfDeath, gender):
-        Decoupable.__init__(self, name, "Artist", "Artwork")
+        Partitionnable.__init__(self, name, "Artist", "Artwork")
         self.id = id
         self.size = 1
         self.year = year
@@ -145,24 +145,24 @@ class Dimensions:
         self.unit = unit
 
 
-class Continent(Decoupable):
+class Continent(Partitionnable):
     def __init__(self, name):
-        Decoupable.__init__(self, name, "Continent", "Country")
+        Partitionnable.__init__(self, name, "Continent", "Country")
 
 
-class Country(Decoupable):
+class Country(Partitionnable):
     def __init__(self, name):
-        Decoupable.__init__(self, name, "Country", "City")
+        Partitionnable.__init__(self, name, "Country", "City")
 
 
-class City(Decoupable):
+class City(Partitionnable):
     def __init__(self, name):
-        Decoupable.__init__(self, name, "City", "Artist")
+        Partitionnable.__init__(self, name, "City", "Artist")
 
 
-class Collection(Decoupable):
+class Collection(Partitionnable):
     def __init__(self):
-        Decoupable.__init__(self, "collection", "Collection",  "Continent")
+        Partitionnable.__init__(self, "collection", "Collection",  "Continent")
 
 
 class Artwork:
@@ -194,6 +194,18 @@ class Link:
         self.target = target
         self.value = 1
 
+#tout ceci sert uniquement a la partie recherche
+class ResearchElement:
+    def __init__(self, artist, id):
+        self.artist = artist
+        self.id = id
+
+class Research:
+    def __init__(self):
+        self.table=[]
+
+    def add_elem(self, elem):
+        self.table.append(elem)
 
 def get_continent(continent):
     if continent not in continents_dict:
@@ -219,10 +231,12 @@ countries_dict = {}
 cities_dict = {}
 artists_dict = {}
 collection = Collection()
-
+research = Research()
 
 for artist in artistreader:
     location = city_country_identifier.getLocation(artist[6])
+    if location.continentName == "unknown":
+        print("UNKNOWN: " + artist[6])
 
     #on trie, on extrait la city et le pays
     #on fait en sorte que l'artiste ne soit la que si son pays est present, sinn NSM
@@ -230,6 +244,8 @@ for artist in artistreader:
     #on extrait l'artiste
     id = artist[0]
     artist = Artist(id, artist[1], artist[4], artist[8], artist[6], artist[7], artist[2])
+    #on rajoute au json de recherche
+    research.add_elem(ResearchElement(artist.name,int(id)))
     city = get_city(location.cityName, location.countryName)
     country = get_country(location.countryName)
     continent = get_continent(location.continentName)
@@ -288,8 +304,12 @@ for c in countries_dict:
 for c in continents_dict:
     continents_dict[c].compute_decoupable()
 collection.compute_decoupable()
-collection.male_ratio() 
+collection.male_ratio()
 
 f = open("collection.json", 'w')
 f.write(json.dumps(collection, default=dumper, indent=2, separators=(',', ': ')))
+f.close()
+
+f = open("research.json",'w')
+f.write(json.dumps(research, default=dumper, indent=2, separators=(',', ': ')))
 f.close()
