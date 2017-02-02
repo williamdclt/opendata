@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 import json
-#import requests
+import requests
 import os.path
 import time
 import sys
@@ -45,9 +45,31 @@ def appendLocationInBuffer(text, contiCountry):
 	with codecs.open('buffer_countries.json', 'w', "utf-8") as outfile:
 		json.dump(d, outfile, ensure_ascii=False)
 
-def getAPILocation(text, twoParts):
-	#r = requests.get('http://api.geonames.org/searchJSON?q=' + text + '&username=OpenBoniData')
+def getCountryCode(text):
+	s = (text.split(","))[-1]
+	r = requests.get('http://api.geonames.org/searchJSON?q=' + s + '&username=OpenBoniData&fuzzy=0.8')
 	d = r.json()
+	for elem in d["geonames"]:
+		if "fcode" in elem and elem["fcode"]=="PCLI":
+			return elem["countryCode"]
+
+	return None
+
+def getAPILocation(text, twoParts):
+	if twoParts:
+		countryCode = getCountryCode(text)
+		if countryCode == None:
+			return None
+		r = requests.get('http://api.geonames.org/searchJSON?q=' + (text.split(","))[0] + '&country=' + countryCode + '&username=OpenBoniData&fuzzy=0.8')
+	else:
+		r = requests.get('http://api.geonames.org/searchJSON?q=' + text + '&username=OpenBoniData&fuzzy=0.8')
+
+	d = r.json()
+
+	if twoParts and d["totalResultsCount"] == 0:
+		r = requests.get('http://api.geonames.org/searchJSON?q=' + (text.split(","))[-1] + '&username=OpenBoniData&fuzzy=0.8')
+		d = r.json()
+		twoParts=False
 
 	if not twoParts:
 		for elem in d["geonames"]:
@@ -64,8 +86,12 @@ def isInTwoParts(text):
 	return len(text.split(",")) >= 2
 
 def getLocation(text):
-	b = isInTwoParts(text)
+	if not text.strip():
+		return Location()
+
 	text = unicode(text, "utf-8")
+
+	b = isInTwoParts(text)
 	res = getLocationInBuffer(text)
 	if res is not None:
 		return res
@@ -74,7 +100,7 @@ def getLocation(text):
 	if codeRes is None:
 		if b:
 			sp = text.split(",")
-			location = Location(sp[0].strip(), sp[1].strip())
+			location = Location(sp[0].strip(), sp[-1].strip())
 		else:
 			location = Location(text)
 		appendLocationInBuffer(text, location)
