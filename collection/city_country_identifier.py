@@ -10,17 +10,23 @@ reload(sys)
 
 sys.setdefaultencoding('utf-8')
 
+# La classe Location represente la localisation geographique de l'artiste.
+# A noter que dans certains cas cityName peut correspondre plutot a une region
 class Location:
 	def __init__(self, cityName="unknown", countryName="unknown", continentName="unknown"):
 		self.cityName = cityName
 		self.countryName = countryName
 		self.continentName = continentName
 
+# Structure intermediaire permettant de recuperer le continent d'une location
+# grace a son countryCode (et le fichier country.json)
 class CodeLocation:
 	def __init__(self, cityName, countryName, countryCode):
 		self.location = Location(cityName, countryName)
 		self.countryCode = countryCode
 
+# On essaye de recuperer un objet location selon la cle specifiee
+# Si le fichier buffer_countries.json n'existe pas, il est cree a la volee
 def getLocationInBuffer(text):
 	if not os.path.isfile('buffer_countries.json'):
 		with open('buffer_countries.json', 'a') as json_data:
@@ -33,6 +39,7 @@ def getLocationInBuffer(text):
 			return None
 		return Location(d[text]["cityName"], d[text]["countryName"], d[text]["continentName"])
 
+# Ajout d'une location au fichier json
 def appendLocationInBuffer(text, contiCountry):
 	with codecs.open('buffer_countries.json', 'r', "utf-8") as json_data:
 		d = json.load(json_data)
@@ -45,6 +52,8 @@ def appendLocationInBuffer(text, contiCountry):
 	with codecs.open('buffer_countries.json', 'w', "utf-8") as outfile:
 		json.dump(d, outfile, ensure_ascii=False)
 
+# Recuperation d'un pays d'apres le parametre country, tolerence specifiee par fuzzy
+# PCLH est le cas particulier d'un pays historique n'existant plus (ex : Yougoslavie)
 def getCountryFuzzy(country, fuzzy):
 	r = requests.get('http://api.geonames.org/searchJSON?q=' + country + '&username=OpenBoniData&fuzzy=' + fuzzy)
 	d = r.json()
@@ -57,6 +66,8 @@ def getCountryFuzzy(country, fuzzy):
 
 	return None, isPCLH
 
+# Recuperation d'un pays, ou l'on essaye de trouver un pays avec deux requetes avec
+# fuzzy differents, car dans certains cas un fuzzy de 1 est plus pertinent que 0.85 (Al-Lubnan)
 def getCountry(country):
 
 	res, isPCLH=getCountryFuzzy(country, "0.85")
@@ -70,10 +81,16 @@ def getCountry(country):
 
 	return None, isPCLH
 
+# Recuperation de la location dans le cas ou on a deux elements
 def getAPILocationStereo(splitText):
 	countryObj, isPCLH = getCountry(splitText[-1])
 	if countryObj is None:
 		return getAPILocationMono(splitText[0])
+	# PCLH correspond a un pays historique, nous ne pouvons que creer
+	# une location qu'avec le nom de ville de base, car geoName renvoit
+	# la ville dans le pays actuel
+	# Je garde le nom de pays aussi, mais c'est juste car geonames a du mal
+	# avec la yougoslavie (il la nomme YU, ce qui est son code)
 	elif isPCLH:
 		countryObj.location.cityName=splitText[0]
 		countryObj.location.countryName=splitText[-1]
@@ -94,7 +111,7 @@ def getAPILocationStereo(splitText):
 
 	return countryObj
 
-
+# Recuperation de la location dans le cas ou on a un element
 def getAPILocationMono(text):
 	res, isPCLH = getCountry(text)
 	if res is not None:
@@ -108,6 +125,8 @@ def getAPILocationMono(text):
 
 	return None
 
+# Fonction principale permettant de recuperer au mieux la location
+# du texte passse en parametre, selon les differents cas
 def getLocation(text):
 	if not text.strip():
 		return Location()
@@ -125,6 +144,7 @@ def getLocation(text):
 	else:
 		codeRes = getAPILocationMono(text)
 	if codeRes is None:
+		# Dans ce cas, on laisse les informations telles qu'on les a recues
 		if b:
 			location = Location(splitText[0].strip(), splitText[-1].strip())
 		else:
