@@ -79,7 +79,7 @@ def isInTwoParts(text):
 	return len(text.split(",")) >= 2
 
 def getLocation(text):
-	if not text.strip()
+	if not text.strip():
 		return Location()
 
 	text = unicode(text, "utf-8")
