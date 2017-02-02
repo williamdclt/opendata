@@ -85,3 +85,7 @@ def getLocation(text):
 		codeRes.location.continentName = d["continents"][continentCode]
 		appendLocationInBuffer(text, codeRes.location)
 		return codeRes.location
+
+if __name__ == '__main__':
+	res = getLocation(" ".join(sys.argv[1:]))
+	print(res.cityName + " " + res.countryName + " " + res.continentName)
