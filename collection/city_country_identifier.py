@@ -56,15 +56,20 @@ def getCountryCode(text):
 	return None
 
 def getAPILocation(text, twoParts):
-
 	if twoParts:
 		countryCode = getCountryCode(text)
-		if countryCode == None
+		if countryCode == None:
 			return None
 		r = requests.get('http://api.geonames.org/searchJSON?q=' + (text.split(","))[0] + '&country=' + countryCode + '&username=OpenBoniData')
 	else:
 		r = requests.get('http://api.geonames.org/searchJSON?q=' + text + '&username=OpenBoniData')
+
 	d = r.json()
+
+	if twoParts and d["totalResultsCount"] == 0:
+		r = requests.get('http://api.geonames.org/searchJSON?q=' + (text.split(","))[-1] + '&username=OpenBoniData')
+		d = r.json()
+		twoParts=False
 
 	if not twoParts:
 		for elem in d["geonames"]:
