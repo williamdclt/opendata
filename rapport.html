@@ -4,36 +4,12 @@
     <meta charset="utf-8">
     <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
-    <style>
-    .p_2{
-        padding-left: 20px;
-    }
-
-    .p_3{
-        padding-left: 40px;
-    }
-
-    .well {
-        min-height: 20px;
-        margin-bottom: 20px;
-        background-color: #f5f5f5;
-        border: 1px solid #e3e3e3;
-        border-radius: 4px;
-        -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.05);
-        box-shadow: inset 0 1px 1px rgba(0,0,0,.05);
-    }
-
-    li{
-        margin-bottom: 5px;
-    }
-    </style>
 </head>
 
 <body>
     <div style="width:1180px;margin:auto;">
-        <div>
+        <div class="well">
             <h1>Rapport du challenge OpenData </h1>
-
             <div class="p_2">
                 <h2>Equipe</h2>
                 <ul>
@@ -78,12 +54,21 @@
             <div class="p_2">
                 <h2>Traitements opérés</h2>
                 <p>
-                    
+                    Nous traitons les données grâce à un script Python qui va parser les données CSV pour en extraire les données dont nous avons besoin et les exporter dans plusieurs fichiers JSON. Tout d'abord on récupère les données des artistes du fichier <i>artist_data.csv</i>, dont sa localisation de naissance qui dans la plupart des cas est composée de "ville, pays" mais qui parfois ne contient que la ville ou le pays. Lorsque que l'une ou l'autre de ces information est manquante nous avons classé l'artiste dans le pays ou la ville "unknown" qui nous permettra de regrouper tous les artistes dont nous ne connaisons pas leur localisation exacte. Nous pouvons ensuite générer un fichier JSON qui contient cette répartition d'artistes et qui sera utilisé ensuite pour l'affichage des noeuds.
                 </p>
+                <p>
+                    Nous associons ensuite les oeuvres du fichier <i>artwork_data.csv</i> à chaque artiste. Ceci permet ensuite de créer un fichier JSON par artiste avec une liste de ses oeuvres, nous avons limité le nombre d'oeuvres à 40.
+                </p>
+
             </div>
             <div class="p_2">
                 <h2>Architecture</h2>
                 <p>
+                </p>
+            </div>
+            <div class="p_2">
+                <h2>Bonus</h2>
+                <p>Nous avons également utilisé le logiciel R pour effectuer un clustering sur les oeuvres et afficher un dendogramme sous forme d'arbre avec D3.js, <a href="collection/tree.html">accéder à la page</a>.
                 </p>
             </div>
         </div>
