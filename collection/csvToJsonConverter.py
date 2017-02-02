@@ -86,7 +86,7 @@ class Part(Ensemble):
         return self.children[child_index].name.split(',')[0].capitalize()
 
 
-class Decoupable(Ensemble):
+class Partitionnable(Ensemble):
     def __init__(self, name, level, level_child):
         Ensemble.__init__(self, name, level)
         self.level_child = level_child
@@ -107,9 +107,9 @@ class Decoupable(Ensemble):
         self.children = partition
 
 
-class Artist(Decoupable):
+class Artist(Partitionnable):
     def __init__(self, id, name, year, url, placeOfBirth, placeOfDeath, gender):
-        Decoupable.__init__(self, name, "Artist", "Artwork")
+        Partitionnable.__init__(self, name, "Artist", "Artwork")
         self.id = id
         self.size = 1
         self.year = year
@@ -145,24 +145,24 @@ class Dimensions:
         self.unit = unit
 
 
-class Continent(Decoupable):
+class Continent(Partitionnable):
     def __init__(self, name):
-        Decoupable.__init__(self, name, "Continent", "Country")
+        Partitionnable.__init__(self, name, "Continent", "Country")
 
 
-class Country(Decoupable):
+class Country(Partitionnable):
     def __init__(self, name):
-        Decoupable.__init__(self, name, "Country", "City")
+        Partitionnable.__init__(self, name, "Country", "City")
 
 
-class City(Decoupable):
+class City(Partitionnable):
     def __init__(self, name):
-        Decoupable.__init__(self, name, "City", "Artist")
+        Partitionnable.__init__(self, name, "City", "Artist")
 
 
-class Collection(Decoupable):
+class Collection(Partitionnable):
     def __init__(self):
-        Decoupable.__init__(self, "collection", "Collection",  "Continent")
+        Partitionnable.__init__(self, "collection", "Collection",  "Continent")
 
 
 class Artwork:
@@ -223,6 +223,8 @@ collection = Collection()
 
 for artist in artistreader:
     location = city_country_identifier.getLocation(artist[6])
+    if location.continentName == "unknown":
+        print("UNKNOWN: " + artist[6])
 
     #on trie, on extrait la city et le pays
     #on fait en sorte que l'artiste ne soit la que si son pays est present, sinn NSM
