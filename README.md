@@ -1,4 +1,6 @@
-#Projet OpenData
+#Context
+This app was developped as a project for our Computer Science Engineering school (Ensimag).
 
-##Informations
-Pour toute information sur le projet et la manière de le déployer, la documentation est présente sur la page "rapport.html"
+#Data source
+Artworks and artists data comes from https://github.com/tategallery/collection.
+Missing or incomplete locations are deduced (with best efforts) and anglicized using GeoNames API.
