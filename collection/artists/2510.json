@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hook, Dr Richard",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/dr-richard-hook-2510",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "three heads and two figure studies",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10678_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hook-three-heads-and-two-figure-studies-t10678",
+      "id": "23014",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "23014",
+      "value": 1
+    }
+  ]
+}

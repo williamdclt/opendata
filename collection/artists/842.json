@@ -1,0 +1,169 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Bush, Jack",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/jack-bush-842",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "green loop",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04060_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bush-green-loop-p04060",
+      "id": "1854",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "low sun",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04061_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bush-low-sun-p04061",
+      "id": "1855",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "red m",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04062_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bush-red-m-p04062",
+      "id": "1856",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "three and blue loop",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04063_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bush-three-and-blue-loop-p04063",
+      "id": "1857",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "yellow mark",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04064_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bush-yellow-mark-p04064",
+      "id": "1858",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cross over",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04065_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bush-cross-over-p04065",
+      "id": "1859",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "low spread",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04066_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bush-low-spread-p04066",
+      "id": "1860",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pink moon",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04067_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bush-pink-moon-p04067",
+      "id": "1861",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "purple thrust",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04068_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bush-purple-thrust-p04068",
+      "id": "1862",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "white flip",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04069_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bush-white-flip-p04069",
+      "id": "1863",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "colour column on suede",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00900_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bush-colour-column-on-suede-t00900",
+      "id": "1864",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1854",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1855",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1856",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1857",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1858",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1859",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1860",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1861",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1862",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1863",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1864",
+      "value": 1
+    }
+  ]
+}

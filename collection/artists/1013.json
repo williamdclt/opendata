@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Dixon, Harry",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/harry-dixon-1013",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "lions",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dixon-lions-n01705",
+      "id": "3939",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "3939",
+      "value": 1
+    }
+  ]
+}

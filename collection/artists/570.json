@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Verrio, Antonio",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/antonio-verrio-570",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "sketch for a ceiling decoration: an assembly of the gods",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00916_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/verrio-sketch-for-a-ceiling-decoration-an-assembly-of-the-gods-t00916",
+      "id": "15729",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "15729",
+      "value": 1
+    }
+  ]
+}

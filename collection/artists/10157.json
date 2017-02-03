@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Serralongue, Bruno",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/bruno-serralongue-10157",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "friday 28 april 2006. east region of mexico city (iztapalapa, iztacalco and tlahuac). speech by delegate zero at the eastern region college of science and humanities",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79236_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/serralongue-friday-28-april-2006-east-region-of-mexico-city-iztapalapa-iztacalco-and-p79236",
+      "id": "91907",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "91907",
+      "value": 1
+    }
+  ]
+}

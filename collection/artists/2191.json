@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "O'Conor, Roderic",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/roderic-oconor-2191",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "still life with bottles",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00133_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/oconor-still-life-with-bottles-t00133",
+      "id": "10907",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "iris",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00309_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/oconor-iris-t00309",
+      "id": "10908",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "red roofs",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00820_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/oconor-red-roofs-t00820",
+      "id": "10909",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "yellow landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02113_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/oconor-yellow-landscape-t02113",
+      "id": "10910",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/oconor-landscape-t02328",
+      "id": "10911",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "10907",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10908",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10909",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10910",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10911",
+      "value": 1
+    }
+  ]
+}

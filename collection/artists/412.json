@@ -1,0 +1,197 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Pars, William",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/william-pars-412",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "rome: the forum",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04852_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pars-rome-the-forum-t04852",
+      "id": "11368",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the interior of the colosseum",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04853_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pars-the-interior-of-the-colosseum-t04853",
+      "id": "11369",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "schaffhausen",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08140_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pars-schaffhausen-t08140",
+      "id": "23347",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the salmon leap on the liffey near leixlip",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08190_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pars-the-salmon-leap-on-the-liffey-near-leixlip-t08190",
+      "id": "23345",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "valle crucis abbey",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08252_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pars-valle-crucis-abbey-t08252",
+      "id": "23342",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a bridge on the river ticino, near polleggio",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08276_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pars-a-bridge-on-the-river-ticino-near-polleggio-t08276",
+      "id": "23344",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "waterfall near the lake of killarney",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08278_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pars-waterfall-near-the-lake-of-killarney-t08278",
+      "id": "23346",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "near the mont st gothard",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08545_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pars-near-the-mont-st-gothard-t08545",
+      "id": "23350",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman in spanish costume",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08548_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pars-woman-in-spanish-costume-t08548",
+      "id": "23348",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman in spanish costume",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08549_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pars-woman-in-spanish-costume-t08549",
+      "id": "23349",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a view near cluse in savoy",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09143_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pars-a-view-near-cluse-in-savoy-t09143",
+      "id": "23343",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a roman monument at igel in the dutchy of luxemburgh",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09405_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pars-a-roman-monument-at-igel-in-the-dutchy-of-luxemburgh-t09405",
+      "id": "23351",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a roman monument at igel, in the dutchy of luxemburgh",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11677_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pars-a-roman-monument-at-igel-in-the-dutchy-of-luxemburgh-t11677",
+      "id": "25910",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "11368",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11369",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23347",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23345",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23342",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23344",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23346",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23350",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23348",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23349",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23343",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23351",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25910",
+      "value": 1
+    }
+  ]
+}

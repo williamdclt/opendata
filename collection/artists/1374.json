@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Jonzen, Karin",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/karin-jonzen-1374",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "head of a youth",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jonzen-head-of-a-youth-t03755",
+      "id": "7756",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "7756",
+      "value": 1
+    }
+  ]
+}

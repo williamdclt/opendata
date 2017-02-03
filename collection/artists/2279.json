@@ -1,0 +1,379 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Dunham, Carroll",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/carroll-dunham-2279",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "#1",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dunham-1-p11882",
+      "id": "21345",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "#2",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dunham-2-p11883",
+      "id": "21346",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "#3",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dunham-3-p11884",
+      "id": "21347",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "#4",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dunham-4-p11885",
+      "id": "21348",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "#5",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dunham-5-p11886",
+      "id": "21349",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "#6",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dunham-6-p11887",
+      "id": "21350",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "#7",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dunham-7-p11888",
+      "id": "21351",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "#8",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dunham-8-p11889",
+      "id": "21352",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "#9",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dunham-9-p11890",
+      "id": "21353",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "#10",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dunham-10-p11891",
+      "id": "21354",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "floating shape with backdrop",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dunham-floating-shape-with-backdrop-p11892",
+      "id": "21355",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "touching two sides",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dunham-touching-two-sides-p11893",
+      "id": "21356",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pumping shape",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dunham-pumping-shape-p11894",
+      "id": "21357",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "one",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dunham-one-p11954",
+      "id": "78672",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dunham-two-p11955",
+      "id": "78673",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "three",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dunham-three-p11956",
+      "id": "78674",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "four",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dunham-four-p11957",
+      "id": "78675",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "five",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dunham-five-p11958",
+      "id": "78676",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "six",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dunham-six-p11959",
+      "id": "78677",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seven",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dunham-seven-p11960",
+      "id": "78678",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "eight",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dunham-eight-p11961",
+      "id": "78679",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nine",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dunham-nine-p11962",
+      "id": "78680",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ten",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dunham-ten-p11963",
+      "id": "78681",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "eleven",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dunham-eleven-p11964",
+      "id": "78682",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "twelve",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dunham-twelve-p11965",
+      "id": "78683",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "thirteen",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dunham-thirteen-p11966",
+      "id": "78684",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "21345",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21346",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21347",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21348",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21349",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21350",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21351",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21352",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21353",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21354",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21355",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21356",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21357",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78672",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78673",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78674",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78675",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78676",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78677",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78678",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78679",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78680",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78681",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78682",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78683",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78684",
+      "value": 1
+    }
+  ]
+}

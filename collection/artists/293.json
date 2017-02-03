@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Inchbold, John William",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-william-inchbold-293",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the moorland (dewar-stone, dartmoor)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01477_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/inchbold-the-moorland-dewar-stone-dartmoor-n01477",
+      "id": "7024",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gordale scar, yorkshire",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05467_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/inchbold-gordale-scar-yorkshire-t05467",
+      "id": "17247",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "peat burning",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08136_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/inchbold-peat-burning-t08136",
+      "id": "23089",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "manzanares, madrid",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09022_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/inchbold-manzanares-madrid-t09022",
+      "id": "23082",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the village cross, spain",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09023_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/inchbold-the-village-cross-spain-t09023",
+      "id": "23083",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "recollection. barden fells",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09024_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/inchbold-recollection-barden-fells-t09024",
+      "id": "23088",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "recollection, strid, barden tower",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09025_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/inchbold-recollection-strid-barden-tower-t09025",
+      "id": "23087",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "inundation at st marks",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09026_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/inchbold-inundation-at-st-marks-t09026",
+      "id": "23078",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a young palm, valentia",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09027_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/inchbold-a-young-palm-valentia-t09027",
+      "id": "23093",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tintagel",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09028_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/inchbold-tintagel-t09028",
+      "id": "23073",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a house in spain, with a ?minaret",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09029_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/inchbold-a-house-in-spain-with-a-minaret-t09029",
+      "id": "23076",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a man digging on the shore",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09030_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/inchbold-a-man-digging-on-the-shore-t09030",
+      "id": "23074",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a syrian girl at a balcony overlooking a bay",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09031_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/inchbold-a-syrian-girl-at-a-balcony-overlooking-a-bay-t09031",
+      "id": "23084",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "venice: a girl in a doorway",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09032_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/inchbold-venice-a-girl-in-a-doorway-t09032",
+      "id": "23075",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shore scene with groups of figures",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09033_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/inchbold-shore-scene-with-groups-of-figures-t09033",
+      "id": "23077",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a rocky coast",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09034_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/inchbold-a-rocky-coast-t09034",
+      "id": "23072",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "san giorgio from the ducal palace",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09035_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/inchbold-san-giorgio-from-the-ducal-palace-t09035",
+      "id": "23079",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lugano (a pillar in the foreground)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09036_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/inchbold-lugano-a-pillar-in-the-foreground-t09036",
+      "id": "23065",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a wide landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09037_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/inchbold-a-wide-landscape-t09037",
+      "id": "23067",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two men scything",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09038_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/inchbold-two-men-scything-t09038",
+      "id": "23070",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "arabian merchants",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09039_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/inchbold-arabian-merchants-t09039",
+      "id": "23080",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tintagel",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09040_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/inchbold-tintagel-t09040",
+      "id": "23071",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a shepherd on the downs",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09041_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/inchbold-a-shepherd-on-the-downs-t09041",
+      "id": "23069",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a girl seated on rocks in a wood",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09042_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/inchbold-a-girl-seated-on-rocks-in-a-wood-t09042",
+      "id": "23068",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "forest of fontainebleau: a chestnut tree",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09043_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/inchbold-forest-of-fontainebleau-a-chestnut-tree-t09043",
+      "id": "23063",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "valencia. the well",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09044_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/inchbold-valencia-the-well-t09044",
+      "id": "23081",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "venice, nocturne. san giorgio maggiore",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09045_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/inchbold-venice-nocturne-san-giorgio-maggiore-t09045",
+      "id": "23086",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fairy dell. a man and a dog in a sunlit clearing",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09046_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/inchbold-fairy-dell-a-man-and-a-dog-in-a-sunlit-clearing-t09046",
+      "id": "23060",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a procession of peasants among trees",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09047_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/inchbold-a-procession-of-peasants-among-trees-t09047",
+      "id": "23085",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a sunlit wood",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09048_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/inchbold-a-sunlit-wood-t09048",
+      "id": "23066",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "forest of fontainebleau: a peasant outside a church under trees",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09049_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/inchbold-forest-of-fontainebleau-a-peasant-outside-a-church-under-trees-t09049",
+      "id": "23061",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fishermen at sunset",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09050_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/inchbold-fishermen-at-sunset-t09050",
+      "id": "23064",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "forest of fontainebleau: a path in the woods",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09051_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/inchbold-forest-of-fontainebleau-a-path-in-the-woods-t09051",
+      "id": "23062",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "devonshire coast",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09052_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/inchbold-devonshire-coast-t09052",
+      "id": "23090",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "whilst waiting for the train, swiss alps",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09053_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/inchbold-whilst-waiting-for-the-train-swiss-alps-t09053",
+      "id": "23091",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tintagel",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09054_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/inchbold-tintagel-t09054",
+      "id": "23092",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "suggestive study, paradise (head of a girl and a bird of paradise)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09055_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/inchbold-suggestive-study-paradise-head-of-a-girl-and-a-bird-of-paradise-t09055",
+      "id": "23094",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a rocky coast",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09056_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/inchbold-a-rocky-coast-t09056",
+      "id": "23095",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "coast scene with fishing boats and rainbows",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09057_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/inchbold-coast-scene-with-fishing-boats-and-rainbows-t09057",
+      "id": "23096",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "trenana cornwall: an indoor scene",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09058_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/inchbold-trenana-cornwall-an-indoor-scene-t09058",
+      "id": "23097",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "7024",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17247",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23089",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23082",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23083",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23088",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23087",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23078",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23093",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23073",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23076",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23074",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23084",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23075",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23077",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23072",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23079",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23065",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23067",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23070",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23080",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23071",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23069",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23068",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23063",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23081",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23086",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23060",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23085",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23066",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23061",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23064",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23062",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23090",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23091",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23092",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23094",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23095",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23096",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23097",
+      "value": 1
+    }
+  ]
+}

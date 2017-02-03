@@ -1,0 +1,197 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gusm\u00e3o, Jo\u00e3o Maria",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/joao-maria-gusmao-14992",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the unparticulated man",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gusmao-paiva-the-unparticulated-man-t13412",
+      "id": "114676",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fulcrum",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gusmao-paiva-fulcrum-t13413",
+      "id": "114678",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "colombo\u2019s column",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gusmao-paiva-colombos-column-t13414",
+      "id": "114680",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the shadow man",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gusmao-paiva-the-shadow-man-t13415",
+      "id": "114682",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "eye eclipse",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gusmao-paiva-eye-eclipse-t13416",
+      "id": "114684",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the human torch",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gusmao-paiva-the-human-torch-t13417",
+      "id": "114685",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "essay on a liquid sculpture",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gusmao-paiva-essay-on-a-liquid-sculpture-t13418",
+      "id": "114686",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hydraulics of solids",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gusmao-paiva-hydraulics-of-solids-t13419",
+      "id": "114687",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rolling stones",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gusmao-paiva-rolling-stones-t13420",
+      "id": "114688",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "about the spirit of gravity (or the blacksmith and the cutting of the serpent)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gusmao-paiva-about-the-spirit-of-gravity-or-the-blacksmith-and-the-cutting-of-the-serpent-t13421",
+      "id": "114689",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fried egg",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gusmao-paiva-fried-egg-t13422",
+      "id": "114690",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "experiment on the effluvium",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gusmao-paiva-experiment-on-the-effluvium-t13423",
+      "id": "114691",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "about the density of water",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gusmao-paiva-about-the-density-of-water-t13424",
+      "id": "114692",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "114676",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114678",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114680",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114682",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114684",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114685",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114686",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114687",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114688",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114689",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114690",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114691",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114692",
+      "value": 1
+    }
+  ]
+}

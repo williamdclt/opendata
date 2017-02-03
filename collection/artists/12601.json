@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Seers, Lindsay",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/lindsay-seers-12601",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "extramission 6 (black maria)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12975_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/seers-extramission-6-black-maria-t12975",
+      "id": "103744",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "103744",
+      "value": 1
+    }
+  ]
+}

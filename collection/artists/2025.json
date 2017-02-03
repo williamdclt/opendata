@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Tapies, Antoni",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/antoni-tapies-2025",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the sieve",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07570_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tapies-the-sieve-p07570",
+      "id": "14123",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cartography",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07571_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tapies-cartography-p07571",
+      "id": "14121",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pasted cloth",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07572_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tapies-pasted-cloth-p07572",
+      "id": "14122",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "grey and green painting",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00471_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tapies-grey-and-green-painting-t00471",
+      "id": "14124",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "grey ochre",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00927_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tapies-grey-ochre-t00927",
+      "id": "14125",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "14123",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14121",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14122",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14124",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14125",
+      "value": 1
+    }
+  ]
+}

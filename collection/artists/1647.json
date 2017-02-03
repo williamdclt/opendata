@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Mitchell, Denis",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/denis-mitchell-1647",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "praze",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00890_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mitchell-praze-t00890",
+      "id": "9590",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cauca",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01480_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mitchell-cauca-t01480",
+      "id": "9591",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "turning form",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02235_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mitchell-turning-form-t02235",
+      "id": "9592",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "la pietra",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07522_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mitchell-la-pietra-t07522",
+      "id": "26598",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9590",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9591",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9592",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26598",
+      "value": 1
+    }
+  ]
+}

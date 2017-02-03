@@ -1,0 +1,141 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Westall, Richard",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/richard-westall-595",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "philip sansom, jun., as a child",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01414_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/westall-philip-sansom-jun-as-a-child-n01414",
+      "id": "16109",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the reconciliation of helen and paris after his defeat by menelaus",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00088_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/westall-the-reconciliation-of-helen-and-paris-after-his-defeat-by-menelaus-t00088",
+      "id": "16110",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a) an old man by a fireside and a servant girl. burns",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08650_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/westall-a-an-old-man-by-a-fireside-and-a-servant-girl-burns-t08650",
+      "id": "23968",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "b) an old couple seated outside a cottage. burns",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08651_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/westall-b-an-old-couple-seated-outside-a-cottage-burns-t08651",
+      "id": "23969",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "c) a young man and a dog. cowper",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08652_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/westall-c-a-young-man-and-a-dog-cowper-t08652",
+      "id": "23970",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "d) a gaelic warrior pointing to a vision. gray",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08653_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/westall-d-a-gaelic-warrior-pointing-to-a-vision-gray-t08653",
+      "id": "23971",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "e) a shepherd by a church. gray",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08654_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/westall-e-a-shepherd-by-a-church-gray-t08654",
+      "id": "23972",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "f) a dying aged warrior, a maiden and a monk: sothey: roderick",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08655_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/westall-f-a-dying-aged-warrior-a-maiden-and-a-monk-sothey-roderick-t08655",
+      "id": "23973",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "g) a woman ministering to another, three weeping children. young: night thoughts",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08656_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/westall-g-a-woman-ministering-to-another-three-weeping-children-young-night-thoughts-t08656",
+      "id": "23974",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16109",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16110",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23968",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23969",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23970",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23971",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23972",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23973",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23974",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,519 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Wojnarowicz, David",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/david-wojnarowicz-9936",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled (desire)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wojnarowicz-untitled-desire-p79852",
+      "id": "107352",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (violence)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wojnarowicz-untitled-violence-p79853",
+      "id": "107353",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (spirituality)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wojnarowicz-untitled-spirituality-p79854",
+      "id": "107354",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (time/money)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wojnarowicz-untitled-timemoney-p79855",
+      "id": "107355",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (control)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wojnarowicz-untitled-control-p79856",
+      "id": "107356",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (language)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wojnarowicz-untitled-language-p79857",
+      "id": "107357",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wojnarowicz-untitled-p79858",
+      "id": "107358",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wojnarowicz-untitled-p79859",
+      "id": "107359",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wojnarowicz-untitled-p79860",
+      "id": "107360",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wojnarowicz-untitled-p79861",
+      "id": "107361",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wojnarowicz-untitled-p79862",
+      "id": "107362",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wojnarowicz-untitled-p79863",
+      "id": "107363",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wojnarowicz-untitled-p79864",
+      "id": "107364",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wojnarowicz-untitled-p79865",
+      "id": "107365",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wojnarowicz-untitled-p79866",
+      "id": "107366",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wojnarowicz-untitled-p79867",
+      "id": "107367",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wojnarowicz-untitled-p79868",
+      "id": "107368",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wojnarowicz-untitled-p79869",
+      "id": "107369",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wojnarowicz-untitled-p79870",
+      "id": "107370",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wojnarowicz-untitled-p79871",
+      "id": "107371",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wojnarowicz-untitled-p79872",
+      "id": "107372",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wojnarowicz-untitled-p79873",
+      "id": "107373",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wojnarowicz-untitled-p79874",
+      "id": "107374",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wojnarowicz-untitled-p79875",
+      "id": "107375",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wojnarowicz-untitled-p79876",
+      "id": "107376",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wojnarowicz-untitled-p79877",
+      "id": "107377",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wojnarowicz-untitled-p79878",
+      "id": "107378",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wojnarowicz-untitled-p79879",
+      "id": "107379",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wojnarowicz-untitled-p79880",
+      "id": "107380",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wojnarowicz-untitled-p79881",
+      "id": "107381",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wojnarowicz-untitled-p79882",
+      "id": "107382",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wojnarowicz-untitled-p79883",
+      "id": "107383",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wojnarowicz-untitled-p79884",
+      "id": "107384",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wojnarowicz-untitled-p79885",
+      "id": "107385",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wojnarowicz-untitled-p79886",
+      "id": "107386",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wojnarowicz-untitled-p79887",
+      "id": "107387",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "107352",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107353",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107354",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107355",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107356",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107357",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107358",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107359",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107360",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107361",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107362",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107363",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107364",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107365",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107366",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107367",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107368",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107369",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107370",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107371",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107372",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107373",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107374",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107375",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107376",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107377",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107378",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107379",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107380",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107381",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107382",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107383",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107384",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107385",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107386",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107387",
+      "value": 1
+    }
+  ]
+}

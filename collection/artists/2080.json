@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Tyrwhitt, Ursula",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/ursula-tyrwhitt-2080",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "flowers",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyrwhitt-flowers-n04814",
+      "id": "15578",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "15578",
+      "value": 1
+    }
+  ]
+}

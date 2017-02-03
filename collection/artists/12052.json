@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Smith, W. Eugene",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/w-eugene-smith-12052",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "guarda civil",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-guarda-civil-p13092",
+      "id": "101314",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "101314",
+      "value": 1
+    }
+  ]
+}

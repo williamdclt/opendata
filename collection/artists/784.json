@@ -1,0 +1,337 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Borofsky, Jonathan",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/jonathan-borofsky-784",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/borofsky-no-title-p07817",
+      "id": "1319",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/borofsky-no-title-p07818",
+      "id": "1320",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/borofsky-no-title-p07819",
+      "id": "1321",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/borofsky-no-title-p07820",
+      "id": "1322",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/borofsky-no-title-p07821",
+      "id": "1323",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/borofsky-no-title-p07822",
+      "id": "1324",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/borofsky-no-title-p07823",
+      "id": "1325",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/borofsky-no-title-p07824",
+      "id": "1326",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/borofsky-no-title-p07825",
+      "id": "1327",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/borofsky-no-title-p07826",
+      "id": "1328",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/borofsky-no-title-p07827",
+      "id": "1329",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/borofsky-no-title-p07828",
+      "id": "1330",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/borofsky-no-title-p07829",
+      "id": "1331",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled at 2,660,260",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/borofsky-untitled-at-2660260-t03908",
+      "id": "1332",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head with light bulb at 2,607,008",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/borofsky-head-with-light-bulb-at-2607008-t03909",
+      "id": "1333",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "man with briefcase at 2,756,805",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/borofsky-man-with-briefcase-at-2756805-t03910",
+      "id": "1334",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled at 2,545,878",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/borofsky-untitled-at-2545878-t03911",
+      "id": "1335",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled at 2,600,588",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/borofsky-untitled-at-2600588-t03912",
+      "id": "1336",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled at 2,598,228",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/borofsky-untitled-at-2598228-t03913",
+      "id": "1337",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled at 2,711,922",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/borofsky-untitled-at-2711922-t03914",
+      "id": "1338",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait at 2,485,479",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/borofsky-self-portrait-at-2485479-t03915",
+      "id": "1339",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "i dreamed i could fly at 2,518,124",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/borofsky-i-dreamed-i-could-fly-at-2518124-t03916",
+      "id": "1340",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled at 2,436,185",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/borofsky-untitled-at-2436185-t03917",
+      "id": "1341",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1319",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1320",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1321",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1322",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1323",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1324",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1325",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1326",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1327",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1328",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1329",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1330",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1331",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1332",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1333",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1334",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1335",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1336",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1337",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1338",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1339",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1340",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1341",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Perry, Grayson",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/grayson-perry-4657",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "aspects of myself",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07904_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/perry-aspects-of-myself-t07904",
+      "id": "71439",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "my gods",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07940_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/perry-my-gods-t07940",
+      "id": "71494",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "71439",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71494",
+      "value": 1
+    }
+  ]
+}

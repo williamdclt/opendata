@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Talmage, Algernon",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/algernon-talmage-2020",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the founding of australia 1788",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04877_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/talmage-the-founding-of-australia-1788-n04877",
+      "id": "14114",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "14114",
+      "value": 1
+    }
+  ]
+}

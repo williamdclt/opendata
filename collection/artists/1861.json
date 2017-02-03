@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Rogers, Claude",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/claude-rogers-1861",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "mrs richard chilver",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05345_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rogers-mrs-richard-chilver-n05345",
+      "id": "12720",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "eclipse at blandford",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06216_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rogers-eclipse-at-blandford-n06216",
+      "id": "12721",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the patient opposite",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06217_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rogers-the-patient-opposite-n06217",
+      "id": "12722",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the blow lamp",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06227_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rogers-the-blow-lamp-n06227",
+      "id": "12723",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the paraplegic",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02326_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rogers-the-paraplegic-t02326",
+      "id": "12724",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cornfields at somerton",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03848_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rogers-cornfields-at-somerton-t03848",
+      "id": "12725",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12720",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12721",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12722",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12723",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12724",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12725",
+      "value": 1
+    }
+  ]
+}

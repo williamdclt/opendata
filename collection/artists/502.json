@@ -1,0 +1,225 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Smetham, James",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/james-smetham-502",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "forsake not the law of thy mother",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02394_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smetham-forsake-not-the-law-of-thy-mother-n02394",
+      "id": "13466",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the last sleep",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02395_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smetham-the-last-sleep-n02395",
+      "id": "13467",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hugh miller",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02396_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smetham-hugh-miller-n02396",
+      "id": "13468",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "midsummer",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02397_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smetham-midsummer-n02397",
+      "id": "13469",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mr robert levett",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02398_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smetham-mr-robert-levett-n02398",
+      "id": "13470",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the lord of the sabbath",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02399_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smetham-the-lord-of-the-sabbath-n02399",
+      "id": "13471",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the resurrection of the daisy",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02400_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smetham-the-resurrection-of-the-daisy-n02400",
+      "id": "13472",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the death of earl siward",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02401_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smetham-the-death-of-earl-siward-n02401",
+      "id": "13473",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the moorland edge",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02402_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smetham-the-moorland-edge-n02402",
+      "id": "13474",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the dell",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02403_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smetham-the-dell-n02403",
+      "id": "13475",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the water-lily",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02404_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smetham-the-water-lily-n02404",
+      "id": "13476",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the days of noah",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02916_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smetham-the-days-of-noah-n02916",
+      "id": "13477",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "naboth in his vineyard",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03203_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smetham-naboth-in-his-vineyard-n03203",
+      "id": "13478",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the eve of st agnes",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03204_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smetham-the-eve-of-st-agnes-n03204",
+      "id": "13479",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "saul hiding",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08259_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smetham-saul-hiding-t08259",
+      "id": "23543",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13466",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13467",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13468",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13469",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13470",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13471",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13472",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13473",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13474",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13475",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13476",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13477",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13478",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13479",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23543",
+      "value": 1
+    }
+  ]
+}

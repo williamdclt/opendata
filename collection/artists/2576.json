@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Wharncliffe, Lady",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/lady-wharncliffe-nee-lady-caroline-mary-elizabeth-creighton-2576",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10891_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wharncliffe-title-not-known-t10891",
+      "id": "23975",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10892_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wharncliffe-title-not-known-t10892",
+      "id": "23976",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10893_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wharncliffe-title-not-known-t10893",
+      "id": "23977",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10894_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wharncliffe-title-not-known-t10894",
+      "id": "23978",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10895_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wharncliffe-title-not-known-t10895",
+      "id": "24923",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10896_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wharncliffe-title-not-known-t10896",
+      "id": "24924",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10897_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wharncliffe-title-not-known-t10897",
+      "id": "24925",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wharncliffe-title-not-known-t10898",
+      "id": "24926",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10899_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wharncliffe-title-not-known-t10899",
+      "id": "24927",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10900_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wharncliffe-title-not-known-t10900",
+      "id": "24928",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10901_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wharncliffe-title-not-known-t10901",
+      "id": "24929",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10902_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wharncliffe-title-not-known-t10902",
+      "id": "24930",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10903_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wharncliffe-title-not-known-t10903",
+      "id": "24931",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10904_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wharncliffe-title-not-known-t10904",
+      "id": "24932",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10905_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wharncliffe-title-not-known-t10905",
+      "id": "24933",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10906_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wharncliffe-title-not-known-t10906",
+      "id": "24934",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known] verso: figure and waterfall",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10907_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wharncliffe-title-not-known-verso-figure-and-waterfall-t10907",
+      "id": "24935",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10908_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wharncliffe-title-not-known-t10908",
+      "id": "24936",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10909_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wharncliffe-title-not-known-t10909",
+      "id": "24937",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10910_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wharncliffe-title-not-known-t10910",
+      "id": "24938",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10911_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wharncliffe-title-not-known-t10911",
+      "id": "24939",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10912_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wharncliffe-title-not-known-t10912",
+      "id": "24940",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10913_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wharncliffe-title-not-known-t10913",
+      "id": "24941",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10914_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wharncliffe-title-not-known-t10914",
+      "id": "24942",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10915_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wharncliffe-title-not-known-t10915",
+      "id": "24943",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10916_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wharncliffe-title-not-known-t10916",
+      "id": "24944",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10917_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wharncliffe-title-not-known-t10917",
+      "id": "24945",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10918_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wharncliffe-title-not-known-t10918",
+      "id": "24946",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10919_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wharncliffe-title-not-known-t10919",
+      "id": "24947",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10920_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wharncliffe-title-not-known-t10920",
+      "id": "24948",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10921_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wharncliffe-title-not-known-t10921",
+      "id": "24949",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10922_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wharncliffe-title-not-known-t10922",
+      "id": "24950",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10923_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wharncliffe-title-not-known-t10923",
+      "id": "24951",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10924_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wharncliffe-title-not-known-t10924",
+      "id": "24952",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10925_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wharncliffe-title-not-known-t10925",
+      "id": "24953",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10926_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wharncliffe-title-not-known-t10926",
+      "id": "24954",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10927_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wharncliffe-title-not-known-t10927",
+      "id": "24955",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10928_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wharncliffe-title-not-known-t10928",
+      "id": "24956",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10929_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wharncliffe-title-not-known-t10929",
+      "id": "24957",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10930_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wharncliffe-title-not-known-t10930",
+      "id": "24958",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "23975",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23976",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23977",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23978",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24923",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24924",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24925",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24926",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24927",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24928",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24929",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24930",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24931",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24932",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24933",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24934",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24935",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24936",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24937",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24938",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24939",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24940",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24941",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24942",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24943",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24944",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24945",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24946",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24947",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24948",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24949",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24950",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24951",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24952",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24953",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24954",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24955",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24956",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24957",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24958",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "McWilliam, F.E.",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/fe-mcwilliam-1613",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "cain and abel",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06164_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mcwilliam-cain-and-abel-n06164",
+      "id": "9144",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "women of belfast",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06346_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mcwilliam-women-of-belfast-p06346",
+      "id": "9145",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "william scott",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mcwilliam-william-scott-t00120",
+      "id": "9146",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mary scott",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mcwilliam-mary-scott-t00121",
+      "id": "9147",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pentachord",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mcwilliam-pentachord-t00407",
+      "id": "9148",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "profile",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00599_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mcwilliam-profile-t00599",
+      "id": "9149",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "eye, nose and cheek",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00871_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mcwilliam-eye-nose-and-cheek-t00871",
+      "id": "9150",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mother and daughter",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mcwilliam-mother-and-daughter-t03758",
+      "id": "9151",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait bust of isaac wolfson",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06669_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mcwilliam-portrait-bust-of-isaac-wolfson-t06669",
+      "id": "20584",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9144",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9145",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9146",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9147",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9148",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9149",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9150",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9151",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20584",
+      "value": 1
+    }
+  ]
+}

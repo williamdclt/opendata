@@ -1,0 +1,267 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Burra, Edward",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/edward-burra-837",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "harlem",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05004_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burra-harlem-n05004",
+      "id": "1830",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dancing skeletons",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05005_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burra-dancing-skeletons-n05005",
+      "id": "1831",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05165_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burra-title-not-known-n05165",
+      "id": "1832",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05166_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burra-title-not-known-n05166",
+      "id": "1833",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mexican church",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05167_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burra-mexican-church-n05167",
+      "id": "1834",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "soldiers at rye",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05377_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burra-soldiers-at-rye-n05377",
+      "id": "1835",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "balcony",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01002_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burra-balcony-p01002",
+      "id": "1836",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "caf\u00e9",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01003_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burra-cafe-p01003",
+      "id": "1837",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cupbearer",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01004_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burra-cupbearer-p01004",
+      "id": "1838",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fleet\u2019s in",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01005_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burra-fleets-in-p01005",
+      "id": "1839",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs pott",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burra-mrs-pott-p03008",
+      "id": "1840",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wednesday night",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burra-wednesday-night-p03009",
+      "id": "1841",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drag queen",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burra-drag-queen-p03010",
+      "id": "1842",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "skeleton party",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00013_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burra-skeleton-party-t00013",
+      "id": "1843",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "keep your head",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01471_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burra-keep-your-head-t01471",
+      "id": "1844",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "coffee stall. verso: scenes with figures",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01543_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burra-coffee-stall-verso-scenes-with-figures-t01543",
+      "id": "1845",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "valley and river, northumberland",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01756_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burra-valley-and-river-northumberland-t01756",
+      "id": "1846",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the snack bar",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03051_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burra-the-snack-bar-t03051",
+      "id": "1847",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1830",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1831",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1832",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1833",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1834",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1835",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1836",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1837",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1838",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1839",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1840",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1841",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1842",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1843",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1844",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1845",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1846",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1847",
+      "value": 1
+    }
+  ]
+}

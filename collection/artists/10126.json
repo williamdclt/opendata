@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Ziegler, Toby",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/toby-ziegler-10126",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the hedonistic imperative (2nd version)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12308_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ziegler-the-hedonistic-imperative-2nd-version-t12308",
+      "id": "91785",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vanity press",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12813_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ziegler-vanity-press-t12813",
+      "id": "99949",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "91785",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99949",
+      "value": 1
+    }
+  ]
+}

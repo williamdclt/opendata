@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "C\u00e9zanne, Paul",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/paul-cezanne-879",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the gardener vallier",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04724_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cezanne-the-gardener-vallier-n04724",
+      "id": "2115",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life with water jug",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04725_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cezanne-still-life-with-water-jug-n04725",
+      "id": "2116",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "montagne sainte victoire",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05303_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cezanne-montagne-sainte-victoire-n05303",
+      "id": "2117",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the large bathers",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01008_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cezanne-the-large-bathers-p01008",
+      "id": "2118",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the avenue at the jas de bouffan",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01074_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cezanne-the-avenue-at-the-jas-de-bouffan-t01074",
+      "id": "2119",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2115",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2116",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2117",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2118",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2119",
+      "value": 1
+    }
+  ]
+}

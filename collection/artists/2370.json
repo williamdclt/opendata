@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Bacon, Sir Nathaniel",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-nathaniel-bacon-2370",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "cookmaid with still life of vegetables and fruit",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06995_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bacon-cookmaid-with-still-life-of-vegetables-and-fruit-t06995",
+      "id": "21385",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "21385",
+      "value": 1
+    }
+  ]
+}

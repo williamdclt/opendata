@@ -1,0 +1,309 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Landsaat, Hans",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/hans-landsaat-1464",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "bohemian reflection",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05430_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landsaat-bohemian-reflection-p05430",
+      "id": "8316",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "flemish reflection",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05431_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landsaat-flemish-reflection-p05431",
+      "id": "8317",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "zeeland reflection",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05432_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landsaat-zeeland-reflection-p05432",
+      "id": "8318",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "island i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05433_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landsaat-island-i-p05433",
+      "id": "8319",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "island ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05434_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landsaat-island-ii-p05434",
+      "id": "8320",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "island iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05435_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landsaat-island-iii-p05435",
+      "id": "8321",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gateway",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05436_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landsaat-gateway-p05436",
+      "id": "8322",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05437_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landsaat-i-p05437",
+      "id": "8323",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05438_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landsaat-ii-p05438",
+      "id": "8324",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05439_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landsaat-iii-p05439",
+      "id": "8325",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "iv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05440_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landsaat-iv-p05440",
+      "id": "8326",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bridge",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05477_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landsaat-bridge-p05477",
+      "id": "8327",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bridge with matching cloud",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05478_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landsaat-bridge-with-matching-cloud-p05478",
+      "id": "8328",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cloud over land",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05479_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landsaat-cloud-over-land-p05479",
+      "id": "8329",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cloud over sea",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05480_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landsaat-cloud-over-sea-p05480",
+      "id": "8330",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "berlin",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05529_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landsaat-berlin-p05529",
+      "id": "8331",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "k.",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05530_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landsaat-k-p05530",
+      "id": "8332",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "prague",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05531_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landsaat-prague-p05531",
+      "id": "8333",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "women",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05532_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landsaat-women-p05532",
+      "id": "8334",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blue still life",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05552_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landsaat-blue-still-life-p05552",
+      "id": "8335",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "red still life",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05553_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landsaat-red-still-life-p05553",
+      "id": "8336",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8316",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8317",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8318",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8319",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8320",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8321",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8322",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8323",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8324",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8325",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8326",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8327",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8328",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8329",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8330",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8331",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8332",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8333",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8334",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8335",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8336",
+      "value": 1
+    }
+  ]
+}

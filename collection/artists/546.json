@@ -1,0 +1,253 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Thomas, James Havard",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/james-havard-thomas-546",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "mrs asher wertheimer",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02268_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/thomas-mrs-asher-wertheimer-n02268",
+      "id": "14145",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lycidas",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02763_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/thomas-lycidas-n02763",
+      "id": "14146",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the offering",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03184_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/thomas-the-offering-n03184",
+      "id": "14155",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cow and calf",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03639_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/thomas-cow-and-calf-n03639",
+      "id": "14147",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "irrigators, southern italy",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03640_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/thomas-irrigators-southern-italy-n03640",
+      "id": "14148",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cardinal manning",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03674_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/thomas-cardinal-manning-n03674",
+      "id": "14149",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "thyrsis",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04202_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/thomas-thyrsis-n04202",
+      "id": "14150",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "castagnettes no. 2",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04739_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/thomas-castagnettes-no-2-n04739",
+      "id": "14151",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "thyrsis",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05958_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/thomas-thyrsis-n05958",
+      "id": "14152",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cassandra",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/thomas-cassandra-n06031",
+      "id": "14153",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cassandra",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06082_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/thomas-cassandra-n06082",
+      "id": "14154",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dr p.h. emerson",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/thomas-dr-ph-emerson-t00229",
+      "id": "14156",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs asher wertheimer",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07021_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/thomas-mrs-asher-wertheimer-t07021",
+      "id": "21472",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "alma wertheimer",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07022_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/thomas-alma-wertheimer-t07022",
+      "id": "21473",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a wertheimer daughter, profile",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07023_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/thomas-a-wertheimer-daughter-profile-t07023",
+      "id": "21474",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a wertheimer daughter, full face",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07024_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/thomas-a-wertheimer-daughter-full-face-t07024",
+      "id": "21475",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "joseph lister",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07025_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/thomas-joseph-lister-t07025",
+      "id": "21476",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "14145",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14146",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14155",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14147",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14148",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14149",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14150",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14151",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14152",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14153",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14154",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14156",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21472",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21473",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21474",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21475",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21476",
+      "value": 1
+    }
+  ]
+}

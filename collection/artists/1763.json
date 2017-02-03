@@ -1,0 +1,449 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Phillips, Esq Peter",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/peter-phillips-1763",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "collection",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01273_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-collection-p01273",
+      "id": "11536",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "six times eight, dreaming",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01274_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-six-times-eight-dreaming-p01274",
+      "id": "11537",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "custom print no. 1",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01478_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-custom-print-no-1-p01478",
+      "id": "11538",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "custom print no. i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01479_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-custom-print-no-i-p01479",
+      "id": "11539",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "custom print no. ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01480_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-custom-print-no-ii-p01480",
+      "id": "11540",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "custom print no. iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01481_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-custom-print-no-iii-p01481",
+      "id": "11541",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01482_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-untitled-p01482",
+      "id": "11542",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "impeller",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01483_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-impeller-p01483",
+      "id": "11543",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "impeller",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01484_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-impeller-p01484",
+      "id": "11544",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "select-o-mat corolla",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01485_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-select-o-mat-corolla-p01485",
+      "id": "11545",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "select-o-mat tempest i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01486_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-select-o-mat-tempest-i-p01486",
+      "id": "11546",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "select-o-mat tempest ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01487_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-select-o-mat-tempest-ii-p01487",
+      "id": "11547",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spectrocoupling",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01488_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-spectrocoupling-p01488",
+      "id": "11548",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spectrocoupling",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01489_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-spectrocoupling-p01489",
+      "id": "11549",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled composition i",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-untitled-composition-i-p02268",
+      "id": "11550",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled composition ii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-untitled-composition-ii-p02269",
+      "id": "11551",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gravy for the navy",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03200_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-gravy-for-the-navy-p03200",
+      "id": "11552",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hunter",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03201_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-hunter-p03201",
+      "id": "11553",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04938_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-untitled-p04938",
+      "id": "11554",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "1. turbosonic",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04939_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-1-turbosonic-p04939",
+      "id": "11555",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "2. pneumatics",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04940_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-2-pneumatics-p04940",
+      "id": "11556",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "3. doublebubblebrain",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04941_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-3-doublebubblebrain-p04941",
+      "id": "11557",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "4. christmas eve",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04942_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-4-christmas-eve-p04942",
+      "id": "11558",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "5. the lion",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04943_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-5-the-lion-p04943",
+      "id": "11559",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "6. futuristic revamp",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04944_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-6-futuristic-revamp-p04944",
+      "id": "11560",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "7. sungleam",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04945_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-7-sungleam-p04945",
+      "id": "11561",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "8. transorbitalmission",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04946_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-8-transorbitalmission-p04946",
+      "id": "11562",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04947_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-untitled-p04947",
+      "id": "11563",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "apollo ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04948_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-apollo-ii-p04948",
+      "id": "11564",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "random illusion no. 4",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01159_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-random-illusion-no-4-t01159",
+      "id": "11565",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the entertainment machine",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02025_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-the-entertainment-machine-t02025",
+      "id": "11566",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "11536",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11537",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11538",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11539",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11540",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11541",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11542",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11543",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11544",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11545",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11546",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11547",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11548",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11549",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11550",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11551",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11552",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11553",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11554",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11555",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11556",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11557",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11558",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11559",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11560",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11561",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11562",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11563",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11564",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11565",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11566",
+      "value": 1
+    }
+  ]
+}

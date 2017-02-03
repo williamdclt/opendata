@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Wardill, Emily",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/emily-wardill-13286",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "sick serena and dregs and wreck and wreck",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wardill-sick-serena-and-dregs-and-wreck-and-wreck-t13337",
+      "id": "112303",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "112303",
+      "value": 1
+    }
+  ]
+}

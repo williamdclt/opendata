@@ -1,0 +1,239 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Dobson, Frank",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/frank-dobson-1014",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "head of a girl",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dobson-head-of-a-girl-n04437",
+      "id": "3942",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "truth",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04510_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dobson-truth-n04510",
+      "id": "3943",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the earl of oxford and asquith",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dobson-the-earl-of-oxford-and-asquith-n04550",
+      "id": "3944",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "miss jeanne de casalis",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dobson-miss-jeanne-de-casalis-n04796",
+      "id": "3945",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "noon",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04922_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dobson-noon-n04922",
+      "id": "3946",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "margaret rawlings",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05028_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dobson-margaret-rawlings-n05028",
+      "id": "3947",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "susanna",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dobson-susanna-n05040",
+      "id": "3948",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "torso",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05874_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dobson-torso-n05874",
+      "id": "3949",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sir osbert sitwell, bt",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05938_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dobson-sir-osbert-sitwell-bt-n05938",
+      "id": "3950",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "female nude",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dobson-female-nude-t00663",
+      "id": "3951",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the man child",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01322_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dobson-the-man-child-t01322",
+      "id": "3952",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nude",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02317_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dobson-nude-t02317",
+      "id": "3953",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "charnaux venus",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03719_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dobson-charnaux-venus-t03719",
+      "id": "3954",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kneeling figure",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03720_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dobson-kneeling-figure-t03720",
+      "id": "16643",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "crouching woman",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dobson-crouching-woman-t03721",
+      "id": "3955",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mary",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dobson-mary-t06496",
+      "id": "20248",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "3942",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3943",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3944",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3945",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3946",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3947",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3948",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3949",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3950",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3951",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3952",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3953",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3954",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16643",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3955",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20248",
+      "value": 1
+    }
+  ]
+}

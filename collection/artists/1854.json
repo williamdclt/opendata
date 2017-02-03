@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Roberts, Donald",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/donald-roberts-1854",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "osseous 68",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-osseous-68-p06514",
+      "id": "12651",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vair project - argent 68",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-vair-project-argent-68-p06515",
+      "id": "12652",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vair project - basalt 68",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-vair-project-basalt-68-p06516",
+      "id": "12653",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12651",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12652",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12653",
+      "value": 1
+    }
+  ]
+}

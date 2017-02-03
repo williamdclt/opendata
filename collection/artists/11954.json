@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Jackson, Melanie",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/melanie-jackson-11954",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the scavenger\u2019s loot",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79364_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jackson-the-scavengers-loot-p79364",
+      "id": "100710",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "100710",
+      "value": 1
+    }
+  ]
+}

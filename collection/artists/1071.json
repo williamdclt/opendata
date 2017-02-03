@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Eurich, Richard",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/richard-eurich-1071",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "antwerp",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05344_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/eurich-antwerp-n05344",
+      "id": "4182",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "night raid on portsmouth docks",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05690_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/eurich-night-raid-on-portsmouth-docks-n05690",
+      "id": "4183",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the landing at dieppe, 19th august 1942",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05691_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/eurich-the-landing-at-dieppe-19th-august-1942-n05691",
+      "id": "4184",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "survivors from a torpedoed ship",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05692_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/eurich-survivors-from-a-torpedoed-ship-n05692",
+      "id": "4185",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "beach with bathers",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/eurich-beach-with-bathers-t03217",
+      "id": "4186",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4182",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4183",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4184",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4185",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4186",
+      "value": 1
+    }
+  ]
+}

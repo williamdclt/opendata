@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Ling, Rita M.",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/rita-m-ling-1516",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "galway cow",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ling-galway-cow-t00038",
+      "id": "8854",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8854",
+      "value": 1
+    }
+  ]
+}

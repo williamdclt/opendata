@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Brough, Robert",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/robert-brough-819",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "fantaisie en folie",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01956_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brough-fantaisie-en-folie-n01956",
+      "id": "1575",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1575",
+      "value": 1
+    }
+  ]
+}

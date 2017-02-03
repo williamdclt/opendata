@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Van Heemskerk, Egbert, III",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/egbert-van-heemskerk-iii-566",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the doctor\u2019s visit",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00808_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/van-heemskerk-the-doctors-visit-t00808",
+      "id": "15695",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "15695",
+      "value": 1
+    }
+  ]
+}

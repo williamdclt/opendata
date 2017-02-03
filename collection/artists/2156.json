@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Wise, Gillian",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/gillian-wise-2156",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "rational concepts",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07430_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wise-rational-concepts-p07430",
+      "id": "16375",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "brown, black and white relief with prisms",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wise-brown-black-and-white-relief-with-prisms-t00568",
+      "id": "16376",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "looped network suspended in pictorial space",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01965_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wise-looped-network-suspended-in-pictorial-space-t01965",
+      "id": "16377",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018looped network suspended in pictorial space\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01966_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wise-study-for-looped-network-suspended-in-pictorial-space-t01966",
+      "id": "16378",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "relief constructed from unicursal curve no. 2",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wise-relief-constructed-from-unicursal-curve-no-2-t03776",
+      "id": "16379",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16375",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16376",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16377",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16378",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16379",
+      "value": 1
+    }
+  ]
+}

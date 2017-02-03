@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Sandle, Michael",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/michael-sandle-1895",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03159_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandle-untitled-p03159",
+      "id": "13075",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "der trommler",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04941_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandle-der-trommler-t04941",
+      "id": "13076",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a twentieth century memorial",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06896_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandle-a-twentieth-century-memorial-t06896",
+      "id": "21192",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketches for \u2018a twentieth century memorial\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandle-sketches-for-a-twentieth-century-memorial-t07030",
+      "id": "21481",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketches for \u2018a twentieth century memorial\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandle-sketches-for-a-twentieth-century-memorial-t07031",
+      "id": "21466",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anti-aircraft memorial",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12426_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandle-anti-aircraft-memorial-t12426",
+      "id": "90100",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13075",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13076",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21192",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21481",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21466",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90100",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Laporte, George Henry",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/george-henry-laporte-327",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "arab mare and foal with attendant by a ruined temple",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02363_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/laporte-arab-mare-and-foal-with-attendant-by-a-ruined-temple-t02363",
+      "id": "8382",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8382",
+      "value": 1
+    }
+  ]
+}

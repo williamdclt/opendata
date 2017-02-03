@@ -1,0 +1,393 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Percy, Lady Susan Elizabeth",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/lady-susan-elizabeth-percy-2523",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "london with mr h [cut]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10694_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/percy-london-with-mr-h-cut-t10694",
+      "id": "23356",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nacton",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10695_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/percy-nacton-t10695",
+      "id": "23357",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "knowl park",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10696_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/percy-knowl-park-t10696",
+      "id": "23358",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "barking hall suffolk",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10697_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/percy-barking-hall-suffolk-t10697",
+      "id": "23359",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "grenoble",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10698_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/percy-grenoble-t10698",
+      "id": "23362",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "venice",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10699_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/percy-venice-t10699",
+      "id": "23361",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tunbridge wells",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10700_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/percy-tunbridge-wells-t10700",
+      "id": "23360",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "orvieto",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10701_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/percy-orvieto-t10701",
+      "id": "23363",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10702_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/percy-title-not-known-t10702",
+      "id": "25085",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10703_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/percy-title-not-known-t10703",
+      "id": "25086",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10704_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/percy-title-not-known-t10704",
+      "id": "25087",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10705_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/percy-title-not-known-t10705",
+      "id": "25089",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10706_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/percy-title-not-known-t10706",
+      "id": "25088",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10707_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/percy-title-not-known-t10707",
+      "id": "25090",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10708_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/percy-title-not-known-t10708",
+      "id": "25091",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10709_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/percy-title-not-known-t10709",
+      "id": "25092",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10710_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/percy-title-not-known-t10710",
+      "id": "25093",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10711_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/percy-title-not-known-t10711",
+      "id": "25094",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10712_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/percy-title-not-known-t10712",
+      "id": "25095",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10713_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/percy-title-not-known-t10713",
+      "id": "25096",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10714_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/percy-title-not-known-t10714",
+      "id": "25097",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known] verso: landscape sketch",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10715_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/percy-title-not-known-verso-landscape-sketch-t10715",
+      "id": "25098",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10716_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/percy-title-not-known-t10716",
+      "id": "25099",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10717_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/percy-title-not-known-t10717",
+      "id": "25100",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10718_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/percy-title-not-known-t10718",
+      "id": "23355",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10719_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/percy-title-not-known-t10719",
+      "id": "25137",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10799_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/percy-title-not-known-t10799",
+      "id": "23353",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "23356",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23357",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23358",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23359",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23362",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23361",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23360",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23363",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25085",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25086",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25087",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25089",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25088",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25090",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25091",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25092",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25093",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25094",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25095",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25096",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25097",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25098",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25099",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25100",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23355",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25137",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23353",
+      "value": 1
+    }
+  ]
+}

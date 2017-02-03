@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Jansen, Angela",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/angela-jansen-1355",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jansen-untitled-p02444",
+      "id": "7089",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "station",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jansen-station-p02445",
+      "id": "7090",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "up and down",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jansen-up-and-down-p02446",
+      "id": "7091",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lost",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jansen-lost-p02447",
+      "id": "9923",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "grass",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jansen-grass-p02448",
+      "id": "7092",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "7089",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7090",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7091",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9923",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7092",
+      "value": 1
+    }
+  ]
+}

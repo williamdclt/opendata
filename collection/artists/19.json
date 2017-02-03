@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Barker, Thomas, of Bath",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/thomas-barker-of-bath-19",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the woodman and his dog in a storm",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00792_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barker-the-woodman-and-his-dog-in-a-storm-n00792",
+      "id": "722",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "getting in clover: noon",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01039_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barker-getting-in-clover-noon-n01039",
+      "id": "723",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape with figures and sheep",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01306_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barker-landscape-with-figures-and-sheep-n01306",
+      "id": "724",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02987_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barker-landscape-n02987",
+      "id": "725",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape, near bath",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04196_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barker-landscape-near-bath-n04196",
+      "id": "726",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barker-self-portrait-n05044",
+      "id": "727",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "722",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "723",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "724",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "725",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "726",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "727",
+      "value": 1
+    }
+  ]
+}

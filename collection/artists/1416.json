@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Kitaj, R.B.",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/rb-kitaj-1416",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "robert duncan",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01431_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kitaj-robert-duncan-p01431",
+      "id": "7969",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "(1) the tower",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03139_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kitaj-1-the-tower-p03139",
+      "id": "7970",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "(26) deliverance from russia",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03140_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kitaj-26-deliverance-from-russia-p03140",
+      "id": "7971",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "(37) menschen der zeit",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03141_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kitaj-37-menschen-der-zeit-p03141",
+      "id": "7972",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "acheson go home",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04414_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kitaj-acheson-go-home-p04414",
+      "id": "7973",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "errata",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04415_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kitaj-errata-p04415",
+      "id": "7974",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "photographs and philosophy",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04416_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kitaj-photographs-and-philosophy-p04416",
+      "id": "7975",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "boys and girls!",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04417_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kitaj-boys-and-girls-p04417",
+      "id": "7976",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "disciple of bernstein and kautsky",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04418_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kitaj-disciple-of-bernstein-and-kautsky-p04418",
+      "id": "7977",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "good god where is the king!",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04419_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kitaj-good-god-where-is-the-king-p04419",
+      "id": "7978",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "old and new tables",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04420_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kitaj-old-and-new-tables-p04420",
+      "id": "7979",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "yaller bird",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04421_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kitaj-yaller-bird-p04421",
+      "id": "7980",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the desire for lunch is a bourgeois obsessional neurosis or grey schizoids",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04422_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kitaj-the-desire-for-lunch-is-a-bourgeois-obsessional-neurosis-or-grey-schizoids-p04422",
+      "id": "7981",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the reduction of anxiety in terminal patients",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04423_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kitaj-the-reduction-of-anxiety-in-terminal-patients-p04423",
+      "id": "7982",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "world ruin through black magic",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04424_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kitaj-world-ruin-through-black-magic-p04424",
+      "id": "7983",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mort",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04425_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kitaj-mort-p04425",
+      "id": "7984",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pogany",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04426_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kitaj-pogany-p04426",
+      "id": "7985",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "truman in the white house",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04427_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kitaj-truman-in-the-white-house-p04427",
+      "id": "7986",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "for love (robert creeley)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04428_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kitaj-for-love-robert-creeley-p04428",
+      "id": "7987",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ed dorn",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04429_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kitaj-ed-dorn-p04429",
+      "id": "7988",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "revolt on the clyde (hugh mcdiarmid)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04430_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kitaj-revolt-on-the-clyde-hugh-mcdiarmid-p04430",
+      "id": "7989",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "star betelgeuse (robert duncan)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04431_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kitaj-star-betelgeuse-robert-duncan-p04431",
+      "id": "7990",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fifties grand swank (morton feldman)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04432_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kitaj-fifties-grand-swank-morton-feldman-p04432",
+      "id": "7991",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "charles olson",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04433_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kitaj-charles-olson-p04433",
+      "id": "7992",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "deerskin (john wieners)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04434_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kitaj-deerskin-john-wieners-p04434",
+      "id": "7993",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hail thee who play (michael mcclure)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04435_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kitaj-hail-thee-who-play-michael-mcclure-p04435",
+      "id": "7994",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kenneth rexroth",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04436_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kitaj-kenneth-rexroth-p04436",
+      "id": "7995",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "w.h. auden",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04437_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kitaj-wh-auden-p04437",
+      "id": "7996",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "barrio",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04438_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kitaj-barrio-p04438",
+      "id": "7997",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "civic virtue",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04439_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kitaj-civic-virtue-p04439",
+      "id": "7998",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "home truths",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04440_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kitaj-home-truths-p04440",
+      "id": "7999",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the romance of the civil service",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04441_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kitaj-the-romance-of-the-civil-service-p04441",
+      "id": "8000",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vernissage-cocktail",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04442_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kitaj-vernissage-cocktail-p04442",
+      "id": "8001",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the defects of its qualities",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04443_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kitaj-the-defects-of-its-qualities-p04443",
+      "id": "8002",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "die gute alte zeit",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04444_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kitaj-die-gute-alte-zeit-p04444",
+      "id": "8003",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "horizon / blitz (prologue)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04445_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kitaj-horizon-blitz-prologue-p04445",
+      "id": "8004",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "on the safeguarding of life in theatres (epilogue)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04446_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kitaj-on-the-safeguarding-of-life-in-theatres-epilogue-p04446",
+      "id": "8005",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "safeguarding of life",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04447_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kitaj-safeguarding-of-life-p04447",
+      "id": "8006",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "setpiece i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04448_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kitaj-setpiece-i-p04448",
+      "id": "8007",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "setpiece 2",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04449_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kitaj-setpiece-2-p04449",
+      "id": "8008",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "7969",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7970",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7971",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7972",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7973",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7974",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7975",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7976",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7977",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7978",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7979",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7980",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7981",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7982",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7983",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7984",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7985",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7986",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7987",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7988",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7989",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7990",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7991",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7992",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7993",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7994",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7995",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7996",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7997",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7998",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7999",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8000",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8001",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8002",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8003",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8004",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8005",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8006",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8007",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8008",
+      "value": 1
+    }
+  ]
+}

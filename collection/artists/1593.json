@@ -1,0 +1,281 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Matisse, Henri",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/henri-matisse-1593",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "trivaux pond",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04717_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/matisse-trivaux-pond-n04717",
+      "id": "9381",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nude study in blue",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04718_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/matisse-nude-study-in-blue-n04718",
+      "id": "9382",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reading woman with parasol",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04924_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/matisse-reading-woman-with-parasol-n04924",
+      "id": "9383",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the inattentive reader",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05141_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/matisse-the-inattentive-reader-n05141",
+      "id": "9384",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "notre-dame",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05905_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/matisse-notre-dame-n05905",
+      "id": "9385",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reclining nude ii",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06146_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/matisse-reclining-nude-ii-n06146",
+      "id": "9386",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "andr\u00e9 derain",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06241_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/matisse-andre-derain-n06241",
+      "id": "9387",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the dancer",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01713_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/matisse-the-dancer-p01713",
+      "id": "9388",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "little aurore",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11048_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/matisse-little-aurore-p11048",
+      "id": "9389",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "back i",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00081_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/matisse-back-i-t00081",
+      "id": "9390",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "back iv",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00082_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/matisse-back-iv-t00082",
+      "id": "9391",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "back ii",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00114_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/matisse-back-ii-t00114",
+      "id": "9392",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "back iii",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00160_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/matisse-back-iii-t00160",
+      "id": "9393",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "draped nude",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00306_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/matisse-draped-nude-t00306",
+      "id": "9394",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "standing nude",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00368_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/matisse-standing-nude-t00368",
+      "id": "9395",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the snail",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00540_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/matisse-the-snail-t00540",
+      "id": "9396",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cap d\u2019antibes",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03568_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/matisse-cap-dantibes-t03568",
+      "id": "9397",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "studio interior",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03889_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/matisse-studio-interior-t03889",
+      "id": "9398",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reclining nude",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05756_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/matisse-reclining-nude-t05756",
+      "id": "19018",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9381",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9382",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9383",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9384",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9385",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9386",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9387",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9388",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9389",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9390",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9391",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9392",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9393",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9394",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9395",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9396",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9397",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9398",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19018",
+      "value": 1
+    }
+  ]
+}

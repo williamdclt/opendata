@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Masi, Denis",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/denis-masi-2271",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "project print",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02226_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/masi-project-print-p02226",
+      "id": "9359",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9359",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Ozenfant, Am\u00e9d\u00e9e",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/amedee-ozenfant-1731",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "glasses and bottles",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00551_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ozenfant-glasses-and-bottles-t00551",
+      "id": "11029",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "11029",
+      "value": 1
+    }
+  ]
+}

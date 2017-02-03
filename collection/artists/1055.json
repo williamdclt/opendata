@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Elwyn, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-elwyn-1055",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "caernarvon castle",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/elwyn-caernarvon-castle-p06113",
+      "id": "4102",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "harlech castle",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/elwyn-harlech-castle-p06114",
+      "id": "4103",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4102",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4103",
+      "value": 1
+    }
+  ]
+}

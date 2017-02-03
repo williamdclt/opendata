@@ -1,0 +1,183 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Fuseli, Henry",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/henry-fuseli-198",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "titania and bottom",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01228_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fuseli-titania-and-bottom-n01228",
+      "id": "4759",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the debutante",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03396_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fuseli-the-debutante-n03396",
+      "id": "4760",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "percival delivering belisane from the enchantment of urma",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05304_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fuseli-percival-delivering-belisane-from-the-enchantment-of-urma-n05304",
+      "id": "4761",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lady macbeth seizing the daggers",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00733_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fuseli-lady-macbeth-seizing-the-daggers-t00733",
+      "id": "4762",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the shepherd\u2019s dream, from \u2018paradise lost\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00876_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fuseli-the-shepherds-dream-from-paradise-lost-t00876",
+      "id": "4763",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "siegfried about to deny on oath that brunhild had been his paramour. verso: the figures traced through",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08133_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fuseli-siegfried-about-to-deny-on-oath-that-brunhild-had-been-his-paramour-verso-the-t08133",
+      "id": "22890",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "2. caricature of northcote",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08150_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fuseli-2-caricature-of-northcote-t08150",
+      "id": "22686",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait and anatomical studies. verso: two male anatomical studies",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08242_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fuseli-self-portrait-and-anatomical-studies-verso-two-male-anatomical-studies-t08242",
+      "id": "22893",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait as a faun. verso: head of a woman three-quarters to left",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08879_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fuseli-self-portrait-as-a-faun-verso-head-of-a-woman-three-quarters-to-left-t08879",
+      "id": "22895",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a sheet of studies: three figures of recumbent women. a head of a man. verso: half length figure of a woman in profile, and a study of a head and arm; a nude male figure",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08912_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fuseli-a-sheet-of-studies-three-figures-of-recumbent-women-a-head-of-a-man-verso-half-t08912",
+      "id": "22894",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sheet of studies: three female heads, an arm and a hand. verso: heroic male nude and a face in profile",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08913_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fuseli-sheet-of-studies-three-female-heads-an-arm-and-a-hand-verso-heroic-male-nude-and-a-t08913",
+      "id": "22892",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "charis phykomen\u00e9. verso: head of a woman, unfinished",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10440_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fuseli-charis-phykomene-verso-head-of-a-woman-unfinished-t10440",
+      "id": "22891",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4759",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4760",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4761",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4762",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4763",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22890",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22686",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22893",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22895",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22894",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22892",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22891",
+      "value": 1
+    }
+  ]
+}

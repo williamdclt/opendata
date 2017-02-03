@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Tanguy, Yves",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/yves-tanguy-2023",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the invisibles",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00657_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tanguy-the-invisibles-t00657",
+      "id": "14119",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "azure day",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07080_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tanguy-azure-day-t07080",
+      "id": "21553",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tanguy-untitled-t12400",
+      "id": "26747",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "14119",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21553",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26747",
+      "value": 1
+    }
+  ]
+}

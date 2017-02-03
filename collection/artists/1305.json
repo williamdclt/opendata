@@ -1,0 +1,183 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Holroyd, Sir Charles",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-charles-holroyd-1305",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "villa torlonia, frascati",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03344_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holroyd-villa-torlonia-frascati-n03344",
+      "id": "6676",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch of g.f. watts",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03397_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holroyd-sketch-of-gf-watts-n03397",
+      "id": "6677",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch of alphonse legros",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03398_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holroyd-sketch-of-alphonse-legros-n03398",
+      "id": "6678",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "medal of george meredith",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03638_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holroyd-medal-of-george-meredith-n03638",
+      "id": "6679",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "death of torrigiano",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04406_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holroyd-death-of-torrigiano-n04406",
+      "id": "6680",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "alcantara bridge, toledo",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01020_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holroyd-alcantara-bridge-toledo-p01020",
+      "id": "6681",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "langstrath",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01021_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holroyd-langstrath-p01021",
+      "id": "6682",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mountain view from the top of glaramara, towards langdale",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01022_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holroyd-mountain-view-from-the-top-of-glaramara-towards-langdale-p01022",
+      "id": "6683",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "honister crag",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01023_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holroyd-honister-crag-p01023",
+      "id": "6684",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "great gable",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01024_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holroyd-great-gable-p01024",
+      "id": "6685",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the salute, venice",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01025_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holroyd-the-salute-venice-p01025",
+      "id": "6686",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wooded landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01925_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holroyd-wooded-landscape-t01925",
+      "id": "6687",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6676",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6677",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6678",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6679",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6680",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6681",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6682",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6683",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6684",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6685",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6686",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6687",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Linnell, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-linnell-351",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00742_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/linnell-title-not-known-a00742",
+      "id": "8856",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00743_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/linnell-title-not-known-a00743",
+      "id": "16535",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00744_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/linnell-title-not-known-a00744",
+      "id": "16536",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00745_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/linnell-title-not-known-a00745",
+      "id": "16537",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00746_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/linnell-title-not-known-a00746",
+      "id": "16538",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00747_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/linnell-title-not-known-a00747",
+      "id": "16539",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00748_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/linnell-title-not-known-a00748",
+      "id": "16540",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00749_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/linnell-title-not-known-a00749",
+      "id": "16541",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00750_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/linnell-title-not-known-a00750",
+      "id": "16542",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00751_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/linnell-title-not-known-a00751",
+      "id": "16543",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00752_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/linnell-title-not-known-a00752",
+      "id": "16544",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00753_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/linnell-title-not-known-a00753",
+      "id": "16545",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00754_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/linnell-title-not-known-a00754",
+      "id": "16546",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00755_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/linnell-title-not-known-a00755",
+      "id": "16547",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00756_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/linnell-title-not-known-a00756",
+      "id": "16548",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00757_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/linnell-title-not-known-a00757",
+      "id": "16549",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00758_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/linnell-title-not-known-a00758",
+      "id": "16550",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00759_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/linnell-title-not-known-a00759",
+      "id": "16551",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00760_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/linnell-title-not-known-a00760",
+      "id": "16552",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00761_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/linnell-title-not-known-a00761",
+      "id": "16553",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00762_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/linnell-title-not-known-a00762",
+      "id": "16554",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00763_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/linnell-title-not-known-a00763",
+      "id": "16555",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00764_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/linnell-title-not-known-a00764",
+      "id": "16556",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00765_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/linnell-title-not-known-a00765",
+      "id": "16557",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00766_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/linnell-title-not-known-a00766",
+      "id": "16558",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00767_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/linnell-title-not-known-a00767",
+      "id": "16559",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00768_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/linnell-title-not-known-a00768",
+      "id": "16560",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00769_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/linnell-title-not-known-a00769",
+      "id": "16561",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00770_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/linnell-title-not-known-a00770",
+      "id": "16562",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00771_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/linnell-title-not-known-a00771",
+      "id": "16563",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00772_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/linnell-title-not-known-a00772",
+      "id": "16564",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00773_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/linnell-title-not-known-a00773",
+      "id": "16565",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00774_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/linnell-title-not-known-a00774",
+      "id": "16566",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00775_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/linnell-title-not-known-a00775",
+      "id": "16567",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00776_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/linnell-title-not-known-a00776",
+      "id": "16568",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00777_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/linnell-title-not-known-a00777",
+      "id": "16569",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00778_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/linnell-title-not-known-a00778",
+      "id": "16570",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00779_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/linnell-title-not-known-a00779",
+      "id": "16571",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00780_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/linnell-title-not-known-a00780",
+      "id": "16572",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00781_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/linnell-title-not-known-a00781",
+      "id": "16573",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8856",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16535",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16536",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16537",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16538",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16539",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16540",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16541",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16542",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16543",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16544",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16545",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16546",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16547",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16548",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16549",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16550",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16551",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16552",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16553",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16554",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16555",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16556",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16557",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16558",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16559",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16560",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16561",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16562",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16563",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16564",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16565",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16566",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16567",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16568",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16569",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16570",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16571",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16572",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16573",
+      "value": 1
+    }
+  ]
+}

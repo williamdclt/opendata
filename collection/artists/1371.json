@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Jones, Fred Cecil",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/fred-cecil-jones-1371",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "chimney stacks and winding ways, whitby",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-chimney-stacks-and-winding-ways-whitby-n04899",
+      "id": "7248",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "7248",
+      "value": 1
+    }
+  ]
+}

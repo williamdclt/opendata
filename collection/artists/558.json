@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Turner, Joseph Mallord William",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/joseph-mallord-william-turner-558",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the death of actaeon, with a distant view of montjovet, val d\u2019aosta",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00909_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-the-death-of-actaeon-with-a-distant-view-of-montjovet-val-daosta-a00909",
+      "id": "14609",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a mountain stream, perhaps bolton glen",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-a-mountain-stream-perhaps-bolton-glen-a00910",
+      "id": "14610",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "frontispiece",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00911_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-frontispiece-a00911",
+      "id": "14611",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "frontispiece, engraved by j.c. easling",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00912_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-frontispiece-engraved-by-jc-easling-a00912",
+      "id": "14612",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bridge and cows",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00913_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-bridge-and-cows-a00913",
+      "id": "14613",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bridge and cows, engraved by charles turner",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00914_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-bridge-and-cows-engraved-by-charles-turner-a00914",
+      "id": "14614",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman and tambourine",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00915_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-woman-and-tambourine-a00915",
+      "id": "14615",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman and tambourine, engraved by charles turner",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00916_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-woman-and-tambourine-engraved-by-charles-turner-a00916",
+      "id": "14616",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "scene on the french coast",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00917_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-scene-on-the-french-coast-a00917",
+      "id": "14617",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "scene on the french coast, engraved by charles turner",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00918_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-scene-on-the-french-coast-engraved-by-charles-turner-a00918",
+      "id": "14618",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "basle",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00919_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-basle-a00919",
+      "id": "14619",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "basle, engraved by charles turner",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00920_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-basle-engraved-by-charles-turner-a00920",
+      "id": "14620",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jason",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00921_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-jason-a00921",
+      "id": "14621",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jason, engraved by charles turner",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00922_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-jason-engraved-by-charles-turner-a00922",
+      "id": "14622",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the strawyard",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00923_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-the-strawyard-a00923",
+      "id": "14623",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the straw yard, engraved by charles turner",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00924_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-the-straw-yard-engraved-by-charles-turner-a00924",
+      "id": "14624",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the castle above the meadows",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00925_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-the-castle-above-the-meadows-a00925",
+      "id": "14625",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the castle above the meadows, engraved by charles turner",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00926_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-the-castle-above-the-meadows-engraved-by-charles-turner-a00926",
+      "id": "14626",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mount st gothard",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00927_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-mount-st-gothard-a00927",
+      "id": "14627",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mt st gothard, engraved by charles turner",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00928_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-mt-st-gothard-engraved-by-charles-turner-a00928",
+      "id": "14628",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ships in a breeze",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00929_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-ships-in-a-breeze-a00929",
+      "id": "14629",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ships in a breeze, engraved by charles turner",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00930_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-ships-in-a-breeze-engraved-by-charles-turner-a00930",
+      "id": "14630",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "holy island cathedral",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00931_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-holy-island-cathedral-a00931",
+      "id": "14631",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "holy island cathedral, engraved by charles turner",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00932_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-holy-island-cathedral-engraved-by-charles-turner-a00932",
+      "id": "14632",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pembury mill, kent",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00933_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-pembury-mill-kent-a00933",
+      "id": "14633",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pembury mill, kent, engraved by charles turner",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00934_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-pembury-mill-kent-engraved-by-charles-turner-a00934",
+      "id": "14634",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the bridge in middle distance",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00935_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-the-bridge-in-middle-distance-a00935",
+      "id": "14635",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the bridge in middle distance, engraved by charles turner",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00936_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-the-bridge-in-middle-distance-engraved-by-charles-turner-a00936",
+      "id": "14636",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dunstanborough castle",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00937_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-dunstanborough-castle-a00937",
+      "id": "14637",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dunstanborough castle, engraved by charles turner",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00938_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-dunstanborough-castle-engraved-by-charles-turner-a00938",
+      "id": "14638",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lake thun, switzerland",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00939_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-lake-thun-switzerland-a00939",
+      "id": "14639",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lake of thun, engraved by charles turner",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00940_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-lake-of-thun-engraved-by-charles-turner-a00940",
+      "id": "14640",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the fifth plague of egypt",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00941_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-the-fifth-plague-of-egypt-a00941",
+      "id": "14641",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the fifth plague of egypt, engraved by charles turner",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00942_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-the-fifth-plague-of-egypt-engraved-by-charles-turner-a00942",
+      "id": "14642",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the farmyard with the cock",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00943_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-the-farmyard-with-the-cock-a00943",
+      "id": "14643",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the farm-yard with the cock, engraved by charles turner",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00944_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-the-farm-yard-with-the-cock-engraved-by-charles-turner-a00944",
+      "id": "14644",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the fall of the clyde",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00945_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-the-fall-of-the-clyde-a00945",
+      "id": "14645",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing of the clyde, engraved by charles turner",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00946_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-drawing-of-the-clyde-engraved-by-charles-turner-a00946",
+      "id": "14646",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "little devil\u2019s bridge",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00947_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-little-devils-bridge-a00947",
+      "id": "14647",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "little devil\u2019s bridge, engraved by charles turner",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00948_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-little-devils-bridge-engraved-by-charles-turner-a00948",
+      "id": "14648",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "14609",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14610",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14611",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14612",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14613",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14614",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14615",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14616",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14617",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14618",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14619",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14620",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14621",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14622",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14623",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14624",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14625",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14626",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14627",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14628",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14629",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14630",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14631",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14632",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14633",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14634",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14635",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14636",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14637",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14638",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14639",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14640",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14641",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14642",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14643",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14644",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14645",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14646",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14647",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14648",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hoppner, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-hoppner-276",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "william smith the actor",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00133_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoppner-william-smith-the-actor-n00133",
+      "id": "6704",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "william pitt",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoppner-william-pitt-n00233",
+      "id": "6714",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jane elizabeth, countess of oxford",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00900_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoppner-jane-elizabeth-countess-of-oxford-n00900",
+      "id": "6705",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of a lady",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01505_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoppner-portrait-of-a-lady-n01505",
+      "id": "6706",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a gale of wind",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02765_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoppner-a-gale-of-wind-n02765",
+      "id": "6707",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "master frederick van diest",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoppner-master-frederick-van-diest-n03013",
+      "id": "6708",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "miss louisa van diest",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoppner-miss-louisa-van-diest-n03014",
+      "id": "6709",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "miss harriet cholmondeley",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03512_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoppner-miss-harriet-cholmondeley-n03512",
+      "id": "6710",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs jordan as hypolita in \u2018she would and she would not\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04692_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoppner-mrs-jordan-as-hypolita-in-she-would-and-she-would-not-n04692",
+      "id": "6711",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lord farnborough",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04776_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoppner-lord-farnborough-n04776",
+      "id": "6712",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs williams",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05582_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoppner-mrs-williams-n05582",
+      "id": "6713",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape with trees and hills",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09872_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoppner-landscape-with-trees-and-hills-t09872",
+      "id": "23017",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a standing woman, right arm extended",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10247_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoppner-a-standing-woman-right-arm-extended-t10247",
+      "id": "23015",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a standing woman, facing to right",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10253_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoppner-a-standing-woman-facing-to-right-t10253",
+      "id": "23016",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape with trees, with bridge in foreground",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10669_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoppner-landscape-with-trees-with-bridge-in-foreground-t10669",
+      "id": "25071",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6704",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6714",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6705",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6706",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6707",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6708",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6709",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6710",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6711",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6712",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6713",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23017",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23015",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23016",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25071",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Cooper, Thomas Joshua",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/thomas-joshua-cooper-4744",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "st ives bay and the celtic sea | the island, st ives, cornwall, great britain",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cooper-st-ives-bay-and-the-celtic-sea-the-island-st-ives-cornwall-great-britain-p20231",
+      "id": "71560",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st ives bay and the celtic sea | godrevy point, cornwall, great britain",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cooper-st-ives-bay-and-the-celtic-sea-godrevy-point-cornwall-great-britain-p20232",
+      "id": "71558",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the north atlantic ocean and the celtic sea | st agnes head, cornwall, great britain",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cooper-the-north-atlantic-ocean-and-the-celtic-sea-st-agnes-head-cornwall-great-britain-p20233",
+      "id": "71559",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "south-most arrival - the english channel | at the hour of the total solar eclipse, but on the day before | bumble rock, lizard point, cornwall, great britain | the south-most point of mainland great britain",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78605_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cooper-south-most-arrival-the-english-channel-at-the-hour-of-the-total-solar-eclipse-but-p78605",
+      "id": "71556",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the swelling of the sea | furthest west - the atlantic ocean | point ardnamurchan, scotland | the west-most point of mainland great britain",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78606_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cooper-the-swelling-of-the-sea-furthest-west-the-atlantic-ocean-point-ardnamurchan-p78606",
+      "id": "71557",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "71560",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71558",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71559",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71556",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71557",
+      "value": 1
+    }
+  ]
+}

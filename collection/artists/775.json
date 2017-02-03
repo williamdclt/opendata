@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Boisvert, Gilles",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/gilles-boisvert-775",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "silver bird over the rue st laurent",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03168_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boisvert-silver-bird-over-the-rue-st-laurent-p03168",
+      "id": "1214",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1214",
+      "value": 1
+    }
+  ]
+}

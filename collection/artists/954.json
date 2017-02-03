@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Craig, Frank",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/frank-craig-954",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the heretic",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02071_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/craig-the-heretic-n02071",
+      "id": "2922",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2922",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Shahbazi, Shirana",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/shirana-shahbazi-9857",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[ania-01-2005]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shahbazi-ania-01-2005-p79227",
+      "id": "90790",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[les-02-2005]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shahbazi-les-02-2005-p79228",
+      "id": "90967",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[ania-04-2005]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shahbazi-ania-04-2005-p79229",
+      "id": "90968",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[ania-03-2005]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shahbazi-ania-03-2005-p79230",
+      "id": "90976",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[guinea fowl-01-2003]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shahbazi-guinea-fowl-01-2003-p79231",
+      "id": "90978",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[course-01-2001]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shahbazi-course-01-2001-p79232",
+      "id": "90979",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[farsh-06-2004]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shahbazi-farsh-06-2004-t12318",
+      "id": "90980",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "90790",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90967",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90968",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90976",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90978",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90979",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90980",
+      "value": 1
+    }
+  ]
+}

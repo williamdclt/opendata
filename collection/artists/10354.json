@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gonzalez-Foerster, Dominique",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/dominique-gonzalez-foerster-10354",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "s\u00e9ance de shadow ii (bleu)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-foerster-seance-de-shadow-ii-bleu-t12752",
+      "id": "92584",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "noreturn",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-foerster-noreturn-t13300",
+      "id": "111919",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "92584",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "111919",
+      "value": 1
+    }
+  ]
+}

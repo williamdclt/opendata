@@ -1,0 +1,239 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Willats, Stephen",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/stephen-willats-2147",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "wall print",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07947_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/willats-wall-print-p07947",
+      "id": "16202",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "living with practical realities",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03296_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/willats-living-with-practical-realities-t03296",
+      "id": "16203",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "are you good enough for the cha cha cha?",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03795_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/willats-are-you-good-enough-for-the-cha-cha-cha-t03795",
+      "id": "16204",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "organic exercise no. 3, series no. 2 (tower block drawing)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04106_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/willats-organic-exercise-no-3-series-no-2-tower-block-drawing-t04106",
+      "id": "16205",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for construction",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04107_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/willats-drawing-for-construction-t04107",
+      "id": "16206",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for a project no. 12",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04108_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/willats-drawing-for-a-project-no-12-t04108",
+      "id": "16207",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "macro to micro",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/willats-macro-to-micro-t07866",
+      "id": "67122",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "visual automatic no.5",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11784_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/willats-visual-automatic-no5-t11784",
+      "id": "79824",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "visual field automatic no.1",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11786_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/willats-visual-field-automatic-no1-t11786",
+      "id": "80007",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "worksheets for visual automatic no.5 no.1",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/willats-worksheets-for-visual-automatic-no5-no1-t11831",
+      "id": "81613",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "worksheets for visual automatic no.5 no.2",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/willats-worksheets-for-visual-automatic-no5-no2-t11832",
+      "id": "81614",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "worksheets for visual automatic no.5 no.3",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/willats-worksheets-for-visual-automatic-no5-no3-t11833",
+      "id": "81615",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "worksheet for visual automatic no.5, no.4",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12025_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/willats-worksheet-for-visual-automatic-no5-no4-t12025",
+      "id": "86382",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "light modulator no.2",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12332_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/willats-light-modulator-no2-t12332",
+      "id": "93275",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018the lunch triangle\u2019: pilot work b. codes and parameters",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/willats-the-lunch-triangle-pilot-work-b-codes-and-parameters-t13339",
+      "id": "112282",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the twin towers",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13340_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/willats-the-twin-towers-t13340",
+      "id": "112283",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16202",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16203",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16204",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16205",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16206",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16207",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67122",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79824",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80007",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81613",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81614",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81615",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "86382",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93275",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112282",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112283",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Lawrence, Sir Thomas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-thomas-lawrence-334",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "miss laura dorothea ross (mrs francis robertson)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00136_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lawrence-miss-laura-dorothea-ross-mrs-francis-robertson-n00136",
+      "id": "8428",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "john philip kemble as hamlet",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00142_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lawrence-john-philip-kemble-as-hamlet-n00142",
+      "id": "8429",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "benjamin west, p.r.a. (replica)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lawrence-benjamin-west-pra-replica-n00144",
+      "id": "8430",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs siddons",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00188_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lawrence-mrs-siddons-n00188",
+      "id": "8431",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the countess of darnley",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00324_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lawrence-the-countess-of-darnley-n00324",
+      "id": "8432",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs siddons, ? as mrs haller in \u2018the stranger\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00785_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lawrence-mrs-siddons-as-mrs-haller-in-the-stranger-n00785",
+      "id": "8433",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "princess lieven",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00893_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lawrence-princess-lieven-n00893",
+      "id": "8434",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lady georgiana fane",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00922_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lawrence-lady-georgiana-fane-n00922",
+      "id": "8435",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sir samuel romilly",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lawrence-sir-samuel-romilly-n01238",
+      "id": "8436",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "miss caroline fry",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01307_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lawrence-miss-caroline-fry-n01307",
+      "id": "8437",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "philip sansom",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01413_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lawrence-philip-sansom-n01413",
+      "id": "8438",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs siddons",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lawrence-mrs-siddons-n02222",
+      "id": "8439",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "isabel smith, called munia, nurse to the angerstein family",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00768_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lawrence-isabel-smith-called-munia-nurse-to-the-angerstein-family-t00768",
+      "id": "8440",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "homer reciting his poems",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01974_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lawrence-homer-reciting-his-poems-t01974",
+      "id": "8441",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "philadelphia hannah, 1st viscountess cremorne",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05466_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lawrence-philadelphia-hannah-1st-viscountess-cremorne-t05466",
+      "id": "17246",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of william cowper, engraved by francesco bartolozzi",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06463_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lawrence-portrait-of-william-cowper-engraved-by-francesco-bartolozzi-t06463",
+      "id": "20181",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "3. portrait of james boswell",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08151_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lawrence-3-portrait-of-james-boswell-t08151",
+      "id": "22687",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "three children playing",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09085_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lawrence-three-children-playing-t09085",
+      "id": "23145",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8428",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8429",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8430",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8431",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8432",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8433",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8434",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8435",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8436",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8437",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8438",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8439",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8440",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8441",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17246",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20181",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22687",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23145",
+      "value": 1
+    }
+  ]
+}

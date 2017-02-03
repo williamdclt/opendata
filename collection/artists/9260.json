@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Black Audio Film Collective (John Akomfrah; Reece Auguis; Edward George; Lina Gopaul; Avril Johnson; David Lawson; Trevo",
+      "url": null,
+      "gender": "",
+      "tatelink": "http://www.tate.org.uk/art/artists/black-audio-film-collective-john-akomfrah-reece-auguis-edward-george-lina-gopaul-avril-9260",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "handsworth songs",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/black-audio-film-collective-john-akomfrah-reece-auguis-edward-george-lina-gopaul-avril-t12862",
+      "id": "99611",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "expeditions one: signs of empire",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/black-audio-film-collective-john-akomfrah-reece-auguis-edward-george-lina-gopaul-avril-t12863",
+      "id": "99612",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "expeditions two: images of nationality",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/black-audio-film-collective-john-akomfrah-reece-auguis-edward-george-lina-gopaul-avril-t12864",
+      "id": "99613",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "99611",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99612",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99613",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Leckey, Mark",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/mark-leckey-6877",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "gorgeousness & gorgeosity",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leckey-gorgeousness-gorgeosity-p13012",
+      "id": "91677",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fiorucci made me hardcore",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leckey-fiorucci-made-me-hardcore-t11817",
+      "id": "81118",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "made in \u2018eaven",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12163_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leckey-made-in-eaven-t12163",
+      "id": "84098",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "felix gets broadcasted",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leckey-felix-gets-broadcasted-t12939",
+      "id": "103678",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "flix",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leckey-flix-t12940",
+      "id": "103679",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "91677",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81118",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "84098",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "103678",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "103679",
+      "value": 1
+    }
+  ]
+}

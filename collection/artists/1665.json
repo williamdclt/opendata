@@ -1,0 +1,225 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Morley, Malcolm",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/malcolm-morley-1665",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "horses",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04612_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morley-horses-p04612",
+      "id": "10305",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "train wreck (gold version)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07602_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morley-train-wreck-gold-version-p07602",
+      "id": "10306",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "beach scene with parasailor",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morley-beach-scene-with-parasailor-p12152",
+      "id": "80035",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pamela running before the wind with a dutch lighthouse",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12153_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morley-pamela-running-before-the-wind-with-a-dutch-lighthouse-p12153",
+      "id": "80036",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "flying cloud with montgolfi\u00e9re balloon",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morley-flying-cloud-with-montgolfiere-balloon-p12154",
+      "id": "80037",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "devonshire cows",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12155_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morley-devonshire-cows-p12155",
+      "id": "80038",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "devonshire bullocks",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morley-devonshire-bullocks-p12156",
+      "id": "80039",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "horses",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morley-horses-p12157",
+      "id": "80040",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "goats in the shed",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morley-goats-in-the-shed-p12158",
+      "id": "80041",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "goat",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12159_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morley-goat-p12159",
+      "id": "80042",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fish",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morley-fish-p12160",
+      "id": "80043",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "corsair f411",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78633_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morley-corsair-f411-p78633",
+      "id": "71600",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "p-26 pea shooter",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78634_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morley-p-26-pea-shooter-p78634",
+      "id": "71601",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fokker dviii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78635_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morley-fokker-dviii-p78635",
+      "id": "74241",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mariner",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07746_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morley-mariner-t07746",
+      "id": "224",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "10305",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10306",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80035",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80036",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80037",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80038",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80039",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80040",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80041",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80042",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80043",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71600",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71601",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "74241",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "224",
+      "value": 1
+    }
+  ]
+}

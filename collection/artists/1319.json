@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hubbard, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-hubbard-1319",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "autumn on the chesil bank",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00589_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hubbard-autumn-on-the-chesil-bank-t00589",
+      "id": "6939",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "light structure",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03371_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hubbard-light-structure-t03371",
+      "id": "6940",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "haytor quarry",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03372_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hubbard-haytor-quarry-t03372",
+      "id": "6941",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "looking west from zennor quoit",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07090_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hubbard-looking-west-from-zennor-quoit-t07090",
+      "id": "21580",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stone group porthmeor beach",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07091_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hubbard-stone-group-porthmeor-beach-t07091",
+      "id": "21581",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6939",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6940",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6941",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21580",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21581",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Art & Language (Harold Hurrell)",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/art-language-harold-hurrell-16245",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[fluidic device]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/art-language-harold-hurrell-fluidic-device-p13187",
+      "id": "121761",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "121761",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Huebler, Douglas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/douglas-huebler-1320",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "variable piece no. 44",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07234_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/huebler-variable-piece-no-44-p07234",
+      "id": "6945",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "site sculpture project, windham college pentagon, putney, vermont",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01823_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/huebler-site-sculpture-project-windham-college-pentagon-putney-vermont-t01823",
+      "id": "6946",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6945",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6946",
+      "value": 1
+    }
+  ]
+}

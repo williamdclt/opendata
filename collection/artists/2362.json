@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Barney, Matthew",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/matthew-barney-2362",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "ottoshaft",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barney-ottoshaft-t06964",
+      "id": "21266",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cremaster 5",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07572_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barney-cremaster-5-t07572",
+      "id": "26853",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "21266",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26853",
+      "value": 1
+    }
+  ]
+}

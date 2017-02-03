@@ -1,0 +1,14 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Davidson, Bruce",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/bruce-davidson-13353",
+      "id": "Artist",
+      "size": 30
+    }
+  ],
+  "links": []
+}

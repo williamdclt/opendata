@@ -1,0 +1,239 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Landy, Michael",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/michael-landy-2409",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "cor! what a bargain!",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77927_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landy-cor-what-a-bargain-p77927",
+      "id": "21863",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shepherd\u2019s purse 5",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78722_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landy-shepherds-purse-5-p78722",
+      "id": "76677",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "thale cress",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78723_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landy-thale-cress-p78723",
+      "id": "76679",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shepherd\u2019s purse",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78724_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landy-shepherds-purse-p78724",
+      "id": "76680",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "herb robert",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78725_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landy-herb-robert-p78725",
+      "id": "76681",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "smooth hawks beard",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78726_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landy-smooth-hawks-beard-p78726",
+      "id": "76682",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shepherd\u2019s purse 4",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78727_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landy-shepherds-purse-4-p78727",
+      "id": "76683",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "common toad flax",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78728_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landy-common-toad-flax-p78728",
+      "id": "76684",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "annual wall rocket",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78729_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landy-annual-wall-rocket-p78729",
+      "id": "76685",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "creeping buttercup",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78730_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landy-creeping-buttercup-p78730",
+      "id": "76686",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "common groundsel",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78731_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landy-common-groundsel-p78731",
+      "id": "76687",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shepherd\u2019s purse 2",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78732_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landy-shepherds-purse-2-p78732",
+      "id": "76688",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "common groundsel 2",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78733_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landy-common-groundsel-2-p78733",
+      "id": "76689",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sweep to victory",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07212_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landy-sweep-to-victory-t07212",
+      "id": "21819",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "scrapheap services",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07221_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landy-scrapheap-services-t07221",
+      "id": "21980",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "h.2.n.y. self-constructing self-destroying tinguely machine, museum of modern art, 17th march 1960",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12333_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landy-h2ny-self-constructing-self-destroying-tinguely-machine-museum-of-modern-art-17th-t12333",
+      "id": "92173",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "21863",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "76677",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "76679",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "76680",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "76681",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "76682",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "76683",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "76684",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "76685",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "76686",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "76687",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "76688",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "76689",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21819",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21980",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "92173",
+      "value": 1
+    }
+  ]
+}

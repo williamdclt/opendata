@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Burkert, Robert",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/robert-burkert-835",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "spanish landscape",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06057_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burkert-spanish-landscape-p06057",
+      "id": "1685",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "moonlit tree",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06058_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burkert-moonlit-tree-p06058",
+      "id": "1686",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "english garden",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06059_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burkert-english-garden-p06059",
+      "id": "1687",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pollard tree",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06060_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burkert-pollard-tree-p06060",
+      "id": "1688",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "three trees",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06701_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burkert-three-trees-p06701",
+      "id": "1689",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1685",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1686",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1687",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1688",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1689",
+      "value": 1
+    }
+  ]
+}

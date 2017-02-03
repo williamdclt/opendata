@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Sander, Ludwig",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/ludwig-sander-1894",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "three blues",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sander-three-blues-p01798",
+      "id": "13074",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13074",
+      "value": 1
+    }
+  ]
+}

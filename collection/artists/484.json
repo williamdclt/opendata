@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Segar, Sir William",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-william-segar-484",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "portrait of a man in a slashed black doublet",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03576_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/segar-portrait-of-a-man-in-a-slashed-black-doublet-t03576",
+      "id": "13289",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13289",
+      "value": 1
+    }
+  ]
+}

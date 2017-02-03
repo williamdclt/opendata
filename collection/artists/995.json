@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Demnig, Gunter",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/gunter-demnig-995",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "blood trail (kassel/london)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03421_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/demnig-blood-trail-kassellondon-t03421",
+      "id": "3726",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "3726",
+      "value": 1
+    }
+  ]
+}

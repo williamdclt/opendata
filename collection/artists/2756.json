@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Abbott, Berenice",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/berenice-abbott-2756",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "dinty moore antiques",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abbott-dinty-moore-antiques-p13098",
+      "id": "101214",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "leadbelly",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abbott-leadbelly-p13099",
+      "id": "101219",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tri-boro barber shop",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abbott-tri-boro-barber-shop-p13100",
+      "id": "107049",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "101214",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101219",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107049",
+      "value": 1
+    }
+  ]
+}

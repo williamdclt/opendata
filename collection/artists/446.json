@@ -1,0 +1,225 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Richards, John Inigo",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-inigo-richards-446",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "ivy bridge, devon",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00925_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-ivy-bridge-devon-t00925",
+      "id": "12542",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "near charlton, kent",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08270_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-near-charlton-kent-t08270",
+      "id": "23417",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lark hall",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09137_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-lark-hall-t09137",
+      "id": "23427",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "near isleworth",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09335_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-near-isleworth-t09335",
+      "id": "23415",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a church",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09336_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-a-church-t09336",
+      "id": "23416",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "carisbrooke castle, isle of wight",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09337_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-carisbrooke-castle-isle-of-wight-t09337",
+      "id": "23418",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "near the west gate, canterbury",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09338_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-near-the-west-gate-canterbury-t09338",
+      "id": "23419",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "totnes",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09339_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-totnes-t09339",
+      "id": "23420",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "siward stone, essex",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09340_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-siward-stone-essex-t09340",
+      "id": "23421",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "from ye inn, maidenhead bridge. verso: sketch of a town below hills",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09341_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-from-ye-inn-maidenhead-bridge-verso-sketch-of-a-town-below-hills-t09341",
+      "id": "23422",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bell tower, salisbury",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09342_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-bell-tower-salisbury-t09342",
+      "id": "23423",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ruins of the abbey at drogheda",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09343_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-ruins-of-the-abbey-at-drogheda-t09343",
+      "id": "23424",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "houses in a village",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09344_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-houses-in-a-village-t09344",
+      "id": "23425",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ironworks, fenton, monmouth",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09345_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-ironworks-fenton-monmouth-t09345",
+      "id": "23426",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "country scene, with travellers",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10337_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-country-scene-with-travellers-t10337",
+      "id": "23428",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12542",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23417",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23427",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23415",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23416",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23418",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23419",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23420",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23421",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23422",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23423",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23424",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23425",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23426",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23428",
+      "value": 1
+    }
+  ]
+}

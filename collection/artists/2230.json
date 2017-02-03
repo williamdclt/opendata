@@ -1,0 +1,239 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Clennell, Luke",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/luke-clennell-2230",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "st mary\u2019s church, dover",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05244_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clennell-st-marys-church-dover-t05244",
+      "id": "17021",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st mary\u2019s church, dover",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05245_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clennell-st-marys-church-dover-t05245",
+      "id": "17022",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "folkestone",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05255_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clennell-folkestone-t05255",
+      "id": "17032",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "folkestone",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05256_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clennell-folkestone-t05256",
+      "id": "17033",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hythe",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05265_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clennell-hythe-t05265",
+      "id": "17042",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hythe",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05266_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clennell-hythe-t05266",
+      "id": "17043",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "saltwood castle, kent",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05269_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clennell-saltwood-castle-kent-t05269",
+      "id": "17046",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the beach at hastings, looking east",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05278_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clennell-the-beach-at-hastings-looking-east-t05278",
+      "id": "17055",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the beach at hastings, looking east",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05279_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clennell-the-beach-at-hastings-looking-east-t05279",
+      "id": "17056",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "church at new shoreham, sussex",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05296_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clennell-church-at-new-shoreham-sussex-t05296",
+      "id": "17073",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "church at new shoreham, sussex",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05297_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clennell-church-at-new-shoreham-sussex-t05297",
+      "id": "17074",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ventnor cove, isle of wight",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05309_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clennell-ventnor-cove-isle-of-wight-t05309",
+      "id": "17086",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "carisbrook castle from the calbourn road",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05316_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clennell-carisbrook-castle-from-the-calbourn-road-t05316",
+      "id": "17093",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "carisbrook castle from the calbourn road",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05317_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clennell-carisbrook-castle-from-the-calbourn-road-t05317",
+      "id": "17094",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dawlish",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05374_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clennell-dawlish-t05374",
+      "id": "17151",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dawlish",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05375_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clennell-dawlish-t05375",
+      "id": "17152",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "17021",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17022",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17032",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17033",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17042",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17043",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17046",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17055",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17056",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17073",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17074",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17086",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17093",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17094",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17151",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17152",
+      "value": 1
+    }
+  ]
+}

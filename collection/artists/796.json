@@ -1,0 +1,155 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Boyd, Arthur",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/arthur-boyd-796",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "hammock lovers",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06043_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boyd-hammock-lovers-p06043",
+      "id": "1387",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bullfrog head",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06044_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boyd-bullfrog-head-p06044",
+      "id": "1388",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "romeo and juliet",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06045_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boyd-romeo-and-juliet-p06045",
+      "id": "1389",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st francis preaching naked",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06046_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boyd-st-francis-preaching-naked-p06046",
+      "id": "1390",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "butterfly man (maroon)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06047_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boyd-butterfly-man-maroon-p06047",
+      "id": "1391",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "butterfly man (red)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06048_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boyd-butterfly-man-red-p06048",
+      "id": "1392",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st francis taking the rosary",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06049_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boyd-st-francis-taking-the-rosary-p06049",
+      "id": "1393",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nebuchadnezzar",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06050_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boyd-nebuchadnezzar-p06050",
+      "id": "1394",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "juiker on sandbank",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06760_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boyd-juiker-on-sandbank-p06760",
+      "id": "1395",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bride drinking from a creek",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13190_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boyd-bride-drinking-from-a-creek-t13190",
+      "id": "109113",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1387",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1388",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1389",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1390",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1391",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1392",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1393",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1394",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1395",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "109113",
+      "value": 1
+    }
+  ]
+}

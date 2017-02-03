@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Poons, Larry",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/larry-poons-1788",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77812_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/poons-no-title-p77812",
+      "id": "21528",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "out",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01053_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/poons-out-t01053",
+      "id": "12162",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "21528",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12162",
+      "value": 1
+    }
+  ]
+}

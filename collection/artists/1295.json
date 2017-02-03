@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hodgkin, Howard",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/howard-hodgkin-1295",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "artificial flowers",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01728_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkin-artificial-flowers-p01728",
+      "id": "6545",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "girl at night",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02296_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkin-girl-at-night-p02296",
+      "id": "6546",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "interior with figure",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02297_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkin-interior-with-figure-p02297",
+      "id": "6547",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "indian room",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02298_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkin-indian-room-p02298",
+      "id": "6548",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bedroom",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02299_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkin-bedroom-p02299",
+      "id": "6549",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "girl on a sofa",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02300_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkin-girl-on-a-sofa-p02300",
+      "id": "6550",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "interior (day)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02301_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkin-interior-day-p02301",
+      "id": "6551",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "interior (night)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02302_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkin-interior-night-p02302",
+      "id": "6552",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03155_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkin-untitled-p03155",
+      "id": "6553",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "enter laughing",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04316_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkin-enter-laughing-p04316",
+      "id": "6554",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "indian view a",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04317_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkin-indian-view-a-p04317",
+      "id": "6555",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "indian view b",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04318_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkin-indian-view-b-p04318",
+      "id": "6556",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "indian view c",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04319_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkin-indian-view-c-p04319",
+      "id": "6557",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "indian view d",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04320_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkin-indian-view-d-p04320",
+      "id": "6558",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "indian view e",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04321_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkin-indian-view-e-p04321",
+      "id": "6559",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "indian view f",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04322_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkin-indian-view-f-p04322",
+      "id": "6560",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "indian view g",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04323_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkin-indian-view-g-p04323",
+      "id": "6561",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "indian view h",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04324_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkin-indian-view-h-p04324",
+      "id": "6562",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "indian view i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04325_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkin-indian-view-i-p04325",
+      "id": "6563",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "indian view j",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04326_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkin-indian-view-j-p04326",
+      "id": "6564",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "indian view k",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04327_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkin-indian-view-k-p04327",
+      "id": "6565",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "indian view l",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04328_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkin-indian-view-l-p04328",
+      "id": "6566",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lotus",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05548_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkin-lotus-p05548",
+      "id": "6567",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "arch",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06291_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkin-arch-p06291",
+      "id": "6568",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06292_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkin-untitled-p06292",
+      "id": "6569",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "for bernard jacobson",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07377_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkin-for-bernard-jacobson-p07377",
+      "id": "6570",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "all alone in the museum of art",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07395_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkin-all-alone-in-the-museum-of-art-p07395",
+      "id": "6571",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "late afternoon in the museum of art",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07396_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkin-late-afternoon-in-the-museum-of-art-p07396",
+      "id": "6572",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "moonlight",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07433_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkin-moonlight-p07433",
+      "id": "6573",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "artist and model",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07507_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkin-artist-and-model-p07507",
+      "id": "6574",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "those ... plants",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07508_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkin-those-plants-p07508",
+      "id": "6575",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "souvenir",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkin-souvenir-p07617",
+      "id": "6576",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "early evening in the museum of art",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11005_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkin-early-evening-in-the-museum-of-art-p11005",
+      "id": "6577",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "thinking aloud in the museum of art",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11006_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkin-thinking-aloud-in-the-museum-of-art-p11006",
+      "id": "6578",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "swimming",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkin-swimming-p13273",
+      "id": "122045",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "night palm",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkin-night-palm-p20058",
+      "id": "20243",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "palm and window",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkin-palm-and-window-p20059",
+      "id": "20242",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "moroccan door",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20060_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkin-moroccan-door-p20060",
+      "id": "20244",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "indian tree",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20061_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkin-indian-tree-p20061",
+      "id": "20245",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "in an empty room",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkin-in-an-empty-room-p20062",
+      "id": "20241",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6545",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6546",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6547",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6548",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6549",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6550",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6551",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6552",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6553",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6554",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6555",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6556",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6557",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6558",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6559",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6560",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6561",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6562",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6563",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6564",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6565",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6566",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6567",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6568",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6569",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6570",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6571",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6572",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6573",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6574",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6575",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6576",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6577",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6578",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "122045",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20243",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20242",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20244",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20245",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20241",
+      "value": 1
+    }
+  ]
+}

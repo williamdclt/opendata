@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Cook, William, of Plymouth",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/william-cook-of-plymouth-2487",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "totnes from the sharpham road",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08776_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cook-totnes-from-the-sharpham-road-t08776",
+      "id": "22449",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "22449",
+      "value": 1
+    }
+  ]
+}

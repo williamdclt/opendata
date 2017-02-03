@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Peri, Peter",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/peter-peri-2211",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "three-part space construction",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/peri-three-part-space-construction-p13020",
+      "id": "92367",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "building job",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/peri-building-job-t05035",
+      "id": "16606",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mr collins from the a.r.p.",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05036_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/peri-mr-collins-from-the-arp-t05036",
+      "id": "16607",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stalin i",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12977_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/peri-stalin-i-t12977",
+      "id": "104633",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "92367",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16606",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16607",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "104633",
+      "value": 1
+    }
+  ]
+}

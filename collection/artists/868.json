@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Carrington, Dora",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/dora-carrington-868",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "farm at watendlath",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04945_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/carrington-farm-at-watendlath-t04945",
+      "id": "2004",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spanish landscape with mountains",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11896_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/carrington-spanish-landscape-with-mountains-t11896",
+      "id": "81917",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2004",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81917",
+      "value": 1
+    }
+  ]
+}

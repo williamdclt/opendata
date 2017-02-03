@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Ginger, Phyllis",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/phyllis-ginger-1174",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "town centre",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ginger-town-centre-p01706",
+      "id": "5351",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5351",
+      "value": 1
+    }
+  ]
+}

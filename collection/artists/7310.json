@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Herold, Georg",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/georg-herold-7310",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "cyberspace",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herold-cyberspace-t13201",
+      "id": "109017",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "109017",
+      "value": 1
+    }
+  ]
+}

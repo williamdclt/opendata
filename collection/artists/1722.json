@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Oppenheim, Dennis",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/dennis-oppenheim-1722",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the diamond cutter\u2019s wedding",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/oppenheim-the-diamond-cutters-wedding-p07939",
+      "id": "10950",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "salt flat",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01773_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/oppenheim-salt-flat-t01773",
+      "id": "10951",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "life support system for a premature by-product (from a long distance)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/oppenheim-life-support-system-for-a-premature-by-product-from-a-long-distance-t03468",
+      "id": "10952",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "directed harvest",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07590_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/oppenheim-directed-harvest-t07590",
+      "id": "26950",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reverse processing, cement transplant, east river, ny, 1970",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07591_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/oppenheim-reverse-processing-cement-transplant-east-river-ny-1970-t07591",
+      "id": "26951",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "directed seeding - cancelled crop",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/oppenheim-directed-seeding-cancelled-crop-t12402",
+      "id": "27356",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "parallel stress",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/oppenheim-parallel-stress-t12403",
+      "id": "27357",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "10950",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10951",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10952",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26950",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26951",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27356",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27357",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Pollard, Jane",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/jane-pollard-10693",
+      "id": "Artist",
+      "size": 30
+    }
+  ],
+  "links": []
+}

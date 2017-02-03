@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gilbert, Sir John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-john-gilbert-209",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "old gravel pit in greenwich park",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01931_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilbert-old-gravel-pit-in-greenwich-park-n01931",
+      "id": "5189",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bringing up the guns",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01932_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilbert-bringing-up-the-guns-n01932",
+      "id": "5190",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cardinal wolsey and the duke of buckingham",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01933_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilbert-cardinal-wolsey-and-the-duke-of-buckingham-n01933",
+      "id": "5191",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the happiest land",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01934_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilbert-the-happiest-land-n01934",
+      "id": "5192",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the merry wives of windsor, engraved by the dalziel brothers",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04017_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilbert-the-merry-wives-of-windsor-engraved-by-the-dalziel-brothers-n04017",
+      "id": "5193",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the deserted cottage, engraved by the dalziel brothers",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04051_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilbert-the-deserted-cottage-engraved-by-the-dalziel-brothers-n04051",
+      "id": "5194",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5189",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5190",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5191",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5192",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5193",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5194",
+      "value": 1
+    }
+  ]
+}

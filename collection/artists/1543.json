@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Mackennal, Sir Bertram",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-bertram-mackennal-1543",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the earth and the elements",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mackennal-the-earth-and-the-elements-n02140",
+      "id": "9107",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "diana wounded",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02266_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mackennal-diana-wounded-n02266",
+      "id": "9108",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9107",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9108",
+      "value": 1
+    }
+  ]
+}

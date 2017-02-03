@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Lattanzi, Luciano",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/luciano-lattanzi-1471",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[title not known: from \u2018punctualizzazioni a uso privato\u2019]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lattanzi-title-not-known-from-punctualizzazioni-a-uso-privato-p08002",
+      "id": "8403",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8403",
+      "value": 1
+    }
+  ]
+}

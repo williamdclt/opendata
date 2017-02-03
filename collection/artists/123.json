@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Cristall, Joshua",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/joshua-cristall-123",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "beach scene, hastings",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01851_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cristall-beach-scene-hastings-t01851",
+      "id": "2940",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "arcadian landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01852_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cristall-arcadian-landscape-t01852",
+      "id": "2941",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bonchurch, isle of wight, hampshire",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05305_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cristall-bonchurch-isle-of-wight-hampshire-t05305",
+      "id": "17082",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bonchurch, isle of wight, hampshire",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05306_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cristall-bonchurch-isle-of-wight-hampshire-t05306",
+      "id": "17083",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08462_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cristall-title-not-known-t08462",
+      "id": "22647",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known] verso: sketch",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08463_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cristall-title-not-known-verso-sketch-t08463",
+      "id": "22648",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08464_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cristall-title-not-known-t08464",
+      "id": "22649",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08465_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cristall-title-not-known-t08465",
+      "id": "24159",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08466_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cristall-title-not-known-t08466",
+      "id": "24160",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08467_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cristall-title-not-known-t08467",
+      "id": "24161",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fields at sunset",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08468_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cristall-fields-at-sunset-t08468",
+      "id": "24162",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "near paddington fields. verso: unfinished sketch",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08761_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cristall-near-paddington-fields-verso-unfinished-sketch-t08761",
+      "id": "22646",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "interior of a stable",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08819_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cristall-interior-of-a-stable-t08819",
+      "id": "22650",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a girl sewing at a cottage door",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08826_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cristall-a-girl-sewing-at-a-cottage-door-t08826",
+      "id": "22659",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "moorland landscape. verso: sketch",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09459_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cristall-moorland-landscape-verso-sketch-t09459",
+      "id": "22651",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dolgelley",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09460_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cristall-dolgelley-t09460",
+      "id": "22652",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a river scene",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09848_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cristall-a-river-scene-t09848",
+      "id": "22653",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of tree trunks",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09856_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cristall-study-of-tree-trunks-t09856",
+      "id": "22661",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hastings from the white rocks",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09857_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cristall-hastings-from-the-white-rocks-t09857",
+      "id": "22662",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of fisherman, hastings",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09858_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cristall-head-of-fisherman-hastings-t09858",
+      "id": "22663",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "at margate. verso: sketches",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09859_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cristall-at-margate-verso-sketches-t09859",
+      "id": "22664",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "studies of a boy, girls bathing and washing clothes. verso: drawing",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09860_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cristall-studies-of-a-boy-girls-bathing-and-washing-clothes-verso-drawing-t09860",
+      "id": "22665",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "near bethgellert",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09861_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cristall-near-bethgellert-t09861",
+      "id": "22666",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09862_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cristall-title-not-known-t09862",
+      "id": "22660",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09863_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cristall-title-not-known-t09863",
+      "id": "24664",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09864_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cristall-title-not-known-t09864",
+      "id": "24665",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09865_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cristall-title-not-known-t09865",
+      "id": "24666",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09866_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cristall-title-not-known-t09866",
+      "id": "24667",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09867_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cristall-title-not-known-t09867",
+      "id": "24668",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09868_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cristall-title-not-known-t09868",
+      "id": "24669",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09869_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cristall-title-not-known-t09869",
+      "id": "24670",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "monnow bridge",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09873_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cristall-monnow-bridge-t09873",
+      "id": "22655",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09874_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cristall-title-not-known-t09874",
+      "id": "24616",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09875_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cristall-title-not-known-t09875",
+      "id": "24617",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09876_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cristall-title-not-known-t09876",
+      "id": "24618",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09877_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cristall-title-not-known-t09877",
+      "id": "24619",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09878_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cristall-title-not-known-t09878",
+      "id": "24620",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09879_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cristall-title-not-known-t09879",
+      "id": "24621",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09880_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cristall-title-not-known-t09880",
+      "id": "24622",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09881_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cristall-title-not-known-t09881",
+      "id": "24623",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2940",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2941",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17082",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17083",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22647",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22648",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22649",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24159",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24160",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24161",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24162",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22646",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22650",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22659",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22651",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22652",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22653",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22661",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22662",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22663",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22664",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22665",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22666",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22660",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24664",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24665",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24666",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24667",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24668",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24669",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24670",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22655",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24616",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24617",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24618",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24619",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24620",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24621",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24622",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24623",
+      "value": 1
+    }
+  ]
+}

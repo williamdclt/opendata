@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Fukushima, Hideko",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/hideko-fukushima-17414",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "arc 8",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13787_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fukushima-arc-8-t13787",
+      "id": "126545",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "126545",
+      "value": 1
+    }
+  ]
+}

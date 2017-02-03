@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Oulton, Th\u00e9r\u00e8se",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/therese-oulton-2205",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11197_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/oulton-untitled-p11197",
+      "id": "10992",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11198_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/oulton-untitled-p11198",
+      "id": "10993",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11226_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/oulton-no-title-p11226",
+      "id": "17378",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/oulton-no-title-p11227",
+      "id": "17395",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "smokescreen",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/oulton-smokescreen-p11265",
+      "id": "18891",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "whiteprint",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77561_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/oulton-whiteprint-p77561",
+      "id": "20529",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "greyprint",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77562_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/oulton-greyprint-p77562",
+      "id": "20528",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "deposition",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05738_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/oulton-deposition-t05738",
+      "id": "18987",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "10992",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10993",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17378",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17395",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18891",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20529",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20528",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18987",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Collier, Anne",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/anne-collier-12039",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "surviving depression",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collier-surviving-depression-p79791",
+      "id": "101228",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "101228",
+      "value": 1
+    }
+  ]
+}

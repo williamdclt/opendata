@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Humphry, Ozias",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/ozias-humphry-284",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "elizabeth, countess of craven, later margravine of anspach",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00756_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/humphry-elizabeth-countess-of-craven-later-margravine-of-anspach-t00756",
+      "id": "6969",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "baron nagell\u2019s running footman",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/humphry-baron-nagells-running-footman-t13796",
+      "id": "124572",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6969",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "124572",
+      "value": 1
+    }
+  ]
+}

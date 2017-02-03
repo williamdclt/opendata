@@ -1,0 +1,337 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Newman, Barnett",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/barnett-newman-1699",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "canto i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01027_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/newman-canto-i-p01027",
+      "id": "10622",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "canto ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01028_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/newman-canto-ii-p01028",
+      "id": "10623",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "canto iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01029_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/newman-canto-iii-p01029",
+      "id": "10624",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "canto iv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01030_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/newman-canto-iv-p01030",
+      "id": "10625",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "canto v",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01031_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/newman-canto-v-p01031",
+      "id": "10626",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "canto vi",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01032_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/newman-canto-vi-p01032",
+      "id": "10627",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "canto vii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01033_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/newman-canto-vii-p01033",
+      "id": "10628",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "canto viii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01034_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/newman-canto-viii-p01034",
+      "id": "10629",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "canto ix",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01035_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/newman-canto-ix-p01035",
+      "id": "10630",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "canto x",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01036_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/newman-canto-x-p01036",
+      "id": "10631",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "canto xi",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01037_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/newman-canto-xi-p01037",
+      "id": "10632",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "canto xii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01038_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/newman-canto-xii-p01038",
+      "id": "10633",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "canto xiii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01039_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/newman-canto-xiii-p01039",
+      "id": "10634",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "canto xiv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01040_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/newman-canto-xiv-p01040",
+      "id": "10635",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "canto xv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01041_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/newman-canto-xv-p01041",
+      "id": "10636",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "canto xvi",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01042_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/newman-canto-xvi-p01042",
+      "id": "10637",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "canto xvii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01043_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/newman-canto-xvii-p01043",
+      "id": "10638",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "canto xviii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01044_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/newman-canto-xviii-p01044",
+      "id": "10639",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[eighteen cantos: title page]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01832_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/newman-eighteen-cantos-title-page-p01832",
+      "id": "16939",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled etching #1",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77732_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/newman-untitled-etching-1-p77732",
+      "id": "21256",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "adam",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01091_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/newman-adam-t01091",
+      "id": "10640",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "eve",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03081_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/newman-eve-t03081",
+      "id": "10641",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "moment",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05501_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/newman-moment-t05501",
+      "id": "17287",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "10622",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10623",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10624",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10625",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10626",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10627",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10628",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10629",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10630",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10631",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10632",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10633",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10634",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10635",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10636",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10637",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10638",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10639",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16939",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21256",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10640",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10641",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17287",
+      "value": 1
+    }
+  ]
+}

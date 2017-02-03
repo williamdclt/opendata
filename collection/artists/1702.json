@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Nicholson, Ben, OM",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/ben-nicholson-om-1702",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "1933 (guitar)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05125_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-1933-guitar-n05125",
+      "id": "10648",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "1943-45 (st ives, cornwall)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05625_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-1943-45-st-ives-cornwall-n05625",
+      "id": "10649",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "1945 (still life)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05626_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-1945-still-life-n05626",
+      "id": "10650",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "1928 (foothills, cumberland)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05951_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-1928-foothills-cumberland-n05951",
+      "id": "10651",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "san gimignano",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01237_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-san-gimignano-p01237",
+      "id": "10652",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pisa as intended",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01238_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-pisa-as-intended-p01238",
+      "id": "10653",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st ives from trezion",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01239_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-st-ives-from-trezion-p01239",
+      "id": "10654",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "small still life",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-small-still-life-p01240",
+      "id": "10655",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "turkish form",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01241_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-turkish-form-p01241",
+      "id": "10656",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01242_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-untitled-p01242",
+      "id": "10657",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "small silent siena",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02008_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-small-silent-siena-p02008",
+      "id": "10658",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "p\u00e4lastra",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02009_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-palastra-p02009",
+      "id": "10659",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tuscan pillars",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-tuscan-pillars-p02010",
+      "id": "10660",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "aegean",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02011_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-aegean-p02011",
+      "id": "10661",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "aegean 2",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02012_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-aegean-2-p02012",
+      "id": "10662",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "2 sculptural forms",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02013_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-2-sculptural-forms-p02013",
+      "id": "10663",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "turkish sundial & column",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02014_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-turkish-sundial-column-p02014",
+      "id": "10664",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rafael",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02015_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-rafael-p02015",
+      "id": "10665",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "3 forms in a landscape",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02016_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-3-forms-in-a-landscape-p02016",
+      "id": "10666",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "glass topped bottle",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02017_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-glass-topped-bottle-p02017",
+      "id": "10667",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ronco",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02018_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-ronco-p02018",
+      "id": "10668",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "2 bottles & glass",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02019_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-2-bottles-glass-p02019",
+      "id": "10669",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "abstract 1936",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06399_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-abstract-1936-p06399",
+      "id": "10670",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "siena",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07199_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-siena-p07199",
+      "id": "10671",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "foxy and frankie (2)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07200_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-foxy-and-frankie-2-p07200",
+      "id": "10672",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "foxy and frankie (1)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07201_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-foxy-and-frankie-1-p07201",
+      "id": "10673",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "abstract",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07202_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-abstract-p07202",
+      "id": "10674",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "paros tree",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07203_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-paros-tree-p07203",
+      "id": "10675",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "three goblets",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07204_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-three-goblets-p07204",
+      "id": "10676",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "1935 (white relief)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-1935-white-relief-t00049",
+      "id": "10677",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "june 1937 (painting)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00050_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-june-1937-painting-t00050",
+      "id": "10678",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "feb 28-53 (vertical seconds)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00051_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-feb-28-53-vertical-seconds-t00051",
+      "id": "10679",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "feb 1960 (ice-off-blue)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00557_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-feb-1960-ice-off-blue-t00557",
+      "id": "10680",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dec 62 (interlocking)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00588_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-dec-62-interlocking-t00588",
+      "id": "10681",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "august 1956 (val d\u2019orcia)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00742_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-august-1956-val-dorcia-t00742",
+      "id": "10682",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "1932 (le quotidien)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00743_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-1932-le-quotidien-t00743",
+      "id": "10683",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "1965 (azetaio)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-1965-azetaio-t00821",
+      "id": "10684",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "1967 (tuscan relief)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00929_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-1967-tuscan-relief-t00929",
+      "id": "10685",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "1932 (auberge de la sole dieppoise)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00944_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-1932-auberge-de-la-sole-dieppoise-t00944",
+      "id": "10686",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "1966 (parthenon)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-1966-parthenon-t01028",
+      "id": "10687",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "10648",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10649",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10650",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10651",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10652",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10653",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10654",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10655",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10656",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10657",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10658",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10659",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10660",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10661",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10662",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10663",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10664",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10665",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10666",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10667",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10668",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10669",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10670",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10671",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10672",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10673",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10674",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10675",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10676",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10677",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10678",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10679",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10680",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10681",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10682",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10683",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10684",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10685",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10686",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10687",
+      "value": 1
+    }
+  ]
+}

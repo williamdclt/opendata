@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Nisbet, Robert Buchan",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/robert-buchan-nisbet-401",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "evening stillness",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nisbet-evening-stillness-n01711",
+      "id": "10748",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "10748",
+      "value": 1
+    }
+  ]
+}

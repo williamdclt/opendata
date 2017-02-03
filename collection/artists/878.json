@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "C\u00e9sar",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/cesar-cesar-baldaccini-878",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11374_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cesar-untitled-p11374",
+      "id": "20893",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the man of saint-denis",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00183_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cesar-the-man-of-saint-denis-t00183",
+      "id": "2102",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "large panel",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cesar-large-panel-t00337",
+      "id": "2103",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00409_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cesar-drawing-t00409",
+      "id": "2104",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "torn-away paper",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cesar-torn-away-paper-t00472",
+      "id": "2105",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "thumb",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00819_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cesar-thumb-t00819",
+      "id": "2106",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "three compressions",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01052_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cesar-three-compressions-t01052",
+      "id": "2107",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of patrick waldberg",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01204_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cesar-portrait-of-patrick-waldberg-t01204",
+      "id": "2108",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "20893",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2102",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2103",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2104",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2105",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2106",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2107",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2108",
+      "value": 1
+    }
+  ]
+}

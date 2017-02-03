@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Frampton, Sir George",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-george-frampton-1111",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "charles keene",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frampton-charles-keene-n01954",
+      "id": "4516",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "charles keene, plaster for n01954",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frampton-charles-keene-plaster-for-n01954-n05998",
+      "id": "4517",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4516",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4517",
+      "value": 1
+    }
+  ]
+}

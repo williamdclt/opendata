@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Morton, Alastair",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/alastair-morton-1670",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "opus 15 (light blue and yellow)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morton-opus-15-light-blue-and-yellow-t01776",
+      "id": "10337",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "10337",
+      "value": 1
+    }
+  ]
+}

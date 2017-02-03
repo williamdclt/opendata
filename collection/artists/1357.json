@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Jaray, Tess",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/tess-jaray-1357",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "p.p.",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77514_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jaray-pp-p77514",
+      "id": "20328",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fifteen",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01760_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jaray-fifteen-t01760",
+      "id": "7094",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "20328",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7094",
+      "value": 1
+    }
+  ]
+}

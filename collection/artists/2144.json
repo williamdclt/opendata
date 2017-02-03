@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Wiens, Stephen M.",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/stephen-m-wiens-2144",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "girl and lizard",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wiens-girl-and-lizard-n02141",
+      "id": "16161",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16161",
+      "value": 1
+    }
+  ]
+}

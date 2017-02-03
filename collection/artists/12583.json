@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Anderson, Hurvin",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/hurvin-anderson-12583",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "jersey",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12889_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/anderson-jersey-t12889",
+      "id": "103547",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "103547",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,407 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Bone, Sir Muirhead",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-muirhead-bone-778",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018the great gantry, charing cross station\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02300_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bone-study-for-the-great-gantry-charing-cross-station-n02300",
+      "id": "1264",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "snowy morning, queen margaret\u2019s college, glasgow",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03166_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bone-snowy-morning-queen-margarets-college-glasgow-n03166",
+      "id": "1265",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a church in the citadel at arras",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03433_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bone-a-church-in-the-citadel-at-arras-n03433",
+      "id": "1266",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a view in flanders behind the lines, showing locre and the tops of dug-outs on the scherpenber",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03434_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bone-a-view-in-flanders-behind-the-lines-showing-locre-and-the-tops-of-dug-outs-on-the-n03434",
+      "id": "1267",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "waiting for the wounded at a collecting station in the field on the somme at montauban",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03435_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bone-waiting-for-the-wounded-at-a-collecting-station-in-the-field-on-the-somme-at-n03435",
+      "id": "1268",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a ruined village in france: b\u00e9cordel-b\u00e9court",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03436_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bone-a-ruined-village-in-france-becordel-becourt-n03436",
+      "id": "1269",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a french chateau occupied by the 3rd coldstream guards, october 1916",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03437_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bone-a-french-chateau-occupied-by-the-3rd-coldstream-guards-october-1916-n03437",
+      "id": "1270",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "on the somme near mametz",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03438_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bone-on-the-somme-near-mametz-n03438",
+      "id": "1271",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "heavy artillery officers\u2019 mess, vlamertinghe chateau, august 1916",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03439_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bone-heavy-artillery-officers-mess-vlamertinghe-chateau-august-1916-n03439",
+      "id": "1272",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ruins of the church at p\u00e9ronne, april 1917",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03440_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bone-ruins-of-the-church-at-peronne-april-1917-n03440",
+      "id": "1273",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "church at bap\u00e2ume",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03441_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bone-church-at-bapaume-n03441",
+      "id": "1274",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a soldiers\u2019 cemetery at lihons, may 1917",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03442_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bone-a-soldiers-cemetery-at-lihons-may-1917-n03442",
+      "id": "1275",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "an officers billet at g.h.q., june 1917",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03443_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bone-an-officers-billet-at-ghq-june-1917-n03443",
+      "id": "1276",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "in the war zone",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03444_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bone-in-the-war-zone-n03444",
+      "id": "1277",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "from the after deck of a battleship (hms tiger from hms repulse)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03445_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bone-from-the-after-deck-of-a-battleship-hms-tiger-from-hms-repulse-n03445",
+      "id": "1278",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "from the bridge of a battleship",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03446_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bone-from-the-bridge-of-a-battleship-n03446",
+      "id": "1279",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the mountain background, gerona",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04558_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bone-the-mountain-background-gerona-n04558",
+      "id": "1280",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ballantrae school house",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04577_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bone-ballantrae-school-house-n04577",
+      "id": "1281",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the british museum reading room, may 1907",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04587_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bone-the-british-museum-reading-room-may-1907-n04587",
+      "id": "1282",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "torpedoed oil tanker",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05686_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bone-torpedoed-oil-tanker-n05686",
+      "id": "1283",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "demolition of st james\u2019s hall (exterior)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01001_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bone-demolition-of-st-jamess-hall-exterior-p01001",
+      "id": "1284",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "building ships: ready for sea",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03001_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bone-building-ships-ready-for-sea-p03001",
+      "id": "1233",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "building ships: a shipyard",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03002_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bone-building-ships-a-shipyard-p03002",
+      "id": "1286",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "building ships: on the stocks",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03003_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bone-building-ships-on-the-stocks-p03003",
+      "id": "1287",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "building ships: a shipyard seen from a big crane",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03004_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bone-building-ships-a-shipyard-seen-from-a-big-crane-p03004",
+      "id": "1288",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "building ships: a workshop",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03005_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bone-building-ships-a-workshop-p03005",
+      "id": "1289",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "building ships: a fitting out basin",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03006_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bone-building-ships-a-fitting-out-basin-p03006",
+      "id": "1290",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "somerset house",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03007_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bone-somerset-house-p03007",
+      "id": "1291",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1264",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1265",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1266",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1267",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1268",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1269",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1270",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1271",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1272",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1273",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1274",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1275",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1276",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1277",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1278",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1279",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1280",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1281",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1282",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1283",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1284",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1233",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1286",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1287",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1288",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1289",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1290",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1291",
+      "value": 1
+    }
+  ]
+}

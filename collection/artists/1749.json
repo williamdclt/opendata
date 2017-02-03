@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Pearlstein, Philip",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/philip-pearlstein-1749",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "nude in a hammock",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02990_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pearlstein-nude-in-a-hammock-p02990",
+      "id": "19272",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nude on striped hammock",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77170_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pearlstein-nude-on-striped-hammock-p77170",
+      "id": "11487",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "19272",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11487",
+      "value": 1
+    }
+  ]
+}

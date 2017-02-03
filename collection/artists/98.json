@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Clint, George",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/george-clint-98",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "falstaff\u2019s assignation with mrs ford",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00377_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clint-falstaffs-assignation-with-mrs-ford-n00377",
+      "id": "2306",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2306",
+      "value": 1
+    }
+  ]
+}

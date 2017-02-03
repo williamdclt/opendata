@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Millington, Professor",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/professor-millington-2624",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a globe",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10445_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millington-a-globe-t10445",
+      "id": "24379",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "24379",
+      "value": 1
+    }
+  ]
+}

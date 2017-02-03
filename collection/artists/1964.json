@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Sorrell, Alan",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/alan-sorrell-1964",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "up in the morning early: raf camp 1941",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05730_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorrell-up-in-the-morning-early-raf-camp-1941-n05730",
+      "id": "13642",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "southampton dock",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05731_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorrell-southampton-dock-n05731",
+      "id": "13643",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13642",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13643",
+      "value": 1
+    }
+  ]
+}

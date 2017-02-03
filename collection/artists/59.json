@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "British School 18th century",
+      "url": null,
+      "gender": "",
+      "tatelink": "http://www.tate.org.uk/art/artists/british-school-18th-century-59",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-18th-century-title-not-known-a00051",
+      "id": "1505",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-18th-century-title-not-known-a00052",
+      "id": "1506",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-18th-century-title-not-known-a00053",
+      "id": "1507",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-18th-century-title-not-known-a00054",
+      "id": "1508",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-18th-century-title-not-known-a00055",
+      "id": "1509",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-18th-century-title-not-known-a00056",
+      "id": "1510",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a country road",
+      "url": "http://www.tate.org.uk/art/images/work/D/D00/D00896_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-18th-century-a-country-road-d00896",
+      "id": "28308",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fragment of a composition: a ruin beyond a lake, with cattle in the foreground",
+      "url": "http://www.tate.org.uk/art/images/work/D/D00/D00899_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-18th-century-fragment-of-a-composition-a-ruin-beyond-a-lake-with-cattle-in-d00899",
+      "id": "28311",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dedham vale",
+      "url": "http://www.tate.org.uk/art/images/work/D/D04/D04173_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-18th-century-dedham-vale-d04173",
+      "id": "31568",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "father time clinking glasses at a convivial table",
+      "url": "http://www.tate.org.uk/art/images/work/D/D08/D08199_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-18th-century-father-time-clinking-glasses-at-a-convivial-table-d08199",
+      "id": "35588",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "studies of a group of three people round ?a piano",
+      "url": "http://www.tate.org.uk/art/images/work/D/D08/D08201_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-18th-century-studies-of-a-group-of-three-people-round-a-piano-d08201",
+      "id": "35590",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a landscape with a proposed elevation of hafod",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36652_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-18th-century-a-landscape-with-a-proposed-elevation-of-hafod-d36652",
+      "id": "63735",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the arch of titus, rome",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36662_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-18th-century-the-arch-of-titus-rome-d36662",
+      "id": "63745",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "three studies of a man\u2019s head",
+      "url": "http://www.tate.org.uk/art/images/work/D/D40/D40280_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-18th-century-three-studies-of-a-mans-head-d40280",
+      "id": "64042",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "schematic studies of a head",
+      "url": "http://www.tate.org.uk/art/images/work/D/D41/D41456_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-18th-century-turner-schematic-studies-of-a-head-d41456",
+      "id": "65153",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait of an unknown artist at the age of twenty-two",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01076_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-18th-century-self-portrait-of-an-unknown-artist-at-the-age-of-twenty-two-n01076",
+      "id": "1513",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hyde park corner",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01254_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-18th-century-hyde-park-corner-n01254",
+      "id": "1512",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a human skull",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02220_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-18th-century-study-of-a-human-skull-n02220",
+      "id": "6650",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a man\u2019s head",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02221_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-18th-century-study-of-a-mans-head-n02221",
+      "id": "1514",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "castle by a lake",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02716_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-18th-century-castle-by-a-lake-n02716",
+      "id": "1515",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dr henry hepburn",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02917_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-18th-century-dr-henry-hepburn-n02917",
+      "id": "1516",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the tummel",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02981_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-18th-century-the-tummel-n02981",
+      "id": "1517",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "classical landscape with mountains",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02982_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-18th-century-classical-landscape-with-mountains-n02982",
+      "id": "1518",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape with a dark tree",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02985_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-18th-century-landscape-with-a-dark-tree-n02985",
+      "id": "1519",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs cadoux",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03728_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-18th-century-mrs-cadoux-n03728",
+      "id": "1520",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "greenwich hospital",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04764_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-18th-century-greenwich-hospital-n04764",
+      "id": "1521",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chelsea hospital",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04765_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-18th-century-chelsea-hospital-n04765",
+      "id": "1522",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a family group in a landscape",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05049_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-18th-century-a-family-group-in-a-landscape-n05049",
+      "id": "1525",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lady catherine henry in turkish dress",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05397_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-18th-century-lady-catherine-henry-in-turkish-dress-n05397",
+      "id": "1523",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a family group in a garden",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01896_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-18th-century-a-family-group-in-a-garden-t01896",
+      "id": "1524",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "friar bacon\u2019s study, oxford",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06379_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-18th-century-friar-bacons-study-oxford-t06379",
+      "id": "19557",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "canterbury castle, kent",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06380_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-18th-century-canterbury-castle-kent-t06380",
+      "id": "19558",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "west gate, canterbury, engraved by j. peake",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06381_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-18th-century-west-gate-canterbury-engraved-by-j-peake-t06381",
+      "id": "19559",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "maidstone bridge, kent, engraved by j. newton",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06382_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-18th-century-maidstone-bridge-kent-engraved-by-j-newton-t06382",
+      "id": "19560",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st michael\u2019s mount",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08218_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-18th-century-st-michaels-mount-t08218",
+      "id": "24112",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "park scene with boy",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08578_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-18th-century-park-scene-with-boy-t08578",
+      "id": "24099",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lord burlington. caricature",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08583_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-18th-century-lord-burlington-caricature-t08583",
+      "id": "24081",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "downton castle, salop",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08591_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-18th-century-downton-castle-salop-t08591",
+      "id": "24111",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "oak trees and gipsies",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09066_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-18th-century-oak-trees-and-gipsies-t09066",
+      "id": "24090",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "temple of the sibyl at tivoli. verso: part of the villa of maecenas at tivoli",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09115_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-18th-century-temple-of-the-sibyl-at-tivoli-verso-part-of-the-villa-of-t09115",
+      "id": "24095",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1505",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1506",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1507",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1508",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1509",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1510",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "28308",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "28311",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "31568",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "35588",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "35590",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63735",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63745",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "64042",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "65153",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1513",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1512",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6650",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1514",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1515",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1516",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1517",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1518",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1519",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1520",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1521",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1522",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1525",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1523",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1524",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19557",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19558",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19559",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19560",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24112",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24099",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24081",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24111",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24090",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24095",
+      "value": 1
+    }
+  ]
+}

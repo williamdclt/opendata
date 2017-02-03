@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Spilsbury, Maria",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/maria-spilsbury-517",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the schoolmistress",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04880_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spilsbury-the-schoolmistress-n04880",
+      "id": "13735",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13735",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Fry, Roger",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/roger-fry-1129",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the zoo, two fragments",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fry-the-zoo-two-fragments-n04571",
+      "id": "4726",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "arles sur tech",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08164_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fry-arles-sur-tech-p08164",
+      "id": "4727",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "baroque altar, perpignon",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08165_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fry-baroque-altar-perpignon-p08165",
+      "id": "4728",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cluny museum, paris",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08166_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fry-cluny-museum-paris-p08166",
+      "id": "4729",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "elne",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08167_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fry-elne-p08167",
+      "id": "4730",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "notre dame, clermont ferrand",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08168_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fry-notre-dame-clermont-ferrand-p08168",
+      "id": "4731",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rock-cut church, aubeterre",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08169_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fry-rock-cut-church-aubeterre-p08169",
+      "id": "4732",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rock-cut church, saint emilion",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08170_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fry-rock-cut-church-saint-emilion-p08170",
+      "id": "4733",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a staircase / narbonne",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08171_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fry-a-staircase-narbonne-p08171",
+      "id": "4734",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "trinity college library, cambridge",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08172_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fry-trinity-college-library-cambridge-p08172",
+      "id": "4735",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08173_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fry-title-not-known-p08173",
+      "id": "4736",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life: flowers",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00101_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fry-still-life-flowers-t00101",
+      "id": "4737",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape with shepherd, near villa madama, rome",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01778_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fry-landscape-with-shepherd-near-villa-madama-rome-t01778",
+      "id": "4738",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "river with poplars",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01779_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fry-river-with-poplars-t01779",
+      "id": "4739",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life with t\u2019ang horse",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01780_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fry-still-life-with-tang-horse-t01780",
+      "id": "4740",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bridge over the allier",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01781_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fry-bridge-over-the-allier-t01781",
+      "id": "4741",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "essay in abstract design",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01957_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fry-essay-in-abstract-design-t01957",
+      "id": "4742",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4726",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4727",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4728",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4729",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4730",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4731",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4732",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4733",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4734",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4735",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4736",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4737",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4738",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4739",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4740",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4741",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4742",
+      "value": 1
+    }
+  ]
+}

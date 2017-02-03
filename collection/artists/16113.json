@@ -1,0 +1,155 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Cohen, Lynne",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/lynne-cohen-16113",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "community center, dorval, quebec",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-community-center-dorval-quebec-p80088",
+      "id": "121285",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "racquet club",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-racquet-club-p80089",
+      "id": "121286",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dining room",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-dining-room-p80090",
+      "id": "121287",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "classroom, flying school",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-classroom-flying-school-p80091",
+      "id": "121288",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "apartment lobby, ottawa",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-apartment-lobby-ottawa-p80092",
+      "id": "121289",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "banquet room",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-banquet-room-p80093",
+      "id": "121290",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "classroom",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-classroom-p80094",
+      "id": "121291",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "university library",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-university-library-p80095",
+      "id": "121292",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "furniture showroom",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-furniture-showroom-p80096",
+      "id": "121293",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "alpine club before a party",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-alpine-club-before-a-party-p80097",
+      "id": "121294",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "121285",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121286",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121287",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121288",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121289",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121290",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121291",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121292",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121293",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121294",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Geoffrey, Iqbal",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/iqbal-geoffrey-1150",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "epitaph 1958",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00539_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/geoffrey-epitaph-1958-t00539",
+      "id": "5109",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5109",
+      "value": 1
+    }
+  ]
+}

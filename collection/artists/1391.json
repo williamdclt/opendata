@@ -1,0 +1,309 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Kelly, Ellsworth",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/ellsworth-kelly-1391",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "yellow (ii.2 yellow; jaune s\u00e9rie ii no.2)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01792_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kelly-yellow-ii2-yellow-jaune-serie-ii-no2-p01792",
+      "id": "7885",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "yellow over dark blue",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11222_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kelly-yellow-over-dark-blue-p11222",
+      "id": "17312",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "saint martin landscape",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12117_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kelly-saint-martin-landscape-p12117",
+      "id": "79345",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "saint martin landscape, state i-a",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kelly-saint-martin-landscape-state-i-a-p12118",
+      "id": "80789",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kelly-untitled-p13294",
+      "id": "27106",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blue (for leo)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kelly-blue-for-leo-p13300",
+      "id": "66887",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20160_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kelly-no-title-p20160",
+      "id": "21426",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20161_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kelly-no-title-p20161",
+      "id": "21429",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20162_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kelly-no-title-p20162",
+      "id": "21428",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20163_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kelly-no-title-p20163",
+      "id": "21427",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "diagonal with black (state)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77143_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kelly-diagonal-with-black-state-p77143",
+      "id": "7886",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "concorde ii (state)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77144_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kelly-concorde-ii-state-p77144",
+      "id": "7887",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "concorde iv (state)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77145_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kelly-concorde-iv-state-p77145",
+      "id": "7888",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nine squares",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77435_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kelly-nine-squares-p77435",
+      "id": "19105",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "red/blue (untitled)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77807_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kelly-redblue-untitled-p77807",
+      "id": "21524",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "broadway",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00511_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kelly-broadway-t00511",
+      "id": "7889",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "white curve",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03072_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kelly-white-curve-t03072",
+      "id": "7890",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "curve xxxi",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kelly-curve-xxxi-t07081",
+      "id": "21577",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black square with blue",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07106_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kelly-black-square-with-blue-t07106",
+      "id": "21633",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "yellow curve",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kelly-yellow-curve-t07403",
+      "id": "26107",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "orange relief with green",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07478_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kelly-orange-relief-with-green-t07478",
+      "id": "26464",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "7885",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17312",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79345",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80789",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27106",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66887",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21426",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21429",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21428",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21427",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7886",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7887",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7888",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19105",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21524",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7889",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7890",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21577",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21633",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26107",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26464",
+      "value": 1
+    }
+  ]
+}

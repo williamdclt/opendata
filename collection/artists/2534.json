@@ -1,0 +1,225 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Sunderland, Thomas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/thomas-sunderland-2534",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "in scotland. by mr riddle",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09383_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sunderland-in-scotland-by-mr-riddle-t09383",
+      "id": "23771",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a road among trees, with travellers",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09384_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sunderland-a-road-among-trees-with-travellers-t09384",
+      "id": "23772",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "after claude",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09385_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sunderland-after-claude-t09385",
+      "id": "23773",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spoletto after vernet",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09386_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sunderland-spoletto-after-vernet-t09386",
+      "id": "23774",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "after both",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09387_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sunderland-after-both-t09387",
+      "id": "23775",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the bathers, after vander neer and vander werf",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09388_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sunderland-the-bathers-after-vander-neer-and-vander-werf-t09388",
+      "id": "23776",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "classical landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09389_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sunderland-classical-landscape-t09389",
+      "id": "23777",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view in scotland. from mr riddle",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09390_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sunderland-view-in-scotland-from-mr-riddle-t09390",
+      "id": "23778",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a lake among mountains",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09391_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sunderland-a-lake-among-mountains-t09391",
+      "id": "23779",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lake of ?lune. thorncroft",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09392_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sunderland-lake-of-lune-thorncroft-t09392",
+      "id": "23780",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "brig of stroan on loch ketteria",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09393_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sunderland-brig-of-stroan-on-loch-ketteria-t09393",
+      "id": "23781",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "grasmere lake",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09394_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sunderland-grasmere-lake-t09394",
+      "id": "23767",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vale of mawdach",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09395_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sunderland-vale-of-mawdach-t09395",
+      "id": "23770",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pilatus",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09846_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sunderland-pilatus-t09846",
+      "id": "23768",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of a lake in the alps",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09853_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sunderland-view-of-a-lake-in-the-alps-t09853",
+      "id": "23769",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "23771",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23772",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23773",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23774",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23775",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23776",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23777",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23778",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23779",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23780",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23781",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23767",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23770",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23768",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23769",
+      "value": 1
+    }
+  ]
+}

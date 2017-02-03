@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Foster, Myles Birket",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/myles-birket-foster-192",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "lane scene at hambledon",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01977_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/foster-lane-scene-at-hambledon-n01977",
+      "id": "4508",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the country inn",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04016_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/foster-the-country-inn-n04016",
+      "id": "4509",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04050_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/foster-landscape-n04050",
+      "id": "4510",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "eel bucks",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04950_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/foster-eel-bucks-n04950",
+      "id": "4511",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the smithy",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04951_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/foster-the-smithy-n04951",
+      "id": "4512",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4508",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4509",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4510",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4511",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4512",
+      "value": 1
+    }
+  ]
+}

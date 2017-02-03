@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Doyle, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-doyle-1028",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "canterbury cathedral",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doyle-canterbury-cathedral-p06110",
+      "id": "4001",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4001",
+      "value": 1
+    }
+  ]
+}

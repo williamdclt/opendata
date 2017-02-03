@@ -1,0 +1,211 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Monro, Dr Thomas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/dr-thomas-monro-2517",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "wooded landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08632_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/monro-wooded-landscape-t08632",
+      "id": "23248",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a marshy plain, distant hills",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08642_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/monro-a-marshy-plain-distant-hills-t08642",
+      "id": "23257",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a hill above a plain in a rainstorm",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08643_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/monro-a-hill-above-a-plain-in-a-rainstorm-t08643",
+      "id": "23258",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a pond, in a plain",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08644_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/monro-a-pond-in-a-plain-t08644",
+      "id": "23259",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a cliff beyond a river",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08645_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/monro-a-cliff-beyond-a-river-t08645",
+      "id": "23255",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a marshy plain",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08646_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/monro-a-marshy-plain-t08646",
+      "id": "23256",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape composition with trees in a wind, and distant hills. verso: sketches",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09102_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/monro-landscape-composition-with-trees-in-a-wind-and-distant-hills-verso-sketches-t09102",
+      "id": "23249",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "trees and hills, water in the foreground",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09103_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/monro-trees-and-hills-water-in-the-foreground-t09103",
+      "id": "23250",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a wide road leading to a house behind trees",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09104_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/monro-a-wide-road-leading-to-a-house-behind-trees-t09104",
+      "id": "23254",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a cottage in a glade",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09112_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/monro-a-cottage-in-a-glade-t09112",
+      "id": "23251",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "trees and a distant plain",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09116_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/monro-trees-and-a-distant-plain-t09116",
+      "id": "23260",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hillside with trees. verso: sketch",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09117_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/monro-hillside-with-trees-verso-sketch-t09117",
+      "id": "23261",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "an open landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09119_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/monro-an-open-landscape-t09119",
+      "id": "23252",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a cottage by a lane",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09120_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/monro-a-cottage-by-a-lane-t09120",
+      "id": "23253",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "23248",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23257",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23258",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23259",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23255",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23256",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23249",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23250",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23254",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23251",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23260",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23261",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23252",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23253",
+      "value": 1
+    }
+  ]
+}

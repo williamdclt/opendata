@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Dugdale, Thomas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/thomas-dugdale-1039",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the red jacket",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04788_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dugdale-the-red-jacket-n04788",
+      "id": "4041",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4041",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Prout, Samuel",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/samuel-prout-435",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "house in the haverwerf, malines",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01978_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/prout-house-in-the-haverwerf-malines-n01978",
+      "id": "12246",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the chapel of st joseph of arimathea, glastonbury, from the south-east",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03430_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/prout-the-chapel-of-st-joseph-of-arimathea-glastonbury-from-the-south-east-n03430",
+      "id": "12247",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fishing boats, hastings",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01010_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/prout-fishing-boats-hastings-t01010",
+      "id": "12248",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hurst castle and the isle of wight",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05324_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/prout-hurst-castle-and-the-isle-of-wight-t05324",
+      "id": "17101",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hurst castle and the isle of wight",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05325_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/prout-hurst-castle-and-the-isle-of-wight-t05325",
+      "id": "17102",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lulworth cliffs, dorsetshire",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05349_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/prout-lulworth-cliffs-dorsetshire-t05349",
+      "id": "17126",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lulworth cliffs, dorsetshire",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05350_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/prout-lulworth-cliffs-dorsetshire-t05350",
+      "id": "17127",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "weymouth castle, dorsetshire",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05363_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/prout-weymouth-castle-dorsetshire-t05363",
+      "id": "17140",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "weymouth castle, dorsetshire",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05364_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/prout-weymouth-castle-dorsetshire-t05364",
+      "id": "17141",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dartmouth castle",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05388_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/prout-dartmouth-castle-t05388",
+      "id": "17165",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dartmouth castle",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05389_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/prout-dartmouth-castle-t05389",
+      "id": "17166",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bridge of augustus at narni, engraved by james redaway",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06439_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/prout-bridge-of-augustus-at-narni-engraved-by-james-redaway-t06439",
+      "id": "20111",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "netley abbey",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08540_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/prout-netley-abbey-t08540",
+      "id": "23403",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12246",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12247",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12248",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17101",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17102",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17126",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17127",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17140",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17141",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17165",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17166",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20111",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23403",
+      "value": 1
+    }
+  ]
+}

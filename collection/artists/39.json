@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Blake, William",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/william-blake-39",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the circle of the lustful: francesca da rimini (\u2018the whirlwind of lovers\u2019)",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00005_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-the-circle-of-the-lustful-francesca-da-rimini-the-whirlwind-of-lovers-a00005",
+      "id": "1039",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ciampolo the barrator tormented by the devils",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00006_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-ciampolo-the-barrator-tormented-by-the-devils-a00006",
+      "id": "1040",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the baffled devils fighting",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00007_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-the-baffled-devils-fighting-a00007",
+      "id": "1041",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the six-footed serpent attacking agnolo brunelleschi",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00008_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-the-six-footed-serpent-attacking-agnolo-brunelleschi-a00008",
+      "id": "1042",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the serpent attacking buoso donati",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00009_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-the-serpent-attacking-buoso-donati-a00009",
+      "id": "1043",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the pit of disease: the falsifiers",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00010_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-the-pit-of-disease-the-falsifiers-a00010",
+      "id": "1044",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dante striking against bocca degli abati",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00011_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-dante-striking-against-bocca-degli-abati-a00011",
+      "id": "1045",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "job and his family",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00012_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-job-and-his-family-a00012",
+      "id": "1046",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "satan before the throne of god",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00013_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-satan-before-the-throne-of-god-a00013",
+      "id": "1047",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "job\u2019s sons and daughters overwhelmed by satan",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00014_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-jobs-sons-and-daughters-overwhelmed-by-satan-a00014",
+      "id": "1048",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the messengers tell job of his misfortunes",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00015_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-the-messengers-tell-job-of-his-misfortunes-a00015",
+      "id": "1049",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "satan going forth from the presence of the lord, and job\u2019s charity",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00016_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-satan-going-forth-from-the-presence-of-the-lord-and-jobs-charity-a00016",
+      "id": "1050",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "satan smiting job with sore boils",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00017_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-satan-smiting-job-with-sore-boils-a00017",
+      "id": "1051",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "job\u2019s comforters",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00018_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-jobs-comforters-a00018",
+      "id": "1052",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "job\u2019s despair",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00019_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-jobs-despair-a00019",
+      "id": "1053",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the vision of eliphaz",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00020_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-the-vision-of-eliphaz-a00020",
+      "id": "1054",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "job rebuked by his friends",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00021_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-job-rebuked-by-his-friends-a00021",
+      "id": "1055",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "job\u2019s evil dreams",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00022_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-jobs-evil-dreams-a00022",
+      "id": "1056",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the wrath of elihu",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00023_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-the-wrath-of-elihu-a00023",
+      "id": "1057",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the lord answering job out of the whirlwind",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00024_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-the-lord-answering-job-out-of-the-whirlwind-a00024",
+      "id": "1058",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "when the morning stars sang together",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00025_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-when-the-morning-stars-sang-together-a00025",
+      "id": "1059",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "behemoth and leviathan",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00026_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-behemoth-and-leviathan-a00026",
+      "id": "1060",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the fall of satan",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00027_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-the-fall-of-satan-a00027",
+      "id": "1061",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the vision of christ",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00028_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-the-vision-of-christ-a00028",
+      "id": "1062",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "job\u2019s sacrifice",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00029_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-jobs-sacrifice-a00029",
+      "id": "1063",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "every man also gave him a piece of money",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-every-man-also-gave-him-a-piece-of-money-a00030",
+      "id": "1064",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "job and his daughters",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00031_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-job-and-his-daughters-a00031",
+      "id": "1065",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "job and his family restored to prosperity",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00032_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-job-and-his-family-restored-to-prosperity-a00032",
+      "id": "1066",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018the four and twenty elders casting their crowns before the divine throne\u2019. verso: standing figure with arms at his side",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00033_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-sketch-for-the-four-and-twenty-elders-casting-their-crowns-before-the-divine-throne-a00033",
+      "id": "1067",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018europe\u2019: fragment of pages 3 and 4",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00034_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-europe-fragment-of-pages-3-and-4-a00034",
+      "id": "1068",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "songs of innocence and of experience: infant sorrow",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00035_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-songs-of-innocence-and-of-experience-infant-sorrow-a00035",
+      "id": "1069",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018songs of innocence and of experience\u2019: \u2018infant sorrow\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00036_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-songs-of-innocence-and-of-experience-infant-sorrow-a00036",
+      "id": "1070",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018songs of innocence and of experience\u2019: \u2018spring\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00037_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-songs-of-innocence-and-of-experience-spring-a00037",
+      "id": "1071",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018songs of innocence\u2019: title-page",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-songs-of-innocence-title-page-a00038",
+      "id": "1072",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018songs of innocence\u2019: title-page",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00039_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-songs-of-innocence-title-page-a00039",
+      "id": "1073",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018tiriel supporting the dying myratana\u2019. verso: sketch for \u2018tiriel supporting the dying myratana\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00040_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-sketch-for-tiriel-supporting-the-dying-myratana-verso-sketch-for-tiriel-supporting-a00040",
+      "id": "1074",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape near felpham",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00041_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-landscape-near-felpham-a00041",
+      "id": "1075",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two figures in a decorative border",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00042_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-two-figures-in-a-decorative-border-a00042",
+      "id": "1076",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "preliminary sketch for \u2018christ girding himself with strength\u2019. verso: standing figure with one arm raised",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00043_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-preliminary-sketch-for-christ-girding-himself-with-strength-verso-standing-figure-a00043",
+      "id": "1077",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lower half of a woman playing a harp. verso: seraphim and other drawings",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00044_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-lower-half-of-a-woman-playing-a-harp-verso-seraphim-and-other-drawings-a00044",
+      "id": "1078",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1039",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1040",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1041",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1042",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1043",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1044",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1045",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1046",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1047",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1048",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1049",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1050",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1051",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1052",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1053",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1054",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1055",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1056",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1057",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1058",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1059",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1060",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1061",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1062",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1063",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1064",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1065",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1066",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1067",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1068",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1069",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1070",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1071",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1072",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1073",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1074",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1075",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1076",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1077",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1078",
+      "value": 1
+    }
+  ]
+}

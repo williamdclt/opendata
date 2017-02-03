@@ -1,0 +1,393 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Chadwick, Lynn",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/lynn-chadwick-880",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "dragonfly",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06035_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-dragonfly-n06035",
+      "id": "2120",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "moon series a",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01377_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-moon-series-a-p01377",
+      "id": "2121",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "moon series b",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01378_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-moon-series-b-p01378",
+      "id": "2122",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "moon series c",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01379_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-moon-series-c-p01379",
+      "id": "2123",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "moon series d",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01380_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-moon-series-d-p01380",
+      "id": "2124",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "moon series e",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01381_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-moon-series-e-p01381",
+      "id": "2125",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "moon series f",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01382_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-moon-series-f-p01382",
+      "id": "2126",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "standing figure",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01383_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-standing-figure-p01383",
+      "id": "2127",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06065_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-untitled-p06065",
+      "id": "2128",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "moon in alabama",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06066_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-moon-in-alabama-p06066",
+      "id": "2129",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06067_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-figure-i-p06067",
+      "id": "2130",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06068_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-figure-ii-p06068",
+      "id": "2131",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06069_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-figure-iii-p06069",
+      "id": "2132",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure iv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06070_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-figure-iv-p06070",
+      "id": "2133",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two winged figures",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06071_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-two-winged-figures-p06071",
+      "id": "2134",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seated figure",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06072_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-seated-figure-p06072",
+      "id": "2135",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure i (trial proof)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06702_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-figure-i-trial-proof-p06702",
+      "id": "2136",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "moon in alabama (colour variant)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06703_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-moon-in-alabama-colour-variant-p06703",
+      "id": "2137",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "moon in alabama (colour variant)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06704_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-moon-in-alabama-colour-variant-p06704",
+      "id": "2138",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "winged figures",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00416_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-winged-figures-t00416",
+      "id": "2139",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "twister i",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01149_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-twister-i-t01149",
+      "id": "2140",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "inner eye (maquette iii)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01226_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-inner-eye-maquette-iii-t01226",
+      "id": "2141",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "conjunction",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03712_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-conjunction-t03712",
+      "id": "2142",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the fisheater",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07530_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-the-fisheater-t07530",
+      "id": "26669",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stabile with mobile elements",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11966_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-stabile-with-mobile-elements-t11966",
+      "id": "78613",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stabile with mobile elements (maquette for \u2018cypress\u2019)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11967_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-stabile-with-mobile-elements-maquette-for-cypress-t11967",
+      "id": "78614",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "maquette for r34 memorial",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12023_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-maquette-for-r34-memorial-t12023",
+      "id": "78622",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2120",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2121",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2122",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2123",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2124",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2125",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2126",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2127",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2128",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2129",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2130",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2131",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2132",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2133",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2134",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2135",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2136",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2137",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2138",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2139",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2140",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2141",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2142",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26669",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78613",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78614",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78622",
+      "value": 1
+    }
+  ]
+}

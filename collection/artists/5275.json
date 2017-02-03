@@ -1,0 +1,379 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Frank, Robert",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/robert-frank-5275",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "mary and pablo in high grass",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13074_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frank-mary-and-pablo-in-high-grass-p13074",
+      "id": "100077",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mary holding pablo while sitting on bench in garden",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frank-mary-holding-pablo-while-sitting-on-bench-in-garden-p13075",
+      "id": "100079",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mary watering flowers with andrea and pablo",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frank-mary-watering-flowers-with-andrea-and-pablo-p13076",
+      "id": "100080",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pablo holding flowers with a girl",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13077_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frank-pablo-holding-flowers-with-a-girl-p13077",
+      "id": "100082",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "on the road, peru",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frank-on-the-road-peru-p13130",
+      "id": "101293",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "city of london",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frank-city-of-london-p13355",
+      "id": "118465",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "contact sheet from the americans",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79744_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frank-contact-sheet-from-the-americans-p79744",
+      "id": "81960",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "contact sheet from the americans",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frank-contact-sheet-from-the-americans-p79745",
+      "id": "81961",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "contact sheet from the americans",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frank-contact-sheet-from-the-americans-p79746",
+      "id": "81962",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "contact sheet from the americans",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frank-contact-sheet-from-the-americans-p79747",
+      "id": "81963",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "contact sheet from the americans",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frank-contact-sheet-from-the-americans-p79748",
+      "id": "81964",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "contact sheet from the americans",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frank-contact-sheet-from-the-americans-p79749",
+      "id": "81965",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "contact sheet from the americans",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frank-contact-sheet-from-the-americans-p79750",
+      "id": "81966",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "contact sheet from the americans",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frank-contact-sheet-from-the-americans-p79751",
+      "id": "81967",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "contact sheet from the americans",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frank-contact-sheet-from-the-americans-p79752",
+      "id": "81968",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "contact sheet from the americans",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frank-contact-sheet-from-the-americans-p79753",
+      "id": "81969",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "contact sheet from the americans",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frank-contact-sheet-from-the-americans-p79754",
+      "id": "81970",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "contact sheet from the americans",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frank-contact-sheet-from-the-americans-p79755",
+      "id": "81971",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "story a story b",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79779_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frank-story-a-story-b-p79779",
+      "id": "81274",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory for the children",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frank-memory-for-the-children-p79780",
+      "id": "81276",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory for the children",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frank-memory-for-the-children-p79781",
+      "id": "81278",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory for the children",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frank-memory-for-the-children-p79782",
+      "id": "81279",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory for the children",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frank-memory-for-the-children-p79783",
+      "id": "81280",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory for the children",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frank-memory-for-the-children-p79784",
+      "id": "81283",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory for the children",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frank-memory-for-the-children-p79785",
+      "id": "82364",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "studio, mabou",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79786_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frank-studio-mabou-p79786",
+      "id": "82864",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "100077",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "100079",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "100080",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "100082",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101293",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118465",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81960",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81961",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81962",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81963",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81964",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81965",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81966",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81967",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81968",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81969",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81970",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81971",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81274",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81276",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81278",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81279",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81280",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81283",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "82364",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "82864",
+      "value": 1
+    }
+  ]
+}

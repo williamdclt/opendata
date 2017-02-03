@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Cotman, John Sell",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-sell-cotman-116",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "wherries on breydon",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01111_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cotman-wherries-on-breydon-n01111",
+      "id": "2829",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a galiot in a gale",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01458_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cotman-a-galiot-in-a-gale-n01458",
+      "id": "2830",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "west view of the castle at falaise",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03327_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cotman-west-view-of-the-castle-at-falaise-n03327",
+      "id": "2809",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ch\u00e2teau gaillard",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03328_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cotman-chateau-gaillard-n03328",
+      "id": "2810",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "north-west view of the castle at falaise",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03329_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cotman-north-west-view-of-the-castle-at-falaise-n03329",
+      "id": "2811",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "crypt in the church of st gervais, rouen",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03330_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cotman-crypt-in-the-church-of-st-gervais-rouen-n03330",
+      "id": "2812",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "north-west view of the tower of the church of graville, near havre de grace",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03331_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cotman-north-west-view-of-the-tower-of-the-church-of-graville-near-havre-de-grace-n03331",
+      "id": "2813",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sculpture in the church of st peter, caen",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03332_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cotman-sculpture-in-the-church-of-st-peter-caen-n03332",
+      "id": "2814",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "duncombe park, yorkshire",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03572_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cotman-duncombe-park-yorkshire-n03572",
+      "id": "2815",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the drop gate",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03632_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cotman-the-drop-gate-n03632",
+      "id": "2816",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "distant view of greta bridge from mortham wood",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03633_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cotman-distant-view-of-greta-bridge-from-mortham-wood-n03633",
+      "id": "2817",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "durham",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03634_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cotman-durham-n03634",
+      "id": "2818",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "on the greta",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03635_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cotman-on-the-greta-n03635",
+      "id": "2819",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "crowland abbey",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03667_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cotman-crowland-abbey-n03667",
+      "id": "2820",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mountain lake",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04218_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cotman-mountain-lake-n04218",
+      "id": "2821",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seashore with boats",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04785_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cotman-seashore-with-boats-n04785",
+      "id": "2822",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "norwich market-place",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05636_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cotman-norwich-market-place-n05636",
+      "id": "2823",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "harlech castle",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00969_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cotman-harlech-castle-t00969",
+      "id": "2824",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "llanthony abbey",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00970_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cotman-llanthony-abbey-t00970",
+      "id": "2825",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ruins and houses, north wales",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00971_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cotman-ruins-and-houses-north-wales-t00971",
+      "id": "2826",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the ramparts, domfront",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00972_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cotman-the-ramparts-domfront-t00972",
+      "id": "2827",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rievaulx abbey",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00973_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cotman-rievaulx-abbey-t00973",
+      "id": "2828",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "duncombe park, yorkshire",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06448_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cotman-duncombe-park-yorkshire-t06448",
+      "id": "20126",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mountainous landscape with a blasted tree",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06484_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cotman-mountainous-landscape-with-a-blasted-tree-t06484",
+      "id": "20210",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "an ancient castle. a sketching society subject",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08122_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cotman-an-ancient-castle-a-sketching-society-subject-t08122",
+      "id": "22461",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "on the greta",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08145_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cotman-on-the-greta-t08145",
+      "id": "22462",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "llangollen",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08237_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cotman-llangollen-t08237",
+      "id": "22460",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "doorway of the refectory, rievaulx abbey",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08248_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cotman-doorway-of-the-refectory-rievaulx-abbey-t08248",
+      "id": "22465",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ships at yarmouth",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08763_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cotman-ships-at-yarmouth-t08763",
+      "id": "22469",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ships in a harbour",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08764_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cotman-ships-in-a-harbour-t08764",
+      "id": "22470",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "houses at epsom",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08765_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cotman-houses-at-epsom-t08765",
+      "id": "22466",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ruined castle, trees and bridge",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08768_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cotman-ruined-castle-trees-and-bridge-t08768",
+      "id": "22471",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a farmhouse",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08775_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cotman-a-farmhouse-t08775",
+      "id": "22467",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "carnarvon",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08830_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cotman-carnarvon-t08830",
+      "id": "22464",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a view on the greta or the tees",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08836_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cotman-a-view-on-the-greta-or-the-tees-t08836",
+      "id": "22468",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cows at a pool, with wooden bridge",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09564_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cotman-cows-at-a-pool-with-wooden-bridge-t09564",
+      "id": "22472",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a quayside, barges being tarred",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09565_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cotman-a-quayside-barges-being-tarred-t09565",
+      "id": "22475",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cattle at a stream under trees",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09566_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cotman-cattle-at-a-stream-under-trees-t09566",
+      "id": "22463",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a farm horse",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09610_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cotman-a-farm-horse-t09610",
+      "id": "22473",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a farm horse. verso: drawing",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09611_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cotman-a-farm-horse-verso-drawing-t09611",
+      "id": "24543",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2829",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2830",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2809",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2810",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2811",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2812",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2813",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2814",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2815",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2816",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2817",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2818",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2819",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2820",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2821",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2822",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2823",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2824",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2825",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2826",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2827",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2828",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20126",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20210",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22461",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22462",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22460",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22465",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22469",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22470",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22466",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22471",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22467",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22464",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22468",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22472",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22475",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22463",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22473",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24543",
+      "value": 1
+    }
+  ]
+}

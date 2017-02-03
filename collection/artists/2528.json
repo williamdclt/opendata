@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Rebecca, Biagio",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/biagio-rebecca-2528",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the apotheosis of handel",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09149_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rebecca-the-apotheosis-of-handel-t09149",
+      "id": "23409",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "apollo",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10338_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rebecca-apollo-t10338",
+      "id": "23410",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "23409",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23410",
+      "value": 1
+    }
+  ]
+}

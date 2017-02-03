@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Kopystiansky, Igor",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/igor-kopystiansky-10328",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "incidents",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12607_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kopystiansky-incidents-t12607",
+      "id": "92490",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "92490",
+      "value": 1
+    }
+  ]
+}

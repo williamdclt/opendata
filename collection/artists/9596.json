@@ -1,0 +1,14 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Los Carpinteros",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/los-carpinteros-marco-antonio-castillo-valdes-dagoberto-rodriguez-sanchez-9596",
+      "id": "Artist",
+      "size": 30
+    }
+  ],
+  "links": []
+}

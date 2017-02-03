@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hepworth, Dame Barbara",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/dame-barbara-hepworth-1274",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "bicentric form",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05932_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hepworth-bicentric-form-n05932",
+      "id": "5985",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rangatira ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01414_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hepworth-rangatira-ii-p01414",
+      "id": "5986",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kestor rock, gleaming stone",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01415_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hepworth-kestor-rock-gleaming-stone-p01415",
+      "id": "5987",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "moon landscape",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01416_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hepworth-moon-landscape-p01416",
+      "id": "5988",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "assembly of square forms",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04257_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hepworth-assembly-of-square-forms-p04257",
+      "id": "5989",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "december forms",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04258_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hepworth-december-forms-p04258",
+      "id": "5990",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "forms in a flurry",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04259_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hepworth-forms-in-a-flurry-p04259",
+      "id": "5991",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "high tide",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04260_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hepworth-high-tide-p04260",
+      "id": "5992",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "november green",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04261_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hepworth-november-green-p04261",
+      "id": "5993",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two opposing forms",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04262_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hepworth-two-opposing-forms-p04262",
+      "id": "5994",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "orchid",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04263_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hepworth-orchid-p04263",
+      "id": "5995",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rangatira i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04264_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hepworth-rangatira-i-p04264",
+      "id": "5996",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "three forms",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04266_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hepworth-three-forms-p04266",
+      "id": "5997",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two ancestral figures",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04267_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hepworth-two-ancestral-figures-p04267",
+      "id": "5998",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "winter solstice",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04268_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hepworth-winter-solstice-p04268",
+      "id": "5999",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "winter solstice",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04269_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hepworth-winter-solstice-p04269",
+      "id": "6000",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "green man",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04270_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hepworth-green-man-p04270",
+      "id": "6001",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "moonplay",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04271_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hepworth-moonplay-p04271",
+      "id": "6002",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06249_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hepworth-untitled-p06249",
+      "id": "6003",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "three forms assembling",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06250_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hepworth-three-forms-assembling-p06250",
+      "id": "6004",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "argos",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06251_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hepworth-argos-p06251",
+      "id": "6005",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "autumn shadows",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06252_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hepworth-autumn-shadows-p06252",
+      "id": "6006",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "genesis",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06253_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hepworth-genesis-p06253",
+      "id": "6007",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mycenae",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06254_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hepworth-mycenae-p06254",
+      "id": "6008",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "oblique forms",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06255_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hepworth-oblique-forms-p06255",
+      "id": "6009",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pastorale",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06256_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hepworth-pastorale-p06256",
+      "id": "6010",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "porthmeor",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06257_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hepworth-porthmeor-p06257",
+      "id": "6011",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sea forms",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06258_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hepworth-sea-forms-p06258",
+      "id": "6012",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "squares and circles",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06259_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hepworth-squares-and-circles-p06259",
+      "id": "6013",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sun and moon",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06260_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hepworth-sun-and-moon-p06260",
+      "id": "6014",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "three forms",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06261_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hepworth-three-forms-p06261",
+      "id": "6015",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two marble forms (mykonos)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06262_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hepworth-two-marble-forms-mykonos-p06262",
+      "id": "6016",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cool moon",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06263_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hepworth-cool-moon-p06263",
+      "id": "6017",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "delos",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06264_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hepworth-delos-p06264",
+      "id": "6018",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "desert forms",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06265_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hepworth-desert-forms-p06265",
+      "id": "6019",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fragment",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06266_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hepworth-fragment-p06266",
+      "id": "6020",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "itea",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06267_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hepworth-itea-p06267",
+      "id": "6021",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "olympus",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06268_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hepworth-olympus-p06268",
+      "id": "6022",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sun and water",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06269_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hepworth-sun-and-water-p06269",
+      "id": "6023",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sun setting",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06270_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hepworth-sun-setting-p06270",
+      "id": "6024",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5985",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5986",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5987",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5988",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5989",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5990",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5991",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5992",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5993",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5994",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5995",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5996",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5997",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5998",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5999",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6000",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6001",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6002",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6003",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6004",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6005",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6006",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6007",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6008",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6009",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6010",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6011",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6012",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6013",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6014",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6015",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6016",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6017",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6018",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6019",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6020",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6021",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6022",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6023",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6024",
+      "value": 1
+    }
+  ]
+}

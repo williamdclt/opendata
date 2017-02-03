@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Booth, L",
+      "url": null,
+      "gender": "",
+      "tatelink": "http://www.tate.org.uk/art/artists/l-booth-13195",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "gondola",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/booth-gondola-p13097",
+      "id": "101319",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "101319",
+      "value": 1
+    }
+  ]
+}

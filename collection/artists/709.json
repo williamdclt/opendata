@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Baxter, Glen",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/glen-baxter-709",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "it was henderson\u2019s sixth attempt at lasagne",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07604_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baxter-it-was-hendersons-sixth-attempt-at-lasagne-p07604",
+      "id": "795",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seth\u2019s snood was the envy of the boys in the bunkhouse",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07605_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baxter-seths-snood-was-the-envy-of-the-boys-in-the-bunkhouse-p07605",
+      "id": "796",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the twins devoted an hour each day to the walnut",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07606_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baxter-the-twins-devoted-an-hour-each-day-to-the-walnut-p07606",
+      "id": "797",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the twins introduced the imposter",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07607_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baxter-the-twins-introduced-the-imposter-p07607",
+      "id": "798",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018to me the window is still a symbolically loaded motif\u2019 drawled cody",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07608_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baxter-to-me-the-window-is-still-a-symbolically-loaded-motif-drawled-cody-p07608",
+      "id": "799",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018to my mind there\u2019s no finer sight than kale moving at speed\u2019 opined millward",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07609_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baxter-to-my-mind-theres-no-finer-sight-than-kale-moving-at-speed-opined-millward-p07609",
+      "id": "800",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pecos bill had a \u2018thing\u2019 about household dust",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13004_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baxter-pecos-bill-had-a-thing-about-household-dust-p13004",
+      "id": "27411",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "795",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "796",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "797",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "798",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "799",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "800",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27411",
+      "value": 1
+    }
+  ]
+}

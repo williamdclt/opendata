@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Marx, Enid",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/enid-marx-1587",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "budgerigars",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06358_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marx-budgerigars-p06358",
+      "id": "9357",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9357",
+      "value": 1
+    }
+  ]
+}

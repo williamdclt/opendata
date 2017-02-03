@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Jones, Harold",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/harold-jones-1372",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the black door",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05211_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-the-black-door-n05211",
+      "id": "7741",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "7741",
+      "value": 1
+    }
+  ]
+}

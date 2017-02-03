@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Poole, Henry",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/henry-poole-1787",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "mask of pan",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/poole-mask-of-pan-n04439",
+      "id": "12156",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the little apple",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/poole-the-little-apple-n04478",
+      "id": "12157",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12156",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12157",
+      "value": 1
+    }
+  ]
+}

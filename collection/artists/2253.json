@@ -1,0 +1,225 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Chadwick, Helen",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/helen-chadwick-2253",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "anatoli",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-anatoli-p11269",
+      "id": "18888",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-no-title-p11434",
+      "id": "21847",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the labours i",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-the-labours-i-p78657",
+      "id": "71753",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the labours ii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-the-labours-ii-p78658",
+      "id": "71755",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the labours iii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-the-labours-iii-p78659",
+      "id": "71756",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the labours iv",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-the-labours-iv-p78660",
+      "id": "71757",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the labours v",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-the-labours-v-p78661",
+      "id": "71758",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the labours vi",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-the-labours-vi-p78662",
+      "id": "71759",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the labours vii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-the-labours-vii-p78663",
+      "id": "71760",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the labours viii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-the-labours-viii-p78664",
+      "id": "71761",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the labours ix",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-the-labours-ix-p78665",
+      "id": "71762",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the labours x",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-the-labours-x-p78666",
+      "id": "71763",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "enfleshings i",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-enfleshings-i-t06876",
+      "id": "21058",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "enfleshings ii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-enfleshings-ii-t06877",
+      "id": "21059",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "eroticism",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chadwick-eroticism-t07411",
+      "id": "26225",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "18888",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21847",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71753",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71755",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71756",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71757",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71758",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71759",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71760",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71761",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71762",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71763",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21058",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21059",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26225",
+      "value": 1
+    }
+  ]
+}

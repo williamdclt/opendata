@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Thirsk, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-thirsk-2033",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "deer house, bishop auckland",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/thirsk-deer-house-bishop-auckland-p06588",
+      "id": "14139",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wainhouse tower, halifax",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/thirsk-wainhouse-tower-halifax-p06589",
+      "id": "14140",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dr w.g. grace",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/thirsk-dr-wg-grace-p06590",
+      "id": "14141",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "14139",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14140",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14141",
+      "value": 1
+    }
+  ]
+}

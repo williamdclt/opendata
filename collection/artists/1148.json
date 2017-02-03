@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gentleman, David",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/david-gentleman-1148",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "beaumaris",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04233_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gentleman-beaumaris-p04233",
+      "id": "5062",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "caerphilly",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04234_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gentleman-caerphilly-p04234",
+      "id": "5063",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "deal",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04235_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gentleman-deal-p04235",
+      "id": "5064",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fortress",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04236_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gentleman-fortress-p04236",
+      "id": "5065",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "francesco di georgio i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04237_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gentleman-francesco-di-georgio-i-p04237",
+      "id": "5066",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "francesco di georgio ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04238_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gentleman-francesco-di-georgio-ii-p04238",
+      "id": "5067",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06215_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gentleman-title-not-known-p06215",
+      "id": "5068",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "abbeygate, bury st edmunds",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06216_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gentleman-abbeygate-bury-st-edmunds-p06216",
+      "id": "5069",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hardwick hall",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06217_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gentleman-hardwick-hall-p06217",
+      "id": "5070",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "heningham hall",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06218_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gentleman-heningham-hall-p06218",
+      "id": "5071",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kelmscott house, chiswick",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06219_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gentleman-kelmscott-house-chiswick-p06219",
+      "id": "5072",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "little moreton hall",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06220_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gentleman-little-moreton-hall-p06220",
+      "id": "5073",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the maltings, snape",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06221_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gentleman-the-maltings-snape-p06221",
+      "id": "5074",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "orford castle, suffolk",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06222_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gentleman-orford-castle-suffolk-p06222",
+      "id": "5075",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06223_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gentleman-title-not-known-p06223",
+      "id": "5076",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the gatehouse, stanway",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06224_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gentleman-the-gatehouse-stanway-p06224",
+      "id": "5077",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st james, goose creek",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06225_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gentleman-st-james-goose-creek-p06225",
+      "id": "5078",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06226_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gentleman-title-not-known-p06226",
+      "id": "5079",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "charleston market",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06227_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gentleman-charleston-market-p06227",
+      "id": "5080",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gaillard - bennett house",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06228_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gentleman-gaillard-bennett-house-p06228",
+      "id": "5081",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mulberry plantation house",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06229_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gentleman-mulberry-plantation-house-p06229",
+      "id": "5082",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nathaniel russell house",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06230_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gentleman-nathaniel-russell-house-p06230",
+      "id": "5083",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "miles brewton house",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06231_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gentleman-miles-brewton-house-p06231",
+      "id": "5084",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the wedge plantation house",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06232_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gentleman-the-wedge-plantation-house-p06232",
+      "id": "5085",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "endell street",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06233_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gentleman-endell-street-p06233",
+      "id": "5086",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the flower market, covent garden",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06234_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gentleman-the-flower-market-covent-garden-p06234",
+      "id": "5087",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "foreign fruit market",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06235_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gentleman-foreign-fruit-market-p06235",
+      "id": "5088",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seven dials: monmouth st, shelton st and mercer st",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06236_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gentleman-seven-dials-monmouth-st-shelton-st-and-mercer-st-p06236",
+      "id": "5089",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "southern section of piazza (james butler)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06237_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gentleman-southern-section-of-piazza-james-butler-p06237",
+      "id": "5090",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "warehouse in mercer st",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06238_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gentleman-warehouse-in-mercer-st-p06238",
+      "id": "5091",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "warehouses between shelton st and earlham st",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06239_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gentleman-warehouses-between-shelton-st-and-earlham-st-p06239",
+      "id": "5092",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dunstanburgh castle",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06240_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gentleman-dunstanburgh-castle-p06240",
+      "id": "5093",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dundas aqueduct",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06636_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gentleman-dundas-aqueduct-p06636",
+      "id": "5094",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "camden crescent",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06637_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gentleman-camden-crescent-p06637",
+      "id": "5095",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ralph allen\u2019s sham castle",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06638_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gentleman-ralph-allens-sham-castle-p06638",
+      "id": "5096",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lansdowne crescent",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06639_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gentleman-lansdowne-crescent-p06639",
+      "id": "5097",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "canal in sydney gardens",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06640_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gentleman-canal-in-sydney-gardens-p06640",
+      "id": "5098",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "great roman bath",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06641_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gentleman-great-roman-bath-p06641",
+      "id": "5099",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bath abbey precinct",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06642_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gentleman-bath-abbey-precinct-p06642",
+      "id": "5100",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st thomas\u2019s hospital",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06643_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gentleman-st-thomass-hospital-p06643",
+      "id": "5101",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5062",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5063",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5064",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5065",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5066",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5067",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5068",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5069",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5070",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5071",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5072",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5073",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5074",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5075",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5076",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5077",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5078",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5079",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5080",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5081",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5082",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5083",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5084",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5085",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5086",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5087",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5088",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5089",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5090",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5091",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5092",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5093",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5094",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5095",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5096",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5097",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5098",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5099",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5100",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5101",
+      "value": 1
+    }
+  ]
+}

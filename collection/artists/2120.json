@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Wardle, Arthur",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/arthur-wardle-2120",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "fate",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wardle-fate-n01947",
+      "id": "15943",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "15943",
+      "value": 1
+    }
+  ]
+}

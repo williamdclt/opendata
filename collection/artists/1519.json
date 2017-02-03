@@ -1,0 +1,169 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Lissitzky, El",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/el-lissitzky-1519",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[title page]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07137_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lissitzky-title-page-p07137",
+      "id": "8941",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "1. part of the show machinery",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07138_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lissitzky-1-part-of-the-show-machinery-p07138",
+      "id": "8942",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "2. the announcer",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07139_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lissitzky-2-the-announcer-p07139",
+      "id": "8943",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "3. postman",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07140_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lissitzky-3-postman-p07140",
+      "id": "8944",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "4. anxious people",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07141_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lissitzky-4-anxious-people-p07141",
+      "id": "8945",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "5. globetrotter (in time)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07142_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lissitzky-5-globetrotter-in-time-p07142",
+      "id": "8946",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "6. sportsmen",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07143_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lissitzky-6-sportsmen-p07143",
+      "id": "8947",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "7. troublemaker",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07144_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lissitzky-7-troublemaker-p07144",
+      "id": "8948",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "8. old man (head 2 steps behind)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07145_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lissitzky-8-old-man-head-2-steps-behind-p07145",
+      "id": "8949",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "9. gravediggers",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07146_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lissitzky-9-gravediggers-p07146",
+      "id": "8950",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "10. new man",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07147_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lissitzky-10-new-man-p07147",
+      "id": "8951",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8941",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8942",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8943",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8944",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8945",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8946",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8947",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8948",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8949",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8950",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8951",
+      "value": 1
+    }
+  ]
+}

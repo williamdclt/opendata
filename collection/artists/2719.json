@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Bravo, Manuel \u00c1lvarez",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/manuel-alvarez-bravo-2719",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "black mirror",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13111_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bravo-black-mirror-p13111",
+      "id": "101220",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "101220",
+      "value": 1
+    }
+  ]
+}

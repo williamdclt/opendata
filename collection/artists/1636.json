@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Milne, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-milne-1636",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "gnathos",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/milne-gnathos-t01449",
+      "id": "9553",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9553",
+      "value": 1
+    }
+  ]
+}

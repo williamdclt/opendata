@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hamilton, Richard",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/richard-hamilton-1244",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "four self portraits - 05.3.81",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00141_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-four-self-portraits-05381-ar00141",
+      "id": "95897",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "people",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01019_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-people-p01019",
+      "id": "5772",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01730_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-no-title-p01730",
+      "id": "5773",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dimensional data",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01731_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-dimensional-data-p01731",
+      "id": "5774",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "perspective scheme",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-perspective-scheme-p01732",
+      "id": "5775",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "radial sections",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-radial-sections-p01733",
+      "id": "5776",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "circumferential sections",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-circumferential-sections-p01734",
+      "id": "5777",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "treads (line)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-treads-line-p01735",
+      "id": "5778",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "treads (area)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-treads-area-p01736",
+      "id": "5779",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "depth of cut",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-depth-of-cut-p01737",
+      "id": "5780",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01738_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-no-title-p01738",
+      "id": "5781",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "swingeing london 67 - poster",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01855_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-swingeing-london-67-poster-p01855",
+      "id": "5782",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stage proof 1",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02416_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-stage-proof-1-p02416",
+      "id": "5783",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stage proof 2",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02417_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-stage-proof-2-p02417",
+      "id": "5784",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stage proof 3",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02418_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-stage-proof-3-p02418",
+      "id": "5785",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stage proof 4",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02419_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-stage-proof-4-p02419",
+      "id": "5786",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stage proof 5",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02420_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-stage-proof-5-p02420",
+      "id": "5787",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stage proof 6",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02421_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-stage-proof-6-p02421",
+      "id": "5788",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stage proof 7",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02422_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-stage-proof-7-p02422",
+      "id": "5789",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stage proof 8",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02423_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-stage-proof-8-p02423",
+      "id": "5790",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stage proof 9",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02424_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-stage-proof-9-p02424",
+      "id": "5791",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stage proof 10",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02425_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-stage-proof-10-p02425",
+      "id": "5792",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stage proof 11",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02426_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-stage-proof-11-p02426",
+      "id": "5793",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stage proof 12",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02427_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-stage-proof-12-p02427",
+      "id": "5794",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stage proof 13",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02428_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-stage-proof-13-p02428",
+      "id": "5795",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stage proof 16",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02429_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-stage-proof-16-p02429",
+      "id": "5796",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stage proof 17",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02430_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-stage-proof-17-p02430",
+      "id": "5797",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stage proof 18",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02431_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-stage-proof-18-p02431",
+      "id": "5798",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stage proof 19",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02432_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-stage-proof-19-p02432",
+      "id": "5799",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "adonis in y fronts",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04247_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-adonis-in-y-fronts-p04247",
+      "id": "5800",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "five tyres abandoned",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04248_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-five-tyres-abandoned-p04248",
+      "id": "5801",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a little bit of roy lichtenstein for ...",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04249_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-a-little-bit-of-roy-lichtenstein-for-p04249",
+      "id": "5802",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "interior",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04250_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-interior-p04250",
+      "id": "5803",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "my marilyn",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04251_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-my-marilyn-p04251",
+      "id": "5804",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the solomon r. guggenheim",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04252_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-the-solomon-r-guggenheim-p04252",
+      "id": "5805",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "toaster",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04253_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-toaster-p04253",
+      "id": "5806",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "release",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04254_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-release-p04254",
+      "id": "5807",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "swingeing london iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04255_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-swingeing-london-iii-p04255",
+      "id": "5808",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "interior with monochromes",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07446_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-interior-with-monochromes-p07446",
+      "id": "5809",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "soft pink landscape",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07447_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-soft-pink-landscape-p07447",
+      "id": "5810",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "95897",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5772",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5773",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5774",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5775",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5776",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5777",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5778",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5779",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5780",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5781",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5782",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5783",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5784",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5785",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5786",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5787",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5788",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5789",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5790",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5791",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5792",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5793",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5794",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5795",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5796",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5797",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5798",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5799",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5800",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5801",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5802",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5803",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5804",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5805",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5806",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5807",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5808",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5809",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5810",
+      "value": 1
+    }
+  ]
+}

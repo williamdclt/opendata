@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Van Somer, Paul",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/paul-van-somer-567",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "lady elizabeth grey, countess of kent",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00398_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/van-somer-lady-elizabeth-grey-countess-of-kent-t00398",
+      "id": "15696",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "15696",
+      "value": 1
+    }
+  ]
+}

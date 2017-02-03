@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Watson, Harry",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/harry-watson-2123",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "across the river",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02938_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/watson-across-the-river-n02938",
+      "id": "15989",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "15989",
+      "value": 1
+    }
+  ]
+}

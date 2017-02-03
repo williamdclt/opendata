@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Bacon, Francis",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/francis-bacon-682",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "figure in a landscape",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05941_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bacon-figure-in-a-landscape-n05941",
+      "id": "672",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a dog",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06131_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bacon-study-of-a-dog-n06131",
+      "id": "673",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "three studies for figures at the base of a crucifixion",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06171_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bacon-three-studies-for-figures-at-the-base-of-a-crucifixion-n06171",
+      "id": "674",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for a portrait of van gogh iv",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00226_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bacon-study-for-a-portrait-of-van-gogh-iv-t00226",
+      "id": "677",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reclining woman",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00453_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bacon-reclining-woman-t00453",
+      "id": "678",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seated figure",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00459_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bacon-seated-figure-t00459",
+      "id": "679",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for portrait on folding bed",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00604_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bacon-study-for-portrait-on-folding-bed-t00604",
+      "id": "680",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of isabel rawsthorne",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00879_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bacon-portrait-of-isabel-rawsthorne-t00879",
+      "id": "681",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "three figures and portrait",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02112_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bacon-three-figures-and-portrait-t02112",
+      "id": "682",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for portrait ii (after the life mask of william blake)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02414_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bacon-study-for-portrait-ii-after-the-life-mask-of-william-blake-t02414",
+      "id": "683",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "triptych - august 1972",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03073_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bacon-triptych-august-1972-t03073",
+      "id": "684",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "second version of triptych 1944",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05858_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bacon-second-version-of-triptych-1944-t05858",
+      "id": "19509",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure in a landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07351_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bacon-figure-in-a-landscape-t07351",
+      "id": "26004",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "turning figure",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07352_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bacon-turning-figure-t07352",
+      "id": "26003",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reclining figure, no. 1",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07353_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bacon-reclining-figure-no-1-t07353",
+      "id": "26001",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reclining figure, no. 2",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07354_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bacon-reclining-figure-no-2-t07354",
+      "id": "26002",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two owls, no. 1",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07355_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bacon-two-owls-no-1-t07355",
+      "id": "26025",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure in a framework",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07356_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bacon-figure-in-a-framework-t07356",
+      "id": "26060",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "collapsed figure",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07357_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bacon-collapsed-figure-t07357",
+      "id": "26059",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure bending forwards",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07358_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bacon-figure-bending-forwards-t07358",
+      "id": "26026",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two owls, no. 2",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07359_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bacon-two-owls-no-2-t07359",
+      "id": "26058",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "falling figure",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07360_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bacon-falling-figure-t07360",
+      "id": "26057",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure with left arm raised, no. 1",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07361_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bacon-figure-with-left-arm-raised-no-1-t07361",
+      "id": "26055",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure with left arm raised, no. 2",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07362_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bacon-figure-with-left-arm-raised-no-2-t07362",
+      "id": "26056",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure with arms swung out",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07363_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bacon-figure-with-arms-swung-out-t07363",
+      "id": "26054",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seated figure",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07364_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bacon-seated-figure-t07364",
+      "id": "26053",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure lying flat",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07365_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bacon-figure-lying-flat-t07365",
+      "id": "26052",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure in grey interior",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07366_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bacon-figure-in-grey-interior-t07366",
+      "id": "26051",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "standing figure",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07367_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bacon-standing-figure-t07367",
+      "id": "26050",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure with foot in hand",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07368_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bacon-figure-with-foot-in-hand-t07368",
+      "id": "26049",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fallen figure",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07369_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bacon-fallen-figure-t07369",
+      "id": "26048",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fallen figure with arms up",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07370_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bacon-fallen-figure-with-arms-up-t07370",
+      "id": "26047",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bending figure, no. 1",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07371_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bacon-bending-figure-no-1-t07371",
+      "id": "26046",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure crawling",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07372_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bacon-figure-crawling-t07372",
+      "id": "26045",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07373_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bacon-head-t07373",
+      "id": "26044",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure lying, no. 1",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07374_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bacon-figure-lying-no-1-t07374",
+      "id": "26043",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure lying, no. 2",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07375_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bacon-figure-lying-no-2-t07375",
+      "id": "26042",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blue crawling figure, no. 1",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07376_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bacon-blue-crawling-figure-no-1-t07376",
+      "id": "26041",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blue crawling figure, no. 2",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07377_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bacon-blue-crawling-figure-no-2-t07377",
+      "id": "26040",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pink crawling figure",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07378_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bacon-pink-crawling-figure-t07378",
+      "id": "26039",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "672",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "673",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "674",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "677",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "678",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "679",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "680",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "681",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "682",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "683",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "684",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19509",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26004",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26003",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26001",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26002",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26025",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26060",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26059",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26026",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26058",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26057",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26055",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26056",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26054",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26053",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26052",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26051",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26050",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26049",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26048",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26047",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26046",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26045",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26044",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26043",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26042",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26041",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26040",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26039",
+      "value": 1
+    }
+  ]
+}

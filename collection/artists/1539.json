@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Macdonald, Frances",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/frances-macdonald-1539",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "building the mulberry harbour, london docks",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05705_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/macdonald-building-the-mulberry-harbour-london-docks-n05705",
+      "id": "9075",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "iffley church",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/macdonald-iffley-church-p06345",
+      "id": "9076",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9075",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9076",
+      "value": 1
+    }
+  ]
+}

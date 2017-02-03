@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Potter, Mary",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/mary-potter-1795",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "golden kipper",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05132_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/potter-golden-kipper-n05132",
+      "id": "12202",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "east coast window",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00584_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/potter-east-coast-window-t00584",
+      "id": "12203",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bonfire",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01898_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/potter-bonfire-t01898",
+      "id": "12204",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05464_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/potter-still-life-t05464",
+      "id": "8179",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the window, chiswick",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05834_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/potter-the-window-chiswick-t05834",
+      "id": "19380",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12202",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12203",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12204",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8179",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19380",
+      "value": 1
+    }
+  ]
+}

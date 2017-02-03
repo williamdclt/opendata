@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "House, Gordon",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/gordon-house-1312",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "black quartered arc",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01173_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/house-black-quartered-arc-p01173",
+      "id": "6762",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cornered circuit",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01174_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/house-cornered-circuit-p01174",
+      "id": "12143",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "diagonal feint ruled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01175_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/house-diagonal-feint-ruled-p01175",
+      "id": "6763",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "embossed quartered arc",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01176_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/house-embossed-quartered-arc-p01176",
+      "id": "6764",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "quartered arc",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01177_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/house-quartered-arc-p01177",
+      "id": "6765",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a. ladder box",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01178_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/house-a-ladder-box-p01178",
+      "id": "6766",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "b. multi-case",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01179_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/house-b-multi-case-p01179",
+      "id": "6767",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "c. vertical screen",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01180_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/house-c-vertical-screen-p01180",
+      "id": "6768",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "d. drop initials",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01181_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/house-d-drop-initials-p01181",
+      "id": "6769",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "e. quoined chase",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01182_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/house-e-quoined-chase-p01182",
+      "id": "6770",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "f. mitred matrix",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01183_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/house-f-mitred-matrix-p01183",
+      "id": "6771",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a. ladder box",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01184_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/house-a-ladder-box-p01184",
+      "id": "6772",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "b. multi-case",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01185_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/house-b-multi-case-p01185",
+      "id": "6773",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "c. vertical screen",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01186_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/house-c-vertical-screen-p01186",
+      "id": "6774",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "d. drop initials",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01187_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/house-d-drop-initials-p01187",
+      "id": "6775",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "e. quoined chase",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01188_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/house-e-quoined-chase-p01188",
+      "id": "6776",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "f. mitred matrix",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01189_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/house-f-mitred-matrix-p01189",
+      "id": "6777",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vertical feint ruled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01190_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/house-vertical-feint-ruled-p01190",
+      "id": "6778",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "arcs with a square",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01191_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/house-arcs-with-a-square-p01191",
+      "id": "6779",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "arcs with a square",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01192_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/house-arcs-with-a-square-p01192",
+      "id": "6780",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "arcs with a square",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01193_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/house-arcs-with-a-square-p01193",
+      "id": "6781",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "arcs with a square",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01194_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/house-arcs-with-a-square-p01194",
+      "id": "6782",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "arcs with a square",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01195_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/house-arcs-with-a-square-p01195",
+      "id": "6783",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "arcs with a square",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01196_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/house-arcs-with-a-square-p01196",
+      "id": "6784",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "arcs with a square",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01197_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/house-arcs-with-a-square-p01197",
+      "id": "6785",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "triangles within a square",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01198_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/house-triangles-within-a-square-p01198",
+      "id": "6786",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "triangles within a square",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01199_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/house-triangles-within-a-square-p01199",
+      "id": "6787",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "triangles within a square",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01200_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/house-triangles-within-a-square-p01200",
+      "id": "6788",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "triangles within a square",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01201_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/house-triangles-within-a-square-p01201",
+      "id": "6789",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "triangles within a square",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01202_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/house-triangles-within-a-square-p01202",
+      "id": "6790",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "triangles within a square",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01203_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/house-triangles-within-a-square-p01203",
+      "id": "6791",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "triangles within a square",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01204_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/house-triangles-within-a-square-p01204",
+      "id": "6792",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "triangles within a square",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01205_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/house-triangles-within-a-square-p01205",
+      "id": "6793",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "highbury quadrant",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03101_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/house-highbury-quadrant-p03101",
+      "id": "6794",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blue",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04329_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/house-blue-p04329",
+      "id": "6795",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "brown",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04330_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/house-brown-p04330",
+      "id": "6796",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "grey",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04331_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/house-grey-p04331",
+      "id": "6797",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "orange",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04332_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/house-orange-p04332",
+      "id": "6798",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "yellow",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04333_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/house-yellow-p04333",
+      "id": "6799",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "eight red arcs",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04334_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/house-eight-red-arcs-p04334",
+      "id": "6800",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6762",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12143",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6763",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6764",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6765",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6766",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6767",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6768",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6769",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6770",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6771",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6772",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6773",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6774",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6775",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6776",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6777",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6778",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6779",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6780",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6781",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6782",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6783",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6784",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6785",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6786",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6787",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6788",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6789",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6790",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6791",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6792",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6793",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6794",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6795",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6796",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6797",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6798",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6799",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6800",
+      "value": 1
+    }
+  ]
+}

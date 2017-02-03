@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Wilson, Jane",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/jane-wilson-4147",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "urville",
+      "url": "http://www.tate.org.uk/art/images/work/P/P80/P80084_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-urville-p80084",
+      "id": "117273",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "biville",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-biville-p80085",
+      "id": "117275",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gamma",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-gamma-t07698",
+      "id": "27376",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "117273",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117275",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27376",
+      "value": 1
+    }
+  ]
+}

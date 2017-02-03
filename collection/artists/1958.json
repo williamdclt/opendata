@@ -1,0 +1,211 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Smith, Sir Matthew",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-matthew-smith-1958",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "peonies",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04410_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-peonies-n04410",
+      "id": "13516",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cyclamen",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04782_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-cyclamen-n04782",
+      "id": "13517",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "model turning",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04852_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-model-turning-n04852",
+      "id": "13518",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "peaches",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05266_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-peaches-n05266",
+      "id": "13519",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05401_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-still-life-n05401",
+      "id": "13520",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the young actress",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05440_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-the-young-actress-n05440",
+      "id": "13521",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "apples",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05760_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-apples-n05760",
+      "id": "13522",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cornish church",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05903_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-cornish-church-n05903",
+      "id": "13523",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nude, fitzroy street, no. 1",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06086_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-nude-fitzroy-street-no-1-n06086",
+      "id": "13524",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman reclining",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06152_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-woman-reclining-n06152",
+      "id": "13525",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fruit in a dish",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01994_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-fruit-in-a-dish-t01994",
+      "id": "13526",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life with clay figure, i",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02101_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-still-life-with-clay-figure-i-t02101",
+      "id": "13527",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "winter in provence",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03351_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-winter-in-provence-t03351",
+      "id": "13528",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape near antibes",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06493_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-landscape-near-antibes-t06493",
+      "id": "20256",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13516",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13517",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13518",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13519",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13520",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13521",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13522",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13523",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13524",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13525",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13526",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13527",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13528",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20256",
+      "value": 1
+    }
+  ]
+}

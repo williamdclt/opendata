@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gershuni, Moshe",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/moshe-gershuni-2781",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "18 cyclamens",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07655_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gershuni-18-cyclamens-t07655",
+      "id": "27295",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "18 cyclamens",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07656_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gershuni-18-cyclamens-t07656",
+      "id": "27296",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "27295",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27296",
+      "value": 1
+    }
+  ]
+}

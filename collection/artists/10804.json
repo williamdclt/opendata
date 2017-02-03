@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Jensen, Sergej",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sergej-jensen-10804",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the world",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12497_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jensen-the-world-t12497",
+      "id": "94414",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "space i",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13349_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jensen-space-i-t13349",
+      "id": "113629",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "94414",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "113629",
+      "value": 1
+    }
+  ]
+}

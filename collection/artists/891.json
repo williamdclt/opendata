@@ -1,0 +1,225 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Charlton, Alan",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/alan-charlton-891",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77524_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/charlton-no-title-p77524",
+      "id": "20381",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77525_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/charlton-no-title-p77525",
+      "id": "20402",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77526_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/charlton-no-title-p77526",
+      "id": "20401",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77527_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/charlton-no-title-p77527",
+      "id": "20400",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77528_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/charlton-no-title-p77528",
+      "id": "20399",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77529_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/charlton-no-title-p77529",
+      "id": "20398",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77530_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/charlton-no-title-p77530",
+      "id": "20397",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77531_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/charlton-no-title-p77531",
+      "id": "20396",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77532_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/charlton-no-title-p77532",
+      "id": "20395",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77533_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/charlton-no-title-p77533",
+      "id": "20394",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "channel painting no. 6",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03894_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/charlton-channel-painting-no-6-t03894",
+      "id": "2177",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "single horizontal slot painting",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07439_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/charlton-single-horizontal-slot-painting-t07439",
+      "id": "26303",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "2 part vertical painting",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07449_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/charlton-2-part-vertical-painting-t07449",
+      "id": "26395",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "20 part line painting",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07450_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/charlton-20-part-line-painting-t07450",
+      "id": "26396",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "painting with four square holes",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07451_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/charlton-painting-with-four-square-holes-t07451",
+      "id": "26397",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "20381",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20402",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20401",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20400",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20399",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20398",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20397",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20396",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20395",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20394",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2177",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26303",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26395",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26396",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26397",
+      "value": 1
+    }
+  ]
+}

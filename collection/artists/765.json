@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Blanche, Jacques-Emile",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/jacques-emile-blanche-765",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "thomas hardy",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03580_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blanche-thomas-hardy-n03580",
+      "id": "1190",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "arthur symons",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blanche-arthur-symons-n04862",
+      "id": "1191",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portraits of charles shannon and charles ricketts",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blanche-portraits-of-charles-shannon-and-charles-ricketts-n04907",
+      "id": "1192",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "francis poictevin",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04995_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blanche-francis-poictevin-n04995",
+      "id": "1193",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "on the pier at dieppe",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05427_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blanche-on-the-pier-at-dieppe-n05427",
+      "id": "1194",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "charles conder",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05754_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blanche-charles-conder-n05754",
+      "id": "1195",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ludgate circus: entrance to the city (november, midday)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05755_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blanche-ludgate-circus-entrance-to-the-city-november-midday-n05755",
+      "id": "1196",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "august morning, dieppe beach",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05756_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blanche-august-morning-dieppe-beach-n05756",
+      "id": "1197",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1190",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1191",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1192",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1193",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1194",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1195",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1196",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1197",
+      "value": 1
+    }
+  ]
+}

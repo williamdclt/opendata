@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hamilton Finlay, Ian",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/ian-hamilton-finlay-1093",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "sailing dinghy",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00021_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-finlay-sailing-dinghy-ar00021",
+      "id": "95468",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "idylls end in thunderstorms",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR01124_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-finlay-idylls-end-in-thunderstorms-ar01124",
+      "id": "104920",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a last word: rudder",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR01125_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-finlay-a-last-word-rudder-ar01125",
+      "id": "104921",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "marine",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07014_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-finlay-marine-p07014",
+      "id": "4280",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "poem/print no. 11 [collaboration with john furnival]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07015_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-finlay-poemprint-no-11-collaboration-with-john-furnival-p07015",
+      "id": "4281",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "homage to mozart [collaboration with ron costley]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07016_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-finlay-homage-to-mozart-collaboration-with-ron-costley-p07016",
+      "id": "4282",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "catameringue [collaboration with peter grant]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07017_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-finlay-catameringue-collaboration-with-peter-grant-p07017",
+      "id": "4283",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the little seamstress [collaboration with richard demarco]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07018_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-finlay-the-little-seamstress-collaboration-with-richard-demarco-p07018",
+      "id": "4284",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seashells [collaboration with ian procktor]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07019_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-finlay-seashells-collaboration-with-ian-procktor-p07019",
+      "id": "4285",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "interior/interieur homage to vuillard [collaboration with michael harvey]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07020_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-finlay-interiorinterieur-homage-to-vuillard-collaboration-with-michael-harvey-p07020",
+      "id": "4286",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a rock rose [collaboration with richard demarco]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07021_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-finlay-a-rock-rose-collaboration-with-richard-demarco-p07021",
+      "id": "4287",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the washington fountain [collaboration with karl torok]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07022_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-finlay-the-washington-fountain-collaboration-with-karl-torok-p07022",
+      "id": "4288",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "homage to modern art [collaboration with jim nicholson]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07023_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-finlay-homage-to-modern-art-collaboration-with-jim-nicholson-p07023",
+      "id": "4289",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sail wholemeal [collaboration with jim nicholson]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07024_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-finlay-sail-wholemeal-collaboration-with-jim-nicholson-p07024",
+      "id": "4290",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "arcadia [collaboration with george oliver]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07025_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-finlay-arcadia-collaboration-with-george-oliver-p07025",
+      "id": "4291",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "acrobats",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07450_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-finlay-acrobats-p07450",
+      "id": "4292",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sea poppy i [collaboration with alistair cant]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07451_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-finlay-sea-poppy-i-collaboration-with-alistair-cant-p07451",
+      "id": "4293",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "star/steer",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07452_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-finlay-starsteer-p07452",
+      "id": "4294",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "summer sails [collaboration with jim nicholson]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07453_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-finlay-summer-sails-collaboration-with-jim-nicholson-p07453",
+      "id": "4295",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "la belle hollandaise [collaboration with herbert rosenthal]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07454_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-finlay-la-belle-hollandaise-collaboration-with-herbert-rosenthal-p07454",
+      "id": "4296",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "land/sea [collaboration with herbert rosenthal]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07455_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-finlay-landsea-collaboration-with-herbert-rosenthal-p07455",
+      "id": "4297",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seams",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07456_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-finlay-seams-p07456",
+      "id": "4298",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "errata [collaboration with david button]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07457_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-finlay-errata-collaboration-with-david-button-p07457",
+      "id": "4299",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "scottish zulu [collaboration with david button]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07458_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-finlay-scottish-zulu-collaboration-with-david-button-p07458",
+      "id": "4300",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "glossary [collaboration with richard demarco]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07459_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-finlay-glossary-collaboration-with-richard-demarco-p07459",
+      "id": "4301",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "d1 [collaboration with michael harvey]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07460_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-finlay-d1-collaboration-with-michael-harvey-p07460",
+      "id": "4302",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spiral binding",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07461_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-finlay-spiral-binding-p07461",
+      "id": "4303",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "topiary aircraft carrier [collaboration with ian gardner]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07462_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-finlay-topiary-aircraft-carrier-collaboration-with-ian-gardner-p07462",
+      "id": "4304",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "necktank [collaboration with michael harvey]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07463_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-finlay-necktank-collaboration-with-michael-harvey-p07463",
+      "id": "4305",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gourd [collaboration with ron costley]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07464_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-finlay-gourd-collaboration-with-ron-costley-p07464",
+      "id": "4306",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "midway",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07465_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-finlay-midway-p07465",
+      "id": "4307",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "port-distinguishing letters of scottish fishing vessels [collaboration with george l thomson]  ",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07466_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-finlay-port-distinguishing-letters-of-scottish-fishing-vessels-collaboration-with-p07466",
+      "id": "4308",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tree shells",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07467_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-finlay-tree-shells-p07467",
+      "id": "4309",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "u.s.s. enterprise",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07468_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-finlay-uss-enterprise-p07468",
+      "id": "4310",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "flowers",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07469_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-finlay-flowers-p07469",
+      "id": "4311",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sailing barge red wing",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07645_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-finlay-sailing-barge-red-wing-p07645",
+      "id": "4312",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "at the field\u2019s edge",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07646_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-finlay-at-the-fields-edge-p07646",
+      "id": "12758",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "homage to agam",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07647_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-finlay-homage-to-agam-p07647",
+      "id": "4313",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07923_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-finlay-no-title-p07923",
+      "id": "16987",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07924_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-finlay-no-title-p07924",
+      "id": "4314",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "95468",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "104920",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "104921",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4280",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4281",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4282",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4283",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4284",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4285",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4286",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4287",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4288",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4289",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4290",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4291",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4292",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4293",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4294",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4295",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4296",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4297",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4298",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4299",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4300",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4301",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4302",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4303",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4304",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4305",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4306",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4307",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4308",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4309",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4310",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4311",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4312",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12758",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4313",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16987",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4314",
+      "value": 1
+    }
+  ]
+}

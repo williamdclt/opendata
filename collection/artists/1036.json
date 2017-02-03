@@ -1,0 +1,155 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Duchamp, Marcel",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/marcel-duchamp-1036",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the bride stripped bare by her bachelors, even (the large glass)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02011_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duchamp-the-bride-stripped-bare-by-her-bachelors-even-the-large-glass-t02011",
+      "id": "4029",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "coffee mill",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03253_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duchamp-coffee-mill-t03253",
+      "id": "4028",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "female fig leaf",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07279_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duchamp-female-fig-leaf-t07279",
+      "id": "22017",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dart object",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07280_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duchamp-dart-object-t07280",
+      "id": "22018",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wedge of chastity",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07281_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duchamp-wedge-of-chastity-t07281",
+      "id": "22016",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fresh widow",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07282_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duchamp-fresh-widow-t07282",
+      "id": "22019",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "3 stoppages \u00e9talon (3 standard stoppages)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07507_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duchamp-3-stoppages-etalon-3-standard-stoppages-t07507",
+      "id": "26545",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "why not sneeze rose s\u00e9lavy?",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07508_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duchamp-why-not-sneeze-rose-selavy-t07508",
+      "id": "26546",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fountain",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07573_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duchamp-fountain-t07573",
+      "id": "26850",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the bride stripped bare by her bachelors even (the green box)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07744_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duchamp-the-bride-stripped-bare-by-her-bachelors-even-the-green-box-t07744",
+      "id": "66623",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4029",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4028",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22017",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22018",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22016",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22019",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26545",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26546",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26850",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66623",
+      "value": 1
+    }
+  ]
+}

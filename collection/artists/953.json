@@ -1,0 +1,197 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Cragg, Tony",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/tony-cragg-953",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "six bottles (large), state 1",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77288_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cragg-six-bottles-large-state-1-p77288",
+      "id": "17317",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "laboratory still life no. 1, state 1",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77289_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cragg-laboratory-still-life-no-1-state-1-p77289",
+      "id": "17318",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "laboratory still life no. 2, state 1",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77290_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cragg-laboratory-still-life-no-2-state-1-p77290",
+      "id": "17319",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "laboratory still life no. 3",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77291_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cragg-laboratory-still-life-no-3-p77291",
+      "id": "17320",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "laboratory still life no. 4",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77292_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cragg-laboratory-still-life-no-4-p77292",
+      "id": "17321",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "britain seen from the north",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03347_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cragg-britain-seen-from-the-north-t03347",
+      "id": "2918",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "axehead",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03791_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cragg-axehead-t03791",
+      "id": "2919",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mineral vein",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04866_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cragg-mineral-vein-t04866",
+      "id": "2920",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "raleigh",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04903_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cragg-raleigh-t04903",
+      "id": "2921",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "on the savannah",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05519_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cragg-on-the-savannah-t05519",
+      "id": "310",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "yard",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cragg-yard-t06864",
+      "id": "21007",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stack",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07428_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cragg-stack-t07428",
+      "id": "26231",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cumulus",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07792_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cragg-cumulus-t07792",
+      "id": "27071",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "17317",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17318",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17319",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17320",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17321",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2918",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2919",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2920",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2921",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "310",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21007",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26231",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27071",
+      "value": 1
+    }
+  ]
+}

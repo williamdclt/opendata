@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Bomberg, David",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/david-bomberg-777",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "sleeping men",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03722_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bomberg-sleeping-men-n03722",
+      "id": "1230",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for canadian war painting",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03723_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bomberg-study-for-canadian-war-painting-n03723",
+      "id": "1231",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "flowers",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06133_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bomberg-flowers-n06133",
+      "id": "1232",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "i",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bomberg-i-p07008",
+      "id": "16946",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07009_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bomberg-ii-p07009",
+      "id": "16947",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07010_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bomberg-iii-p07010",
+      "id": "16948",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "iv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07011_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bomberg-iv-p07011",
+      "id": "16949",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "v",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bomberg-v-p07012",
+      "id": "16950",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vi",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07013_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bomberg-vi-p07013",
+      "id": "16951",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lilian",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00318_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bomberg-lilian-t00318",
+      "id": "1234",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018sappers at work: a canadian tunnelling company, hill 60, st eloi\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00319_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bomberg-study-for-sappers-at-work-a-canadian-tunnelling-company-hill-60-st-eloi-t00319",
+      "id": "1235",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ju-jitsu",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00585_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bomberg-ju-jitsu-t00585",
+      "id": "1236",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "barges",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00610_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bomberg-barges-t00610",
+      "id": "1237",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the mud bath",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00656_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bomberg-the-mud-bath-t00656",
+      "id": "1238",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tregor and tregoff, cornwall",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00910_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bomberg-tregor-and-tregoff-cornwall-t00910",
+      "id": "1239",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "in the hold",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00913_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bomberg-in-the-hold-t00913",
+      "id": "1240",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018in the hold\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00914_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bomberg-study-for-in-the-hold-t00914",
+      "id": "1241",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bathing scene",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01055_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bomberg-bathing-scene-t01055",
+      "id": "1242",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vigilante",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01086_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bomberg-vigilante-t01086",
+      "id": "1243",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vision of ezekiel",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01197_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bomberg-vision-of-ezekiel-t01197",
+      "id": "1244",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018the vision of ezekiel\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01681_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bomberg-study-for-the-vision-of-ezekiel-t01681",
+      "id": "1245",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jerusalem, looking to mount scopus",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01683_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bomberg-jerusalem-looking-to-mount-scopus-t01683",
+      "id": "1246",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketches for \u2018the dancer\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01961_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bomberg-sketches-for-the-dancer-t01961",
+      "id": "1247",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "imaginative composition - \u2018the tent\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01962_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bomberg-imaginative-composition-the-tent-t01962",
+      "id": "1248",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018the mud bath\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01963_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bomberg-study-for-the-mud-bath-t01963",
+      "id": "1249",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st paul\u2019s and river",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01964_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bomberg-st-pauls-and-river-t01964",
+      "id": "16930",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "players",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02074_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bomberg-players-t02074",
+      "id": "1250",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "raie, the artist\u2019s sister",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03260_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bomberg-raie-the-artists-sister-t03260",
+      "id": "1251",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for two figures in a composition",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03261_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bomberg-study-for-two-figures-in-a-composition-t03261",
+      "id": "1252",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for a figure in a composition",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03262_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bomberg-study-for-a-figure-in-a-composition-t03262",
+      "id": "1253",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kitty",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03263_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bomberg-kitty-t03263",
+      "id": "1254",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "san justo and toledo hills",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03264_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bomberg-san-justo-and-toledo-hills-t03264",
+      "id": "1255",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03265_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bomberg-self-portrait-t03265",
+      "id": "1256",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lilian painting david (painting lilian)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03338_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bomberg-lilian-painting-david-painting-lilian-t03338",
+      "id": "1257",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the baby diana",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03353_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bomberg-the-baby-diana-t03353",
+      "id": "1258",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "recto: messiah. verso: messiah",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03600_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bomberg-michelmore-recto-messiah-verso-messiah-t03600",
+      "id": "1263",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the artist\u2019s wife and baby",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04165_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bomberg-the-artists-wife-and-baby-t04165",
+      "id": "1259",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nude",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04166_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bomberg-nude-t04166",
+      "id": "1260",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the city on the rock, evening, ronda, spain",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04890_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bomberg-the-city-on-the-rock-evening-ronda-spain-t04890",
+      "id": "1261",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "picos de europa, asturias, spain",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04891_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bomberg-picos-de-europa-asturias-spain-t04891",
+      "id": "1262",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1230",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1231",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1232",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16946",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16947",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16948",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16949",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16950",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16951",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1234",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1235",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1236",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1237",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1238",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1239",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1240",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1241",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1242",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1243",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1244",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1245",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1246",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1247",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1248",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1249",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16930",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1250",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1251",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1252",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1253",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1254",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1255",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1256",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1257",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1258",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1263",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1259",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1260",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1261",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1262",
+      "value": 1
+    }
+  ]
+}

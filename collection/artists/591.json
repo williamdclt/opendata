@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Weekes, Henry",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/henry-weekes-591",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "john flaxman",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/weekes-john-flaxman-n01769",
+      "id": "16051",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "thomas stothard",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/weekes-thomas-stothard-n02075",
+      "id": "16052",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "william mulready",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/weekes-william-mulready-n02076",
+      "id": "16053",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16051",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16052",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16053",
+      "value": 1
+    }
+  ]
+}

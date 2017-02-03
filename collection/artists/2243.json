@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Redon, Odilon",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/odilon-redon-2243",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "profile of a woman with a vase of flowers",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05524_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/redon-profile-of-a-woman-with-a-vase-of-flowers-t05524",
+      "id": "12692",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12692",
+      "value": 1
+    }
+  ]
+}

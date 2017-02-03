@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Mueck, Ron",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/ron-mueck-2672",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "spooning couple",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00033_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mueck-spooning-couple-ar00033",
+      "id": "98291",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wild man",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00034_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mueck-wild-man-ar00034",
+      "id": "98292",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mask iii",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00035_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mueck-mask-iii-ar00035",
+      "id": "99124",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ghost",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07445_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mueck-ghost-t07445",
+      "id": "26294",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "98291",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98292",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99124",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26294",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Wilson, Louise",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/louise-wilson-2793",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "azeville",
+      "url": "http://www.tate.org.uk/art/images/work/P/P80/P80083_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-azeville-p80083",
+      "id": "117272",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "117272",
+      "value": 1
+    }
+  ]
+}

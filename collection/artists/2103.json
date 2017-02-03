@@ -1,0 +1,239 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "V\u00e9zelay, Paule",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/paule-vezelay-2103",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "le pont neuf, paris",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02069_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/vezelay-le-pont-neuf-paris-p02069",
+      "id": "15730",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "la danseuse \u00e0 la corde",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02070_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/vezelay-la-danseuse-a-la-corde-p02070",
+      "id": "15731",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the bathers",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02071_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/vezelay-the-bathers-p02071",
+      "id": "15732",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a circle, a diamond & two white lines",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02521_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/vezelay-a-circle-a-diamond-two-white-lines-p02521",
+      "id": "15733",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "contrasted curves",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02522_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/vezelay-contrasted-curves-p02522",
+      "id": "15734",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black silhouettes on red",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02523_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/vezelay-black-silhouettes-on-red-p02523",
+      "id": "15735",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "four forms and a black circle",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02524_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/vezelay-four-forms-and-a-black-circle-p02524",
+      "id": "15736",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two forms and two dots",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/vezelay-two-forms-and-two-dots-p02525",
+      "id": "15737",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lines in space no. 34",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00631_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/vezelay-lines-in-space-no-34-t00631",
+      "id": "15738",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "construction. grey lines on pink ground",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01725_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/vezelay-construction-grey-lines-on-pink-ground-t01725",
+      "id": "15739",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "forms",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01911_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/vezelay-forms-t01911",
+      "id": "15740",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "curves and circles",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03954_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/vezelay-curves-and-circles-t03954",
+      "id": "15741",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "forms on grey",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03955_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/vezelay-forms-on-grey-t03955",
+      "id": "15742",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "eight forms and three circles",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03956_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/vezelay-eight-forms-and-three-circles-t03956",
+      "id": "15743",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "five forms",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07582_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/vezelay-five-forms-t07582",
+      "id": "26922",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lines in space no. 3",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07620_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/vezelay-lines-in-space-no-3-t07620",
+      "id": "27091",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "15730",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15731",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15732",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15733",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15734",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15735",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15736",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15737",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15738",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15739",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15740",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15741",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15742",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15743",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26922",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27091",
+      "value": 1
+    }
+  ]
+}

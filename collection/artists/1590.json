@@ -1,0 +1,169 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Masson, Andr\u00e9",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/andre-masson-1590",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "ibdes in aragon",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05646_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/masson-ibdes-in-aragon-n05646",
+      "id": "9370",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "childbirth",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77114_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/masson-childbirth-p77114",
+      "id": "9371",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "les hain-teny",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77115_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/masson-les-hain-teny-p77115",
+      "id": "9372",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the red lands and the montagne sainte victoire",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00073_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/masson-the-red-lands-and-the-montagne-sainte-victoire-t00073",
+      "id": "9373",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "riez",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06817_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/masson-riez-t06817",
+      "id": "20878",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kitchen-maids",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06818_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/masson-kitchen-maids-t06818",
+      "id": "20879",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pedestal table in the studio",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06819_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/masson-pedestal-table-in-the-studio-t06819",
+      "id": "20880",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "guitar and profile",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06820_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/masson-guitar-and-profile-t06820",
+      "id": "20881",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sirens",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06821_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/masson-sirens-t06821",
+      "id": "20882",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "star, winged being, fish",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06822_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/masson-star-winged-being-fish-t06822",
+      "id": "20883",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "montserrat",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11857_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/masson-montserrat-t11857",
+      "id": "76280",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9370",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9371",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9372",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9373",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20878",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20879",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20880",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20881",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20882",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20883",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "76280",
+      "value": 1
+    }
+  ]
+}

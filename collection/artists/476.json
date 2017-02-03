@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Sartorius, Francis",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/francis-sartorius-476",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a black horse with two dogs",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00888_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sartorius-a-black-horse-with-two-dogs-t00888",
+      "id": "13148",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13148",
+      "value": 1
+    }
+  ]
+}

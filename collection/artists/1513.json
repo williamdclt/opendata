@@ -1,0 +1,183 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Lin, Richard",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/richard-lin-1513",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "flirtation",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lin-flirtation-p04572",
+      "id": "8839",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "relationships i",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lin-relationships-i-p04573",
+      "id": "8840",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "relationships ii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lin-relationships-ii-p04574",
+      "id": "8841",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spring",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lin-spring-p04575",
+      "id": "8842",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "summer",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lin-summer-p04576",
+      "id": "8843",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "autumn",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lin-autumn-p04577",
+      "id": "8844",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "winter",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lin-winter-p04578",
+      "id": "8845",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "may 1",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lin-may-1-p04579",
+      "id": "8846",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "may 2",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lin-may-2-p04580",
+      "id": "8847",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "may 3",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lin-may-3-p04581",
+      "id": "8848",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "may 4",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lin-may-4-p04582",
+      "id": "8849",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "painting relief 13 sept 1963",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lin-painting-relief-13-sept-1963-t00636",
+      "id": "8850",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8839",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8840",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8841",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8842",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8843",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8844",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8845",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8846",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8847",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8848",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8849",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8850",
+      "value": 1
+    }
+  ]
+}

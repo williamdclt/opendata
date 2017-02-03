@@ -1,0 +1,379 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Dance, George",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/george-dance-2423",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "1. caricature. a woman seated on a two-legged ass-headed monster straddling a man in military uniform",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08149_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-1-caricature-a-woman-seated-on-a-two-legged-ass-headed-monster-straddling-a-man-in-t08149",
+      "id": "22685",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "4. northcote writing his life",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08152_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-4-northcote-writing-his-life-t08152",
+      "id": "22688",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "5. portrait of william tyler, ra. full length",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08153_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-5-portrait-of-william-tyler-ra-full-length-t08153",
+      "id": "22689",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "6. head of john yenn, caricature",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08154_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-6-head-of-john-yenn-caricature-t08154",
+      "id": "22690",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "7. portrait of john yenn, full length",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08155_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-7-portrait-of-john-yenn-full-length-t08155",
+      "id": "22691",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "8. john yenn. full length portrait",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08156_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-8-john-yenn-full-length-portrait-t08156",
+      "id": "22692",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "9. john richards ra. secretary to the royal academy",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08157_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-9-john-richards-ra-secretary-to-the-royal-academy-t08157",
+      "id": "22693",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "10. john yenn ra. treasurer of the royal academy",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08158_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-10-john-yenn-ra-treasurer-of-the-royal-academy-t08158",
+      "id": "22694",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "11. settling the catalogue",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08159_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-11-settling-the-catalogue-t08159",
+      "id": "22695",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "12. john richards ra. secretary of the royal academy",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08160_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-12-john-richards-ra-secretary-of-the-royal-academy-t08160",
+      "id": "22696",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "13. john richards ra. secretary of the royal academy",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08161_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-13-john-richards-ra-secretary-of-the-royal-academy-t08161",
+      "id": "22697",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "14. john richards ra. secretary of the royal academy",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08162_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-14-john-richards-ra-secretary-of-the-royal-academy-t08162",
+      "id": "22698",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "15. john richards ra. secretary of the royal academy",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08163_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-15-john-richards-ra-secretary-of-the-royal-academy-t08163",
+      "id": "22699",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a woman nursing a child",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08285_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-a-woman-nursing-a-child-t08285",
+      "id": "22710",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a man seen from the rear",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08354_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-a-man-seen-from-the-rear-t08354",
+      "id": "22679",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "caricature of a man and a woman",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08369_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-caricature-of-a-man-and-a-woman-t08369",
+      "id": "22680",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch of two women",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08370_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-sketch-of-two-women-t08370",
+      "id": "22681",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tommy corno common council man of candlewick ward",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08371_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-tommy-corno-common-council-man-of-candlewick-ward-t08371",
+      "id": "22682",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sir francis surienne governor of mons",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08372_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-sir-francis-surienne-governor-of-mons-t08372",
+      "id": "22683",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a portrait of a woman holding a baby",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08387_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-a-portrait-of-a-woman-holding-a-baby-t08387",
+      "id": "22684",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a man writing by the light of a candle",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08388_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-a-man-writing-by-the-light-of-a-candle-t08388",
+      "id": "22677",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lady ulverstone and two toad eaters",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08871_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-lady-ulverstone-and-two-toad-eaters-t08871",
+      "id": "22678",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a sentimental controversial proposal",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10556_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-a-sentimental-controversial-proposal-t10556",
+      "id": "22700",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "giff gaff. a man asleep on a bed",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10557_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-giff-gaff-a-man-asleep-on-a-bed-t10557",
+      "id": "22701",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sir nathaniel dance, knt. commander of the earl camden, in the service of the honble east india company, and commodore of the china fleet, in the year 1804",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11632_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-sir-nathaniel-dance-knt-commander-of-the-earl-camden-in-the-service-of-the-honble-t11632",
+      "id": "25880",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sawrey gilpin, r.a.",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11685_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-sawrey-gilpin-ra-t11685",
+      "id": "25918",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "22685",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22688",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22689",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22690",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22691",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22692",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22693",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22694",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22695",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22696",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22697",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22698",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22699",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22710",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22679",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22680",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22681",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22682",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22683",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22684",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22677",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22678",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22700",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22701",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25880",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25918",
+      "value": 1
+    }
+  ]
+}

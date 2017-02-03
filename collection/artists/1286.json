@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hiller, Susan",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/susan-hiller-1286",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the fight",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79363_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hiller-the-fight-p79363",
+      "id": "100709",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "belshazzar\u2019s feast, the writing on your wall",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03923_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hiller-belshazzars-feast-the-writing-on-your-wall-t03923",
+      "id": "6429",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "monument",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06902_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hiller-monument-t06902",
+      "id": "21187",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "an entertainment",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06987_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hiller-an-entertainment-t06987",
+      "id": "21322",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "from the freud museum",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07438_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hiller-from-the-freud-museum-t07438",
+      "id": "26306",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "psi girls",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12447_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hiller-psi-girls-t12447",
+      "id": "82481",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dedicated to the unknown artists",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13531_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hiller-dedicated-to-the-unknown-artists-t13531",
+      "id": "117933",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "100709",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6429",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21187",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21322",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26306",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "82481",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117933",
+      "value": 1
+    }
+  ]
+}

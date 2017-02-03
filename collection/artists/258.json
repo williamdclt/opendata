@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hill, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-hill-258",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "interior of the carpenter\u2019s shop at forty hill, enfield",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03668_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hill-interior-of-the-carpenters-shop-at-forty-hill-enfield-t03668",
+      "id": "6428",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6428",
+      "value": 1
+    }
+  ]
+}

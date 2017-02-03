@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Baltz, Lewis",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/lewis-baltz-5373",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "dana point #1",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13261_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baltz-dana-point-1-p13261",
+      "id": "124986",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dana point  #2",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13262_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baltz-dana-point-2-p13262",
+      "id": "124987",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "san quentin point",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79978_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baltz-san-quentin-point-p79978",
+      "id": "113936",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "houston a, houston b",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baltz-houston-a-houston-b-p80062",
+      "id": "120375",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "124986",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "124987",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "113936",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "120375",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Bartana, Yael",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/yael-bartana-6882",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "kings of the hill",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bartana-kings-of-the-hill-t11804",
+      "id": "81205",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "81205",
+      "value": 1
+    }
+  ]
+}

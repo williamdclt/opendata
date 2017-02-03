@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Owen, Rev. Edward Pryce",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/rev-edward-pryce-owen-410",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the old welsh bridge, shrewsbury (after paul sandby)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02408_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/owen-the-old-welsh-bridge-shrewsbury-after-paul-sandby-n02408",
+      "id": "11028",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "11028",
+      "value": 1
+    }
+  ]
+}

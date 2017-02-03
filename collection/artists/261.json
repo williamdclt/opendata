@@ -1,0 +1,141 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hilton, William, the Younger",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/william-hilton-the-younger-261",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "sir calepine rescuing serena",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00178_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hilton-sir-calepine-rescuing-serena-n00178",
+      "id": "6466",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "editha and the monks searching for the body of harold",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00333_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hilton-editha-and-the-monks-searching-for-the-body-of-harold-n00333",
+      "id": "6467",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of editha\u2019s head for \u2018editha and the monks\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00334_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hilton-study-of-edithas-head-for-editha-and-the-monks-n00334",
+      "id": "6468",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a monk\u2019s head for \u2018editha and the monks\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00335_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hilton-study-of-a-monks-head-for-editha-and-the-monks-n00335",
+      "id": "6469",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cupid and nymph",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00337_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hilton-cupid-and-nymph-n00337",
+      "id": "6470",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rebecca and abraham\u2019s servant at the well",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00338_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hilton-rebecca-and-abrahams-servant-at-the-well-n00338",
+      "id": "6471",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nature blowing bubbles for her children",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01499_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hilton-nature-blowing-bubbles-for-her-children-n01499",
+      "id": "6472",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "diana at the bath",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01791_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hilton-diana-at-the-bath-n01791",
+      "id": "6473",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018sir calepine rescuing serena\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04844_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hilton-study-for-sir-calepine-rescuing-serena-t04844",
+      "id": "6474",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6466",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6467",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6468",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6469",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6470",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6471",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6472",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6473",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6474",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hayter, Stanley William",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/stanley-william-hayter-1257",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "fish in the escoutay",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06069_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hayter-fish-in-the-escoutay-n06069",
+      "id": "5902",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "myth of creation",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07027_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hayter-myth-of-creation-p07027",
+      "id": "5903",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "le chas de l\u2019aiguille",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07028_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hayter-le-chas-de-laiguille-p07028",
+      "id": "5904",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ripple",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07470_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hayter-ripple-p07470",
+      "id": "5905",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pillars",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07471_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hayter-pillars-p07471",
+      "id": "5906",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chute",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07472_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hayter-chute-p07472",
+      "id": "5907",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cirque chinois",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07473_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hayter-cirque-chinois-p07473",
+      "id": "5908",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "styx",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07474_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hayter-styx-p07474",
+      "id": "5909",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "loop",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07475_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hayter-loop-p07475",
+      "id": "5910",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hang glider",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07476_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hayter-hang-glider-p07476",
+      "id": "5911",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ceiling",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07477_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hayter-ceiling-p07477",
+      "id": "5912",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hex",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07478_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hayter-hex-p07478",
+      "id": "5913",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cover illustration to \u2018tides\u2019 by john montagu",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08178_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hayter-cover-illustration-to-tides-by-john-montagu-p08178",
+      "id": "5914",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "deliquescence",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00637_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hayter-deliquescence-t00637",
+      "id": "5915",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01752_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hayter-untitled-t01752",
+      "id": "5916",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "teatro olimpico",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03407_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hayter-teatro-olimpico-t03407",
+      "id": "5917",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ophelia",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03408_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hayter-ophelia-t03408",
+      "id": "5918",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5902",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5903",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5904",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5905",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5906",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5907",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5908",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5909",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5910",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5911",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5912",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5913",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5914",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5915",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5916",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5917",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5918",
+      "value": 1
+    }
+  ]
+}

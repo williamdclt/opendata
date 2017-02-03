@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Bronstein, Pablo",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/pablo-bronstein-11761",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "erecting of the paternoster square column",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12782_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bronstein-erecting-of-the-paternoster-square-column-t12782",
+      "id": "99987",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "new embankment plan with dome",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bronstein-new-embankment-plan-with-dome-t13261",
+      "id": "112284",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "99987",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112284",
+      "value": 1
+    }
+  ]
+}

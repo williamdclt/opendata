@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gormley, Antony",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/antony-gormley-1192",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "natural selection",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03681_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gormley-natural-selection-t03681",
+      "id": "5535",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seed",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gormley-seed-t04860",
+      "id": "5536",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "space",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gormley-space-t04875",
+      "id": "5537",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (for francis)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05004_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gormley-untitled-for-francis-t05004",
+      "id": "5538",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bed",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06984_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gormley-bed-t06984",
+      "id": "21315",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a case for an angel iii",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07005_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gormley-a-case-for-an-angel-iii-t07005",
+      "id": "21418",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "three ways: mould, hole and passage",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07015_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gormley-three-ways-mould-hole-and-passage-t07015",
+      "id": "21456",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "testing a world view",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12034_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gormley-testing-a-world-view-t12034",
+      "id": "85030",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5535",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5536",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5537",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5538",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21315",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21418",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21456",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85030",
+      "value": 1
+    }
+  ]
+}

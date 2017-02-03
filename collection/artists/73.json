@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Butler, Samuel",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/samuel-butler-73",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "mr heatherley\u2019s holiday: an incident in studio life",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02761_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/butler-mr-heatherleys-holiday-an-incident-in-studio-life-n02761",
+      "id": "1886",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1886",
+      "value": 1
+    }
+  ]
+}

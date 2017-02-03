@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Mu\u00f1oz, \u00d3scar",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/oscar-munoz-9099",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "narcissus",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/munoz-narcissus-t12220",
+      "id": "88480",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "88480",
+      "value": 1
+    }
+  ]
+}

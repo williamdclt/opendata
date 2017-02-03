@@ -1,0 +1,449 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Bunbury, Henry William",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/henry-william-bunbury-2416",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "\u2018coffee is quite ready gentlemen\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08115_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bunbury-coffee-is-quite-ready-gentlemen-t08115",
+      "id": "22356",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the bird-cage. verso: woman in profile facing right and study of a man",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08595_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bunbury-the-bird-cage-verso-woman-in-profile-facing-right-and-study-of-a-man-t08595",
+      "id": "22339",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the dance",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08596_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bunbury-the-dance-t08596",
+      "id": "22367",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the longways dance",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09495_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bunbury-the-longways-dance-t09495",
+      "id": "22340",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the anglers. caricature",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09496_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bunbury-the-anglers-caricature-t09496",
+      "id": "22357",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the anglers. three men. verso: sketch",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09497_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bunbury-the-anglers-three-men-verso-sketch-t09497",
+      "id": "22366",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "four figures. caricature. verso: drawings",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09498_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bunbury-four-figures-caricature-verso-drawings-t09498",
+      "id": "22363",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mr meredithe",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09499_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bunbury-mr-meredithe-t09499",
+      "id": "22349",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two figures, one fully worked up, a man with a sword. caricature",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09500_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bunbury-two-figures-one-fully-worked-up-a-man-with-a-sword-caricature-t09500",
+      "id": "22342",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "scene in a coffee house. caricature. verso: drawings",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09501_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bunbury-scene-in-a-coffee-house-caricature-verso-drawings-t09501",
+      "id": "22362",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two men drinking at a table",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09502_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bunbury-two-men-drinking-at-a-table-t09502",
+      "id": "22343",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "three anglers",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09503_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bunbury-three-anglers-t09503",
+      "id": "22354",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the minuet. verso: two heads, and three other heads, vertically",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09504_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bunbury-the-minuet-verso-two-heads-and-three-other-heads-vertically-t09504",
+      "id": "22341",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the scandalmongers, i",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09505_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bunbury-the-scandalmongers-i-t09505",
+      "id": "22358",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "three figures from a harlequinade. verso: two figures and a head, and a man with pitchfork attacking a recumbent harlequin",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09506_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bunbury-three-figures-from-a-harlequinade-verso-two-figures-and-a-head-and-a-man-with-t09506",
+      "id": "22345",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sheet of caricature heads (eleven). verso: (a) two men conversing; (b) a man and woman embracing",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09578_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bunbury-sheet-of-caricature-heads-eleven-verso-a-two-men-conversing-b-a-man-and-woman-t09578",
+      "id": "22360",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a man and a woman in a gig arriving at an inn",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09579_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bunbury-a-man-and-a-woman-in-a-gig-arriving-at-an-inn-t09579",
+      "id": "22369",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "four men",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09580_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bunbury-four-men-t09580",
+      "id": "22365",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "three figures",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09581_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bunbury-three-figures-t09581",
+      "id": "22364",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a young man standing by a table",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bunbury-a-young-man-standing-by-a-table-t09582",
+      "id": "22368",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the scandalmongers, ii",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09583_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bunbury-the-scandalmongers-ii-t09583",
+      "id": "22359",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "old soldier with petition",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09584_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bunbury-old-soldier-with-petition-t09584",
+      "id": "22346",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "roche brasiliano",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09585_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bunbury-roche-brasiliano-t09585",
+      "id": "22344",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sentries outside a box. verso: a caricature head to be looked at both ways",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09586_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bunbury-sentries-outside-a-box-verso-a-caricature-head-to-be-looked-at-both-ways-t09586",
+      "id": "22348",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "various sketches, possibly theatrical: a nymph and a figure with asses\u2019 ears blowing a trumpet, carrying a banner; a similar pair; two female figures under a tree, and a comic putto or faun; studies for these; a standing woman. double-sided",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09587_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bunbury-various-sketches-possibly-theatrical-a-nymph-and-a-figure-with-asses-ears-blowing-t09587",
+      "id": "22347",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "an ?actress, another figure behind",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09588_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bunbury-an-actress-another-figure-behind-t09588",
+      "id": "22361",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "caricature of a scotsman. verso: similar sketches",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09589_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bunbury-caricature-of-a-scotsman-verso-similar-sketches-t09589",
+      "id": "22350",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a man wearing one top-boot. verso: heads, etc., and a scrawl",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09590_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bunbury-a-man-wearing-one-top-boot-verso-heads-etc-and-a-scrawl-t09590",
+      "id": "22351",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "six heads, one that of a woman in a high headdress",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09591_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bunbury-six-heads-one-that-of-a-woman-in-a-high-headdress-t09591",
+      "id": "22352",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "petitioner and patron",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09592_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bunbury-petitioner-and-patron-t09592",
+      "id": "22353",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two figures, possibly theatrical",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09593_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bunbury-two-figures-possibly-theatrical-t09593",
+      "id": "22355",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "22356",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22339",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22367",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22340",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22357",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22366",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22363",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22349",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22342",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22362",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22343",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22354",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22341",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22358",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22345",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22360",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22369",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22365",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22364",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22368",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22359",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22346",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22344",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22348",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22347",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22361",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22350",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22351",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22352",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22353",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22355",
+      "value": 1
+    }
+  ]
+}

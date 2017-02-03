@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Schwabe, Randolph",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/randolph-schwabe-1911",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "high street, hampstead",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04481_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schwabe-high-street-hampstead-n04481",
+      "id": "13190",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the tate gallery",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schwabe-the-tate-gallery-n05207",
+      "id": "13191",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the radcliffe observatory, oxford",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05371_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schwabe-the-radcliffe-observatory-oxford-n05371",
+      "id": "13192",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13190",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13191",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13192",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Williams, Christopher",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/christopher-williams-10158",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "rollerstacker, r-136mr, manufacturer: the kaynar company, los angeles, ca, 90054, date of production: 1975. vancouver, bc, april 6, 2005. (nr. 1, 2, & 3)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/williams-rollerstacker-r-136mr-manufacturer-the-kaynar-company-los-angeles-ca-90054-date-p79235",
+      "id": "91908",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "clockwise from manufacturer name (outer ring) michelin zx treadwear 200 traction a temperature b clockwise from tire size (inner ring) 135  sr  15 723  e2  0177523 tubeless radial x made in france tn  2148  20-2044 tread: 1 polyester ply + 2 steel plies s",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/williams-clockwise-from-manufacturer-name-outer-ring-michelin-zx-treadwear-200-traction-a-p79951",
+      "id": "114464",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bouquet, for bas jan ader and christopher d\u2019arcangelo",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/williams-bouquet-for-bas-jan-ader-and-christopher-darcangelo-t12507",
+      "id": "96519",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "91908",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114464",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96519",
+      "value": 1
+    }
+  ]
+}

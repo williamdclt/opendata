@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Donagh, Rita",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/rita-donagh-1019",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "reflection on three weeks in may 1970",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01687_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/donagh-reflection-on-three-weeks-in-may-1970-t01687",
+      "id": "3976",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "long meadow",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05837_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/donagh-long-meadow-t05837",
+      "id": "19225",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "counterpane",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05838_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/donagh-counterpane-t05838",
+      "id": "19221",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bandsman",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11906_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/donagh-bandsman-t11906",
+      "id": "80108",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "numerical equivalents",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/donagh-numerical-equivalents-t12288",
+      "id": "90091",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "affirm/deny",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/donagh-affirmdeny-t12289",
+      "id": "90092",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "21.9.1971",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/donagh-2191971-t12290",
+      "id": "90093",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shadow of six counties (c)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12291_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/donagh-shadow-of-six-counties-c-t12291",
+      "id": "90094",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "3976",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19225",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19221",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80108",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90091",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90092",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90093",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90094",
+      "value": 1
+    }
+  ]
+}

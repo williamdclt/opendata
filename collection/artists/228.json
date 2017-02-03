@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Guthrie, Sir James",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-james-guthrie-228",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the wash",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03446_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guthrie-the-wash-t03446",
+      "id": "5742",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5742",
+      "value": 1
+    }
+  ]
+}

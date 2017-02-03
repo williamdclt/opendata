@@ -1,0 +1,169 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hermes, Gertrude",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/gertrude-hermes-1277",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the yolk",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03100_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hermes-the-yolk-p03100",
+      "id": "6122",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mistletoe",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77065_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hermes-mistletoe-p77065",
+      "id": "6123",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "waterlilies",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77066_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hermes-waterlilies-p77066",
+      "id": "6124",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fathomless sounding",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77067_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hermes-fathomless-sounding-p77067",
+      "id": "6125",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "swallows",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77068_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hermes-swallows-p77068",
+      "id": "6126",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two people",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77069_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hermes-two-people-p77069",
+      "id": "6127",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "one person",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77070_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hermes-one-person-p77070",
+      "id": "6128",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ring net fishers",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77071_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hermes-ring-net-fishers-p77071",
+      "id": "6129",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kathleen raine",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00233_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hermes-kathleen-raine-t00233",
+      "id": "6130",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "baby",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03221_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hermes-baby-t03221",
+      "id": "6131",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lady herbert",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05522_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hermes-lady-herbert-t05522",
+      "id": "2109",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6122",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6123",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6124",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6125",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6126",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6127",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6128",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6129",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6130",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6131",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2109",
+      "value": 1
+    }
+  ]
+}

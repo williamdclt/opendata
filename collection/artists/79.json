@@ -1,0 +1,407 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Callow, William",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/william-callow-79",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "frankfurt",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00131_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callow-frankfurt-a00131",
+      "id": "1915",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "frauenkirche, nuremberg",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00132_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callow-frauenkirche-nuremberg-a00132",
+      "id": "1916",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "giessen",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00133_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callow-giessen-a00133",
+      "id": "1917",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "prague",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00134_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callow-prague-a00134",
+      "id": "1918",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "frauenkirche, prague",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00135_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callow-frauenkirche-prague-a00135",
+      "id": "1919",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cochem",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00136_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callow-cochem-a00136",
+      "id": "1920",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "maximilianstrasse, augsburg",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00137_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callow-maximilianstrasse-augsburg-a00137",
+      "id": "1921",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "haupt markt and st sebald, nuremberg",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00138_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callow-haupt-markt-and-st-sebald-nuremberg-a00138",
+      "id": "1922",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "markt, coburg",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00139_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callow-markt-coburg-a00139",
+      "id": "1923",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "coburg",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00140_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callow-coburg-a00140",
+      "id": "1924",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "frankfurt",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00141_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callow-frankfurt-a00141",
+      "id": "1925",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rathaus, hanover",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00142_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callow-rathaus-hanover-a00142",
+      "id": "1926",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "unidentified market place, ? lubeck or leipzig",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00143_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callow-unidentified-market-place-lubeck-or-leipzig-a00143",
+      "id": "1927",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "royal palace, dresden",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00144_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callow-royal-palace-dresden-a00144",
+      "id": "1928",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rathaus, gotha",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00145_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callow-rathaus-gotha-a00145",
+      "id": "1929",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rathaus, eisenach",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00146_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callow-rathaus-eisenach-a00146",
+      "id": "1930",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "quai on the moselle",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00147_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callow-quai-on-the-moselle-a00147",
+      "id": "1931",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "place st pharailde, ghent",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00148_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callow-place-st-pharailde-ghent-a00148",
+      "id": "1932",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vegetable market, ghent",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00149_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callow-vegetable-market-ghent-a00149",
+      "id": "1933",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rotterdam",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00150_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callow-rotterdam-a00150",
+      "id": "1934",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "namur",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00151_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callow-namur-a00151",
+      "id": "1935",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st paul, antwerp",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00152_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callow-st-paul-antwerp-a00152",
+      "id": "1936",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "old palais de justice, malines",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00153_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callow-old-palais-de-justice-malines-a00153",
+      "id": "1937",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st michael and belfry, ghent",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00154_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callow-st-michael-and-belfry-ghent-a00154",
+      "id": "1938",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "botzen",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00155_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callow-botzen-a00155",
+      "id": "1939",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "innsbruck",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00156_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callow-innsbruck-a00156",
+      "id": "1940",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "richmond castle, yorkshire",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02435_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callow-richmond-castle-yorkshire-n02435",
+      "id": "1941",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the grand canal venice",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02436_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callow-the-grand-canal-venice-n02436",
+      "id": "1942",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1915",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1916",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1917",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1918",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1919",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1920",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1921",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1922",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1923",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1924",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1925",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1926",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1927",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1928",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1929",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1930",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1931",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1932",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1933",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1934",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1935",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1936",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1937",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1938",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1939",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1940",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1941",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1942",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Davis, Gene",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/gene-davis-981",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "quiet firecracker",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01116_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-quiet-firecracker-t01116",
+      "id": "3656",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "3656",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Collinson, James",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/james-collinson-2214",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the child jesus",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02421_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collinson-the-child-jesus-n02421",
+      "id": "2525",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the empty purse (replica of \u2018for sale\u2019)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03201_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collinson-the-empty-purse-replica-of-for-sale-n03201",
+      "id": "2526",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "home again",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04105_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collinson-home-again-t04105",
+      "id": "2527",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2525",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2526",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2527",
+      "value": 1
+    }
+  ]
+}

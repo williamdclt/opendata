@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "D'Arcangelo, Allan",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/allan-darcangelo-2241",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "constellation i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04157_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/darcangelo-constellation-i-p04157",
+      "id": "3624",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "constellation ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04158_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/darcangelo-constellation-ii-p04158",
+      "id": "3625",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "constellation iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04159_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/darcangelo-constellation-iii-p04159",
+      "id": "3626",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "constellation iv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04160_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/darcangelo-constellation-iv-p04160",
+      "id": "3627",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "3624",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3625",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3626",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3627",
+      "value": 1
+    }
+  ]
+}

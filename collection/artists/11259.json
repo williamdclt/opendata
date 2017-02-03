@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Brassai",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/brassai-11259",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "young lesbian at monocle",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brassai-young-lesbian-at-monocle-p13108",
+      "id": "101280",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rooftops, paris",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brassai-rooftops-paris-p13109",
+      "id": "107036",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the urchin bijou, bar de la lune",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brassai-the-urchin-bijou-bar-de-la-lune-p13110",
+      "id": "101281",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "101280",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107036",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101281",
+      "value": 1
+    }
+  ]
+}

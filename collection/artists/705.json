@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Baumeister, Willi",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/willi-baumeister-705",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled (suspended lines i)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08214_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baumeister-untitled-suspended-lines-i-p08214",
+      "id": "768",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "768",
+      "value": 1
+    }
+  ]
+}

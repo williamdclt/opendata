@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Bateman, James",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/james-bateman-25",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "highland scene",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03210_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bateman-highland-scene-t03210",
+      "id": "757",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "757",
+      "value": 1
+    }
+  ]
+}

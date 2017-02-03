@@ -1,0 +1,253 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Pippin, Steven",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/steven-pippin-2408",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "highway 489",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pippin-highway-489-p13072",
+      "id": "66607",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait with photo booth",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77900_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pippin-self-portrait-with-photo-booth-p77900",
+      "id": "21818",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "laundromat-locomotion (walking in suit)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78475_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pippin-laundromat-locomotion-walking-in-suit-p78475",
+      "id": "142",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "laundromat-locomotion (walking in suit)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78476_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pippin-laundromat-locomotion-walking-in-suit-p78476",
+      "id": "66548",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "laundromat-locomotion (walking in suit)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78477_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pippin-laundromat-locomotion-walking-in-suit-p78477",
+      "id": "66550",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "laundromat-locomotion (walking in suit)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78478_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pippin-laundromat-locomotion-walking-in-suit-p78478",
+      "id": "66551",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "laundromat-locomotion (walking in suit)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78479_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pippin-laundromat-locomotion-walking-in-suit-p78479",
+      "id": "66552",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "laundromat-locomotion (walking in suit)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78480_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pippin-laundromat-locomotion-walking-in-suit-p78480",
+      "id": "66553",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "laundromat-locomotion (walking in suit)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78481_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pippin-laundromat-locomotion-walking-in-suit-p78481",
+      "id": "66554",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "laundromat-locomotion (walking in suit)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78482_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pippin-laundromat-locomotion-walking-in-suit-p78482",
+      "id": "66555",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "laundromat-locomotion (walking in suit)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78483_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pippin-laundromat-locomotion-walking-in-suit-p78483",
+      "id": "66556",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "laundromat-locomotion (walking in suit)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78484_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pippin-laundromat-locomotion-walking-in-suit-p78484",
+      "id": "66557",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "laundromat-locomotion (walking in suit)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78485_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pippin-laundromat-locomotion-walking-in-suit-p78485",
+      "id": "66558",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "laundromat-locomotion (walking in suit)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78486_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pippin-laundromat-locomotion-walking-in-suit-p78486",
+      "id": "66559",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the continued saga of an amateur photographer",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pippin-the-continued-saga-of-an-amateur-photographer-t07214",
+      "id": "21817",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bath tub converted into a pin-hole camera",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07215_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pippin-bath-tub-converted-into-a-pin-hole-camera-t07215",
+      "id": "21843",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait made using a house converted into a pinhole camera",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07711_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pippin-self-portrait-made-using-a-house-converted-into-a-pinhole-camera-t07711",
+      "id": "165",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "66607",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21818",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "142",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66548",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66550",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66551",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66552",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66553",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66554",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66555",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66556",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66557",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66558",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66559",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21817",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21843",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "165",
+      "value": 1
+    }
+  ]
+}

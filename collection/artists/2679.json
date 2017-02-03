@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Du Bois, Simon",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/simon-du-bois-2679",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "portrait of a gentleman, probably arthur parsons md",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07469_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/du-bois-portrait-of-a-gentleman-probably-arthur-parsons-md-t07469",
+      "id": "26460",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "26460",
+      "value": 1
+    }
+  ]
+}

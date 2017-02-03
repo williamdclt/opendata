@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Heyboer, Anton",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/anton-heyboer-1281",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "maria",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heyboer-maria-p07531",
+      "id": "6203",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "girl of pleasure",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heyboer-girl-of-pleasure-p07532",
+      "id": "6204",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "four women",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heyboer-four-women-p07533",
+      "id": "6205",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6203",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6204",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6205",
+      "value": 1
+    }
+  ]
+}

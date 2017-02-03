@@ -1,0 +1,239 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Schwitters, Kurt",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/kurt-schwitters-1912",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "opened by customs",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00214_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schwitters-opened-by-customs-t00214",
+      "id": "13193",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "(relief in relief)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01259_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schwitters-relief-in-relief-t01259",
+      "id": "13194",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the autumn crocus",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03766_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schwitters-the-autumn-crocus-t03766",
+      "id": "13195",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "picture of spatial growths - picture with two small dogs",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03863_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schwitters-picture-of-spatial-growths-picture-with-two-small-dogs-t03863",
+      "id": "13196",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "red wire sculpture",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05767_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schwitters-red-wire-sculpture-t05767",
+      "id": "19123",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lofty",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05768_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schwitters-lofty-t05768",
+      "id": "19124",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (ochre)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05769_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schwitters-untitled-ochre-t05769",
+      "id": "19125",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "z 105 portals of houses",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12390_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schwitters-z-105-portals-of-houses-t12390",
+      "id": "26735",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "table salt",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12391_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schwitters-table-salt-t12391",
+      "id": "26736",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "measure",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12392_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schwitters-measure-t12392",
+      "id": "26737",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "aphorism",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12393_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schwitters-aphorism-t12393",
+      "id": "26738",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (black and blue)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12394_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schwitters-untitled-black-and-blue-t12394",
+      "id": "26739",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "koi",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12395_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schwitters-koi-t12395",
+      "id": "26740",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "magic",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12396_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schwitters-magic-t12396",
+      "id": "26741",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (with vase shape and circle)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12397_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schwitters-untitled-with-vase-shape-and-circle-t12397",
+      "id": "26742",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the proposal",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12398_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schwitters-the-proposal-t12398",
+      "id": "26743",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13193",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13194",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13195",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13196",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19123",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19124",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19125",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26735",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26736",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26737",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26738",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26739",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26740",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26741",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26742",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26743",
+      "value": 1
+    }
+  ]
+}

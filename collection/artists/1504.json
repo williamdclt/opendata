@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "LeWitt, Sol",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sol-lewitt-1504",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "wall drawing #1136",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00165_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewitt-wall-drawing-1136-ar00165",
+      "id": "98247",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01054_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewitt-no-title-p01054",
+      "id": "8712",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01055_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewitt-no-title-p01055",
+      "id": "8713",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01056_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewitt-no-title-p01056",
+      "id": "8714",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01057_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewitt-no-title-p01057",
+      "id": "8715",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01058_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewitt-no-title-p01058",
+      "id": "8716",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01059_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewitt-no-title-p01059",
+      "id": "8717",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01060_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewitt-no-title-p01060",
+      "id": "8718",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01061_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewitt-no-title-p01061",
+      "id": "8719",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01062_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewitt-no-title-p01062",
+      "id": "8720",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01063_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewitt-no-title-p01063",
+      "id": "8721",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01064_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewitt-no-title-p01064",
+      "id": "8722",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01065_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewitt-no-title-p01065",
+      "id": "8723",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01066_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewitt-no-title-p01066",
+      "id": "8724",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01067_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewitt-no-title-p01067",
+      "id": "8725",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01068_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewitt-no-title-p01068",
+      "id": "8726",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01069_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewitt-no-title-p01069",
+      "id": "8727",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01794_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewitt-untitled-p01794",
+      "id": "8728",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "arcs from four corners",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03305_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewitt-arcs-from-four-corners-p03305",
+      "id": "20202",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07061_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewitt-no-title-p07061",
+      "id": "16952",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07062_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewitt-no-title-p07062",
+      "id": "16953",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07063_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewitt-no-title-p07063",
+      "id": "16954",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07064_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewitt-no-title-p07064",
+      "id": "16955",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07065_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewitt-no-title-p07065",
+      "id": "16956",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07066_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewitt-no-title-p07066",
+      "id": "8729",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07067_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewitt-no-title-p07067",
+      "id": "8730",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07068_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewitt-no-title-p07068",
+      "id": "8731",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07069_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewitt-no-title-p07069",
+      "id": "8732",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07070_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewitt-no-title-p07070",
+      "id": "8733",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07071_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewitt-no-title-p07071",
+      "id": "8734",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07072_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewitt-no-title-p07072",
+      "id": "8735",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07073_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewitt-no-title-p07073",
+      "id": "8736",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07074_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewitt-no-title-p07074",
+      "id": "8737",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07075_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewitt-no-title-p07075",
+      "id": "8738",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07076_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewitt-no-title-p07076",
+      "id": "8739",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07077_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewitt-no-title-p07077",
+      "id": "8740",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07078_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewitt-no-title-p07078",
+      "id": "8741",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07079_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewitt-no-title-p07079",
+      "id": "8742",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07080_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewitt-no-title-p07080",
+      "id": "8743",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07081_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewitt-no-title-p07081",
+      "id": "8744",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "98247",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8712",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8713",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8714",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8715",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8716",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8717",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8718",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8719",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8720",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8721",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8722",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8723",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8724",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8725",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8726",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8727",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8728",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20202",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16952",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16953",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16954",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16955",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16956",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8729",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8730",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8731",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8732",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8733",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8734",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8735",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8736",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8737",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8738",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8739",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8740",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8741",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8742",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8743",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8744",
+      "value": 1
+    }
+  ]
+}

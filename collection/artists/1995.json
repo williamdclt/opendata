@@ -1,0 +1,239 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Stephenson, Ian",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/ian-stephenson-1995",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "53/540",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11010_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stephenson-53540-p11010",
+      "id": "13823",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "143/540",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11011_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stephenson-143540-p11011",
+      "id": "13824",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "233/540",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11012_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stephenson-233540-p11012",
+      "id": "13825",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "323/540",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11013_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stephenson-323540-p11013",
+      "id": "13826",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "413/540",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11014_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stephenson-413540-p11014",
+      "id": "13827",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "503/540",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11015_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stephenson-503540-p11015",
+      "id": "13828",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "polychromatic g",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00523_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stephenson-polychromatic-g-t00523",
+      "id": "13829",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "parachrome",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00706_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stephenson-parachrome-t00706",
+      "id": "13830",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "quadrama iv",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01688_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stephenson-quadrama-iv-t01688",
+      "id": "13831",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "parental palette",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01689_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stephenson-parental-palette-t01689",
+      "id": "13832",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sideboard abstraction",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01690_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stephenson-sideboard-abstraction-t01690",
+      "id": "13833",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chelsea reach: understudy",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01941_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stephenson-chelsea-reach-understudy-t01941",
+      "id": "13834",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chelsea reach: understudy",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01942_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stephenson-chelsea-reach-understudy-t01942",
+      "id": "13835",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "flaxman: understudy",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01943_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stephenson-flaxman-understudy-t01943",
+      "id": "13836",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "flaxman: understudy",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01944_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stephenson-flaxman-understudy-t01944",
+      "id": "13837",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chelsea reach",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stephenson-chelsea-reach-t12257",
+      "id": "88768",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13823",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13824",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13825",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13826",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13827",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13828",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13829",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13830",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13831",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13832",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13833",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13834",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13835",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13836",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13837",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88768",
+      "value": 1
+    }
+  ]
+}

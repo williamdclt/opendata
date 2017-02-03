@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Tilson, Jake",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/jake-tilson-9777",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "market forces",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tilson-market-forces-t13230",
+      "id": "109298",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "109298",
+      "value": 1
+    }
+  ]
+}

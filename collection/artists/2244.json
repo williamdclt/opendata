@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Rumney, Ralph",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/ralph-rumney-2244",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the change",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05556_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rumney-the-change-t05556",
+      "id": "17344",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "17344",
+      "value": 1
+    }
+  ]
+}

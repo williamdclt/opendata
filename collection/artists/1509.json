@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Liebermann, Max",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/max-liebermann-1509",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "memorial service for emperor frederick at k\u00f6sen",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04591_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/liebermann-memorial-service-for-emperor-frederick-at-kosen-n04591",
+      "id": "8786",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04779_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/liebermann-self-portrait-n04779",
+      "id": "8787",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "professor richard cassirer",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00632_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/liebermann-professor-richard-cassirer-t00632",
+      "id": "8788",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "after bathing",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03077_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/liebermann-after-bathing-t03077",
+      "id": "8789",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8786",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8787",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8788",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8789",
+      "value": 1
+    }
+  ]
+}

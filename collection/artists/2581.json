@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Martin, J., of Canterbury",
+      "url": null,
+      "gender": "",
+      "tatelink": "http://www.tate.org.uk/art/artists/j-martin-of-canterbury-2581",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "n.e. of durrington [church] somerset",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08674_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-ne-of-durrington-church-somerset-t08674",
+      "id": "23236",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "oystermouth castle. verso: mumbles lighthouse",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08675_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-oystermouth-castle-verso-mumbles-lighthouse-t08675",
+      "id": "23237",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "caldecott castle monmouthshire. verso: chepstow castle",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08676_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-caldecott-castle-monmouthshire-verso-chepstow-castle-t08676",
+      "id": "23238",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the interior of carisbook castle i. of wight",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08677_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-the-interior-of-carisbook-castle-i-of-wight-t08677",
+      "id": "23239",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ragland castle. verso: inside view of ragland castle mon.",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08678_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-ragland-castle-verso-inside-view-of-ragland-castle-mon-t08678",
+      "id": "23240",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gateway to carisbrook castle i. of wight",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08679_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-gateway-to-carisbrook-castle-i-of-wight-t08679",
+      "id": "23241",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "harry marten\u2019s tower and entrance to chapstow castle. verso: entrance to tintern abbey",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08680_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-harry-martens-tower-and-entrance-to-chapstow-castle-verso-entrance-to-tintern-abbey-t08680",
+      "id": "23242",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "23236",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23237",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23238",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23239",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23240",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23241",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23242",
+      "value": 1
+    }
+  ]
+}

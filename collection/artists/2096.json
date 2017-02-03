@@ -1,0 +1,183 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Vaughan, Keith",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/keith-vaughan-2096",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "figure with a boat",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77176_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/vaughan-figure-with-a-boat-p77176",
+      "id": "15713",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure in a churchyard",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77196_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/vaughan-figure-in-a-churchyard-p77196",
+      "id": "15714",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "girl by a row of cottages",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77197_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/vaughan-girl-by-a-row-of-cottages-p77197",
+      "id": "15715",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "demolished houses in st john\u2019s wood, no. 2",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00001_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/vaughan-demolished-houses-in-st-johns-wood-no-2-t00001",
+      "id": "15716",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "leaping figure",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00090_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/vaughan-leaping-figure-t00090",
+      "id": "15717",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "small assembly of figures",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00091_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/vaughan-small-assembly-of-figures-t00091",
+      "id": "15718",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rotherhithe",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00501_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/vaughan-rotherhithe-t00501",
+      "id": "15719",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bather: august 4th 1961",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00502_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/vaughan-bather-august-4th-1961-t00502",
+      "id": "15720",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ninth assembly of figures (eldorado banal)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03700_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/vaughan-ninth-assembly-of-figures-eldorado-banal-t03700",
+      "id": "15721",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "communication of hate",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05703_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/vaughan-communication-of-hate-t05703",
+      "id": "18753",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (male figure)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05704_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/vaughan-untitled-male-figure-t05704",
+      "id": "18825",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cain and abel",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07696_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/vaughan-cain-and-abel-t07696",
+      "id": "27370",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "15713",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15714",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15715",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15716",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15717",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15718",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15719",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15720",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15721",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18753",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18825",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27370",
+      "value": 1
+    }
+  ]
+}

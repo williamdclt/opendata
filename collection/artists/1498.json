@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-lessore-1498",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "annonciade",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03223_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-annonciade-t03223",
+      "id": "8628",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sunday",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05766_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-sunday-t05766",
+      "id": "19121",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "diana and actaeon at the byam shaw",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06691_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-diana-and-actaeon-at-the-byam-shaw-t06691",
+      "id": "20612",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "paule and r\u00e9mi in the dining room",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06692_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-paule-and-remi-in-the-dining-room-t06692",
+      "id": "20613",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "apollo and daphne",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06693_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-apollo-and-daphne-t06693",
+      "id": "20614",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reliquary box",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06861_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-reliquary-box-t06861",
+      "id": "20985",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "allegorical box",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06862_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-allegorical-box-t06862",
+      "id": "20986",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8628",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19121",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20612",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20613",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20614",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20985",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20986",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,421 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Bourgeois, Louise",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/louise-bourgeois-2351",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled (safety pins) ",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77679_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bourgeois-untitled-safety-pins-p77679",
+      "id": "21168",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "toilette",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77682_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bourgeois-toilette-p77682",
+      "id": "21169",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sewing",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77683_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bourgeois-sewing-p77683",
+      "id": "21170",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "birth",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77684_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bourgeois-birth-p77684",
+      "id": "21171",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "paternity",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77685_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bourgeois-paternity-p77685",
+      "id": "21172",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "scissors",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77686_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bourgeois-scissors-p77686",
+      "id": "21173",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman and clock",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77687_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bourgeois-woman-and-clock-p77687",
+      "id": "21174",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sleeping man",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77688_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bourgeois-sleeping-man-p77688",
+      "id": "21175",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "man, keys, phone, clock",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77689_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bourgeois-man-keys-phone-clock-p77689",
+      "id": "21176",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sculptress",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77690_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bourgeois-sculptress-p77690",
+      "id": "21177",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman in bathtub",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77691_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bourgeois-woman-in-bathtub-p77691",
+      "id": "21178",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "empty nest",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77692_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bourgeois-empty-nest-p77692",
+      "id": "21179",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman with suitcase",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77693_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bourgeois-woman-with-suitcase-p77693",
+      "id": "21180",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "children in tub",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77694_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bourgeois-children-in-tub-p77694",
+      "id": "21181",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "boy and girl",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77695_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bourgeois-boy-and-girl-p77695",
+      "id": "21182",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tree",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78621_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bourgeois-tree-p78621",
+      "id": "71726",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tree with trunk",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78622_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bourgeois-tree-with-trunk-p78622",
+      "id": "71730",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tree with woman",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78623_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bourgeois-tree-with-woman-p78623",
+      "id": "71731",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tree with shoes",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78624_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bourgeois-tree-with-shoes-p78624",
+      "id": "71732",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "amputee",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78625_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bourgeois-amputee-p78625",
+      "id": "71733",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "amputee with peg leg",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78626_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bourgeois-amputee-with-peg-leg-p78626",
+      "id": "71734",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "amputee with crutch",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78627_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bourgeois-amputee-with-crutch-p78627",
+      "id": "71735",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blue dress",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78628_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bourgeois-blue-dress-p78628",
+      "id": "71736",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tree with red crutch",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78629_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bourgeois-tree-with-red-crutch-p78629",
+      "id": "71737",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cell (eyes and mirrors)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06899_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bourgeois-cell-eyes-and-mirrors-t06899",
+      "id": "21134",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "amoeba",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07780_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bourgeois-amoeba-t07780",
+      "id": "66811",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "avenza",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07781_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bourgeois-avenza-t07781",
+      "id": "66810",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mamelles",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11916_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bourgeois-mamelles-t11916",
+      "id": "83950",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "maman",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12625_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bourgeois-maman-t12625",
+      "id": "69085",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "21168",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21169",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21170",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21171",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21172",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21173",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21174",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21175",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21176",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21177",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21178",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21179",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21180",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21181",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21182",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71726",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71730",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71731",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71732",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71733",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71734",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71735",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71736",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71737",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21134",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66811",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66810",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83950",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "69085",
+      "value": 1
+    }
+  ]
+}

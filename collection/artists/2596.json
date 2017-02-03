@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Turk, Gavin",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/gavin-turk-2596",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11432_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turk-no-title-p11432",
+      "id": "21857",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gavin turk right hand and forearm",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77928_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turk-gavin-turk-right-hand-and-forearm-p77928",
+      "id": "21866",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "metamorphosis",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78520_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turk-metamorphosis-p78520",
+      "id": "66645",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "melancholia",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79395_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turk-melancholia-p79395",
+      "id": "101526",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cavey",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13208_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turk-cavey-t13208",
+      "id": "105337",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for window",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13209_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turk-study-for-window-t13209",
+      "id": "107582",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "font",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13210_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turk-font-t13210",
+      "id": "107583",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "21857",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21866",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66645",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101526",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "105337",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107582",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107583",
+      "value": 1
+    }
+  ]
+}

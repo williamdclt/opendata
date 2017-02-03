@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Rechmaoui, Marwan",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/marwan-rechmaoui-13672",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "beirut caoutchouc",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rechmaoui-beirut-caoutchouc-t13192",
+      "id": "108990",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "monument for the living",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rechmaoui-monument-for-the-living-t13193",
+      "id": "108989",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "108990",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "108989",
+      "value": 1
+    }
+  ]
+}

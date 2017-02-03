@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Karamustafa, Gulsun",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/gulsun-karamustafa-15930",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "memory of a square",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/karamustafa-memory-of-a-square-t13846",
+      "id": "120104",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "120104",
+      "value": 1
+    }
+  ]
+}

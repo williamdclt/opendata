@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Wilkie, Sir David",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-david-wilkie-600",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "after rembrandt",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01020_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilkie-after-rembrandt-a01020",
+      "id": "16166",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "archers",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01021_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilkie-archers-a01021",
+      "id": "16171",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head and shoulders of a woman and another head",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01022_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilkie-head-and-shoulders-of-a-woman-and-another-head-a01022",
+      "id": "16167",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head and shoulders of a woman",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01023_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilkie-head-and-shoulders-of-a-woman-a01023",
+      "id": "16168",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "julia emily gordon in a fez",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01024_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilkie-julia-emily-gordon-in-a-fez-a01024",
+      "id": "16169",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head and shoulders of a woman",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01025_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilkie-head-and-shoulders-of-a-woman-a01025",
+      "id": "16170",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman at a window, reading a letter",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01177_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilkie-woman-at-a-window-reading-a-letter-a01177",
+      "id": "20912",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman at a window, reading a letter",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01178_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilkie-woman-at-a-window-reading-a-letter-a01178",
+      "id": "20913",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the lost receipt",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01179_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilkie-the-lost-receipt-a01179",
+      "id": "20919",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the lost receipt",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01180_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilkie-the-lost-receipt-a01180",
+      "id": "20920",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the cottage door",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01181_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilkie-the-cottage-door-a01181",
+      "id": "20914",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the cottage door",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01182_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilkie-the-cottage-door-a01182",
+      "id": "20915",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reading the will",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01183_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilkie-reading-the-will-a01183",
+      "id": "20916",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reading the will",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01184_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilkie-reading-the-will-a01184",
+      "id": "20917",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reading the will",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01185_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilkie-reading-the-will-a01185",
+      "id": "20918",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the flemish mother",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01186_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilkie-the-flemish-mother-a01186",
+      "id": "20921",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the flemish mother",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01187_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilkie-the-flemish-mother-a01187",
+      "id": "20922",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the blind fiddler",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00099_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilkie-the-blind-fiddler-n00099",
+      "id": "16172",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the village holiday",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00122_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilkie-the-village-holiday-n00122",
+      "id": "16173",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "thomas daniell, r.a.",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00231_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilkie-thomas-daniell-ra-n00231",
+      "id": "16174",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the parish beadle",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00241_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilkie-the-parish-beadle-n00241",
+      "id": "16175",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the first ear-ring",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00328_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilkie-the-first-ear-ring-n00328",
+      "id": "16176",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the bag-piper",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00329_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilkie-the-bag-piper-n00329",
+      "id": "16177",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a woody landscape",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00330_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilkie-a-woody-landscape-n00330",
+      "id": "16178",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "newsmongers",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00331_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilkie-newsmongers-n00331",
+      "id": "16179",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the peep-o\u2019-day boys\u2019 cabin, in the west of ireland",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00332_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilkie-the-peep-o-day-boys-cabin-in-the-west-of-ireland-n00332",
+      "id": "16180",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the preaching of knox before the lords of the congregation, 10th june 1559",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00894_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilkie-the-preaching-of-knox-before-the-lords-of-the-congregation-10th-june-1559-n00894",
+      "id": "16181",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018blind man\u2019s buff\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00921_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilkie-study-for-blind-mans-buff-n00921",
+      "id": "16182",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018the village holiday\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilkie-study-for-the-village-holiday-n01187",
+      "id": "16183",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs elizabeth young in eastern costume",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01727_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilkie-mrs-elizabeth-young-in-eastern-costume-n01727",
+      "id": "16184",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "?sir willoughby gordon and his daughter julia, cooking on a griddle at puckaster, near niton, isle of wight",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01739_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilkie-sir-willoughby-gordon-and-his-daughter-julia-cooking-on-a-griddle-at-puckaster-near-n01739",
+      "id": "16185",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "miss julia emily gordon",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01740_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilkie-miss-julia-emily-gordon-n01740",
+      "id": "16186",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for a portrait of william iv and queen adelaide",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01942_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilkie-study-for-a-portrait-of-william-iv-and-queen-adelaide-n01942",
+      "id": "16187",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a picnic",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02131_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilkie-a-picnic-n02131",
+      "id": "16188",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "man resting his hands on a stick",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02271_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilkie-man-resting-his-hands-on-a-stick-n02271",
+      "id": "16189",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "interior with three boys and a dog",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02273_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilkie-interior-with-three-boys-and-a-dog-n02273",
+      "id": "16191",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the sedan chair",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02274_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilkie-the-sedan-chair-n02274",
+      "id": "16192",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a head for \u2018the rabbit on the wall\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03603_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilkie-study-of-a-head-for-the-rabbit-on-the-wall-n03603",
+      "id": "16197",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch of a cottage interior with figures",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03695_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilkie-sketch-of-a-cottage-interior-with-figures-n03695",
+      "id": "16198",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "his highness muhemed ali, pacha of egypt",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04276_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilkie-his-highness-muhemed-ali-pacha-of-egypt-n04276",
+      "id": "16199",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16166",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16171",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16167",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16168",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16169",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16170",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20912",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20913",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20919",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20920",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20914",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20915",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20916",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20917",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20918",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20921",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20922",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16172",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16173",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16174",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16175",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16176",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16177",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16178",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16179",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16180",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16181",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16182",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16183",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16184",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16185",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16186",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16187",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16188",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16189",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16191",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16192",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16197",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16198",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16199",
+      "value": 1
+    }
+  ]
+}

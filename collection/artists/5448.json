@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "McFadyen, Jock",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/jock-mcfadyen-5448",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "broadway and 7th avenue local",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11927_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mcfadyen-broadway-and-7th-avenue-local-t11927",
+      "id": "76320",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "purfleet: from dracula\u2019s garden",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12546_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mcfadyen-purfleet-from-draculas-garden-t12546",
+      "id": "87372",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "76320",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "87372",
+      "value": 1
+    }
+  ]
+}

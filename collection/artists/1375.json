@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Jorn, Asger",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/asger-jorn-1375",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled a",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77511_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jorn-untitled-a-p77511",
+      "id": "20254",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled c",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77512_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jorn-untitled-c-p77512",
+      "id": "20255",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the timid proud one",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00853_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jorn-the-timid-proud-one-t00853",
+      "id": "7757",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the black flight",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01253_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jorn-the-black-flight-t01253",
+      "id": "7758",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "letter to my son",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03864_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jorn-letter-to-my-son-t03864",
+      "id": "7759",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "20254",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20255",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7757",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7758",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7759",
+      "value": 1
+    }
+  ]
+}

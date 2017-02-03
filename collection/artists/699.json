@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Baselitz, Georg",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/georg-baselitz-699",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "folkdance melancholia",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00031_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baselitz-folkdance-melancholia-ar00031",
+      "id": "98301",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "where is the yellow milkjug, mrs bird?",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00032_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baselitz-where-is-the-yellow-milkjug-mrs-bird-ar00032",
+      "id": "98303",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rebel",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baselitz-rebel-p07737",
+      "id": "746",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07738_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baselitz-untitled-p07738",
+      "id": "747",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (with dog and axe)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07739_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baselitz-untitled-with-dog-and-axe-p07739",
+      "id": "748",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "eagle",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07779_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baselitz-eagle-p07779",
+      "id": "749",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07780_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baselitz-head-p07780",
+      "id": "750",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drummer",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baselitz-drummer-p07998",
+      "id": "751",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11287_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baselitz-no-title-p11287",
+      "id": "19243",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "female nude on a kitchen chair",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77011_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baselitz-female-nude-on-a-kitchen-chair-p77011",
+      "id": "752",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "large head",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77263_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baselitz-large-head-p77263",
+      "id": "17242",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "man on the beach",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77266_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baselitz-man-on-the-beach-p77266",
+      "id": "17280",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "from the front",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77268_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baselitz-from-the-front-p77268",
+      "id": "17307",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "green viii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77486_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baselitz-green-viii-p77486",
+      "id": "19455",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77936_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baselitz-no-title-p77936",
+      "id": "21931",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77937_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baselitz-no-title-p77937",
+      "id": "21979",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77938_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baselitz-no-title-p77938",
+      "id": "21978",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77939_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baselitz-no-title-p77939",
+      "id": "21977",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77940_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baselitz-no-title-p77940",
+      "id": "21976",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77941_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baselitz-no-title-p77941",
+      "id": "21975",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77942_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baselitz-no-title-p77942",
+      "id": "21974",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77943_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baselitz-no-title-p77943",
+      "id": "21973",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77944_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baselitz-no-title-p77944",
+      "id": "21972",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77945_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baselitz-no-title-p77945",
+      "id": "21971",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77946_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baselitz-no-title-p77946",
+      "id": "21970",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77947_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baselitz-no-title-p77947",
+      "id": "21969",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77948_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baselitz-no-title-p77948",
+      "id": "21968",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77949_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baselitz-no-title-p77949",
+      "id": "21967",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77950_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baselitz-no-title-p77950",
+      "id": "21966",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77951_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baselitz-no-title-p77951",
+      "id": "21965",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77952_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baselitz-no-title-p77952",
+      "id": "21964",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77953_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baselitz-no-title-p77953",
+      "id": "21963",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77954_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baselitz-no-title-p77954",
+      "id": "21962",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77955_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baselitz-no-title-p77955",
+      "id": "21961",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77956_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baselitz-no-title-p77956",
+      "id": "21960",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77957_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baselitz-no-title-p77957",
+      "id": "21959",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77958_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baselitz-no-title-p77958",
+      "id": "21958",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77959_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baselitz-no-title-p77959",
+      "id": "21957",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77960_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baselitz-no-title-p77960",
+      "id": "21956",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77961_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baselitz-no-title-p77961",
+      "id": "21955",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "98301",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98303",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "746",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "747",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "748",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "749",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "750",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "751",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19243",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "752",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17242",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17280",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17307",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19455",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21931",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21979",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21978",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21977",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21976",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21975",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21974",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21973",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21972",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21971",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21970",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21969",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21968",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21967",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21966",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21965",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21964",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21963",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21962",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21961",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21960",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21959",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21958",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21957",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21956",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21955",
+      "value": 1
+    }
+  ]
+}

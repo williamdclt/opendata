@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Kawara, On",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/on-kawara-12834",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "jan.1.1984",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kawara-jan11984-t13217",
+      "id": "110047",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "110047",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Winner, Gerd",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/gerd-winner-2154",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "st john\u2019s wharf",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01669_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winner-st-johns-wharf-p01669",
+      "id": "16267",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "telephone box",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01670_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winner-telephone-box-p01670",
+      "id": "16268",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "free trade wharf",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01671_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winner-free-trade-wharf-p01671",
+      "id": "16269",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "slow - first version",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01672_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winner-slow-first-version-p01672",
+      "id": "16270",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "slow - fog i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01673_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winner-slow-fog-i-p01673",
+      "id": "16271",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (new york)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01674_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winner-untitled-new-york-p01674",
+      "id": "16272",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02337_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winner-untitled-p02337",
+      "id": "16273",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title page]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05297_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winner-title-page-p05297",
+      "id": "16274",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05298_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winner-no-title-p05298",
+      "id": "16275",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05299_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winner-no-title-p05299",
+      "id": "16276",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05300_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winner-no-title-p05300",
+      "id": "16277",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05301_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winner-no-title-p05301",
+      "id": "16278",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05302_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winner-no-title-p05302",
+      "id": "16279",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title page]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05303_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winner-title-page-p05303",
+      "id": "16280",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05304_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winner-no-title-p05304",
+      "id": "16281",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05305_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winner-no-title-p05305",
+      "id": "16282",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05306_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winner-no-title-p05306",
+      "id": "16283",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05307_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winner-no-title-p05307",
+      "id": "16284",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "container [blue]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05308_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winner-container-blue-p05308",
+      "id": "16285",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "container [orange]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05309_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winner-container-orange-p05309",
+      "id": "16286",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "container [red]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05310_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winner-container-red-p05310",
+      "id": "16287",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "container [silver]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05311_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winner-container-silver-p05311",
+      "id": "16288",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "container [yellow]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05312_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winner-container-yellow-p05312",
+      "id": "16289",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title page]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05313_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winner-title-page-p05313",
+      "id": "16290",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05314_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winner-no-title-p05314",
+      "id": "16291",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05315_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winner-no-title-p05315",
+      "id": "16292",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05316_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winner-no-title-p05316",
+      "id": "16293",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05317_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winner-no-title-p05317",
+      "id": "16294",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05318_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winner-no-title-p05318",
+      "id": "16295",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05319_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winner-no-title-p05319",
+      "id": "16296",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title page]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05320_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winner-title-page-p05320",
+      "id": "16297",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dust-cart",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05321_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winner-dust-cart-p05321",
+      "id": "16298",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "green line bus",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05322_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winner-green-line-bus-p05322",
+      "id": "16299",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018pollock\u2019 long distance lorry",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05323_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winner-pollock-long-distance-lorry-p05323",
+      "id": "16300",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "red arrow bus",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05324_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winner-red-arrow-bus-p05324",
+      "id": "16301",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "suburban train",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05325_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winner-suburban-train-p05325",
+      "id": "16302",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tube train",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05326_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winner-tube-train-p05326",
+      "id": "16303",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "victoire [title page]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05327_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winner-victoire-title-page-p05327",
+      "id": "16304",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "back-yard, kreuzberg",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05328_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winner-back-yard-kreuzberg-p05328",
+      "id": "16305",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hotel metro",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05329_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winner-hotel-metro-p05329",
+      "id": "16306",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16267",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16268",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16269",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16270",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16271",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16272",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16273",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16274",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16275",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16276",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16277",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16278",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16279",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16280",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16281",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16282",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16283",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16284",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16285",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16286",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16287",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16288",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16289",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16290",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16291",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16292",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16293",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16294",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16295",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16296",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16297",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16298",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16299",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16300",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16301",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16302",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16303",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16304",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16305",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16306",
+      "value": 1
+    }
+  ]
+}

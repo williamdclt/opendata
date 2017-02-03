@@ -1,0 +1,169 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Bell, Vanessa",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/vanessa-bell-731",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "chrysanthemums",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03836_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bell-chrysanthemums-n03836",
+      "id": "899",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nude",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05077_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bell-nude-n05077",
+      "id": "900",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "interior with a table",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05078_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bell-interior-with-a-table-n05078",
+      "id": "901",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pheasants",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05749_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bell-pheasants-n05749",
+      "id": "902",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "helen dudley",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01123_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bell-helen-dudley-t01123",
+      "id": "903",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life on corner of a mantelpiece",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01133_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bell-still-life-on-corner-of-a-mantelpiece-t01133",
+      "id": "904",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "frederick and jessie etchells painting",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01277_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bell-frederick-and-jessie-etchells-painting-t01277",
+      "id": "905",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs st john hutchinson",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01768_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bell-mrs-st-john-hutchinson-t01768",
+      "id": "906",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "abstract painting",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01935_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bell-abstract-painting-t01935",
+      "id": "907",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the tub",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02010_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bell-the-tub-t02010",
+      "id": "908",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "studland beach. verso: group of male nudes by duncan grant",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02080_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bell-studland-beach-verso-group-of-male-nudes-by-duncan-grant-t02080",
+      "id": "909",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "899",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "900",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "901",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "902",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "903",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "904",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "905",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "906",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "907",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "908",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "909",
+      "value": 1
+    }
+  ]
+}

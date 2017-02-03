@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Ralston, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-ralston-2527",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "windmill and sailing boats",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09334_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ralston-windmill-and-sailing-boats-t09334",
+      "id": "23408",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "23408",
+      "value": 1
+    }
+  ]
+}

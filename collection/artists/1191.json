@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gorky, Arshile",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/arshile-gorky-1191",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "waterfall",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01319_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gorky-waterfall-t01319",
+      "id": "5534",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5534",
+      "value": 1
+    }
+  ]
+}

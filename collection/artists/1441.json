@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Krasner, Lee",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/lee-krasner-1441",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "gothic landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03291_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/krasner-gothic-landscape-t03291",
+      "id": "8232",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8232",
+      "value": 1
+    }
+  ]
+}

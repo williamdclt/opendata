@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Redgrave, Richard",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/richard-redgrave-441",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "country cousins",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00428_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/redgrave-country-cousins-n00428",
+      "id": "12340",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the emigrant\u2019s last sight of home",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02110_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/redgrave-the-emigrants-last-sight-of-home-t02110",
+      "id": "12341",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12340",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12341",
+      "value": 1
+    }
+  ]
+}

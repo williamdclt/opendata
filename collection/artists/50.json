@@ -1,0 +1,407 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Brabazon, Hercules Brabazon",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/hercules-brabazon-brabazon-50",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "houses at tivoli",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02109_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brabazon-houses-at-tivoli-n02109",
+      "id": "1400",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "roses",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02110_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brabazon-roses-n02110",
+      "id": "1401",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "murcia",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02111_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brabazon-murcia-n02111",
+      "id": "1402",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tivoli",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brabazon-tivoli-n02112",
+      "id": "1403",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the pink palace",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02113_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brabazon-the-pink-palace-n02113",
+      "id": "1404",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the grand canal, venice",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02114_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brabazon-the-grand-canal-venice-n02114",
+      "id": "1405",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "les rochers rouges",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02115_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brabazon-les-rochers-rouges-n02115",
+      "id": "1406",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "souvenir of de hoogh",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03043_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brabazon-souvenir-of-de-hoogh-n03043",
+      "id": "1407",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fondamenta della salute, venice",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03561_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brabazon-fondamenta-della-salute-venice-n03561",
+      "id": "1408",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sunset: mountain and lake",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03651_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brabazon-sunset-mountain-and-lake-n03651",
+      "id": "1409",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "como",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03652_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brabazon-como-n03652",
+      "id": "1410",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "monaco",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03653_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brabazon-monaco-n03653",
+      "id": "1411",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "side canal, venice",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03654_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brabazon-side-canal-venice-n03654",
+      "id": "1412",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a grey day, venice",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03655_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brabazon-a-grey-day-venice-n03655",
+      "id": "1413",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sunset (after turner)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03656_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brabazon-sunset-after-turner-n03656",
+      "id": "1414",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "canal in venice",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04768_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brabazon-canal-in-venice-n04768",
+      "id": "1415",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the bay",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04769_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brabazon-the-bay-n04769",
+      "id": "1416",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape in the campagna (?)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04770_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brabazon-landscape-in-the-campagna-n04770",
+      "id": "1417",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "canal in venice",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04771_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brabazon-canal-in-venice-n04771",
+      "id": "1418",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "venice: the salute, campanile and doge\u2019s palace from the giudecca",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04772_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brabazon-venice-the-salute-campanile-and-doges-palace-from-the-giudecca-n04772",
+      "id": "1419",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lake scene",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04773_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brabazon-lake-scene-n04773",
+      "id": "1420",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mountain scene",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04774_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brabazon-mountain-scene-n04774",
+      "id": "1421",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "scene in venice",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04775_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brabazon-scene-in-venice-n04775",
+      "id": "1422",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "akaba",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06252_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brabazon-akaba-n06252",
+      "id": "1423",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "olive trees at corfu",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08585_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brabazon-olive-trees-at-corfu-t08585",
+      "id": "22325",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the rhone valley, a storm",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08587_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brabazon-the-rhone-valley-a-storm-t08587",
+      "id": "22324",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "from bordighera; a seascape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09402_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brabazon-from-bordighera-a-seascape-t09402",
+      "id": "22326",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "s. giorgio and the salute",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10660_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brabazon-s-giorgio-and-the-salute-t10660",
+      "id": "25052",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1400",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1401",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1402",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1403",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1404",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1405",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1406",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1407",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1408",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1409",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1410",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1411",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1412",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1413",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1414",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1415",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1416",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1417",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1418",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1419",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1420",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1421",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1422",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1423",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22325",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22324",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22326",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25052",
+      "value": 1
+    }
+  ]
+}

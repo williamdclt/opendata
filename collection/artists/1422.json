@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Kneale, Bryan",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/bryan-kneale-1422",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "knuckle",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00695_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kneale-knuckle-t00695",
+      "id": "8147",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "marina",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00941_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kneale-marina-t00941",
+      "id": "8148",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "horse",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04892_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kneale-horse-t04892",
+      "id": "8149",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "journal",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07665_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kneale-journal-t07665",
+      "id": "27355",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8147",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8148",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8149",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27355",
+      "value": 1
+    }
+  ]
+}

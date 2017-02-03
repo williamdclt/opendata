@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Schinwald, Markus",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/markus-schinwald-7734",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "dictio pii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schinwald-dictio-pii-t12001",
+      "id": "84316",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "84316",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,505 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Ruscha, Edward",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/edward-ruscha-1882",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "dance?",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00046_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ruscha-dance-ar00046",
+      "id": "98445",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pay nothing until april",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00047_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ruscha-pay-nothing-until-april-ar00047",
+      "id": "97342",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "daily planet",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00048_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ruscha-daily-planet-ar00048",
+      "id": "98448",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blvd.-ave.-st.",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00049_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ruscha-blvd-ave-st-ar00049",
+      "id": "98449",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "standard study # 3",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00050_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ruscha-standard-study-3-ar00050",
+      "id": "98458",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mad scientist",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00051_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ruscha-mad-scientist-ar00051",
+      "id": "98461",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "miracle #64",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00052_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ruscha-miracle-64-ar00052",
+      "id": "98460",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "i plead insanity because i\u2019m just crazy about that little girl",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00053_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ruscha-i-plead-insanity-because-im-just-crazy-about-that-little-girl-ar00053",
+      "id": "98463",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pretty eyes, electric bills",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00054_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ruscha-pretty-eyes-electric-bills-ar00054",
+      "id": "98462",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "smells like back of old hot radio",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00055_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ruscha-smells-like-back-of-old-hot-radio-ar00055",
+      "id": "98464",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "artists who do books",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00056_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ruscha-artists-who-do-books-ar00056",
+      "id": "98465",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "artists who make \u201cpieces\u201d",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00057_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ruscha-artists-who-make-pieces-ar00057",
+      "id": "98466",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dirty baby",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00058_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ruscha-dirty-baby-ar00058",
+      "id": "98468",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hollywood tantrum",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00059_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ruscha-hollywood-tantrum-ar00059",
+      "id": "98470",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "crossover dreams",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00060_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ruscha-crossover-dreams-ar00060",
+      "id": "98472",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "soapy smith",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00061_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ruscha-soapy-smith-ar00061",
+      "id": "98473",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "red rooster",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00062_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ruscha-red-rooster-ar00062",
+      "id": "98474",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hope",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00063_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ruscha-hope-ar00063",
+      "id": "98476",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the end #40",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00064_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ruscha-the-end-40-ar00064",
+      "id": "98478",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dec. 30th",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00065_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ruscha-dec-30th-ar00065",
+      "id": "98479",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "honk",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00184_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ruscha-honk-ar00184",
+      "id": "98450",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the final end",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00596_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ruscha-the-final-end-ar00596",
+      "id": "98446",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the music from the balconies",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR01126_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ruscha-the-music-from-the-balconies-ar01126",
+      "id": "104853",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hollywood",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07716_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ruscha-hollywood-p07716",
+      "id": "13022",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "roughly 92% angel but about 8% devil",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07940_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ruscha-roughly-92-angel-but-about-8-devil-p07940",
+      "id": "13023",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "time is up",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11275_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ruscha-time-is-up-p11275",
+      "id": "18961",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u201cl.c.\u201d",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ruscha-lc-p13305",
+      "id": "66896",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "home with complete electronic security system",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ruscha-home-with-complete-electronic-security-system-p13310",
+      "id": "27118",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "news, mews, pews, brews, stews, dues",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ruscha-news-mews-pews-brews-stews-dues-p20295",
+      "id": "94735",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "trademark #5",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07510_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ruscha-trademark-5-t07510",
+      "id": "26566",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gas",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07511_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ruscha-gas-t07511",
+      "id": "26565",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the end #1",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07512_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ruscha-the-end-1-t07512",
+      "id": "26567",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stains",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12449_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ruscha-stains-t12449",
+      "id": "94734",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vowel #64 (e)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12912_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ruscha-vowel-64-e-t12912",
+      "id": "27113",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vowel #98 (o)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12913_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ruscha-vowel-98-o-t12913",
+      "id": "27114",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "98445",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97342",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98448",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98449",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98458",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98461",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98460",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98463",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98462",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98464",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98465",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98466",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98468",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98470",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98472",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98473",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98474",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98476",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98478",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98479",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98450",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98446",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "104853",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13022",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13023",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18961",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66896",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27118",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "94735",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26566",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26565",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26567",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "94734",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27113",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27114",
+      "value": 1
+    }
+  ]
+}

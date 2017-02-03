@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Dottori, Gerardo",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/gerardo-dottori-1024",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "explosion of red on green",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01336_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dottori-explosion-of-red-on-green-t01336",
+      "id": "3987",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "3987",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Macgregor, William York",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/william-york-macgregor-362",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the carse of stirling",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04201_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/macgregor-the-carse-of-stirling-n04201",
+      "id": "9097",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9097",
+      "value": 1
+    }
+  ]
+}

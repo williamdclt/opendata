@@ -1,0 +1,407 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Beerbohm, Sir Max",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-max-beerbohm-722",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "d.g. rossetti precociously manifesting ... that queer indifference to politics ...",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01038_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beerbohm-dg-rossetti-precociously-manifesting-that-queer-indifference-to-politics-a01038",
+      "id": "850",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "british stock and alien inspiration, 1849",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01039_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beerbohm-british-stock-and-alien-inspiration-1849-a01039",
+      "id": "851",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rossetti\u2019s courtship",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01040_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beerbohm-rossettis-courtship-a01040",
+      "id": "852",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the sole remark likely to have been made by benjamin jowett about the mural paintings at the oxford union",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01041_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beerbohm-the-sole-remark-likely-to-have-been-made-by-benjamin-jowett-about-the-mural-a01041",
+      "id": "853",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "miss cornforth: \u2018oh, very pleased to meet mr ruskin, i\u2019m sure\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01042_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beerbohm-miss-cornforth-oh-very-pleased-to-meet-mr-ruskin-im-sure-a01042",
+      "id": "854",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ford madox brown being patronized by holman hunt",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01043_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beerbohm-ford-madox-brown-being-patronized-by-holman-hunt-a01043",
+      "id": "855",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a momentary vision that once befell young millais",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01044_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beerbohm-a-momentary-vision-that-once-befell-young-millais-a01044",
+      "id": "856",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spring cottage, hampstead, 1860",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01045_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beerbohm-spring-cottage-hampstead-1860-a01045",
+      "id": "857",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woolner at farringford, 1857",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01046_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beerbohm-woolner-at-farringford-1857-a01046",
+      "id": "858",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blue china",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01047_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beerbohm-blue-china-a01047",
+      "id": "859",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the small hours in the \u2018sixties at 16 cheyne walk",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01048_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beerbohm-the-small-hours-in-the-sixties-at-16-cheyne-walk-a01048",
+      "id": "860",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "topsy and ned jones settled on the settle in red lion square",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01049_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beerbohm-topsy-and-ned-jones-settled-on-the-settle-in-red-lion-square-a01049",
+      "id": "861",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rossetti, having just had a fresh consignment of \u2018stunning\u2019 fabrics ... tries hard to prevail on his younger sister to accept ... one",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01050_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beerbohm-rossetti-having-just-had-a-fresh-consignment-of-stunning-fabrics-tries-hard-to-a01050",
+      "id": "862",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rossetti in his worldlier days leaving the arundel club with george augustus sala",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01051_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beerbohm-rossetti-in-his-worldlier-days-leaving-the-arundel-club-with-george-augustus-sala-a01051",
+      "id": "863",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rossetti insistently exhorted by george meredith to come forth into the glorious sun and wind for a walk to hendon and beyond",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01052_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beerbohm-rossetti-insistently-exhorted-by-george-meredith-to-come-forth-into-the-glorious-a01052",
+      "id": "864",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mr morley ... introduces mr john stuart mill",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01053_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beerbohm-mr-morley-introduces-mr-john-stuart-mill-a01053",
+      "id": "865",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "riverside scene. algernon swinburne takes his great new friend gosse to see gabriel rossetti",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01054_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beerbohm-riverside-scene-algernon-swinburne-takes-his-great-new-friend-gosse-to-see-a01054",
+      "id": "866",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mr browning brings a lady of rank and fashion to see mr rossetti",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01055_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beerbohm-mr-browning-brings-a-lady-of-rank-and-fashion-to-see-mr-rossetti-a01055",
+      "id": "867",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mr william bell scott wondering what it is those fellows seem to see in gabriel",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01056_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beerbohm-mr-william-bell-scott-wondering-what-it-is-those-fellows-seem-to-see-in-gabriel-a01056",
+      "id": "868",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the man from hymettus. mr frederick leighton",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01057_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beerbohm-the-man-from-hymettus-mr-frederick-leighton-a01057",
+      "id": "869",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "quis custodiet ipsum custodem",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01058_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beerbohm-quis-custodiet-ipsum-custodem-a01058",
+      "id": "870",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mr - and miss - nervously perpetuating the touch of a vanished hand",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beerbohm-mr-and-miss-nervously-perpetuating-the-touch-of-a-vanished-hand-a01059",
+      "id": "871",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the name of dante gabriel rossetti is heard for the first time in the western states of america",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01060_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beerbohm-the-name-of-dante-gabriel-rossetti-is-heard-for-the-first-time-in-the-western-a01060",
+      "id": "872",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "john s. sargent. verso: studies of heads",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03199_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beerbohm-john-s-sargent-verso-studies-of-heads-n03199",
+      "id": "873",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a quiet morning in the tate gallery",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04165_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beerbohm-a-quiet-morning-in-the-tate-gallery-n04165",
+      "id": "874",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "annual banquet: a suggestion to the new english art club",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04332_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beerbohm-annual-banquet-a-suggestion-to-the-new-english-art-club-n04332",
+      "id": "875",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bravura: sir william orpen",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06043_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beerbohm-bravura-sir-william-orpen-n06043",
+      "id": "876",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the new english art club",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06075_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beerbohm-the-new-english-art-club-n06075",
+      "id": "877",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "850",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "851",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "852",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "853",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "854",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "855",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "856",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "857",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "858",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "859",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "860",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "861",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "862",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "863",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "864",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "865",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "866",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "867",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "868",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "869",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "870",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "871",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "872",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "873",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "874",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "875",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "876",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "877",
+      "value": 1
+    }
+  ]
+}

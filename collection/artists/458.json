@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Rooke, Thomas Matthews",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/thomas-matthews-rooke-458",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "ruth and naomi",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00839_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rooke-ruth-and-naomi-a00839",
+      "id": "12749",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ruth and boaz",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00840_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rooke-ruth-and-boaz-a00840",
+      "id": "12750",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "naomi, ruth and obed",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00841_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rooke-naomi-ruth-and-obed-a00841",
+      "id": "12751",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12749",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12750",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12751",
+      "value": 1
+    }
+  ]
+}

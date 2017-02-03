@@ -1,0 +1,491 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Wols",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/wols-alfred-otto-wolfgang-schulze-2164",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07948_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wols-no-title-p07948",
+      "id": "16409",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07949_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wols-no-title-p07949",
+      "id": "16410",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07950_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wols-no-title-p07950",
+      "id": "16411",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07951_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wols-no-title-p07951",
+      "id": "16412",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07952_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wols-no-title-p07952",
+      "id": "16413",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07953_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wols-no-title-p07953",
+      "id": "16414",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07954_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wols-no-title-p07954",
+      "id": "16415",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07955_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wols-no-title-p07955",
+      "id": "16416",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07956_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wols-no-title-p07956",
+      "id": "16417",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07957_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wols-no-title-p07957",
+      "id": "16418",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07958_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wols-no-title-p07958",
+      "id": "16419",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07959_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wols-no-title-p07959",
+      "id": "16420",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07960_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wols-no-title-p07960",
+      "id": "16421",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07961_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wols-no-title-p07961",
+      "id": "16422",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07962_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wols-no-title-p07962",
+      "id": "16423",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07963_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wols-no-title-p07963",
+      "id": "16424",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07964_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wols-no-title-p07964",
+      "id": "16425",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07965_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wols-no-title-p07965",
+      "id": "16426",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07966_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wols-no-title-p07966",
+      "id": "16427",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07967_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wols-no-title-p07967",
+      "id": "16428",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07968_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wols-no-title-p07968",
+      "id": "16429",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07969_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wols-no-title-p07969",
+      "id": "16430",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07970_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wols-no-title-p07970",
+      "id": "16431",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07971_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wols-no-title-p07971",
+      "id": "16432",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07972_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wols-no-title-p07972",
+      "id": "16433",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07973_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wols-no-title-p07973",
+      "id": "16434",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07974_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wols-no-title-p07974",
+      "id": "16435",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07975_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wols-no-title-p07975",
+      "id": "16436",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07976_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wols-no-title-p07976",
+      "id": "16437",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07977_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wols-no-title-p07977",
+      "id": "16438",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07978_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wols-no-title-p07978",
+      "id": "16439",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07979_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wols-no-title-p07979",
+      "id": "16440",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07980_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wols-no-title-p07980",
+      "id": "16441",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04845_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wols-title-not-known-t04845",
+      "id": "16442",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16409",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16410",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16411",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16412",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16413",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16414",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16415",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16416",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16417",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16418",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16419",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16420",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16421",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16422",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16423",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16424",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16425",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16426",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16427",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16428",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16429",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16430",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16431",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16432",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16433",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16434",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16435",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16436",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16437",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16438",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16439",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16440",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16441",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16442",
+      "value": 1
+    }
+  ]
+}

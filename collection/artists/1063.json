@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Erma, Thomas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/thomas-erma-1063",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "collage painting",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/erma-collage-painting-t01573",
+      "id": "4129",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4129",
+      "value": 1
+    }
+  ]
+}

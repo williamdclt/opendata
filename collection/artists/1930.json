@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Shahn, Ben",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/ben-shahn-1930",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "lute and molecules",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00314_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shahn-lute-and-molecules-t00314",
+      "id": "13332",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13332",
+      "value": 1
+    }
+  ]
+}

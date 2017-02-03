@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Rhodes, Carol",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/carol-rhodes-2699",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "ridge",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07535_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rhodes-ridge-t07535",
+      "id": "26671",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "airport",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12861_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rhodes-airport-t12861",
+      "id": "100161",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "26671",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "100161",
+      "value": 1
+    }
+  ]
+}

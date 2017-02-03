@@ -1,0 +1,183 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Man Ray",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/man-ray-1563",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06459_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/man-ray-untitled-i-p06459",
+      "id": "9228",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06460_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/man-ray-untitled-ii-p06460",
+      "id": "9229",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06461_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/man-ray-untitled-iii-p06461",
+      "id": "9230",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gertrude stein",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13133_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/man-ray-gertrude-stein-p13133",
+      "id": "101302",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pisces",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00324_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/man-ray-pisces-t00324",
+      "id": "9231",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "indestructible object",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07614_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/man-ray-indestructible-object-t07614",
+      "id": "27062",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "new york",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07882_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/man-ray-new-york-t07882",
+      "id": "71043",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cadeau",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07883_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/man-ray-cadeau-t07883",
+      "id": "71044",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "l\u2019enigme d\u2019isidore ducasse",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07957_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/man-ray-lenigme-disidore-ducasse-t07957",
+      "id": "76405",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the lovers",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07958_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/man-ray-the-lovers-t07958",
+      "id": "76303",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "emak bakia",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07959_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/man-ray-emak-bakia-t07959",
+      "id": "71347",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ce qui manque \u00e0 nous tous",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07960_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/man-ray-ce-qui-manque-a-nous-tous-t07960",
+      "id": "71045",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9228",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9229",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9230",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101302",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9231",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27062",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71043",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71044",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "76405",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "76303",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71347",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71045",
+      "value": 1
+    }
+  ]
+}

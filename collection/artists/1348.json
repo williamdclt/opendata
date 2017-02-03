@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Jackson, F. Ernest",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/f-ernest-jackson-1348",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "mrs beasley",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05109_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jackson-mrs-beasley-n05109",
+      "id": "7065",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "united defence against aggression",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03037_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jackson-united-defence-against-aggression-p03037",
+      "id": "7066",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "7065",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7066",
+      "value": 1
+    }
+  ]
+}

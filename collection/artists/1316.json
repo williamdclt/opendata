@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "How, Beatrice",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/beatrice-how-1316",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "l\u2019infirmi\u00e8re",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04837_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/how-linfirmiere-n04837",
+      "id": "6890",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6890",
+      "value": 1
+    }
+  ]
+}

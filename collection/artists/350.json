@@ -1,0 +1,393 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Lewis, John Frederick",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-frederick-lewis-350",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "edfu, upper egypt",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01405_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-edfu-upper-egypt-n01405",
+      "id": "8671",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018the courtyard of the coptic patriarch\u2019s house in cairo\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01688_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-study-for-the-courtyard-of-the-coptic-patriarchs-house-in-cairo-n01688",
+      "id": "8672",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spanish couple riding a mule",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01729_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-spanish-couple-riding-a-mule-n01729",
+      "id": "8673",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mehemet ali pasha",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-mehemet-ali-pasha-n02199",
+      "id": "8674",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two turbaned figures seated on the ground in an eastern courtyard",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-two-turbaned-figures-seated-on-the-ground-in-an-eastern-courtyard-n02200",
+      "id": "8675",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "corridor leading to the sacristy of santa croce, florence",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02201_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-corridor-leading-to-the-sacristy-of-santa-croce-florence-n02201",
+      "id": "8676",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mirador in sanchez\u2019 cottage, alhambra",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02202_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-mirador-in-sanchez-cottage-alhambra-n02202",
+      "id": "8677",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a pulpit in the cathedral of salerno",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02203_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-a-pulpit-in-the-cathedral-of-salerno-n02203",
+      "id": "8678",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chapel of the burning bush, mount sinai",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03395_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-chapel-of-the-burning-bush-mount-sinai-n03395",
+      "id": "8679",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the siesta",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03594_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-the-siesta-n03594",
+      "id": "8680",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "buck-shooting in windsor great park",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04822_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-buck-shooting-in-windsor-great-park-n04822",
+      "id": "8681",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018buck-shooting in windsor great park\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00512_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-sketch-for-buck-shooting-in-windsor-great-park-t00512",
+      "id": "8682",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of rocks in the val d\u2019aosta",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01005_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-study-of-rocks-in-the-val-daosta-t01005",
+      "id": "8683",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of a lion",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01006_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-head-of-a-lion-t01006",
+      "id": "8684",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of a lion",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06965_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-head-of-a-lion-t06965",
+      "id": "21275",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the escorial",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08166_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-the-escorial-t08166",
+      "id": "23164",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "an interior",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08173_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-an-interior-t08173",
+      "id": "23170",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the bazaar of the gh\u00fbriyah from the steps of the mosque of el-gh\u00fbri, cairo",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08183_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-the-bazaar-of-the-ghuriyah-from-the-steps-of-the-mosque-of-el-ghuri-cairo-t08183",
+      "id": "23167",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st goarhausen",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09073_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-st-goarhausen-t09073",
+      "id": "23171",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a wooded stream",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09078_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-a-wooded-stream-t09078",
+      "id": "23168",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hillside and sunset sky",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09079_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-hillside-and-sunset-sky-t09079",
+      "id": "23172",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "barmouth",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09549_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-barmouth-t09549",
+      "id": "23169",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sheet from a sketchbook used in spain",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09622_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-sheet-from-a-sketchbook-used-in-spain-t09622",
+      "id": "23166",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sheet from a sketchbook used in spain",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09623_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-sheet-from-a-sketchbook-used-in-spain-t09623",
+      "id": "24547",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sheet from a sketchbook used in spain",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09624_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-sheet-from-a-sketchbook-used-in-spain-t09624",
+      "id": "24548",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sheet from a sketchbook used in spain",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09625_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-sheet-from-a-sketchbook-used-in-spain-t09625",
+      "id": "24549",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "interior of a hut in italy",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10439_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-interior-of-a-hut-in-italy-t10439",
+      "id": "23165",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8671",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8672",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8673",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8674",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8675",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8676",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8677",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8678",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8679",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8680",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8681",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8682",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8683",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8684",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21275",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23164",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23170",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23167",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23171",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23168",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23172",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23169",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23166",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24547",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24548",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24549",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23165",
+      "value": 1
+    }
+  ]
+}

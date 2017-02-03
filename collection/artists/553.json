@@ -1,0 +1,547 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Towne, Francis",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/francis-towne-553",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a view at ambleside",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01019_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/towne-a-view-at-ambleside-t01019",
+      "id": "14384",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "haldon hall, near exeter",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01155_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/towne-haldon-hall-near-exeter-t01155",
+      "id": "14385",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the source of the arveyron",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08147_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/towne-the-source-of-the-arveyron-t08147",
+      "id": "23823",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wood near albano",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08184_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/towne-wood-near-albano-t08184",
+      "id": "23818",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lago maggiore, no. 8",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08187_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/towne-lago-maggiore-no-8-t08187",
+      "id": "23845",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "neptune\u2019s grotto at tivoli",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08188_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/towne-neptunes-grotto-at-tivoli-t08188",
+      "id": "23851",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "netley abbey",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08194_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/towne-netley-abbey-t08194",
+      "id": "23840",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "naples and capri",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08195_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/towne-naples-and-capri-t08195",
+      "id": "23839",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "monte cavo, ii",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08250_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/towne-monte-cavo-ii-t08250",
+      "id": "23820",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "waterfall near ambleside",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08262_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/towne-waterfall-near-ambleside-t08262",
+      "id": "23835",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "in the campagna, rome, looking towards the sabine mountains",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08266_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/towne-in-the-campagna-rome-looking-towards-the-sabine-mountains-t08266",
+      "id": "23837",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lidford waterfall",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08515_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/towne-lidford-waterfall-t08515",
+      "id": "23836",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a view at pines the seat of sir stafford northcote bart near exeter",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08527_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/towne-a-view-at-pines-the-seat-of-sir-stafford-northcote-bart-near-exeter-t08527",
+      "id": "23832",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rocks and trees at tivoli",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08552_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/towne-rocks-and-trees-at-tivoli-t08552",
+      "id": "23817",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "great fulford",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08553_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/towne-great-fulford-t08553",
+      "id": "23842",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "near florence",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08554_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/towne-near-florence-t08554",
+      "id": "23841",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "top of the spl\u00fcgen pass. i",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08555_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/towne-top-of-the-splugen-pass-i-t08555",
+      "id": "23825",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "toward the head of the lake of como",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08556_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/towne-toward-the-head-of-the-lake-of-como-t08556",
+      "id": "23831",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "le r\u00eave",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08557_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/towne-le-reve-t08557",
+      "id": "23824",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the source of the rhine",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08558_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/towne-the-source-of-the-rhine-t08558",
+      "id": "23848",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "monte cavo, i",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08559_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/towne-monte-cavo-i-t08559",
+      "id": "23819",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bisone",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08560_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/towne-bisone-t08560",
+      "id": "23829",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the top of the spl\u00fcgen pass. ii",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08561_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/towne-the-top-of-the-splugen-pass-ii-t08561",
+      "id": "23826",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lake of lugano",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08562_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/towne-lake-of-lugano-t08562",
+      "id": "23846",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "in kensington gardens",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08563_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/towne-in-kensington-gardens-t08563",
+      "id": "23838",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lake of uri",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08564_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/towne-lake-of-uri-t08564",
+      "id": "23850",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a waterfall near lidford",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08565_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/towne-a-waterfall-near-lidford-t08565",
+      "id": "23834",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the walls of rome",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08566_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/towne-the-walls-of-rome-t08566",
+      "id": "23821",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape composition",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08567_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/towne-landscape-composition-t08567",
+      "id": "23852",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape no. 1",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08568_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/towne-landscape-no-1-t08568",
+      "id": "23822",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lake of como",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08569_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/towne-lake-of-como-t08569",
+      "id": "23828",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "going up mount spl\u00fcgen",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08570_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/towne-going-up-mount-splugen-t08570",
+      "id": "23827",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "near mount spl\u00fcgen",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08571_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/towne-near-mount-splugen-t08571",
+      "id": "23847",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a view by moonlight in the bunhay at exeter",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08572_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/towne-a-view-by-moonlight-in-the-bunhay-at-exeter-t08572",
+      "id": "23833",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "la chap\u00e9rieux",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08573_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/towne-la-chaperieux-t08573",
+      "id": "23844",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wallenstadt",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08574_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/towne-wallenstadt-t08574",
+      "id": "23849",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape with rocks",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09086_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/towne-landscape-with-rocks-t09086",
+      "id": "23843",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lake of como. no. 26",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09244_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/towne-lake-of-como-no-26-t09244",
+      "id": "23830",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "14384",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14385",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23823",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23818",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23845",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23851",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23840",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23839",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23820",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23835",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23837",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23836",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23832",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23817",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23842",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23841",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23825",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23831",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23824",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23848",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23819",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23829",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23826",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23846",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23838",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23850",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23834",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23821",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23852",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23822",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23828",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23827",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23847",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23833",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23844",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23849",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23843",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23830",
+      "value": 1
+    }
+  ]
+}

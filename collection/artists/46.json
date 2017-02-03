@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Bowler, Henry Alexander",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/henry-alexander-bowler-46",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the doubt: \u2018can these dry bones live?\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03592_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bowler-the-doubt-can-these-dry-bones-live-n03592",
+      "id": "1375",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1375",
+      "value": 1
+    }
+  ]
+}

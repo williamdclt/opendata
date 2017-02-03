@@ -1,0 +1,211 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Mikhailov, Boris",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/boris-mikhailov-5975",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "at dusk",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mikhailov-at-dusk-p20369",
+      "id": "115477",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "at dusk",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mikhailov-at-dusk-p20370",
+      "id": "115478",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "at dusk",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mikhailov-at-dusk-p20371",
+      "id": "115479",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "at dusk",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mikhailov-at-dusk-p20372",
+      "id": "115480",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "at dusk",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mikhailov-at-dusk-p20373",
+      "id": "115481",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "at dusk",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mikhailov-at-dusk-p20374",
+      "id": "115482",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "at dusk",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mikhailov-at-dusk-p20375",
+      "id": "115483",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "at dusk",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mikhailov-at-dusk-p20376",
+      "id": "115484",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "at dusk",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mikhailov-at-dusk-p20377",
+      "id": "115485",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "at dusk",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mikhailov-at-dusk-p20378",
+      "id": "115486",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "at dusk",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mikhailov-at-dusk-p20379",
+      "id": "115487",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "at dusk",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mikhailov-at-dusk-p20380",
+      "id": "115488",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "at dusk",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mikhailov-at-dusk-p20381",
+      "id": "115489",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "red",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mikhailov-red-t13358",
+      "id": "109886",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "115477",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "115478",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "115479",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "115480",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "115481",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "115482",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "115483",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "115484",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "115485",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "115486",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "115487",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "115488",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "115489",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "109886",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Macbeth, Robert Walker",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/robert-walker-macbeth-358",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the cast shoe",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01597_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/macbeth-the-cast-shoe-n01597",
+      "id": "9037",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9037",
+      "value": 1
+    }
+  ]
+}

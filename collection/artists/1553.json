@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Magritte, Ren\u00e9",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/rene-magritte-1553",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "man with a newspaper",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00680_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/magritte-man-with-a-newspaper-t00680",
+      "id": "9158",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the spirit of geometry",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00892_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/magritte-the-spirit-of-geometry-t00892",
+      "id": "9159",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the reckless sleeper",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01122_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/magritte-the-reckless-sleeper-t01122",
+      "id": "9160",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the future of statues",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03258_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/magritte-the-future-of-statues-t03258",
+      "id": "9161",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the annunciation",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04367_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/magritte-the-annunciation-t04367",
+      "id": "9162",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9158",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9159",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9160",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9161",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9162",
+      "value": 1
+    }
+  ]
+}

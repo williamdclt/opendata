@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Walton, Henry",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/henry-walton-579",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "plucking the turkey",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02870_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walton-plucking-the-turkey-n02870",
+      "id": "15914",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a girl buying a ballad",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07594_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walton-a-girl-buying-a-ballad-t07594",
+      "id": "26873",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "15914",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26873",
+      "value": 1
+    }
+  ]
+}

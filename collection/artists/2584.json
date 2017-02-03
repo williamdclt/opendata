@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Richardson, Jonathan",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/jonathan-richardson-2584",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "unknown gentleman",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01894_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richardson-unknown-gentleman-t01894",
+      "id": "12543",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mr drake of shardeloes",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09134_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richardson-mr-drake-of-shardeloes-t09134",
+      "id": "23431",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of matthew prior (1664-1721)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09136_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richardson-portrait-of-matthew-prior-1664-1721-t09136",
+      "id": "23430",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of francisco algarotti (1712-1764)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10435_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richardson-portrait-of-francisco-algarotti-1712-1764-t10435",
+      "id": "23429",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of the artist\u2019s son, jonathan richardson the younger, in his study",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13207_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richardson-portrait-of-the-artists-son-jonathan-richardson-the-younger-in-his-study-t13207",
+      "id": "104765",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12543",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23431",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23430",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23429",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "104765",
+      "value": 1
+    }
+  ]
+}

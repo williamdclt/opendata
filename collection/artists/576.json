@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Waller, Samuel",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/samuel-waller-576",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "success!",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01551_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/waller-success-n01551",
+      "id": "15894",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sweethearts and wives",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01552_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/waller-sweethearts-and-wives-n01552",
+      "id": "15895",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "15894",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15895",
+      "value": 1
+    }
+  ]
+}

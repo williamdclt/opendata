@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Rivers, Leopold",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/leopold-rivers-452",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "stormy weather",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01710_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rivers-stormy-weather-n01710",
+      "id": "12618",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12618",
+      "value": 1
+    }
+  ]
+}

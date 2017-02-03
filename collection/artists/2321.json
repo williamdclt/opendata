@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Pearce, Bryan",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/bryan-pearce-2321",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "st ives from the cemetery",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06733_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pearce-st-ives-from-the-cemetery-t06733",
+      "id": "20770",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "20770",
+      "value": 1
+    }
+  ]
+}

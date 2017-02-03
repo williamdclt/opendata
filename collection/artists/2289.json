@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Monro, Henry",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/henry-monro-2289",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the disgrace of wolsey",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06485_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/monro-the-disgrace-of-wolsey-t06485",
+      "id": "20199",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "20199",
+      "value": 1
+    }
+  ]
+}

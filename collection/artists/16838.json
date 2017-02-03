@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Art & Language (Michael Baldwin)",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/art-language-michael-baldwin-16838",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled painting",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12331_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/art-language-michael-baldwin-untitled-painting-t12331",
+      "id": "91910",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "91910",
+      "value": 1
+    }
+  ]
+}

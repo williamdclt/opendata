@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gunn, Sir Herbert James",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-herbert-james-gunn-12620",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "portrait of sir william oliphant hutchison",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13199_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gunn-portrait-of-sir-william-oliphant-hutchison-t13199",
+      "id": "103638",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "103638",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Moss, Marlow",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/marlow-moss-1671",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "composition in yellow, black and white",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01113_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moss-composition-in-yellow-black-and-white-t01113",
+      "id": "10338",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "balanced forms in gunmetal on cornish granite",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01114_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moss-balanced-forms-in-gunmetal-on-cornish-granite-t01114",
+      "id": "10339",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "10338",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10339",
+      "value": 1
+    }
+  ]
+}

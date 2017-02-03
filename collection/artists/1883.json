@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Rushbury, Sir Henry",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-henry-rushbury-1883",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the palazzo ugoccione, florence",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01360_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rushbury-the-palazzo-ugoccione-florence-n01360",
+      "id": "13024",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the forest of brotonne",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03567_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rushbury-the-forest-of-brotonne-n03567",
+      "id": "13025",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "repairing the sail",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04333_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rushbury-repairing-the-sail-n04333",
+      "id": "13026",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a ship in dock",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04334_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rushbury-a-ship-in-dock-n04334",
+      "id": "13027",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "la rochelle",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04335_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rushbury-la-rochelle-n04335",
+      "id": "13028",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a brewery yard",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04336_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rushbury-a-brewery-yard-n04336",
+      "id": "13029",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st paul\u2019s",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04601_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rushbury-st-pauls-n04601",
+      "id": "13030",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13024",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13025",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13026",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13027",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13028",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13029",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13030",
+      "value": 1
+    }
+  ]
+}

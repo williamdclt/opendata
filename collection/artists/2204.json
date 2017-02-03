@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Howson, Peter",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/peter-howson-2204",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "arm wrestlers: paisley",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/howson-arm-wrestlers-paisley-p77243",
+      "id": "6894",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the noble dosser",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/howson-the-noble-dosser-p77244",
+      "id": "6895",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rupert",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77245_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/howson-rupert-p77245",
+      "id": "6896",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "amanda",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77246_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/howson-amanda-p77246",
+      "id": "6897",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bob",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77247_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/howson-bob-p77247",
+      "id": "6898",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ned",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77248_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/howson-ned-p77248",
+      "id": "6899",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "plum grove",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06961_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/howson-plum-grove-t06961",
+      "id": "21252",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6894",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6895",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6896",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6897",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6898",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6899",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21252",
+      "value": 1
+    }
+  ]
+}

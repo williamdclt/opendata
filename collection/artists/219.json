@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gow, Mary",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/mary-gow-219",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "marie-antoinette",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gow-marie-antoinette-n02263",
+      "id": "5552",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5552",
+      "value": 1
+    }
+  ]
+}

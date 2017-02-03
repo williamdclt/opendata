@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Garstin, Norman",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/norman-garstin-203",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a woman reading a newspaper",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04234_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/garstin-a-woman-reading-a-newspaper-n04234",
+      "id": "4975",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "haycocks and sun",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03163_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/garstin-haycocks-and-sun-t03163",
+      "id": "4976",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mount\u2019s bay and tolcarne from trewidden farm footpath with alethea and her mother",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03164_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/garstin-mounts-bay-and-tolcarne-from-trewidden-farm-footpath-with-alethea-and-her-mother-t03164",
+      "id": "4977",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the bull hotel, burford",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03165_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/garstin-the-bull-hotel-burford-t03165",
+      "id": "4978",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4975",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4976",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4977",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4978",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Berman, Eug\u00e8ne",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/eugene-berman-744",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the jug on the window",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00334_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/berman-the-jug-on-the-window-t00334",
+      "id": "941",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "941",
+      "value": 1
+    }
+  ]
+}

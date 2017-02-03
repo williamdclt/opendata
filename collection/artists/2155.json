@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Winters, Terry",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/terry-winters-2155",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "field note (1)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11446_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winters-field-note-1-p11446",
+      "id": "22141",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "field note (2)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11447_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winters-field-note-2-p11447",
+      "id": "22165",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "field note (3)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11448_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winters-field-note-3-p11448",
+      "id": "22164",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "field note (4)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11449_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winters-field-note-4-p11449",
+      "id": "22163",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "field note (5)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11450_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winters-field-note-5-p11450",
+      "id": "22162",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "field note (6)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11451_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winters-field-note-6-p11451",
+      "id": "22161",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "field note (7)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11452_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winters-field-note-7-p11452",
+      "id": "22160",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "field note (8)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11453_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winters-field-note-8-p11453",
+      "id": "22159",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "field note (9)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11454_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winters-field-note-9-p11454",
+      "id": "22158",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "field note (10)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11455_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winters-field-note-10-p11455",
+      "id": "22157",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "field note (11)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11456_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winters-field-note-11-p11456",
+      "id": "22156",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "field note (12)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11457_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winters-field-note-12-p11457",
+      "id": "22155",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "field note (13)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winters-field-note-13-p11458",
+      "id": "22154",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "field note (14)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11459_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winters-field-note-14-p11459",
+      "id": "22153",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "field note (15)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11460_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winters-field-note-15-p11460",
+      "id": "22152",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "field note (16)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11461_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winters-field-note-16-p11461",
+      "id": "22151",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "field note (17)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11462_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winters-field-note-17-p11462",
+      "id": "22150",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "field note (18)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11463_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winters-field-note-18-p11463",
+      "id": "22149",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "field note (19)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11464_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winters-field-note-19-p11464",
+      "id": "22148",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "field note (20)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11465_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winters-field-note-20-p11465",
+      "id": "22147",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "field note (21)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11466_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winters-field-note-21-p11466",
+      "id": "22146",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "field note (22)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11467_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winters-field-note-22-p11467",
+      "id": "22145",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "field note (23)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11468_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winters-field-note-23-p11468",
+      "id": "22144",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "field note (24)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11469_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winters-field-note-24-p11469",
+      "id": "22143",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "field note (25)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11470_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winters-field-note-25-p11470",
+      "id": "22142",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "novalis",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winters-novalis-p11895",
+      "id": "21358",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11896_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winters-no-title-p11896",
+      "id": "21359",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11897_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winters-no-title-p11897",
+      "id": "21360",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11898_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winters-no-title-p11898",
+      "id": "21361",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11899_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winters-no-title-p11899",
+      "id": "21362",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11900_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winters-no-title-p11900",
+      "id": "21363",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11901_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winters-no-title-p11901",
+      "id": "21364",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11902_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winters-no-title-p11902",
+      "id": "21365",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11903_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winters-no-title-p11903",
+      "id": "21366",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11904_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winters-no-title-p11904",
+      "id": "21367",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11905_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winters-no-title-p11905",
+      "id": "21368",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11906_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winters-no-title-p11906",
+      "id": "21369",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11907_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winters-no-title-p11907",
+      "id": "21372",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11908_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winters-no-title-p11908",
+      "id": "21370",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11909_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/winters-no-title-p11909",
+      "id": "21371",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "22141",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22165",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22164",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22163",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22162",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22161",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22160",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22159",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22158",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22157",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22156",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22155",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22154",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22153",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22152",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22151",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22150",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22149",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22148",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22147",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22146",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22145",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22144",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22143",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22142",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21358",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21359",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21360",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21361",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21362",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21363",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21364",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21365",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21366",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21367",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21368",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21369",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21372",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21370",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21371",
+      "value": 1
+    }
+  ]
+}

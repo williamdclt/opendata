@@ -1,0 +1,253 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Pinkney, Richard",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/richard-pinkney-1772",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "drawing from the model",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01562_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pinkney-drawing-from-the-model-p01562",
+      "id": "11891",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01682_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pinkney-untitled-p01682",
+      "id": "11892",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01683_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pinkney-untitled-p01683",
+      "id": "11893",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01684_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pinkney-untitled-p01684",
+      "id": "11894",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the alphabet twice",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01693_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pinkney-the-alphabet-twice-p01693",
+      "id": "11895",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a verse from the death of a guiser",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01694_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pinkney-a-verse-from-the-death-of-a-guiser-p01694",
+      "id": "11896",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "free stamp offer",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03230_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pinkney-free-stamp-offer-p03230",
+      "id": "11897",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03232_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pinkney-title-not-known-p03232",
+      "id": "11898",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03233_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pinkney-title-not-known-p03233",
+      "id": "11899",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03234_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pinkney-title-not-known-p03234",
+      "id": "11900",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03235_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pinkney-title-not-known-p03235",
+      "id": "11901",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03236_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pinkney-title-not-known-p03236",
+      "id": "11902",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03237_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pinkney-title-not-known-p03237",
+      "id": "11903",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03238_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pinkney-title-not-known-p03238",
+      "id": "11904",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03239_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pinkney-title-not-known-p03239",
+      "id": "11905",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03240_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pinkney-title-not-known-p03240",
+      "id": "11906",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a bridge",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78490_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pinkney-a-bridge-p78490",
+      "id": "66650",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "11891",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11892",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11893",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11894",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11895",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11896",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11897",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11898",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11899",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11900",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11901",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11902",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11903",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11904",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11905",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11906",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66650",
+      "value": 1
+    }
+  ]
+}

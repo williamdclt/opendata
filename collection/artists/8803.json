@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Cardew, Michel",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/michael-cardew-8803",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "small bowl",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12114_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cardew-small-bowl-t12114",
+      "id": "88243",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "low bowl with wide rim",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12115_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cardew-low-bowl-with-wide-rim-t12115",
+      "id": "88244",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lidded tobacco jar",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12116_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cardew-lidded-tobacco-jar-t12116",
+      "id": "88245",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vase",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12117_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cardew-vase-t12117",
+      "id": "88246",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bowl",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12118_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cardew-bowl-t12118",
+      "id": "88247",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "double bowl",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12119_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cardew-double-bowl-t12119",
+      "id": "88248",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "soya sprinkler bottle",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12120_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cardew-soya-sprinkler-bottle-t12120",
+      "id": "88249",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "88243",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88244",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88245",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88246",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88247",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88248",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88249",
+      "value": 1
+    }
+  ]
+}

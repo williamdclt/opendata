@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "L\u00e1szl\u00f3, Philip Alexius de",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/philip-alexius-de-laszlo-1469",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "lady wantage",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02957_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/laszlo-lady-wantage-n02957",
+      "id": "8393",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8393",
+      "value": 1
+    }
+  ]
+}

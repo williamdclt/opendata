@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Dalton, Richard",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/richard-dalton-2422",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the farnese hercules",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08241_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dalton-the-farnese-hercules-t08241",
+      "id": "22674",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "22674",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hayman, Francis",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/francis-hayman-245",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the wrestling scene from \u2018as you like it\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06206_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hayman-the-wrestling-scene-from-as-you-like-it-n06206",
+      "id": "5895",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "thomas nuthall and his friend hambleton custance",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00052_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hayman-thomas-nuthall-and-his-friend-hambleton-custance-t00052",
+      "id": "5896",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "see-saw",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00524_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hayman-see-saw-t00524",
+      "id": "5897",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the author and his reader; a frontispiece to \u2018the tatler\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08137_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hayman-the-author-and-his-reader-a-frontispiece-to-the-tatler-t08137",
+      "id": "22987",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "samuel richardson, the novelist (1684-1761), seated, surrounded by his second family",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12221_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hayman-samuel-richardson-the-novelist-1684-1761-seated-surrounded-by-his-second-family-t12221",
+      "id": "88471",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5895",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5896",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5897",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22987",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88471",
+      "value": 1
+    }
+  ]
+}

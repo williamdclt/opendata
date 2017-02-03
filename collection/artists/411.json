@@ -1,0 +1,309 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Palmer, Samuel",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/samuel-palmer-411",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the bright cloud",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03312_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palmer-the-bright-cloud-n03312",
+      "id": "11044",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "coming from evening church",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03697_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palmer-coming-from-evening-church-n03697",
+      "id": "11045",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a church among trees",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03698_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palmer-a-church-among-trees-n03698",
+      "id": "11046",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the harvest moon: drawing for \u2018a pastoral scene\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03699_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palmer-the-harvest-moon-drawing-for-a-pastoral-scene-n03699",
+      "id": "11047",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "moonlight, a landscape with sheep",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03700_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palmer-moonlight-a-landscape-with-sheep-n03700",
+      "id": "11048",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape, girl standing",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03701_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palmer-landscape-girl-standing-n03701",
+      "id": "11049",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the weary ploughman",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03868_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palmer-the-weary-ploughman-n03868",
+      "id": "11050",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "evening, engraved by welby sherman",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03869_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palmer-evening-engraved-by-welby-sherman-n03869",
+      "id": "11051",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the gleaning field",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04842_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palmer-the-gleaning-field-n04842",
+      "id": "11052",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a hilly scene",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05805_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palmer-a-hilly-scene-n05805",
+      "id": "11053",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a dream in the apennine",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05923_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palmer-a-dream-in-the-apennine-n05923",
+      "id": "11054",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the colosseum and the arch of constantine from the palatine, rome",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01008_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palmer-the-colosseum-and-the-arch-of-constantine-from-the-palatine-rome-t01008",
+      "id": "11055",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the waterfalls, pistil mawddach, north wales",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01069_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palmer-the-waterfalls-pistil-mawddach-north-wales-t01069",
+      "id": "11056",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the lonely tower",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06517_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palmer-the-lonely-tower-t06517",
+      "id": "20320",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the lonely tower",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06518_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palmer-the-lonely-tower-t06518",
+      "id": "20325",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the lonely tower",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06519_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palmer-the-lonely-tower-t06519",
+      "id": "20324",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "entrance to blarney castle",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09153_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palmer-entrance-to-blarney-castle-t09153",
+      "id": "23335",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bally hooley castle and old church",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09154_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palmer-bally-hooley-castle-and-old-church-t09154",
+      "id": "23336",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a ruined castle on a hill",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09155_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palmer-a-ruined-castle-on-a-hill-t09155",
+      "id": "23337",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fantasy view of lake nemi",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09304_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palmer-fantasy-view-of-lake-nemi-t09304",
+      "id": "23334",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tintagel castle",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palmer-tintagel-castle-t13441",
+      "id": "115331",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "11044",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11045",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11046",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11047",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11048",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11049",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11050",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11051",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11052",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11053",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11054",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11055",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11056",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20320",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20325",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20324",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23335",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23336",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23337",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23334",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "115331",
+      "value": 1
+    }
+  ]
+}

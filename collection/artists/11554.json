@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Moran, Katy",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/katy-moran-11554",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "rooms of the mind",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13035_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moran-rooms-of-the-mind-t13035",
+      "id": "109709",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lady things",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13036_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moran-lady-things-t13036",
+      "id": "109705",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "109709",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "109705",
+      "value": 1
+    }
+  ]
+}

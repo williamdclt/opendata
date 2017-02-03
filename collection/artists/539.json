@@ -1,0 +1,281 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Swan, John Macallan",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-macallan-swan-539",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the prodigal son",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01569_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/swan-the-prodigal-son-n01569",
+      "id": "14076",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "panthers resting",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/swan-panthers-resting-n02708",
+      "id": "14077",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the gladiators",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02766_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/swan-the-gladiators-n02766",
+      "id": "14078",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of a lion and lion lying down",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02768_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/swan-head-of-a-lion-and-lion-lying-down-n02768",
+      "id": "14079",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tiger lying down",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02769_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/swan-tiger-lying-down-n02769",
+      "id": "14080",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two lionesses and two heads of lionesses",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/swan-two-lionesses-and-two-heads-of-lionesses-n02770",
+      "id": "14081",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tiger lying down with head raised",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02771_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/swan-tiger-lying-down-with-head-raised-n02771",
+      "id": "14082",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "leopard bending down to drink",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02772_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/swan-leopard-bending-down-to-drink-n02772",
+      "id": "14083",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "back view of a leopard lying down",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02773_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/swan-back-view-of-a-leopard-lying-down-n02773",
+      "id": "14084",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of a tiger",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02774_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/swan-head-of-a-tiger-n02774",
+      "id": "14085",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of a lioness",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02775_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/swan-head-of-a-lioness-n02775",
+      "id": "14086",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "leopard drinking",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02776_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/swan-leopard-drinking-n02776",
+      "id": "14087",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lioness walking",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02777_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/swan-lioness-walking-n02777",
+      "id": "14088",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head and forepart of a tiger",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02778_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/swan-head-and-forepart-of-a-tiger-n02778",
+      "id": "14089",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "leopard gnawing a bone",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02779_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/swan-leopard-gnawing-a-bone-n02779",
+      "id": "14090",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "leopard lying down",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02780_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/swan-leopard-lying-down-n02780",
+      "id": "14091",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "back of a leopard lying down",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02781_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/swan-back-of-a-leopard-lying-down-n02781",
+      "id": "14092",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "boy and bear cubs",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/swan-boy-and-bear-cubs-n04729",
+      "id": "14093",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "young indian leopard and tortoise",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/swan-young-indian-leopard-and-tortoise-n05277",
+      "id": "14094",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "14076",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14077",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14078",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14079",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14080",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14081",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14082",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14083",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14084",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14085",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14086",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14087",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14088",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14089",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14090",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14091",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14092",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14093",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14094",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Danby, Francis",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/francis-danby-135",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the deluge",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06134_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/danby-the-deluge-n06134",
+      "id": "3002",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the wood nymph\u2019s hymn to the rising sun",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01132_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/danby-the-wood-nymphs-hymn-to-the-rising-sun-t01132",
+      "id": "3003",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the deluge",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01337_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/danby-the-deluge-t01337",
+      "id": "3004",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "children by a brook",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03667_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/danby-children-by-a-brook-t03667",
+      "id": "3005",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "liensfiord, norway: calm",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04104_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/danby-liensfiord-norway-calm-t04104",
+      "id": "3006",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sunset at sea after a storm, engraved by f.c. lewis",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06898_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/danby-sunset-at-sea-after-a-storm-engraved-by-fc-lewis-t06898",
+      "id": "21186",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "romantic woodland",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08139_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/danby-romantic-woodland-t08139",
+      "id": "22676",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "3002",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3003",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3004",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3005",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3006",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21186",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22676",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Braque, Georges",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/georges-braque-803",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "glass and plate of apples",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04166_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/braque-glass-and-plate-of-apples-n04166",
+      "id": "1442",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "guitar and jug",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04416_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/braque-guitar-and-jug-n04416",
+      "id": "1443",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bather",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04722_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/braque-bather-n04722",
+      "id": "1444",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the bird",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01698_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/braque-the-bird-p01698",
+      "id": "1445",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman with mandolin",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08228_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/braque-woman-with-mandolin-p08228",
+      "id": "20122",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "helios v",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11369_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/braque-helios-v-p11369",
+      "id": "20861",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "profile with palette",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77198_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/braque-profile-with-palette-p77198",
+      "id": "1446",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black chariot",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77264_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/braque-black-chariot-p77264",
+      "id": "17279",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bottle and fishes",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00445_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/braque-bottle-and-fishes-t00445",
+      "id": "1447",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mandora",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00833_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/braque-mandora-t00833",
+      "id": "1448",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "clarinet and bottle of rum on a mantelpiece",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02318_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/braque-clarinet-and-bottle-of-rum-on-a-mantelpiece-t02318",
+      "id": "1449",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "glass on a table",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05028_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/braque-glass-on-a-table-t05028",
+      "id": "1450",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06804_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/braque-still-life-t06804",
+      "id": "20862",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the billiard table",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07992_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/braque-the-billiard-table-t07992",
+      "id": "71849",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1442",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1443",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1444",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1445",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20122",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20861",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1446",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17279",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1447",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1448",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1449",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1450",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20862",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71849",
+      "value": 1
+    }
+  ]
+}

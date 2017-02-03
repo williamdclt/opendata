@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Fox Pitt, Douglas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/douglas-fox-pitt-1108",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "concert on the west pier, brighton",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03994_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fox-pitt-concert-on-the-west-pier-brighton-n03994",
+      "id": "4513",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the stafford gallery",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12995_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fox-pitt-the-stafford-gallery-t12995",
+      "id": "104088",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "interior with maid",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12996_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fox-pitt-interior-with-maid-t12996",
+      "id": "104089",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4513",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "104088",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "104089",
+      "value": 1
+    }
+  ]
+}

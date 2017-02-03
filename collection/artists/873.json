@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Caulfield, Patrick",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/patrick-caulfield-873",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03151_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caulfield-no-title-p03151",
+      "id": "2024",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ruins",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04076_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caulfield-ruins-p04076",
+      "id": "2025",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "coloured still life",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04077_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caulfield-coloured-still-life-p04077",
+      "id": "2026",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "earthenware",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04078_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caulfield-earthenware-p04078",
+      "id": "2027",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the hermit",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04079_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caulfield-the-hermit-p04079",
+      "id": "2028",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the letter",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04080_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caulfield-the-letter-p04080",
+      "id": "2029",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sweet bowl",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04081_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caulfield-sweet-bowl-p04081",
+      "id": "2030",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "weekend cabin",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04082_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caulfield-weekend-cabin-p04082",
+      "id": "2031",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bathroom mirror",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04083_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caulfield-bathroom-mirror-p04083",
+      "id": "2032",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cafe sign",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04084_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caulfield-cafe-sign-p04084",
+      "id": "2033",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cross",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04085_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caulfield-cross-p04085",
+      "id": "2034",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "found objects",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04086_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caulfield-found-objects-p04086",
+      "id": "2035",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "loudspeaker",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04087_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caulfield-loudspeaker-p04087",
+      "id": "2036",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "coal fire",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04088_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caulfield-coal-fire-p04088",
+      "id": "2037",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lampshade",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04089_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caulfield-lampshade-p04089",
+      "id": "2038",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "small window",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04090_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caulfield-small-window-p04090",
+      "id": "2039",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two jugs",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04091_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caulfield-two-jugs-p04091",
+      "id": "2040",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wine glasses",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04092_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caulfield-wine-glasses-p04092",
+      "id": "2041",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "interior: evening",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04093_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caulfield-interior-evening-p04093",
+      "id": "2042",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "interior: noon",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04094_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caulfield-interior-noon-p04094",
+      "id": "16937",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "interior: morning",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04095_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caulfield-interior-morning-p04095",
+      "id": "4436",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "interior: night",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04096_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caulfield-interior-night-p04096",
+      "id": "11095",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of a frenchman",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04097_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caulfield-portrait-of-a-frenchman-p04097",
+      "id": "2043",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vase on display",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04098_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caulfield-vase-on-display-p04098",
+      "id": "2044",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fig branch",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04099_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caulfield-fig-branch-p04099",
+      "id": "2045",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "napkin and onions",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04100_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caulfield-napkin-and-onions-p04100",
+      "id": "2046",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "occasional table",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04101_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caulfield-occasional-table-p04101",
+      "id": "2047",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pipe",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04102_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caulfield-pipe-p04102",
+      "id": "2048",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "window at night",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04103_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caulfield-window-at-night-p04103",
+      "id": "2049",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black and white cafe",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04104_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caulfield-black-and-white-cafe-p04104",
+      "id": "2050",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "coat stand",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04105_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caulfield-coat-stand-p04105",
+      "id": "2051",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "curtain and bottle",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04106_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caulfield-curtain-and-bottle-p04106",
+      "id": "2052",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "paris separates",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04107_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caulfield-paris-separates-p04107",
+      "id": "2053",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pipe and jug",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04108_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caulfield-pipe-and-jug-p04108",
+      "id": "2054",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spider plant",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04109_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caulfield-spider-plant-p04109",
+      "id": "2055",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tulips",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04110_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caulfield-tulips-p04110",
+      "id": "2056",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jar",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04111_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caulfield-jar-p04111",
+      "id": "2057",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jug",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04112_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caulfield-jug-p04112",
+      "id": "2058",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "evening menu",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05360_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caulfield-evening-menu-p05360",
+      "id": "2059",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "garden with pines",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05361_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caulfield-garden-with-pines-p05361",
+      "id": "2060",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2024",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2025",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2026",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2027",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2028",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2029",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2030",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2031",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2032",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2033",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2034",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2035",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2036",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2037",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2038",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2039",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2040",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2041",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2042",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16937",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4436",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11095",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2043",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2044",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2045",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2046",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2047",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2048",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2049",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2050",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2051",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2052",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2053",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2054",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2055",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2056",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2057",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2058",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2059",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2060",
+      "value": 1
+    }
+  ]
+}

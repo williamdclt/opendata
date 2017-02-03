@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Murphy, Myles",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/myles-murphy-2344",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "figure with yellow foreground",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06875_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/murphy-figure-with-yellow-foreground-t06875",
+      "id": "21043",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "21043",
+      "value": 1
+    }
+  ]
+}

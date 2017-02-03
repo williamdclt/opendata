@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Fini, Leonor",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/leonor-fini-5287",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "little hermit sphinx",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13589_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fini-little-hermit-sphinx-t13589",
+      "id": "75621",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "75621",
+      "value": 1
+    }
+  ]
+}

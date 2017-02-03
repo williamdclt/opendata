@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Crippa, Roberto",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/roberto-crippa-960",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "aurora borealis",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/crippa-aurora-borealis-t00087",
+      "id": "2939",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2939",
+      "value": 1
+    }
+  ]
+}

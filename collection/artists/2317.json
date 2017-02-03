@@ -1,0 +1,505 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Palermo, Blinky",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/blinky-palermo-peter-heisterkamp-2317",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78324_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palermo-title-not-known-p78324",
+      "id": "26731",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78325_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palermo-title-not-known-p78325",
+      "id": "26732",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78326_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palermo-title-not-known-p78326",
+      "id": "26733",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78327_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palermo-title-not-known-p78327",
+      "id": "26734",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ziffernreiche 1 bis 0",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palermo-ziffernreiche-1-bis-0-p80225",
+      "id": "122510",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "graue scheibe, blaues dreieck",
+      "url": "http://www.tate.org.uk/art/images/work/P/P80/P80226_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palermo-graue-scheibe-blaues-dreieck-p80226",
+      "id": "122512",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "flipper",
+      "url": "http://www.tate.org.uk/art/images/work/P/P80/P80227_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palermo-flipper-p80227",
+      "id": "122515",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "12 original lithographien",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palermo-12-original-lithographien-p80228",
+      "id": "123758",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ohne titel \u201cmit rotem strich\u201d",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palermo-ohne-titel-mit-rotem-strich-p80229",
+      "id": "123762",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "siegel",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palermo-siegel-p80230",
+      "id": "123764",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ohne titel",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palermo-ohne-titel-p80231",
+      "id": "123765",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "t",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palermo-t-p80232",
+      "id": "123766",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fenster",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palermo-fenster-p80233",
+      "id": "123768",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ohne titel \u201cmit komma\u201d",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palermo-ohne-titel-mit-komma-p80234",
+      "id": "123770",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ohne titel",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palermo-ohne-titel-p80235",
+      "id": "123771",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "suite",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palermo-suite-p80236",
+      "id": "123772",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ohne titel",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palermo-ohne-titel-p80237",
+      "id": "123782",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "projektion",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palermo-projektion-p80238",
+      "id": "123783",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "oliv/silber",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palermo-olivsilber-p80239",
+      "id": "123784",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "telefon",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palermo-richter-telefon-p80240",
+      "id": "123785",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "auto",
+      "url": "http://www.tate.org.uk/art/images/work/P/P80/P80241_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palermo-auto-p80241",
+      "id": "123786",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "heinz gappmayr visuelle gedichte \u2013 palermo f\u00fcnf miniaturen",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palermo-heinz-gappmayr-visuelle-gedichte-palermo-funf-miniaturen-p80242",
+      "id": "123787",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "miniatur",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palermo-miniatur-p80243",
+      "id": "123788",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "f\u00fcnf miniaturen",
+      "url": "http://www.tate.org.uk/art/images/work/P/P80/P80244_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palermo-funf-miniaturen-p80244",
+      "id": "123795",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "miniatur",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palermo-miniatur-p80245",
+      "id": "123796",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dreiteilige miniatur",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palermo-dreiteilige-miniatur-p80246",
+      "id": "123798",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mappe zur wandmalerei hamburger kunstverein",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palermo-mappe-zur-wandmalerei-hamburger-kunstverein-p80247",
+      "id": "123799",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ohne titel",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palermo-ohne-titel-p80248",
+      "id": "123804",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "miniaturen ii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palermo-miniaturen-ii-p80249",
+      "id": "123808",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "treppenhaus",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palermo-treppenhaus-p80267",
+      "id": "123756",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blaues dreieck",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palermo-blaues-dreieck-t13802",
+      "id": "122511",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "schwarzer kasten",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palermo-schwarzer-kasten-t13804",
+      "id": "123759",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "graue scheibe",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palermo-graue-scheibe-t13805",
+      "id": "123760",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ohne titel",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13806_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palermo-ohne-titel-t13806",
+      "id": "123802",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "happier than the morning sun \u201cto stevie wonder\u201d",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13807_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/palermo-happier-than-the-morning-sun-to-stevie-wonder-t13807",
+      "id": "123805",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "26731",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26732",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26733",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26734",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "122510",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "122512",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "122515",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123758",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123762",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123764",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123765",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123766",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123768",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123770",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123771",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123772",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123782",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123783",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123784",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123785",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123786",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123787",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123788",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123795",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123796",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123798",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123799",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123804",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123808",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123756",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "122511",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123759",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123760",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123802",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123805",
+      "value": 1
+    }
+  ]
+}

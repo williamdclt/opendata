@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hammershoi, Vilhelm",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/vilhelm-hammershoi-1245",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "interior",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04106_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hammershoi-interior-n04106",
+      "id": "5834",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "interior, sunlight on the floor",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04509_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hammershoi-interior-sunlight-on-the-floor-n04509",
+      "id": "5835",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5834",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5835",
+      "value": 1
+    }
+  ]
+}

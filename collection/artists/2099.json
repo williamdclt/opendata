@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Velickovic, Vladimir",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/vladimir-velickovic-2099",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "elements and documents employed",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07593_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/velickovic-elements-and-documents-employed-p07593",
+      "id": "15724",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "15724",
+      "value": 1
+    }
+  ]
+}

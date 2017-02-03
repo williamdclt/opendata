@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Essenhigh, Inka",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/inka-essenhigh-3028",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "show girls",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78509_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/essenhigh-show-girls-p78509",
+      "id": "66696",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "daedalus and icarus",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78510_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/essenhigh-daedalus-and-icarus-p78510",
+      "id": "66697",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "born again",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07702_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/essenhigh-born-again-t07702",
+      "id": "66544",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "66696",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66697",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66544",
+      "value": 1
+    }
+  ]
+}

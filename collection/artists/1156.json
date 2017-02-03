@@ -1,0 +1,197 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gertler, Mark",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/mark-gertler-1156",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "portrait of a girl",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03807_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gertler-portrait-of-a-girl-n03807",
+      "id": "5118",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the artist\u2019s mother",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gertler-the-artists-mother-n05121",
+      "id": "5119",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "violin case and flowers",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05124_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gertler-violin-case-and-flowers-n05124",
+      "id": "5120",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the servant girl",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05311_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gertler-the-servant-girl-n05311",
+      "id": "5121",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the artist\u2019s mother",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05557_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gertler-the-artists-mother-n05557",
+      "id": "5122",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the tea pot",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05835_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gertler-the-tea-pot-n05835",
+      "id": "5123",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "acrobats",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06033_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gertler-acrobats-n06033",
+      "id": "5124",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jewish family",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06231_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gertler-jewish-family-n06231",
+      "id": "5125",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018the servant girl\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06232_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gertler-sketch-for-the-servant-girl-n06232",
+      "id": "5126",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "queen of sheba",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00605_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gertler-queen-of-sheba-t00605",
+      "id": "5127",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the basket of fruit",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01043_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gertler-the-basket-of-fruit-t01043",
+      "id": "5128",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mandolinist",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01044_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gertler-mandolinist-t01044",
+      "id": "5129",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "merry-go-round",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03846_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gertler-merry-go-round-t03846",
+      "id": "5130",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5118",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5119",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5120",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5121",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5122",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5123",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5124",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5125",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5126",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5127",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5128",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5129",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5130",
+      "value": 1
+    }
+  ]
+}

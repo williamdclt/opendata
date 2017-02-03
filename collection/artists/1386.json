@@ -1,0 +1,351 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Katz, Alex",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/alex-katz-1386",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "pansies",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00001_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/katz-pansies-ar00001",
+      "id": "98171",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tulips",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00002_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/katz-tulips-ar00002",
+      "id": "98172",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "west window",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00003_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/katz-west-window-ar00003",
+      "id": "98173",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lillies against yellow house",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00004_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/katz-lillies-against-yellow-house-ar00004",
+      "id": "98174",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "young trees",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00005_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/katz-young-trees-ar00005",
+      "id": "98175",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "daisies #2",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00006_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/katz-daisies-2-ar00006",
+      "id": "98177",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ocean view",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00007_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/katz-ocean-view-ar00007",
+      "id": "98178",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "winter branch",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00008_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/katz-winter-branch-ar00008",
+      "id": "98181",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "night branch",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00009_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/katz-night-branch-ar00009",
+      "id": "98182",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "west palm beach",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00010_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/katz-west-palm-beach-ar00010",
+      "id": "98183",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "3 pm, november",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00011_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/katz-3-pm-november-ar00011",
+      "id": "98184",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "city night",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00012_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/katz-city-night-ar00012",
+      "id": "98185",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "green shadow #2",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00013_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/katz-green-shadow-2-ar00013",
+      "id": "98186",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "road",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00014_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/katz-road-ar00014",
+      "id": "98187",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "penobscot",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00015_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/katz-penobscot-ar00015",
+      "id": "98189",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "grey marine",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00016_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/katz-grey-marine-ar00016",
+      "id": "98190",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pink sweater",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00017_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/katz-pink-sweater-ar00017",
+      "id": "98994",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "eli\u2019s friend",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00018_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/katz-elis-friend-ar00018",
+      "id": "98995",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kate",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00019_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/katz-kate-ar00019",
+      "id": "98996",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vincent",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00020_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/katz-vincent-ar00020",
+      "id": "98997",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black brook",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/katz-black-brook-ar01176",
+      "id": "117937",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "full moon",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/katz-full-moon-ar01177",
+      "id": "117938",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dark eyes",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78394_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/katz-dark-eyes-p78394",
+      "id": "27241",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hiroshi and marcia",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03805_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/katz-hiroshi-and-marcia-t03805",
+      "id": "7824",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "98171",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98172",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98173",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98174",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98175",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98177",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98178",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98181",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98182",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98183",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98184",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98185",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98186",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98187",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98189",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98190",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98994",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98995",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98996",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98997",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117937",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117938",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27241",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7824",
+      "value": 1
+    }
+  ]
+}

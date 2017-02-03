@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gainsborough, Thomas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/thomas-gainsborough-199",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "wooded landscape with three cows at a pool",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00190_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gainsborough-wooded-landscape-with-three-cows-at-a-pool-a00190",
+      "id": "4887",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "musidora",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00308_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gainsborough-musidora-n00308",
+      "id": "4892",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "boy driving cows near a pool",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00309_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gainsborough-boy-driving-cows-near-a-pool-n00309",
+      "id": "4893",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sunset: carthorses drinking at a stream",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00310_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gainsborough-sunset-carthorses-drinking-at-a-stream-n00310",
+      "id": "4894",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "abel moysey",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00678_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gainsborough-abel-moysey-n00678",
+      "id": "4895",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018the parish clerk\u2019 (edward orpin, parish clerk of bradford-upon-avon)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00760_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gainsborough-the-parish-clerk-edward-orpin-parish-clerk-of-bradford-upon-avon-n00760",
+      "id": "1511",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the baillie family",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00789_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gainsborough-the-baillie-family-n00789",
+      "id": "4896",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the rev. sir henry bate-dudley, bart",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01044_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gainsborough-the-rev-sir-henry-bate-dudley-bart-n01044",
+      "id": "4897",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "copy of \u2018the watering place\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01174_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gainsborough-copy-of-the-watering-place-n01174",
+      "id": "4960",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "marie jean augustin vestris",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01271_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gainsborough-marie-jean-augustin-vestris-n01271",
+      "id": "4056",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wooded landscape with a peasant resting",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01283_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gainsborough-wooded-landscape-with-a-peasant-resting-n01283",
+      "id": "4898",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the artist\u2019s daughter margaret",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01482_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gainsborough-the-artists-daughter-margaret-n01482",
+      "id": "4899",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tristram and fox",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01483_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gainsborough-tristram-and-fox-n01483",
+      "id": "4900",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "an old horse",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01484_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gainsborough-an-old-horse-n01484",
+      "id": "4901",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape with a peasant on a path",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01485_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gainsborough-landscape-with-a-peasant-on-a-path-n01485",
+      "id": "4902",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape with figures under a tree",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01486_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gainsborough-landscape-with-figures-under-a-tree-n01486",
+      "id": "4903",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woody landscape with building",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01825_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gainsborough-woody-landscape-with-building-n01825",
+      "id": "4904",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wooded landscape with figures and cows at a watering place (the watering place)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02210_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gainsborough-wooded-landscape-with-figures-and-cows-at-a-watering-place-the-watering-place-n02210",
+      "id": "4905",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wooded landscape with shepherd and sheep",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02223_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gainsborough-wooded-landscape-with-shepherd-and-sheep-n02223",
+      "id": "4906",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mountain landscape with pool",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02224_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gainsborough-mountain-landscape-with-pool-n02224",
+      "id": "4907",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wooded landscape with horsemen travelling along a country track",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02225_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gainsborough-wooded-landscape-with-horsemen-travelling-along-a-country-track-n02225",
+      "id": "4908",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "upland landscape with river and horsemen crossing a bridge",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02226_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gainsborough-upland-landscape-with-river-and-horsemen-crossing-a-bridge-n02226",
+      "id": "4909",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wooded landscape with peasant asleep and horses outside a shed",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02227_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gainsborough-wooded-landscape-with-peasant-asleep-and-horses-outside-a-shed-n02227",
+      "id": "4910",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wooded landscape with figures and pool",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02228_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gainsborough-wooded-landscape-with-figures-and-pool-n02228",
+      "id": "4911",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wooded mountain landscape with figures, church and river",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02229_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gainsborough-wooded-mountain-landscape-with-figures-church-and-river-n02229",
+      "id": "4912",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the bridge",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02284_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gainsborough-the-bridge-n02284",
+      "id": "4913",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sir william blackstone",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02637_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gainsborough-sir-william-blackstone-n02637",
+      "id": "4914",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "miss elizabeth singleton",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02638_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gainsborough-miss-elizabeth-singleton-n02638",
+      "id": "4915",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wooded landscape with peasant reading tombstone, rustic lovers and ruined church",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02717_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gainsborough-wooded-landscape-with-peasant-reading-tombstone-rustic-lovers-and-ruined-n02717",
+      "id": "4916",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wooded landscape with two country carts and figures",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02718_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gainsborough-wooded-landscape-with-two-country-carts-and-figures-n02718",
+      "id": "4917",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cattle and tree, engraved by thomas rowlandson",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02719_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gainsborough-cattle-and-tree-engraved-by-thomas-rowlandson-n02719",
+      "id": "4961",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wooded river landscape with shepherd and sheep",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02720_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gainsborough-wooded-river-landscape-with-shepherd-and-sheep-n02720",
+      "id": "4918",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wooded landscape with country cart, cottage and figures",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02721_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gainsborough-wooded-landscape-with-country-cart-cottage-and-figures-n02721",
+      "id": "4919",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wooded landscape with herdsman and three cows",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02722_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gainsborough-wooded-landscape-with-herdsman-and-three-cows-n02722",
+      "id": "4920",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wooded landscape with buildings on a hillside",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02921_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gainsborough-wooded-landscape-with-buildings-on-a-hillside-n02921",
+      "id": "4921",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the housemaid",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02928_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gainsborough-the-housemaid-n02928",
+      "id": "4922",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "admiral sir charles thompson, bt",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gainsborough-admiral-sir-charles-thompson-bt-n04690",
+      "id": "4923",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "john needham, 10th viscount kilmorey",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04777_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gainsborough-john-needham-10th-viscount-kilmorey-n04777",
+      "id": "4924",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs sarah walker",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04845_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gainsborough-mrs-sarah-walker-n04845",
+      "id": "4962",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure study for \u2018the housemaid\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05400_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gainsborough-figure-study-for-the-housemaid-n05400",
+      "id": "4925",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4887",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4892",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4893",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4894",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4895",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1511",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4896",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4897",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4960",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4056",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4898",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4899",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4900",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4901",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4902",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4903",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4904",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4905",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4906",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4907",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4908",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4909",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4910",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4911",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4912",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4913",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4914",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4915",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4916",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4917",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4961",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4918",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4919",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4920",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4921",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4922",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4923",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4924",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4962",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4925",
+      "value": 1
+    }
+  ]
+}

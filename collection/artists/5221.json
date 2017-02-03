@@ -1,0 +1,14 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Anonymous",
+      "url": null,
+      "gender": "",
+      "tatelink": "http://www.tate.org.uk/art/artists/anonymous-5221",
+      "id": "Artist",
+      "size": 30
+    }
+  ],
+  "links": []
+}

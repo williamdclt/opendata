@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Penley, Aaron Edwin",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/aaron-edwin-penley-416",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "hyde park corner",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02390_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/penley-hyde-park-corner-n02390",
+      "id": "11506",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ruins at torre wood",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02391_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/penley-ruins-at-torre-wood-n02391",
+      "id": "11507",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "willows and barge",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02392_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/penley-willows-and-barge-n02392",
+      "id": "11508",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "an oak wood near southampton",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02393_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/penley-an-oak-wood-near-southampton-n02393",
+      "id": "11509",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "11506",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11507",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11508",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11509",
+      "value": 1
+    }
+  ]
+}

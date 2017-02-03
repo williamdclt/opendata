@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Martineau, Robert Braithwaite",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/robert-braithwaite-martineau-372",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the last day in the old home",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01500_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martineau-the-last-day-in-the-old-home-n01500",
+      "id": "9352",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "picciola",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03626_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martineau-picciola-n03626",
+      "id": "9353",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a man\u2019s head for \u2018picciola\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05979_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martineau-study-of-a-mans-head-for-picciola-n05979",
+      "id": "9354",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a woman",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martineau-study-of-a-woman-n05980",
+      "id": "9355",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kit\u2019s writing lesson",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00011_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martineau-kits-writing-lesson-t00011",
+      "id": "9356",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9352",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9353",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9354",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9355",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9356",
+      "value": 1
+    }
+  ]
+}

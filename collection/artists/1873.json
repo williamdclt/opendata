@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Rothenstein, Michael",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/michael-rothenstein-1873",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the crucifixion",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05046_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-the-crucifixion-n05046",
+      "id": "12881",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fathers",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01580_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-fathers-p01580",
+      "id": "12882",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "belfast [first version]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01581_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-belfast-first-version-p01581",
+      "id": "12883",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "belfast [second version]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01582_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-belfast-second-version-p01582",
+      "id": "12884",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "crash",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01583_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-crash-p01583",
+      "id": "12885",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jags",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01584_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-jags-p01584",
+      "id": "12886",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jags",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01585_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-jags-p01585",
+      "id": "12887",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jags",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01586_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-jags-p01586",
+      "id": "12888",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "violence i (first version)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01587_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-violence-i-first-version-p01587",
+      "id": "12889",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "violence i (second version)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01588_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-violence-i-second-version-p01588",
+      "id": "12890",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "violence ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01589_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-violence-ii-p01589",
+      "id": "12891",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "new york city ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01590_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-new-york-city-ii-p01590",
+      "id": "12892",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "timber felling",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01720_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-timber-felling-p01720",
+      "id": "12893",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02400_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-title-not-known-p02400",
+      "id": "12894",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02401_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-title-not-known-p02401",
+      "id": "12895",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02402_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-title-not-known-p02402",
+      "id": "12896",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02403_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-title-not-known-p02403",
+      "id": "12897",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02404_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-title-not-known-p02404",
+      "id": "12898",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02405_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-title-not-known-p02405",
+      "id": "12899",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02406_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-title-not-known-p02406",
+      "id": "12900",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02407_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-title-not-known-p02407",
+      "id": "12901",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02408_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-title-not-known-p02408",
+      "id": "12902",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02409_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-title-not-known-p02409",
+      "id": "12903",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02410_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-title-not-known-p02410",
+      "id": "12904",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02411_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-title-not-known-p02411",
+      "id": "12905",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02412_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-title-not-known-p02412",
+      "id": "12906",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02413_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-title-not-known-p02413",
+      "id": "12907",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02414_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-title-not-known-p02414",
+      "id": "12908",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02415_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-title-not-known-p02415",
+      "id": "12909",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rip - ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02948_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-rip-ii-p02948",
+      "id": "12910",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rush",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03107_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-rush-p03107",
+      "id": "12911",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sunrise at 36,000 ft",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06519_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-sunrise-at-36000-ft-p06519",
+      "id": "12912",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black bar",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07134_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-black-bar-p07134",
+      "id": "12913",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black bar (proof)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07135_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-black-bar-proof-p07135",
+      "id": "12914",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "red gothic",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07136_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-red-gothic-p07136",
+      "id": "12915",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the giraffe",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-the-giraffe-p11083",
+      "id": "12916",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "green pagoda",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20077_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-green-pagoda-p20077",
+      "id": "20450",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "catherine wheels",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77172_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-catherine-wheels-p77172",
+      "id": "12917",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tournament",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77204_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-tournament-p77204",
+      "id": "12918",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black and orange",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77205_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-black-and-orange-p77205",
+      "id": "12919",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12881",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12882",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12883",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12884",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12885",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12886",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12887",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12888",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12889",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12890",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12891",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12892",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12893",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12894",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12895",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12896",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12897",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12898",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12899",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12900",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12901",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12902",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12903",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12904",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12905",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12906",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12907",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12908",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12909",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12910",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12911",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12912",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12913",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12914",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12915",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12916",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20450",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12917",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12918",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12919",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Caro, Antonio",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/antonio-caro-16015",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "colombia",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caro-colombia-p13173",
+      "id": "120551",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "120551",
+      "value": 1
+    }
+  ]
+}

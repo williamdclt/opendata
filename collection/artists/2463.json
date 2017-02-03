@@ -1,0 +1,141 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Underwood, Thomas Richard",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/thomas-richard-underwood-2463",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a rocky coast",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09263_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/underwood-a-rocky-coast-t09263",
+      "id": "23878",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a ship in an estuary",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09264_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/underwood-a-ship-in-an-estuary-t09264",
+      "id": "23881",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape composition",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09265_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/underwood-landscape-composition-t09265",
+      "id": "23880",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "carnarvon castle and estuary",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09267_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/underwood-carnarvon-castle-and-estuary-t09267",
+      "id": "23883",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a cottage beneath mountains",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09268_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/underwood-a-cottage-beneath-mountains-t09268",
+      "id": "23877",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cottages among woods in a hilly landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09269_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/underwood-cottages-among-woods-in-a-hilly-landscape-t09269",
+      "id": "23875",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mountain, stream and bridge",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09272_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/underwood-mountain-stream-and-bridge-t09272",
+      "id": "23879",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "carnarvon castle",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09273_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/underwood-carnarvon-castle-t09273",
+      "id": "23882",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a village below hills, the sea in the distance",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09274_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/underwood-a-village-below-hills-the-sea-in-the-distance-t09274",
+      "id": "23876",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "23878",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23881",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23880",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23883",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23877",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23875",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23879",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23882",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23876",
+      "value": 1
+    }
+  ]
+}

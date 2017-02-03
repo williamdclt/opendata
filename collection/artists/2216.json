@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Turner, F.C.",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/fc-turner-2216",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "damon and pythias, from \u2018the book of gems\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05203_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-damon-and-pythias-from-the-book-of-gems-t05203",
+      "id": "3728",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "3728",
+      "value": 1
+    }
+  ]
+}

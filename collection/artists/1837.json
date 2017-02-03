@@ -1,0 +1,295 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Richards, Frances",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/frances-richards-1837",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "being beauteous",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06495_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-being-beauteous-p06495",
+      "id": "12522",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bottom",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06496_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-bottom-p06496",
+      "id": "12523",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bottom",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06497_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-bottom-p06497",
+      "id": "12524",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "childhood",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06498_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-childhood-p06498",
+      "id": "12525",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "childhood ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06499_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-childhood-ii-p06499",
+      "id": "12526",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dawn",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06500_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-dawn-p06500",
+      "id": "12527",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dawn",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06501_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-dawn-p06501",
+      "id": "12528",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dawn",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06502_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-dawn-p06502",
+      "id": "12529",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "devotion",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06503_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-devotion-p06503",
+      "id": "12530",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mystic",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06504_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-mystic-p06504",
+      "id": "12531",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title page]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06505_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-title-page-p06505",
+      "id": "12532",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hieratic floral figure",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06506_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-hieratic-floral-figure-p06506",
+      "id": "12533",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pentecost",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07417_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-pentecost-p07417",
+      "id": "12534",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "peter in prison",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07418_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-peter-in-prison-p07418",
+      "id": "12535",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "peter on the housetop",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07419_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-peter-on-the-housetop-p07419",
+      "id": "12536",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "saul on his way to damascus",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07420_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-saul-on-his-way-to-damascus-p07420",
+      "id": "12537",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the shipwreck",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07421_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-the-shipwreck-p07421",
+      "id": "12538",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the stoning of stephen",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07422_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-the-stoning-of-stephen-p07422",
+      "id": "12539",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "praying to the animals",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07423_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-praying-to-the-animals-p07423",
+      "id": "12540",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "left and right of the long path",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00423_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-left-and-right-of-the-long-path-t00423",
+      "id": "12541",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12522",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12523",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12524",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12525",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12526",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12527",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12528",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12529",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12530",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12531",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12532",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12533",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12534",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12535",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12536",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12537",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12538",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12539",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12540",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12541",
+      "value": 1
+    }
+  ]
+}

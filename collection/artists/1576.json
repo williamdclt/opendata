@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Marchant, Paul",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/paul-marchant-1576",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "vhinpalashi (afternoon rag)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marchant-vhinpalashi-afternoon-rag-p06772",
+      "id": "9250",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bhupali (midnight rag)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marchant-bhupali-midnight-rag-p06795",
+      "id": "9251",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rag vasant (spring time)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marchant-rag-vasant-spring-time-p06796",
+      "id": "9252",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9250",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9251",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9252",
+      "value": 1
+    }
+  ]
+}

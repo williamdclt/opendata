@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Cullen, Martin",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/martin-cullen-12042",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "floating numb",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cullen-floating-numb-t13182",
+      "id": "101284",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "constellations",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cullen-constellations-t13183",
+      "id": "101285",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "volt",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cullen-volt-t13184",
+      "id": "101286",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nerve ballet",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cullen-nerve-ballet-t13185",
+      "id": "101287",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "concentration",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cullen-concentration-t13186",
+      "id": "101288",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "in the grip ii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cullen-in-the-grip-ii-t13187",
+      "id": "101289",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "101284",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101285",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101286",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101287",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101288",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101289",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Freud, Lucian",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/lucian-freud-1120",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "girl with a white dog",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06039_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freud-girl-with-a-white-dog-n06039",
+      "id": "4548",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "francis bacon",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06040_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freud-francis-bacon-n06040",
+      "id": "4549",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of a woman",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07782_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freud-head-of-a-woman-p07782",
+      "id": "4550",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the painter\u2019s mother",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07783_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freud-the-painters-mother-p07783",
+      "id": "4551",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman sleeping",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11507_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freud-woman-sleeping-p11507",
+      "id": "25964",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman with an arm tattoo",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11508_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freud-woman-with-an-arm-tattoo-p11508",
+      "id": "25963",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait: reflection",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freud-self-portrait-reflection-p11509",
+      "id": "25962",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of a woman",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11510_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freud-head-of-a-woman-p11510",
+      "id": "25965",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "david dawson",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11520_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freud-david-dawson-p11520",
+      "id": "26210",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kai",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20100_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freud-kai-p20100",
+      "id": "20590",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "large head",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20141_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freud-large-head-p20141",
+      "id": "20894",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bella in her pluto t-shirt",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20165_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freud-bella-in-her-pluto-t-shirt-p20165",
+      "id": "21595",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "man posing",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77182_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freud-man-posing-p77182",
+      "id": "4552",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blond girl",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77186_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freud-blond-girl-p77186",
+      "id": "4553",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "girl with a fig leaf",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77265_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freud-girl-with-a-fig-leaf-p77265",
+      "id": "17278",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head and shoulders of a girl",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77472_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freud-head-and-shoulders-of-a-girl-p77472",
+      "id": "19242",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "man with a thistle (self-portrait)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00422_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freud-man-with-a-thistle-self-portrait-t00422",
+      "id": "4554",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "naked portrait",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01972_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freud-naked-portrait-t01972",
+      "id": "4555",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two plants",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03105_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freud-two-plants-t03105",
+      "id": "4556",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "standing by the rags",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05722_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freud-standing-by-the-rags-t05722",
+      "id": "18957",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "leigh bowery",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06834_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freud-leigh-bowery-t06834",
+      "id": "20931",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "narcissus",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11793_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freud-narcissus-t11793",
+      "id": "81059",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "girl with a kitten",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12617_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freud-girl-with-a-kitten-t12617",
+      "id": "112",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "boy smoking",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12618_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freud-boy-smoking-t12618",
+      "id": "113",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the painter\u2019s mother iv",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12619_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freud-the-painters-mother-iv-t12619",
+      "id": "114",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "girl in a striped nightshirt",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13719_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freud-girl-in-a-striped-nightshirt-t13719",
+      "id": "67677",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4548",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4549",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4550",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4551",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25964",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25963",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25962",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25965",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26210",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20590",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20894",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21595",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4552",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4553",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17278",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19242",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4554",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4555",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4556",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18957",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20931",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81059",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "113",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67677",
+      "value": 1
+    }
+  ]
+}

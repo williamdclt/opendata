@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Oiticica, H\u00e9lio",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/helio-oiticica-7730",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "tropic\u00e1lia, penetrables pn 2 \u2018purity is a myth\u2019 and pn 3 \u2018imagetical\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12414_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/oiticica-tropicalia-penetrables-pn-2-purity-is-a-myth-and-pn-3-imagetical-t12414",
+      "id": "89517",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "b17 glass b\u00f3lide 05 \u2018homage to mondrian\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12415_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/oiticica-b17-glass-bolide-05-homage-to-mondrian-t12415",
+      "id": "89516",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "metaesquema",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/oiticica-metaesquema-t12416",
+      "id": "90475",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "metaesquema",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/oiticica-metaesquema-t12418",
+      "id": "90483",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "metaesquema",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/oiticica-metaesquema-t12419",
+      "id": "90594",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "b11 box b\u00f3lide 09",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12452_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/oiticica-b11-box-bolide-09-t12452",
+      "id": "89519",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bilateral \u2018teman\u2019 bil 003",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12762_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/oiticica-bilateral-teman-bil-003-t12762",
+      "id": "89514",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spatial relief (red) rel 036",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12763_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/oiticica-spatial-relief-red-rel-036-t12763",
+      "id": "89515",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "89517",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "89516",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90475",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90483",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90594",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "89519",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "89514",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "89515",
+      "value": 1
+    }
+  ]
+}

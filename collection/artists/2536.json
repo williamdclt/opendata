@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Thomson, W.",
+      "url": null,
+      "gender": "",
+      "tatelink": "http://www.tate.org.uk/art/artists/w-thomson-2536",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "dr cotton, ordinary of newgate, announcing the death warrant",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10666_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/thomson-dr-cotton-ordinary-of-newgate-announcing-the-death-warrant-t10666",
+      "id": "23800",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "23800",
+      "value": 1
+    }
+  ]
+}

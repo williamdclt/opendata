@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Smith, Richard",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/richard-smith-1959",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01275_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-i-p01275",
+      "id": "13529",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01276_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-ii-p01276",
+      "id": "13530",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01277_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-iii-p01277",
+      "id": "13531",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "iv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01278_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-iv-p01278",
+      "id": "13532",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "v",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01279_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-v-p01279",
+      "id": "13533",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vi",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01280_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-vi-p01280",
+      "id": "13534",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01281_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-vii-p01281",
+      "id": "13535",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "frontispiece",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01282_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-frontispiece-p01282",
+      "id": "13536",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01283_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-i-p01283",
+      "id": "13537",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01284_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-ii-p01284",
+      "id": "13538",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01285_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-iii-p01285",
+      "id": "13539",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "iv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01286_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-iv-p01286",
+      "id": "13540",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "v",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01287_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-v-p01287",
+      "id": "13541",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vi",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01288_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-vi-p01288",
+      "id": "13542",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01289_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-vii-p01289",
+      "id": "13543",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "viii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01290_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-viii-p01290",
+      "id": "13544",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "print 1",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01291_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-print-1-p01291",
+      "id": "13545",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "print 2",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01292_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-print-2-p01292",
+      "id": "13546",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "print 3",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01293_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-print-3-p01293",
+      "id": "13547",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "print 4",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01294_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-print-4-p01294",
+      "id": "13548",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "print 5",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01295_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-print-5-p01295",
+      "id": "13549",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "print 1",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01296_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-print-1-p01296",
+      "id": "13550",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "print 2",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01297_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-print-2-p01297",
+      "id": "13551",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "print 3",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01298_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-print-3-p01298",
+      "id": "13552",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "print 4",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01299_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-print-4-p01299",
+      "id": "13553",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "print 5",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01300_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-print-5-p01300",
+      "id": "13554",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "folded paper clip i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01301_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-folded-paper-clip-i-p01301",
+      "id": "13555",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "folded paper clip ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01302_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-folded-paper-clip-ii-p01302",
+      "id": "13556",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "folded paper clip iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01303_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-folded-paper-clip-iii-p01303",
+      "id": "13557",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02303_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-untitled-p02303",
+      "id": "13558",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "edward gordon craig i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02304_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-edward-gordon-craig-i-p02304",
+      "id": "13559",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "edward gordon craig ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02305_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-edward-gordon-craig-ii-p02305",
+      "id": "13560",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "second time around",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02306_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-second-time-around-p02306",
+      "id": "13561",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drop",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02307_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-drop-p02307",
+      "id": "13562",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "exit",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02308_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-exit-p02308",
+      "id": "13563",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "interval",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02309_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-interval-p02309",
+      "id": "13564",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "proscenium",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02310_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-proscenium-p02310",
+      "id": "13565",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02311_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-untitled-p02311",
+      "id": "13566",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "1",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02312_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-1-p02312",
+      "id": "13567",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "2",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02313_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-2-p02313",
+      "id": "13568",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13529",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13530",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13531",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13532",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13533",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13534",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13535",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13536",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13537",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13538",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13539",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13540",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13541",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13542",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13543",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13544",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13545",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13546",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13547",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13548",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13549",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13550",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13551",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13552",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13553",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13554",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13555",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13556",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13557",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13558",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13559",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13560",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13561",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13562",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13563",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13564",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13565",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13566",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13567",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13568",
+      "value": 1
+    }
+  ]
+}

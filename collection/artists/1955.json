@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Smith, Hassel",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/hassel-smith-1955",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00383_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-untitled-t00383",
+      "id": "13503",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13503",
+      "value": 1
+    }
+  ]
+}

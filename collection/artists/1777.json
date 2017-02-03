@@ -1,0 +1,547 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Pissarro, Lucien",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/lucien-pissarro-1777",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "high view, fish pond",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03179_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pissarro-high-view-fish-pond-n03179",
+      "id": "12083",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "almond trees, le lavandou",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03865_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pissarro-almond-trees-le-lavandou-n03865",
+      "id": "12084",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "april, epping",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04747_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pissarro-april-epping-n04747",
+      "id": "12085",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "all saints\u2019 church, hastings: sun and mist",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04748_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pissarro-all-saints-church-hastings-sun-and-mist-n04748",
+      "id": "12086",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ivy cottage, coldharbour: sun and snow",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05552_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pissarro-ivy-cottage-coldharbour-sun-and-snow-n05552",
+      "id": "12087",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "intoxicated with love [from the book \u2018poems taken from \u2018livre de jade\u2019\u2019]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07098_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pissarro-intoxicated-with-love-from-the-book-poems-taken-from-livre-de-jade-p07098",
+      "id": "12088",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "le miroir",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07099_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pissarro-le-miroir-p07099",
+      "id": "12089",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "girl picking flowers",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07100_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pissarro-girl-picking-flowers-p07100",
+      "id": "12090",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07101_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pissarro-landscape-p07101",
+      "id": "12091",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "illustration to the sleeping beauty",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07102_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pissarro-illustration-to-the-sleeping-beauty-p07102",
+      "id": "12092",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "le cur\u00e9",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08182_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pissarro-le-cure-p08182",
+      "id": "12093",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "le patissier",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08183_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pissarro-le-patissier-p08183",
+      "id": "12094",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jeune fille",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08184_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pissarro-jeune-fille-p08184",
+      "id": "12095",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "april",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08185_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pissarro-april-p08185",
+      "id": "12096",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "flor\u00e9al",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08186_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pissarro-floreal-p08186",
+      "id": "12097",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait de camille pissarro",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08188_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pissarro-portrait-de-camille-pissarro-p08188",
+      "id": "12099",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "boy and pine tree",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08189_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pissarro-boy-and-pine-tree-p08189",
+      "id": "12100",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "un coeur simple",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08190_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pissarro-un-coeur-simple-p08190",
+      "id": "12101",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "choix de sonnets",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08191_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pissarro-choix-de-sonnets-p08191",
+      "id": "12120",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "geese",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08192_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pissarro-geese-p08192",
+      "id": "12102",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "boy breaking a stick",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08193_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pissarro-boy-breaking-a-stick-p08193",
+      "id": "12103",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "consultation",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08194_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pissarro-consultation-p08194",
+      "id": "12104",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "consultation",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08195_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pissarro-consultation-p08195",
+      "id": "12105",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "consultation",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08196_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pissarro-consultation-p08196",
+      "id": "12106",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "l\u2019amour manill\u00e9",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08197_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pissarro-lamour-manille-p08197",
+      "id": "12107",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bookplate and new year card",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08198_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pissarro-bookplate-and-new-year-card-p08198",
+      "id": "12108",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "liseuse",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08199_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pissarro-liseuse-p08199",
+      "id": "12109",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "women in roundel",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08200_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pissarro-women-in-roundel-p08200",
+      "id": "12110",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "new year card",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08201_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pissarro-new-year-card-p08201",
+      "id": "12111",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "la berg\u00e8re",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08202_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pissarro-la-bergere-p08202",
+      "id": "12112",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape: blackpool, devon",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08203_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pissarro-landscape-blackpool-devon-p08203",
+      "id": "12113",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rye",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08204_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pissarro-rye-p08204",
+      "id": "12114",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "new year card",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08205_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pissarro-new-year-card-p08205",
+      "id": "12115",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "christmas card",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08206_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pissarro-christmas-card-p08206",
+      "id": "12116",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "new year card",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08207_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pissarro-new-year-card-p08207",
+      "id": "12117",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "la berg\u00e8re",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08208_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pissarro-la-bergere-p08208",
+      "id": "12118",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ex libris isa taylor",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08209_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pissarro-ex-libris-isa-taylor-p08209",
+      "id": "12119",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "contentment",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08226_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pissarro-contentment-p08226",
+      "id": "17844",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12083",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12084",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12085",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12086",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12087",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12088",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12089",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12090",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12091",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12092",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12093",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12094",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12095",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12096",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12097",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12099",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12100",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12101",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12120",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12102",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12103",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12104",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12105",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12106",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12107",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12108",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12109",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12110",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12111",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12112",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12113",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12114",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12115",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12116",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12117",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12118",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12119",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17844",
+      "value": 1
+    }
+  ]
+}

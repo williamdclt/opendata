@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Doyle, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-doyle-160",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "samuel rogers at his breakfast table, engraved by charles mottram",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04907_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doyle-samuel-rogers-at-his-breakfast-table-engraved-by-charles-mottram-t04907",
+      "id": "4000",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4000",
+      "value": 1
+    }
+  ]
+}

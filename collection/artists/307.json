@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Kerr, Charles Henry Malcolm",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/charles-henry-malcolm-kerr-307",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "myself",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02215_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kerr-myself-n02215",
+      "id": "7925",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the visitor",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04848_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kerr-the-visitor-n04848",
+      "id": "7926",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "7925",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7926",
+      "value": 1
+    }
+  ]
+}

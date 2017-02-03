@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hogarth, William",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/william-hogarth-265",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the painter and his pug",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00112_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hogarth-the-painter-and-his-pug-n00112",
+      "id": "6612",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sigismunda mourning over the heart of guiscardo",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01046_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hogarth-sigismunda-mourning-over-the-heart-of-guiscardo-n01046",
+      "id": "6613",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the strode family",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01153_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hogarth-the-strode-family-n01153",
+      "id": "6614",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lavinia fenton, duchess of bolton",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01161_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hogarth-lavinia-fenton-duchess-of-bolton-n01161",
+      "id": "6615",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "heads of six of hogarth\u2019s servants",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01374_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hogarth-heads-of-six-of-hogarths-servants-n01374",
+      "id": "6616",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "o the roast beef of old england (\u2018the gate of calais\u2019)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01464_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hogarth-o-the-roast-beef-of-old-england-the-gate-of-calais-n01464",
+      "id": "6617",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs salter",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01663_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hogarth-mrs-salter-n01663",
+      "id": "6618",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "james quin, actor",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01935_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hogarth-james-quin-actor-n01935",
+      "id": "6619",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a scene from \u2018the beggar\u2019s opera\u2019 vi",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02437_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hogarth-a-scene-from-the-beggars-opera-vi-n02437",
+      "id": "6620",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "benjamin hoadly, bishop of winchester",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02736_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hogarth-benjamin-hoadly-bishop-of-winchester-n02736",
+      "id": "6621",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the staymaker (? the happy marriage v: the fitting of the ball gown)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05359_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hogarth-the-staymaker-the-happy-marriage-v-the-fitting-of-the-ball-gown-n05359",
+      "id": "6623",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "satan, sin and death (a scene from milton\u2019s \u2018paradise lost\u2019)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00790_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hogarth-satan-sin-and-death-a-scene-from-miltons-paradise-lost-t00790",
+      "id": "6624",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ashley cowper with his wife and daughter",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00809_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hogarth-ashley-cowper-with-his-wife-and-daughter-t00809",
+      "id": "6625",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "thomas pellett, m.d.",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01570_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hogarth-thomas-pellett-md-t01570",
+      "id": "6626",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "satan, sin and death, engraved by thomas rowlandson and john ogbourne after t00790",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01680_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hogarth-satan-sin-and-death-engraved-by-thomas-rowlandson-and-john-ogbourne-after-t00790-t01680",
+      "id": "6644",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a rake\u2019s progress (plate 1)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hogarth-a-rakes-progress-plate-1-t01789",
+      "id": "6627",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a rake\u2019s progress (plate 3)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01790_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hogarth-a-rakes-progress-plate-3-t01790",
+      "id": "6628",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a rake\u2019s progress (plate 4)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01791_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hogarth-a-rakes-progress-plate-4-t01791",
+      "id": "6629",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a rake\u2019s progress (plate 5)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01792_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hogarth-a-rakes-progress-plate-5-t01792",
+      "id": "6630",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a rake\u2019s progress (plate 7)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01793_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hogarth-a-rakes-progress-plate-7-t01793",
+      "id": "6631",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a rake\u2019s progress (plate 8)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01794_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hogarth-a-rakes-progress-plate-8-t01794",
+      "id": "6632",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bambridge on trial for murder by a committee of the house of commons, engraved by thomas cook",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01795_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hogarth-bambridge-on-trial-for-murder-by-a-committee-of-the-house-of-commons-engraved-by-t01795",
+      "id": "6645",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "four prints of an election, plate 2: canvassing for votes, engraved by charles grignion",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01796_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hogarth-four-prints-of-an-election-plate-2-canvassing-for-votes-engraved-by-charles-t01796",
+      "id": "6646",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "four prints of an election, plate 4: chairing the members",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01797_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hogarth-aviline-four-prints-of-an-election-plate-4-chairing-the-members-t01797",
+      "id": "6638",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "moses brought to pharoah\u2019s daughter",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01798_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hogarth-sullivan-moses-brought-to-pharoahs-daughter-t01798",
+      "id": "6640",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gin lane",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01799_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hogarth-gin-lane-t01799",
+      "id": "6633",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the enraged musician",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01800_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hogarth-the-enraged-musician-t01800",
+      "id": "6634",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "beggar\u2019s opera, act iii, engraved by william blake",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hogarth-beggars-opera-act-iii-engraved-by-william-blake-t01801",
+      "id": "6647",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the march to finchley",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01802_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hogarth-sullivan-the-march-to-finchley-t01802",
+      "id": "6641",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "henry the eighth and ann boleyn, engraver unknown",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01803_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hogarth-henry-the-eighth-and-ann-boleyn-engraver-unknown-t01803",
+      "id": "6648",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the indian emperor, engraved by robert dodd",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01804_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hogarth-the-indian-emperor-engraved-by-robert-dodd-t01804",
+      "id": "6649",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "paul before felix",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01805_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hogarth-paul-before-felix-t01805",
+      "id": "6635",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "thomas herring, archbishop of canterbury",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01971_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hogarth-thomas-herring-archbishop-of-canterbury-t01971",
+      "id": "6636",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the dance (the happy marriage ?vi: the country dance)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03613_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hogarth-the-dance-the-happy-marriage-vi-the-country-dance-t03613",
+      "id": "6637",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dr benjamin hoadly, bishop of winchester, engraved by thomas cook",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03827_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hogarth-dr-benjamin-hoadly-bishop-of-winchester-engraved-by-thomas-cook-t03827",
+      "id": "6642",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the staymaker, engraved by joseph haynes",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03828_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hogarth-the-staymaker-engraved-by-joseph-haynes-t03828",
+      "id": "6643",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "o the roast beef of old england (\u2018the gate of calais\u2019)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03918_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hogarth-mosley-o-the-roast-beef-of-old-england-the-gate-of-calais-t03918",
+      "id": "6639",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "beggar\u2019s opera, act iii, engraved by william blake",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06462_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hogarth-beggars-opera-act-iii-engraved-by-william-blake-t06462",
+      "id": "20167",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of a lady, called lady pembroke",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06870_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hogarth-head-of-a-lady-called-lady-pembroke-t06870",
+      "id": "21060",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of george osborne, later john ranby jnr",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07121_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hogarth-portrait-of-george-osborne-later-john-ranby-jnr-t07121",
+      "id": "21645",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6612",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6613",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6614",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6615",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6616",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6617",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6618",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6619",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6620",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6621",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6623",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6624",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6625",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6626",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6644",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6627",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6628",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6629",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6630",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6631",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6632",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6645",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6646",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6638",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6640",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6633",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6634",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6647",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6641",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6648",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6649",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6635",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6636",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6637",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6642",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6643",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6639",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20167",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21060",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21645",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Goncharova, Natalya",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/natalya-goncharova-1186",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "three young women",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06193_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/goncharova-three-young-women-n06193",
+      "id": "5398",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "linen",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06194_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/goncharova-linen-n06194",
+      "id": "5399",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gardening",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00468_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/goncharova-gardening-t00468",
+      "id": "5400",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rayonist composition",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01119_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/goncharova-rayonist-composition-t01119",
+      "id": "5401",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "city by night",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/goncharova-city-by-night-t12388",
+      "id": "26744",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "country by day",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/goncharova-country-by-day-t12389",
+      "id": "26745",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5398",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5399",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5400",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5401",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26744",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26745",
+      "value": 1
+    }
+  ]
+}

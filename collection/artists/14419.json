@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Shibuya, Ryukichi",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/ryukichi-shibuya-14419",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled (advertising photograph, woman in kimono)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shibuya-untitled-advertising-photograph-woman-in-kimono-p13151",
+      "id": "112705",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (advertising photograph, two women on street)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shibuya-untitled-advertising-photograph-two-women-on-street-p13152",
+      "id": "112706",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (cigarettes, camera & coffee)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shibuya-untitled-cigarettes-camera-coffee-p13153",
+      "id": "112707",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (advertisement for laito cream)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shibuya-untitled-advertisement-for-laito-cream-p79908",
+      "id": "112426",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (advertisement for laito cream)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shibuya-untitled-advertisement-for-laito-cream-p79909",
+      "id": "112427",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (advertising photograph, mannequin hand and flower)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shibuya-untitled-advertising-photograph-mannequin-hand-and-flower-p79910",
+      "id": "112430",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "112705",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112706",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112707",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112426",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112427",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112430",
+      "value": 1
+    }
+  ]
+}

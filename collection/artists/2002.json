@@ -1,0 +1,337 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Stokes, Adrian",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/adrian-stokes-2002",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "piazza sant\u2019eustachio, rome",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00215_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stokes-piazza-santeustachio-rome-t00215",
+      "id": "13894",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "olive trees",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00216_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stokes-olive-trees-t00216",
+      "id": "13895",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00720_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stokes-still-life-t00720",
+      "id": "13896",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "olive terraces",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00721_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stokes-olive-terraces-t00721",
+      "id": "13897",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life: last eleven (no. 4)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03579_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stokes-still-life-last-eleven-no-4-t03579",
+      "id": "13898",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life: last eleven (no. 6)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03580_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stokes-still-life-last-eleven-no-6-t03580",
+      "id": "13899",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life: last eleven (no. 11)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03581_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stokes-still-life-last-eleven-no-11-t03581",
+      "id": "13900",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life: last eleven (no. 5)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03582_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stokes-still-life-last-eleven-no-5-t03582",
+      "id": "13901",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life: last eleven (no. 8)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03583_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stokes-still-life-last-eleven-no-8-t03583",
+      "id": "13902",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life: last eleven (no. 7)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03584_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stokes-still-life-last-eleven-no-7-t03584",
+      "id": "13903",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life: last eleven (no. 10)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03585_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stokes-still-life-last-eleven-no-10-t03585",
+      "id": "13904",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life: last eleven (no. 9)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03586_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stokes-still-life-last-eleven-no-9-t03586",
+      "id": "13905",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life: last eleven (no. 3)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03587_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stokes-still-life-last-eleven-no-3-t03587",
+      "id": "13906",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape, west penwith moor",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04123_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stokes-landscape-west-penwith-moor-t04123",
+      "id": "13907",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nude lying",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06512_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stokes-nude-lying-t06512",
+      "id": "20239",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape, blasted tree",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stokes-landscape-blasted-tree-t07800",
+      "id": "6",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07801_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stokes-still-life-t07801",
+      "id": "7",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07802_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stokes-still-life-t07802",
+      "id": "8",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07803_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stokes-still-life-t07803",
+      "id": "9",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07804_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stokes-still-life-t07804",
+      "id": "10",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07805_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stokes-still-life-t07805",
+      "id": "11",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape from church row",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stokes-landscape-from-church-row-t07806",
+      "id": "12",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07807_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stokes-still-life-t07807",
+      "id": "13",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13894",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13895",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13896",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13897",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13898",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13899",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13900",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13901",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13902",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13903",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13904",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13905",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13906",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13907",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20239",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13",
+      "value": 1
+    }
+  ]
+}

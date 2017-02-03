@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Branwhite, Nathan",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/nathan-branwhite-52",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "miniature portrait of w.j. m\u00fcller",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/branwhite-miniature-portrait-of-wj-muller-n02388",
+      "id": "1441",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1441",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Milroy, Lisa",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/lisa-milroy-2220",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "kyoto house",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77895_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/milroy-kyoto-house-p77895",
+      "id": "21750",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kyoto house",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77896_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/milroy-kyoto-house-p77896",
+      "id": "21751",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kyoto house",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77897_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/milroy-kyoto-house-p77897",
+      "id": "21756",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kyoto house",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77898_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/milroy-kyoto-house-p77898",
+      "id": "21757",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sky",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78092_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/milroy-sky-p78092",
+      "id": "26235",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sky",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78093_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/milroy-sky-p78093",
+      "id": "26236",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ostriches",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78094_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/milroy-ostriches-p78094",
+      "id": "26237",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "elephant",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78095_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/milroy-elephant-p78095",
+      "id": "26238",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "african landscape",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78096_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/milroy-african-landscape-p78096",
+      "id": "26239",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "light bulbs",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05217_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/milroy-light-bulbs-t05217",
+      "id": "16993",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shoes",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06532_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/milroy-shoes-t06532",
+      "id": "20351",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "finsbury square",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07128_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/milroy-finsbury-square-t07128",
+      "id": "21701",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "girl",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07432_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/milroy-girl-t07432",
+      "id": "26288",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "girl with sunglasses",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07433_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/milroy-girl-with-sunglasses-t07433",
+      "id": "26254",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "room",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07434_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/milroy-room-t07434",
+      "id": "26289",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/milroy-untitled-t13697",
+      "id": "80295",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "21750",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21751",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21756",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21757",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26235",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26236",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26237",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26238",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26239",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16993",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20351",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21701",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26288",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26254",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26289",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80295",
+      "value": 1
+    }
+  ]
+}

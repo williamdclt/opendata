@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Ardon, Mordecai",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/mordecai-ardon-660",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "missa dura: the knight, crystal night, house no. 5",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00608_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ardon-missa-dura-the-knight-crystal-night-house-no-5-t00608",
+      "id": "566",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "566",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Whiteford, Kate",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/kate-whiteford-2239",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "double chevron and spiral",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/whiteford-double-chevron-and-spiral-p11268",
+      "id": "18890",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/whiteford-untitled-p77283",
+      "id": "4884",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shadows - spiral",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/whiteford-shadows-spiral-t05739",
+      "id": "18969",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shadows - fish",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/whiteford-shadows-fish-t05740",
+      "id": "18970",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "18890",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4884",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18969",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18970",
+      "value": 1
+    }
+  ]
+}

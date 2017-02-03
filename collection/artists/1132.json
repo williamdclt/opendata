@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Fuller, Sue",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/sue-fuller-1132",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "string composition 128",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fuller-string-composition-128-t00757",
+      "id": "4747",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4747",
+      "value": 1
+    }
+  ]
+}

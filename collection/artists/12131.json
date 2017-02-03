@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Smith, Keir",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/keir-smith-12131",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "paolo",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-paolo-t12847",
+      "id": "101561",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "101561",
+      "value": 1
+    }
+  ]
+}

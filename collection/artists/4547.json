@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Meyer, Bill",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/bill-meyer-4547",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "bereshit bara",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20223_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meyer-bereshit-bara-p20223",
+      "id": "71000",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bore puri haadamah",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meyer-bore-puri-haadamah-p20224",
+      "id": "71001",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stasis into orgasm",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20225_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meyer-stasis-into-orgasm-p20225",
+      "id": "71002",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stoned, untimed gap",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20226_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meyer-stoned-untimed-gap-p20226",
+      "id": "71003",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "from the light came loving",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20227_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meyer-from-the-light-came-loving-p20227",
+      "id": "71004",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "71000",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71001",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71002",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71003",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71004",
+      "value": 1
+    }
+  ]
+}

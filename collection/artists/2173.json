@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Wunderlich, Paul",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/paul-wunderlich-2173",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[title not known: from the book \u2018paul wunderlich\u2019 by jens christian jensen]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wunderlich-title-not-known-from-the-book-paul-wunderlich-by-jens-christian-jensen-p08180",
+      "id": "16487",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16487",
+      "value": 1
+    }
+  ]
+}

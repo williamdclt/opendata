@@ -1,0 +1,281 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Rauschenberg, Robert",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/robert-rauschenberg-1815",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "glacial decoy series (lithograph i)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07381_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rauschenberg-glacial-decoy-series-lithograph-i-p07381",
+      "id": "12312",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "water stop",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07444_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rauschenberg-water-stop-p07444",
+      "id": "12313",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "glacial decoy series (lithograph iv)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07445_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rauschenberg-glacial-decoy-series-lithograph-iv-p07445",
+      "id": "12314",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "night grip",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07498_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rauschenberg-night-grip-p07498",
+      "id": "12315",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "preview",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07715_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rauschenberg-preview-p07715",
+      "id": "12316",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "soviet/american array i",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rauschenberg-sovietamerican-array-i-p11853",
+      "id": "21283",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "soviet/american array ii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rauschenberg-sovietamerican-array-ii-p11854",
+      "id": "21284",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "soviet/american array iii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rauschenberg-sovietamerican-array-iii-p11855",
+      "id": "21285",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "soviet/american array iv",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rauschenberg-sovietamerican-array-iv-p11856",
+      "id": "21286",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "soviet/american array v",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rauschenberg-sovietamerican-array-v-p11857",
+      "id": "21287",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "caucus",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rauschenberg-caucus-p13302",
+      "id": "66894",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "yellow body",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rauschenberg-yellow-body-p77010",
+      "id": "12317",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "visitation ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77107_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rauschenberg-visitation-ii-p77107",
+      "id": "12318",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pledge",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77108_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rauschenberg-pledge-p77108",
+      "id": "12319",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bazaar",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77127_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rauschenberg-bazaar-p77127",
+      "id": "12320",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the razorback bunch (etching i)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77146_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rauschenberg-the-razorback-bunch-etching-i-p77146",
+      "id": "12321",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lawn",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77581_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rauschenberg-lawn-p77581",
+      "id": "20619",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "almanac",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01135_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rauschenberg-almanac-t01135",
+      "id": "12322",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "revenue (spread)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03376_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rauschenberg-revenue-spread-t03376",
+      "id": "12323",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12312",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12313",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12314",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12315",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12316",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21283",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21284",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21285",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21286",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21287",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66894",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12317",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12318",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12319",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12320",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12321",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20619",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12322",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12323",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gordon, Lady",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/lady-gordon-nee-julia-isabella-levina-bennet-2577",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "cottage at wigmore, kent",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08138_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gordon-cottage-at-wigmore-kent-t08138",
+      "id": "22942",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "22942",
+      "value": 1
+    }
+  ]
+}

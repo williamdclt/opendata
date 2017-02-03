@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Auerbach, Frank",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/frank-auerbach-676",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/auerbach-title-not-known-a01034",
+      "id": "622",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/auerbach-title-not-known-a01035",
+      "id": "623",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/auerbach-title-not-known-a01036",
+      "id": "624",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/auerbach-title-not-known-a01037",
+      "id": "625",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tretire i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03138_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/auerbach-tretire-i-p03138",
+      "id": "626",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tretire ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03262_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/auerbach-tretire-ii-p03262",
+      "id": "627",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of g.b.",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04010_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/auerbach-head-of-gb-p04010",
+      "id": "628",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reclining figure ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04012_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/auerbach-reclining-figure-ii-p04012",
+      "id": "630",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reclining figure i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04013_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/auerbach-reclining-figure-i-p04013",
+      "id": "631",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seated figure",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04014_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/auerbach-seated-figure-p04014",
+      "id": "632",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "playing card - two heads j.y.m.",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04015_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/auerbach-playing-card-two-heads-jym-p04015",
+      "id": "16943",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ruth",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/auerbach-ruth-p12439",
+      "id": "81611",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "julia",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20084_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/auerbach-julia-p20084",
+      "id": "20469",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "david",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20085_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/auerbach-david-p20085",
+      "id": "20470",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "catherine",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20086_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/auerbach-catherine-p20086",
+      "id": "20471",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "j.y.m.",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20087_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/auerbach-jym-p20087",
+      "id": "20475",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "michael",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20088_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/auerbach-michael-p20088",
+      "id": "20472",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "geoffrey",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20089_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/auerbach-geoffrey-p20089",
+      "id": "20474",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jake",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20090_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/auerbach-jake-p20090",
+      "id": "20473",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "small head of e.o.w.",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00312_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/auerbach-small-head-of-eow-t00312",
+      "id": "633",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "e.o.w. nude",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00313_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/auerbach-eow-nude-t00313",
+      "id": "634",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "oxford street building site i",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00418_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/auerbach-oxford-street-building-site-i-t00418",
+      "id": "635",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "primrose hill",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01270_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/auerbach-primrose-hill-t01270",
+      "id": "636",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "working drawing for \u2018primrose hill\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01271_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/auerbach-working-drawing-for-primrose-hill-t01271",
+      "id": "637",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "working drawing for \u2018primrose hill\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01272_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/auerbach-working-drawing-for-primrose-hill-t01272",
+      "id": "638",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "working drawing for \u2018primrose hill\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01273_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/auerbach-working-drawing-for-primrose-hill-t01273",
+      "id": "639",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "working drawing for \u2018primrose hill\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01274_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/auerbach-working-drawing-for-primrose-hill-t01274",
+      "id": "640",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "working drawing for \u2018primrose hill\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01275_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/auerbach-working-drawing-for-primrose-hill-t01275",
+      "id": "641",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of e.o.w.",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02100_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/auerbach-head-of-eow-t02100",
+      "id": "642",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "to the studios",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03247_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/auerbach-to-the-studios-t03247",
+      "id": "643",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "j.y.m. seated no. 1",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03319_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/auerbach-jym-seated-no-1-t03319",
+      "id": "644",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the sitting room",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03933_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/auerbach-the-sitting-room-t03933",
+      "id": "645",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "to the studios",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06635_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/auerbach-to-the-studios-t06635",
+      "id": "20513",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of e.o.w. i",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06682_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/auerbach-head-of-eow-i-t06682",
+      "id": "20606",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study after titian i",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06683_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/auerbach-study-after-titian-i-t06683",
+      "id": "20600",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study after titian ii",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06684_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/auerbach-study-after-titian-ii-t06684",
+      "id": "20607",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the origin of the great bear",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06685_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/auerbach-the-origin-of-the-great-bear-t06685",
+      "id": "20608",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure on a bed",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06686_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/auerbach-figure-on-a-bed-t06686",
+      "id": "20601",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bacchus and ariadne",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06687_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/auerbach-bacchus-and-ariadne-t06687",
+      "id": "20597",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rimbaud",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06688_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/auerbach-rimbaud-t06688",
+      "id": "20604",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "622",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "623",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "624",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "625",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "626",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "627",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "628",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "630",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "631",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "632",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16943",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81611",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20469",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20470",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20471",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20475",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20472",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20474",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20473",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "633",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "634",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "635",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "636",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "637",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "638",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "639",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "640",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "641",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "642",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "643",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "644",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "645",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20513",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20606",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20600",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20607",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20608",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20601",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20597",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20604",
+      "value": 1
+    }
+  ]
+}

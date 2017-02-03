@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Nicholson, Isaac",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/isaac-nicholson-17882",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "zebra, illustration to \u2018general history of quadrupeds\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03970_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-bewick-zebra-illustration-to-general-history-of-quadrupeds-n03970",
+      "id": "973",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "973",
+      "value": 1
+    }
+  ]
+}

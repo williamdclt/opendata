@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Kuper, Roi",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/roi-kuper-2784",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kuper-untitled-p11736",
+      "id": "27307",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kuper-untitled-p11737",
+      "id": "27308",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kuper-untitled-p11738",
+      "id": "27310",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kuper-untitled-p11739",
+      "id": "27309",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kuper-untitled-p11740",
+      "id": "27311",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kuper-untitled-p11741",
+      "id": "27312",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kuper-untitled-p11742",
+      "id": "27313",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kuper-untitled-p11743",
+      "id": "27314",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "27307",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27308",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27310",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27309",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27311",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27312",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27313",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27314",
+      "value": 1
+    }
+  ]
+}

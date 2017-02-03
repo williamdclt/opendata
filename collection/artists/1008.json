@@ -1,0 +1,155 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Dimitrijevic, Braco",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/braco-dimitrijevic-1008",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the casual passer-by i met at 11.28 am, london, october 1972",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03684_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dimitrijevic-the-casual-passer-by-i-met-at-1128-am-london-october-1972-t03684",
+      "id": "3884",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "louvre (\u2018j.m.w. turner\u2019 \u2018edward rampton\u2019)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03685_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dimitrijevic-louvre-jmw-turner-edward-rampton-t03685",
+      "id": "3885",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "louvre (\u2018leonardo da vinci\u2019 \u2018albert evans\u2019)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03686_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dimitrijevic-louvre-leonardo-da-vinci-albert-evans-t03686",
+      "id": "3886",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "triptychos post historicus or entrance to the palace of light",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dimitrijevic-triptychos-post-historicus-or-entrance-to-the-palace-of-light-t03687",
+      "id": "3887",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "triptychos post historicus or artists\u2019 hats are high above the rainbow - portrait of barry",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dimitrijevic-triptychos-post-historicus-or-artists-hats-are-high-above-the-rainbow-t03688",
+      "id": "3888",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "triptychos post historicus: repeated secret",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04122_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dimitrijevic-triptychos-post-historicus-repeated-secret-t04122",
+      "id": "3889",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "this could be a place of historical interest",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12555_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dimitrijevic-this-could-be-a-place-of-historical-interest-t12555",
+      "id": "93762",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "this could be a place of historical importance",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12556_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dimitrijevic-this-could-be-a-place-of-historical-importance-t12556",
+      "id": "93763",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "casual passer-by i met at 1.43 pm, venice 1976",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12557_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dimitrijevic-casual-passer-by-i-met-at-143-pm-venice-1976-t12557",
+      "id": "93764",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "resurrection of alchemists",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dimitrijevic-resurrection-of-alchemists-t12866",
+      "id": "100791",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "3884",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3885",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3886",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3887",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3888",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3889",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93762",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93763",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93764",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "100791",
+      "value": 1
+    }
+  ]
+}

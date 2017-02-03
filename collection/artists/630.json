@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Adler, Jankel",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/jankel-adler-630",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "no man\u2019s land",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06202_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/adler-no-mans-land-n06202",
+      "id": "452",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman with hat",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00299_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/adler-woman-with-hat-t00299",
+      "id": "453",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the mutilated",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00372_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/adler-the-mutilated-t00372",
+      "id": "454",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "452",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "453",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "454",
+      "value": 1
+    }
+  ]
+}

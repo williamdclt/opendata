@@ -1,0 +1,323 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Clarke Hall, Lady Edna",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/lady-edna-clarke-hall-914",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "catherine leaning on a wall",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01064_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clarke-hall-catherine-leaning-on-a-wall-a01064",
+      "id": "2249",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "catherine and heathcliffe as children. verso: fragmentary figure",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01065_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clarke-hall-catherine-and-heathcliffe-as-children-verso-fragmentary-figure-a01065",
+      "id": "2250",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "catherine and heathcliffe walking",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01066_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clarke-hall-catherine-and-heathcliffe-walking-a01066",
+      "id": "2251",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seated woman",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01067_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clarke-hall-seated-woman-a01067",
+      "id": "2252",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "catherine linton seated at a window during her last illness. verso: four figures at table",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01068_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clarke-hall-catherine-linton-seated-at-a-window-during-her-last-illness-verso-four-figures-a01068",
+      "id": "2253",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "four figures and a cat. verso: study of hareton",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01069_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clarke-hall-four-figures-and-a-cat-verso-study-of-hareton-a01069",
+      "id": "2254",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nelly with baby hareton and catherine earnshaw. verso: similar composition",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01070_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clarke-hall-nelly-with-baby-hareton-and-catherine-earnshaw-verso-similar-composition-a01070",
+      "id": "2255",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "catherine the younger and hareton. verso: study of cows",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01071_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clarke-hall-catherine-the-younger-and-hareton-verso-study-of-cows-a01071",
+      "id": "2256",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for catherine. verso: upminster common",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01072_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clarke-hall-study-for-catherine-verso-upminster-common-a01072",
+      "id": "2257",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "catherine and heathcliffe sitting in a field",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01073_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clarke-hall-catherine-and-heathcliffe-sitting-in-a-field-a01073",
+      "id": "2258",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "girl leaning on a gate",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04228_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clarke-hall-girl-leaning-on-a-gate-n04228",
+      "id": "2259",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "catherine earnshaw walking",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05131_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clarke-hall-catherine-earnshaw-walking-n05131",
+      "id": "2260",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "catherine earnshaw and heathcliffe at wuthering heights",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05273_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clarke-hall-catherine-earnshaw-and-heathcliffe-at-wuthering-heights-n05273",
+      "id": "2261",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "justin reading",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05274_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clarke-hall-justin-reading-n05274",
+      "id": "2262",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "heathcliffe supporting catherine",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05418_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clarke-hall-heathcliffe-supporting-catherine-n05418",
+      "id": "2263",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "heathcliffe and catherine in a loft",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05419_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clarke-hall-heathcliffe-and-catherine-in-a-loft-n05419",
+      "id": "2264",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fireside with woman and dog",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clarke-hall-fireside-with-woman-and-dog-n05420",
+      "id": "2265",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the earnshaw family by the fireside",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05421_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clarke-hall-the-earnshaw-family-by-the-fireside-n05421",
+      "id": "2266",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "heathcliffe supporting catherine on a couch",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05422_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clarke-hall-heathcliffe-supporting-catherine-on-a-couch-n05422",
+      "id": "2267",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seated woman",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05423_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clarke-hall-seated-woman-n05423",
+      "id": "2268",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fireside scene",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05424_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clarke-hall-fireside-scene-n05424",
+      "id": "2269",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life of a basket on a chair",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05773_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clarke-hall-still-life-of-a-basket-on-a-chair-t05773",
+      "id": "19179",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2249",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2250",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2251",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2252",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2253",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2254",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2255",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2256",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2257",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2258",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2259",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2260",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2261",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2262",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2263",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2264",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2265",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2266",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2267",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2268",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2269",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19179",
+      "value": 1
+    }
+  ]
+}

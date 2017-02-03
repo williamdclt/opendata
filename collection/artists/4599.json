@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "City Racing (Matt Hale; Paul Noble, born 1963; John Burgess; Keith Coventry, born 1958; Peter Owen)",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/city-racing-matt-hale-paul-noble-born-1963-john-burgess-keith-coventry-born-1958-peter-4599",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "city racing family tree",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/city-racing-matt-hale-paul-noble-burgess-hale-noble-owen-city-racing-family-tree-t07838",
+      "id": "66796",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "66796",
+      "value": 1
+    }
+  ]
+}

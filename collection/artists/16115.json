@@ -1,0 +1,337 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Schulz-Dornburg, Ursula",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/ursula-schulz-dornburg-16115",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "erevan-yervandashat",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schulz-dornburg-erevan-yervandashat-p13174",
+      "id": "121301",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "armavir-yervandashat",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schulz-dornburg-armavir-yervandashat-p13175",
+      "id": "121302",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "erevan-sevan",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schulz-dornburg-erevan-sevan-p13176",
+      "id": "121303",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "echmiadzin-erevan",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schulz-dornburg-echmiadzin-erevan-p13177",
+      "id": "121304",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "erevan-artashat",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schulz-dornburg-erevan-artashat-p13178",
+      "id": "121305",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "erevan-gymri",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schulz-dornburg-erevan-gymri-p13179",
+      "id": "121306",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "erevan-parakar",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schulz-dornburg-erevan-parakar-p13180",
+      "id": "121307",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "erevan-yegnvard",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schulz-dornburg-erevan-yegnvard-p13181",
+      "id": "121308",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kaputavor-hadis",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schulz-dornburg-kaputavor-hadis-p13182",
+      "id": "121309",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "erevan-sevan",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schulz-dornburg-erevan-sevan-p80048",
+      "id": "121295",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sevan-shorja",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schulz-dornburg-sevan-shorja-p80049",
+      "id": "121296",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "erevan-gymri",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schulz-dornburg-erevan-gymri-p80050",
+      "id": "121297",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sevan-dilijan",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schulz-dornburg-sevan-dilijan-p80051",
+      "id": "121298",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "erevan-tiflis",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schulz-dornburg-erevan-tiflis-p80052",
+      "id": "121299",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "goris-khndzorek",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schulz-dornburg-goris-khndzorek-p80053",
+      "id": "121300",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "from medina to jordan border, saudi arabia: sahl al matran",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schulz-dornburg-from-medina-to-jordan-border-saudi-arabia-sahl-al-matran-p80054",
+      "id": "121310",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "from medina to jordan border, saudi arabia",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schulz-dornburg-from-medina-to-jordan-border-saudi-arabia-p80055",
+      "id": "121311",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "from medina to jordan border, saudi arabia",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schulz-dornburg-from-medina-to-jordan-border-saudi-arabia-p80056",
+      "id": "121312",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "from medina to jordan border, saudi arabia: arqanat",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schulz-dornburg-from-medina-to-jordan-border-saudi-arabia-arqanat-p80057",
+      "id": "121313",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "from medina to jordan border, saudi arabia",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schulz-dornburg-from-medina-to-jordan-border-saudi-arabia-p80058",
+      "id": "121314",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "from medina to jordan border, saudi arabia",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schulz-dornburg-from-medina-to-jordan-border-saudi-arabia-p80059",
+      "id": "121315",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "from medina to jordan border, saudi arabia: al mutalla",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schulz-dornburg-from-medina-to-jordan-border-saudi-arabia-al-mutalla-p80060",
+      "id": "121316",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "from medina to jordan border, saudi arabia",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schulz-dornburg-from-medina-to-jordan-border-saudi-arabia-p80061",
+      "id": "121317",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "121301",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121302",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121303",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121304",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121305",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121306",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121307",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121308",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121309",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121295",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121296",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121297",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121298",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121299",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121300",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121310",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121311",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121312",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121313",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121314",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121315",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121316",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121317",
+      "value": 1
+    }
+  ]
+}

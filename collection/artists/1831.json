@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Reutersw\u00e4rd, Carl Frederik",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/carl-frederik-reutersward-1831",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "portrait of infinity",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reutersward-portrait-of-infinity-t03109",
+      "id": "12378",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12378",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Engelbach, Florence",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/florence-engelbach-1059",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "roses",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/engelbach-roses-n04978",
+      "id": "4107",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4107",
+      "value": 1
+    }
+  ]
+}

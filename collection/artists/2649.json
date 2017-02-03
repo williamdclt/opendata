@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Goldin, Nan",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/nan-goldin-2649",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "jimmy paulette and tabboo! undressing, nyc",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11513_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/goldin-jimmy-paulette-and-tabboo-undressing-nyc-p11513",
+      "id": "25978",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jimmy paulette after the parade, nyc, 1991",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/goldin-jimmy-paulette-after-the-parade-nyc-1991-p13311",
+      "id": "27105",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vivienne in the green dress, nyc",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78043_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/goldin-vivienne-in-the-green-dress-nyc-p78043",
+      "id": "25979",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "greer and robert on the bed, nyc",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78044_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/goldin-greer-and-robert-on-the-bed-nyc-p78044",
+      "id": "25980",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nan one month after being battered",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78045_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/goldin-nan-one-month-after-being-battered-p78045",
+      "id": "25981",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "misty and jimmy paulette in a taxi, nyc",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78046_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/goldin-misty-and-jimmy-paulette-in-a-taxi-nyc-p78046",
+      "id": "25982",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait on the train, germany",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78047_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/goldin-self-portrait-on-the-train-germany-p78047",
+      "id": "25983",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "25978",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27105",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25979",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25980",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25981",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25982",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25983",
+      "value": 1
+    }
+  ]
+}

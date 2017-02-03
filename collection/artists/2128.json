@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Weight, Carel",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/carel-weight-2128",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the rendezvous",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06177_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/weight-the-rendezvous-n06177",
+      "id": "16064",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the dogs",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00095_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/weight-the-dogs-t00095",
+      "id": "16065",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "miss orovida pissarro",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00139_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/weight-miss-orovida-pissarro-t00139",
+      "id": "16066",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sienese landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00593_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/weight-sienese-landscape-t00593",
+      "id": "16067",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the friends",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01063_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/weight-the-friends-t01063",
+      "id": "16068",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "clapham junction",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02325_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/weight-clapham-junction-t02325",
+      "id": "16069",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "allegro strepitoso",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05836_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/weight-allegro-strepitoso-t05836",
+      "id": "19381",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "l\u2019apr\u00e8s-midi d\u2019une ouvri\u00e8re",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07216_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/weight-lapres-midi-dune-ouvriere-t07216",
+      "id": "21892",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16064",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16065",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16066",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16067",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16068",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16069",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19381",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21892",
+      "value": 1
+    }
+  ]
+}

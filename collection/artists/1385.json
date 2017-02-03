@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "De Karlowska, Stanislawa",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/stanislawa-de-karlowska-1385",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "berkeley square",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04816_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-karlowska-berkeley-square-n04816",
+      "id": "7821",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fried fish shop",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06238_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-karlowska-fried-fish-shop-n06238",
+      "id": "7822",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "swiss cottage",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06239_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-karlowska-swiss-cottage-n06239",
+      "id": "7823",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "7821",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7822",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7823",
+      "value": 1
+    }
+  ]
+}

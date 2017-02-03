@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Ahtila, Eija-Liisa",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/eija-liisa-ahtila-3098",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "consolation service",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ahtila-consolation-service-t07783",
+      "id": "156",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "156",
+      "value": 1
+    }
+  ]
+}

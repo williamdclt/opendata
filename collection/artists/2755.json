@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Roberts, Julie",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/julie-roberts-2755",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "restraining jacket (male)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-restraining-jacket-male-t13794",
+      "id": "27125",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "27125",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Ert\u00e9",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/erte-romain-de-tirtoff-1066",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "zero",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06115_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/erte-zero-p06115",
+      "id": "4139",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "number one",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06116_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/erte-number-one-p06116",
+      "id": "4140",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "number two",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06117_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/erte-number-two-p06117",
+      "id": "4141",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "number three",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06118_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/erte-number-three-p06118",
+      "id": "4142",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "number five",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06119_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/erte-number-five-p06119",
+      "id": "4143",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "number six",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06120_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/erte-number-six-p06120",
+      "id": "4144",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "number seven",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06121_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/erte-number-seven-p06121",
+      "id": "4145",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "number eight",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06122_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/erte-number-eight-p06122",
+      "id": "4146",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "number nine",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06123_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/erte-number-nine-p06123",
+      "id": "4147",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "amethyst",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06124_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/erte-amethyst-p06124",
+      "id": "4148",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "diamond",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06125_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/erte-diamond-p06125",
+      "id": "4149",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "emerald",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06126_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/erte-emerald-p06126",
+      "id": "4150",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ruby",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06127_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/erte-ruby-p06127",
+      "id": "4151",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sapphire",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06128_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/erte-sapphire-p06128",
+      "id": "4152",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "topaz",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06129_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/erte-topaz-p06129",
+      "id": "4153",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4139",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4140",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4141",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4142",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4143",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4144",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4145",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4146",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4147",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4148",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4149",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4150",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4151",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4152",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4153",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Jackson, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-jackson-295",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "james northcote",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01404_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jackson-james-northcote-n01404",
+      "id": "7068",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sir david wilkie, r.a.",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02279_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jackson-sir-david-wilkie-ra-n02279",
+      "id": "7069",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sir francis chantrey",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03672_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jackson-sir-francis-chantrey-n03672",
+      "id": "7070",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sir henry webb",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04082_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jackson-sir-henry-webb-n04082",
+      "id": "7071",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of james ward, engraved by james ward",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06867_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jackson-portrait-of-james-ward-engraved-by-james-ward-t06867",
+      "id": "21026",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of a young man. ?e.m. ward",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09547_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jackson-portrait-of-a-young-man-em-ward-t09547",
+      "id": "23098",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "7068",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7069",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7070",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7071",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21026",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23098",
+      "value": 1
+    }
+  ]
+}

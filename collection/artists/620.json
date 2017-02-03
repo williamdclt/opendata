@@ -1,0 +1,169 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Zoffany, Johan",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/johan-zoffany-620",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "thomas gainsborough",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01487_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zoffany-thomas-gainsborough-n01487",
+      "id": "16523",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stephen rimbault",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04434_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zoffany-stephen-rimbault-n04434",
+      "id": "16524",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "charles macklin as shylock",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06005_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zoffany-charles-macklin-as-shylock-n06005",
+      "id": "16525",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the bradshaw family",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06261_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zoffany-the-bradshaw-family-n06261",
+      "id": "16526",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a florentine fruit stall",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00054_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zoffany-a-florentine-fruit-stall-t00054",
+      "id": "16527",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mr and mrs dalton and their niece mary de heulle",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01895_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zoffany-mr-and-mrs-dalton-and-their-niece-mary-de-heulle-t01895",
+      "id": "16528",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs woodhull",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02217_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zoffany-mrs-woodhull-t02217",
+      "id": "16529",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "colonel mordaunt\u2019s cock match",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06856_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zoffany-colonel-mordaunts-cock-match-t06856",
+      "id": "20968",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "three sons of john, 3rd earl of bute",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07863_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zoffany-three-sons-of-john-3rd-earl-of-bute-t07863",
+      "id": "21205",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "three daughters of john, 3rd earl of bute",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07864_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zoffany-three-daughters-of-john-3rd-earl-of-bute-t07864",
+      "id": "21206",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "colonel blair with his family and an indian ayah",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12610_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zoffany-colonel-blair-with-his-family-and-an-indian-ayah-t12610",
+      "id": "104",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16523",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16524",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16525",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16526",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16527",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16528",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16529",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20968",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21205",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21206",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "104",
+      "value": 1
+    }
+  ]
+}

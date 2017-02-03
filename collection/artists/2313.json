@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Pine, Robert Edge",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/robert-edge-pine-2313",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "still life with palette and brushes, fruit and flowers",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06674_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pine-still-life-with-palette-and-brushes-fruit-and-flowers-t06674",
+      "id": "20636",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "20636",
+      "value": 1
+    }
+  ]
+}

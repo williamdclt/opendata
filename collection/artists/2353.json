@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Coplans, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-coplans-2353",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "self-portrait (feet frontal)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11670_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coplans-self-portrait-feet-frontal-p11670",
+      "id": "27050",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait (back with arms above)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11671_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coplans-self-portrait-back-with-arms-above-p11671",
+      "id": "27051",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait (torso, front)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11672_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coplans-self-portrait-torso-front-p11672",
+      "id": "27052",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait (hands spread on knees)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11673_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coplans-self-portrait-hands-spread-on-knees-p11673",
+      "id": "27053",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait (back no. 16)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77727_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coplans-self-portrait-back-no-16-p77727",
+      "id": "21184",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait (frieze no. 2, four panels)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78534_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coplans-self-portrait-frieze-no-2-four-panels-p78534",
+      "id": "66698",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "27050",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27051",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27052",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27053",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21184",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66698",
+      "value": 1
+    }
+  ]
+}

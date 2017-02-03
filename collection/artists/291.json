@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Huysmans, Jacob",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/jacob-huysmans-291",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "portrait of a lady, as diana",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00901_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/huysmans-portrait-of-a-lady-as-diana-t00901",
+      "id": "7013",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "7013",
+      "value": 1
+    }
+  ]
+}

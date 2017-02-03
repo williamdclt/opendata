@@ -1,0 +1,141 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Ski\u00f6ld, Birgit",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/birgit-skiold-1950",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "moruroa",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/skiold-moruroa-p01591",
+      "id": "13456",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shisen-do",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/skiold-shisen-do-p01592",
+      "id": "13457",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sea image",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/skiold-sea-image-p06569",
+      "id": "13458",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape in blue",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/skiold-landscape-in-blue-p11288",
+      "id": "19400",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seascape",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/skiold-seascape-p11289",
+      "id": "19401",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "archipelago - red and blue",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/skiold-archipelago-red-and-blue-p11290",
+      "id": "19397",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "silver temple i",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/skiold-silver-temple-i-p11291",
+      "id": "19399",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "temple garden",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/skiold-temple-garden-p11292",
+      "id": "19402",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "water is water",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/skiold-water-is-water-p11293",
+      "id": "19398",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13456",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13457",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13458",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19400",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19401",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19397",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19399",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19402",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19398",
+      "value": 1
+    }
+  ]
+}

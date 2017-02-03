@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Shaw, George",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/george-shaw-5253",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "scenes from the passion: late",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07945_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shaw-scenes-from-the-passion-late-t07945",
+      "id": "75531",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "75531",
+      "value": 1
+    }
+  ]
+}

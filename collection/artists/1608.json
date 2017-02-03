@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "McFall, David B.",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/david-b-mcfall-1608",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "bull calf",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mcfall-bull-calf-n05443",
+      "id": "9096",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9096",
+      "value": 1
+    }
+  ]
+}

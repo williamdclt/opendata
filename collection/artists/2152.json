@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Wilson, Scottie",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/scottie-wilson-2152",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the tree of life",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00288_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-the-tree-of-life-t00288",
+      "id": "16259",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the bowl of life",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00289_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-the-bowl-of-life-t00289",
+      "id": "16260",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16259",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16260",
+      "value": 1
+    }
+  ]
+}

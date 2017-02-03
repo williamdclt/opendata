@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Morandi, Giorgio",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/giorgio-morandi-1660",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "still life",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05782_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morandi-still-life-n05782",
+      "id": "10277",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hilltop at evening",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01919_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morandi-hilltop-at-evening-p01919",
+      "id": "10278",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life with very fine hatching",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01920_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morandi-still-life-with-very-fine-hatching-p01920",
+      "id": "10279",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13636_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morandi-still-life-t13636",
+      "id": "112178",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "10277",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10278",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10279",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112178",
+      "value": 1
+    }
+  ]
+}

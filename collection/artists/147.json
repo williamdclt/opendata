@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Deverell, Walter Howell",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/walter-howell-deverell-147",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a pet",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02854_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deverell-a-pet-n02854",
+      "id": "3826",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spencer deverell",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02865_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deverell-spencer-deverell-n02865",
+      "id": "3827",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ruding deverell (?)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02866_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deverell-ruding-deverell-n02866",
+      "id": "3828",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "maria or jemima deverell",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02867_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deverell-maria-or-jemima-deverell-n02867",
+      "id": "3829",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "louisa",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02868_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deverell-louisa-n02868",
+      "id": "3830",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "eustatia",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03273_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deverell-eustatia-n03273",
+      "id": "3831",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018twelfth night\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03429_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deverell-study-for-twelfth-night-n03429",
+      "id": "3832",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "3826",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3827",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3828",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3829",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3830",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3831",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3832",
+      "value": 1
+    }
+  ]
+}

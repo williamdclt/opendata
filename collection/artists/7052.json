@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Starling, Simon",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/simon-starling-7052",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "flaga (1972-2000). a fiat 126 produced in turin, italy, in 1974 and customized using parts manufactured and fitted in poland, following a journey of 1290 km from turin to cieszyn",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/starling-flaga-1972-2000-a-fiat-126-produced-in-turin-italy-in-1974-and-customized-using-p79240",
+      "id": "91982",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "five-man pedersen (prototype no.1)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11819_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/starling-five-man-pedersen-prototype-no1-t11819",
+      "id": "81827",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "work made-ready, les baux de provence (mountain bike)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12938_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/starling-work-made-ready-les-baux-de-provence-mountain-bike-t12938",
+      "id": "96736",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "d1-z1 (22,686,575:1)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/starling-d1-z1-226865751-t13241",
+      "id": "110056",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "91982",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81827",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96736",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "110056",
+      "value": 1
+    }
+  ]
+}

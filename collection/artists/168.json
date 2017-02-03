@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Edwards, Edwin",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/edwin-edwards-168",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the thames from a wharf at waterloo bridge",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01690_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/edwards-the-thames-from-a-wharf-at-waterloo-bridge-n01690",
+      "id": "4083",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4083",
+      "value": 1
+    }
+  ]
+}

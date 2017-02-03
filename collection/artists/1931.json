@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Shannon, Charles",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/charles-shannon-1931",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "mrs patrick campbell",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02995_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shannon-mrs-patrick-campbell-n02995",
+      "id": "13333",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the lady with the amethyst",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03152_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shannon-the-lady-with-the-amethyst-n03152",
+      "id": "13334",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hermes and the infant bacchus",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05030_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shannon-hermes-and-the-infant-bacchus-n05030",
+      "id": "13335",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the bath of venus",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05160_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shannon-the-bath-of-venus-n05160",
+      "id": "13336",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "les marmitons",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05363_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shannon-les-marmitons-n05363",
+      "id": "13337",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the ruffled sea",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01050_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shannon-the-ruffled-sea-p01050",
+      "id": "13338",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the modeller",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01051_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shannon-the-modeller-p01051",
+      "id": "13339",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the rebirth of the arts",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03082_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shannon-the-rebirth-of-the-arts-p03082",
+      "id": "13340",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13333",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13334",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13335",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13336",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13337",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13338",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13339",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13340",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Cozens, John Robert",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-robert-cozens-119",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "fluelen on the lake of lucerne",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36669_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cozens-fluelen-on-the-lake-of-lucerne-d36669",
+      "id": "63752",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lake of albano and castel gandolfo",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04408_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cozens-lake-of-albano-and-castel-gandolfo-n04408",
+      "id": "2912",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lake nemi",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05807_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cozens-lake-nemi-n05807",
+      "id": "2913",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lake nemi",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00982_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cozens-lake-nemi-t00982",
+      "id": "2914",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "padua",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cozens-padua-t00983",
+      "id": "2915",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the gulf of salerno",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00984_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cozens-the-gulf-of-salerno-t00984",
+      "id": "2916",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the lake of geneva (?)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00985_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cozens-the-lake-of-geneva-t00985",
+      "id": "2917",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view from isola borromea, lago maggiore",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08130_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cozens-view-from-isola-borromea-lago-maggiore-t08130",
+      "id": "22641",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the cloud",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08144_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cozens-the-cloud-t08144",
+      "id": "22639",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "satan summoning his legions",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08231_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cozens-satan-summoning-his-legions-t08231",
+      "id": "22644",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a milton subject, unfinished",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08232_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cozens-a-milton-subject-unfinished-t08232",
+      "id": "22640",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a torrent between rocks and trees",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08773_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cozens-a-torrent-between-rocks-and-trees-t08773",
+      "id": "22642",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lake albano with the goatherd. verso: study of trees",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09465_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cozens-lake-albano-with-the-goatherd-verso-study-of-trees-t09465",
+      "id": "22645",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of trees",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10663_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cozens-study-of-trees-t10663",
+      "id": "22643",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of trees",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10664_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cozens-study-of-trees-t10664",
+      "id": "25050",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of trees",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10665_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cozens-study-of-trees-t10665",
+      "id": "25051",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "63752",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2912",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2913",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2914",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2915",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2916",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2917",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22641",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22639",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22644",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22640",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22642",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22645",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22643",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25050",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25051",
+      "value": 1
+    }
+  ]
+}

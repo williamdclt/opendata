@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Von Herkomer, Sir Hubert",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-hubert-von-herkomer-571",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "found",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01575_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/von-herkomer-found-n01575",
+      "id": "15762",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the council of the royal academy",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/von-herkomer-the-council-of-the-royal-academy-n02481",
+      "id": "15763",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sir henry tate",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03517_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/von-herkomer-sir-henry-tate-n03517",
+      "id": "15764",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of lady tate",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07477_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/von-herkomer-portrait-of-lady-tate-t07477",
+      "id": "26463",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "15762",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15763",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15764",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26463",
+      "value": 1
+    }
+  ]
+}

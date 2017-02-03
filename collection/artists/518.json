@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Stanfield, Clarkson Frederick",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/clarkson-frederick-stanfield-518",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "oude scheld - texel island, looking towards nieuwe diep and the zuider zee",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00404_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stanfield-oude-scheld-texel-island-looking-towards-nieuwe-diep-and-the-zuider-zee-n00404",
+      "id": "13749",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018the battle of trafalgar, and the victory of lord nelson over the combined french and spanish fleets, october 21, 1805\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00405_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stanfield-sketch-for-the-battle-of-trafalgar-and-the-victory-of-lord-nelson-over-the-n00405",
+      "id": "13750",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lake como",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00406_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stanfield-lake-como-n00406",
+      "id": "13751",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the canal of the guidecca, and the church of the gesuati, venice",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00407_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stanfield-the-canal-of-the-guidecca-and-the-church-of-the-gesuati-venice-n00407",
+      "id": "13752",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of saintes",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03531_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stanfield-view-of-saintes-n03531",
+      "id": "13753",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "falmouth from the mills, engraved by j. cousen",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05627_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stanfield-falmouth-from-the-mills-engraved-by-j-cousen-t05627",
+      "id": "18754",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "falmouth from the mills, engraved by j. cousen",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05628_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stanfield-falmouth-from-the-mills-engraved-by-j-cousen-t05628",
+      "id": "18755",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tr\u00e9port (vignette), engraved by e. goodall",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05629_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stanfield-treport-vignette-engraved-by-e-goodall-t05629",
+      "id": "18756",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tr\u00e9port (vignette), engraved by e. goodall",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05630_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stanfield-treport-vignette-engraved-by-e-goodall-t05630",
+      "id": "18757",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st michael\u2019s mount, cornwall, engraved by j. stephenson",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05631_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stanfield-st-michaels-mount-cornwall-engraved-by-j-stephenson-t05631",
+      "id": "18758",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st michael\u2019s mount, normandy, from the west, engraved by a. freebairn",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05632_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stanfield-st-michaels-mount-normandy-from-the-west-engraved-by-a-freebairn-t05632",
+      "id": "18759",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st michael\u2019s mount, normandy, from the west, engraved by a. freebairn",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05633_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stanfield-st-michaels-mount-normandy-from-the-west-engraved-by-a-freebairn-t05633",
+      "id": "18761",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the gr\u00e8ves from the summit of mount st michael, engraved by t. higham",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05634_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stanfield-the-greves-from-the-summit-of-mount-st-michael-engraved-by-t-higham-t05634",
+      "id": "18762",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the gr\u00e8ves from the summit of mount st michael, engraved by t. higham",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05635_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stanfield-the-greves-from-the-summit-of-mount-st-michael-engraved-by-t-higham-t05635",
+      "id": "18763",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "botallack mine, cornwall, engraved by w. miller",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05636_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stanfield-botallack-mine-cornwall-engraved-by-w-miller-t05636",
+      "id": "18764",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "land\u2019s end, cornwall, engraved by j.w. kernot",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05637_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stanfield-lands-end-cornwall-engraved-by-jw-kernot-t05637",
+      "id": "18765",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "land\u2019s end, cornwall, engraved by j.w. kernot",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05638_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stanfield-lands-end-cornwall-engraved-by-jw-kernot-t05638",
+      "id": "18766",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dartmouth, engraved by j.b. allen",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05639_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stanfield-dartmouth-engraved-by-jb-allen-t05639",
+      "id": "18767",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dartmouth, engraved by j.b. allen",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05640_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stanfield-dartmouth-engraved-by-jb-allen-t05640",
+      "id": "18768",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dartmouth castle, engraved by j. stephenson",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05641_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stanfield-dartmouth-castle-engraved-by-j-stephenson-t05641",
+      "id": "18770",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dartmouth castle, engraved by j. stephenson",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05642_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stanfield-dartmouth-castle-engraved-by-j-stephenson-t05642",
+      "id": "18771",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st malo, engraved by j.c. armytage",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05643_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stanfield-st-malo-engraved-by-jc-armytage-t05643",
+      "id": "18772",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st malo, engraved by j.c. armytage",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05644_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stanfield-st-malo-engraved-by-jc-armytage-t05644",
+      "id": "18773",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the approach to st malo, engraved by r. brandard",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05645_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stanfield-the-approach-to-st-malo-engraved-by-r-brandard-t05645",
+      "id": "18774",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the approach to st malo, engraved by r. brandard",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05646_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stanfield-the-approach-to-st-malo-engraved-by-r-brandard-t05646",
+      "id": "18775",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the coast of brittany, near doll, engraved by j. cousen",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05647_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stanfield-the-coast-of-brittany-near-doll-engraved-by-j-cousen-t05647",
+      "id": "18776",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the coast of brittany, near doll, engraved by j. cousen",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05648_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stanfield-the-coast-of-brittany-near-doll-engraved-by-j-cousen-t05648",
+      "id": "18777",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portsmouth harbour, engraved by w.j. cooke",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05649_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stanfield-portsmouth-harbour-engraved-by-wj-cooke-t05649",
+      "id": "18778",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portsmouth harbour, engraved by w.j. cooke",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05650_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stanfield-portsmouth-harbour-engraved-by-wj-cooke-t05650",
+      "id": "18779",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the semaphore, portsmouth, engraved by w. finden",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05651_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stanfield-the-semaphore-portsmouth-engraved-by-w-finden-t05651",
+      "id": "18780",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the semaphore, portsmouth, engraved by w. finden",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05652_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stanfield-the-semaphore-portsmouth-engraved-by-w-finden-t05652",
+      "id": "18781",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "porchester castle, engraved by w. floyde",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05653_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stanfield-porchester-castle-engraved-by-w-floyde-t05653",
+      "id": "18783",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "porchester castle, engraved by w. floyde",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05654_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stanfield-porchester-castle-engraved-by-w-floyde-t05654",
+      "id": "18784",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the needles, engraved by g. bradshaw",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05655_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stanfield-the-needles-engraved-by-g-bradshaw-t05655",
+      "id": "18785",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the needles, engraved by g. bradshaw",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05656_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stanfield-the-needles-engraved-by-g-bradshaw-t05656",
+      "id": "18786",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "brading harbour, isle of wight, engraved by e. finden",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05657_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stanfield-brading-harbour-isle-of-wight-engraved-by-e-finden-t05657",
+      "id": "18787",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "brading harbour, isle of wight, engraved by e. finden",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05658_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stanfield-brading-harbour-isle-of-wight-engraved-by-e-finden-t05658",
+      "id": "18788",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "arched rock, isle of wight, engraved by w. chevalier",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05659_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stanfield-arched-rock-isle-of-wight-engraved-by-w-chevalier-t05659",
+      "id": "18789",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "arched rock, isle of wight, engraved by w. chevalier",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05660_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stanfield-arched-rock-isle-of-wight-engraved-by-w-chevalier-t05660",
+      "id": "18790",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "powderham park, exmouth, engraved by e. finden",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05661_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stanfield-powderham-park-exmouth-engraved-by-e-finden-t05661",
+      "id": "18791",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13749",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13750",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13751",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13752",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13753",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18754",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18755",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18756",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18757",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18758",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18759",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18761",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18762",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18763",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18764",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18765",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18766",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18767",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18768",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18770",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18771",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18772",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18773",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18774",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18775",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18776",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18777",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18778",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18779",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18780",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18781",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18783",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18784",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18785",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18786",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18787",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18788",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18789",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18790",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18791",
+      "value": 1
+    }
+  ]
+}

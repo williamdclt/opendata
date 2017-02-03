@@ -1,0 +1,477 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Stevens, Alfred",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/alfred-stevens-525",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "studies of angels etc. for the dome of st paul\u2019s",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00866_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-studies-of-angels-etc-for-the-dome-of-st-pauls-a00866",
+      "id": "13840",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mary ann, wife of leonard collman",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01775_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-mary-ann-wife-of-leonard-collman-n01775",
+      "id": "13841",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "isaiah",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-isaiah-n01846",
+      "id": "13842",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "judith",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01922_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-judith-n01922",
+      "id": "13843",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "king alfred and his mother",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01923_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-king-alfred-and-his-mother-n01923",
+      "id": "13844",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the angel announcing the birth of our lord to the shepherds",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01957_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-the-angel-announcing-the-birth-of-our-lord-to-the-shepherds-n01957",
+      "id": "13845",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for amoret bound in the house of busirane",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02003_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-study-for-amoret-bound-in-the-house-of-busirane-n02003",
+      "id": "13846",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the hon. and rev. samuel best",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02028_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-the-hon-and-rev-samuel-best-n02028",
+      "id": "13847",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of the end of a room including a bust of raphael and his fresco \u2018jurisprudence\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02039_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-study-of-the-end-of-a-room-including-a-bust-of-raphael-and-his-fresco-n02039",
+      "id": "13848",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "design for two-handled majolica vase",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02040_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-design-for-two-handled-majolica-vase-n02040",
+      "id": "13849",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "design in perspective for the decoration of a vaulted corridor",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02047_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-design-in-perspective-for-the-decoration-of-a-vaulted-corridor-n02047",
+      "id": "13850",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018mutability\u2019, probably for deysbrook house, liverpool",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02048_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-study-for-mutability-probably-for-deysbrook-house-liverpool-n02048",
+      "id": "13851",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "design for \u2018the angel announcing the birth of our lord to the shepherds\u2019 (n01957)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02051_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-design-for-the-angel-announcing-the-birth-of-our-lord-to-the-shepherds-n01957-n02051",
+      "id": "13852",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "john morris moore",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02132_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-john-morris-moore-n02132",
+      "id": "13853",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "an artist in his studio",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02212_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-an-artist-in-his-studio-n02212",
+      "id": "13854",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of a man",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02213_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-portrait-of-a-man-n02213",
+      "id": "13855",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "truth and falsehood: study for the wellington monument, st paul\u2019s",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-truth-and-falsehood-study-for-the-wellington-monument-st-pauls-n02270",
+      "id": "13856",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "herbert collman",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-herbert-collman-n02931",
+      "id": "13857",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "leonard collman",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-leonard-collman-n02932",
+      "id": "13858",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "william blundell spence",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02939_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-william-blundell-spence-n02939",
+      "id": "13859",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "design for roundel of a door at dorchester house",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03009_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-design-for-roundel-of-a-door-at-dorchester-house-n03009",
+      "id": "13860",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the hon. and rev. samuel best",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03392_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-the-hon-and-rev-samuel-best-n03392",
+      "id": "13861",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs elizabeth young mitchell and her baby",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03467_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-mrs-elizabeth-young-mitchell-and-her-baby-n03467",
+      "id": "13862",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for a seated woman gazing at \u2018magog thrown into the sea\u2019, for dorchester house",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03762_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-study-for-a-seated-woman-gazing-at-magog-thrown-into-the-sea-for-dorchester-house-n03762",
+      "id": "13863",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a kneeling boy bending a bow, for dorchester house",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03774_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-study-of-a-kneeling-boy-bending-a-bow-for-dorchester-house-n03774",
+      "id": "13864",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018aeneas bearing anchises on his shoulders\u2019, for dorchester house",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03778_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-study-for-aeneas-bearing-anchises-on-his-shoulders-for-dorchester-house-n03778",
+      "id": "13865",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "design for the top panel of the overmantel of the fireplace for dorchester house",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03786_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-design-for-the-top-panel-of-the-overmantel-of-the-fireplace-for-dorchester-house-n03786",
+      "id": "13866",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait at the age of 14",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03805_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-self-portrait-at-the-age-of-14-n03805",
+      "id": "13867",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "samuel pegler",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04220_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-samuel-pegler-n04220",
+      "id": "13868",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "miss emma pegler",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04379_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-miss-emma-pegler-n04379",
+      "id": "13869",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "studies for the wellington monument",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09234_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-studies-for-the-wellington-monument-t09234",
+      "id": "23591",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "studies of a man leaning over a balustrade; the head of a dog carrying a stick. verso: sketch",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09235_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-studies-of-a-man-leaning-over-a-balustrade-the-head-of-a-dog-carrying-a-stick-t09235",
+      "id": "23592",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "charity. design for a roundel",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10145_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-charity-design-for-a-roundel-t10145",
+      "id": "23593",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13840",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13841",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13842",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13843",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13844",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13845",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13846",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13847",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13848",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13849",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13850",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13851",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13852",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13853",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13854",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13855",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13856",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13857",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13858",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13859",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13860",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13861",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13862",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13863",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13864",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13865",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13866",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13867",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13868",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13869",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23591",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23592",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23593",
+      "value": 1
+    }
+  ]
+}

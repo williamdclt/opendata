@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Starkey, Hannah",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/hannah-starkey-2683",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled - may 1997",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78246_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/starkey-untitled-may-1997-p78246",
+      "id": "26501",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled - march 1999",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78332_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/starkey-untitled-march-1999-p78332",
+      "id": "26806",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "butterfly catchers",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78422_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/starkey-butterfly-catchers-p78422",
+      "id": "66542",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "26501",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26806",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66542",
+      "value": 1
+    }
+  ]
+}

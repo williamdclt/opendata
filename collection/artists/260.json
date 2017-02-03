@@ -1,0 +1,155 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hills, Robert",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/robert-hills-260",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "study of cows",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00193_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hills-study-of-cows-a00193",
+      "id": "6441",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sheep on the road",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00194_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hills-sheep-on-the-road-a00194",
+      "id": "6442",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cows in a landscape",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00195_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hills-cows-in-a-landscape-a00195",
+      "id": "6443",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a horse",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00196_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hills-study-of-a-horse-a00196",
+      "id": "6444",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a donkey",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04319_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hills-study-of-a-donkey-n04319",
+      "id": "6445",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the priory, tonbridge: 3 small sketches",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04320_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hills-the-priory-tonbridge-3-small-sketches-n04320",
+      "id": "6446",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a farm and study of a man",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04321_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hills-a-farm-and-study-of-a-man-n04321",
+      "id": "6447",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a farmyard",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04322_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hills-a-farmyard-n04322",
+      "id": "6448",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a barn",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04323_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hills-a-barn-n04323",
+      "id": "6449",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "studies of cows",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09448_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hills-studies-of-cows-t09448",
+      "id": "23000",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6441",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6442",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6443",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6444",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6445",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6446",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6447",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6448",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6449",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23000",
+      "value": 1
+    }
+  ]
+}

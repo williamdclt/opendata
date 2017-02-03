@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Holmes, Sir Charles John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-charles-john-holmes-1304",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the burning kiln",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03041_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holmes-the-burning-kiln-n03041",
+      "id": "6672",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the red ruin",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03170_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holmes-the-red-ruin-n03170",
+      "id": "6673",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "whernside",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04381_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holmes-whernside-n04381",
+      "id": "6674",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6672",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6673",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6674",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Smith, Gordon",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/gordon-appelbe-smith-1954",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "special green",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-special-green-p03227",
+      "id": "13502",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13502",
+      "value": 1
+    }
+  ]
+}

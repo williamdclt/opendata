@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Maitec, Ovidiu",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/ovidiu-maitec-1557",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "angels",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maitec-angels-t03850",
+      "id": "9175",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9175",
+      "value": 1
+    }
+  ]
+}

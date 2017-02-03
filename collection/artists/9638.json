@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Huws, Bethan",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/bethan-huws-9638",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "boats",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12329_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/huws-boats-t12329",
+      "id": "90384",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the lake writing or the lake piece",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/huws-the-lake-writing-or-the-lake-piece-t12330",
+      "id": "90385",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "singing for the sea",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12405_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/huws-singing-for-the-sea-t12405",
+      "id": "90383",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "90384",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90385",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90383",
+      "value": 1
+    }
+  ]
+}

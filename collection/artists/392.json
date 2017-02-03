@@ -1,0 +1,393 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Mulready, William",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/william-mulready-392",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the last in",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00393_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mulready-the-last-in-n00393",
+      "id": "10469",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fair time (\u2018returning from the ale-house\u2019)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00394_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mulready-fair-time-returning-from-the-ale-house-n00394",
+      "id": "10470",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the ford (\u2018crossing the ford\u2019)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00395_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mulready-the-ford-crossing-the-ford-n00395",
+      "id": "10471",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the young brother",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00396_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mulready-the-young-brother-n00396",
+      "id": "10472",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a snow scene",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01038_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mulready-a-snow-scene-n01038",
+      "id": "10480",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a sea-shore",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01181_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mulready-a-sea-shore-n01181",
+      "id": "10473",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "academy study",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01743_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mulready-academy-study-n01743",
+      "id": "10474",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "academy study",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01744_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mulready-academy-study-n01744",
+      "id": "10475",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "academy study",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01745_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mulready-academy-study-n01745",
+      "id": "10476",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018interior of an english cottage\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01797_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mulready-study-for-interior-of-an-english-cottage-n01797",
+      "id": "10477",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cottage and figures",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mulready-cottage-and-figures-t01746",
+      "id": "10478",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the rattle",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01899_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mulready-the-rattle-t01899",
+      "id": "10479",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cartoon for \u2018the last in\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mulready-cartoon-for-the-last-in-t06501",
+      "id": "20234",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "james leckie and little mary",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08233_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mulready-james-leckie-and-little-mary-t08233",
+      "id": "23286",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for a biblical illustration (i kings, 13, 24)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09088_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mulready-sketch-for-a-biblical-illustration-i-kings-13-24-t09088",
+      "id": "23291",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "biblical illustration (i kings, 13, 24)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09089_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mulready-biblical-illustration-i-kings-13-24-t09089",
+      "id": "23292",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "playground scene, children playing and wrestling",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09090_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mulready-playground-scene-children-playing-and-wrestling-t09090",
+      "id": "23290",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "measuring heights",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09094_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mulready-measuring-heights-t09094",
+      "id": "23287",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a group surrounding a seated man",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09095_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mulready-a-group-surrounding-a-seated-man-t09095",
+      "id": "23288",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "women and children listening to a seated man",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09096_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mulready-women-and-children-listening-to-a-seated-man-t09096",
+      "id": "23289",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of hands",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09105_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mulready-study-of-hands-t09105",
+      "id": "23281",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of hands",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09106_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mulready-study-of-hands-t09106",
+      "id": "23282",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of hands",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09107_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mulready-study-of-hands-t09107",
+      "id": "23283",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of hands",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09108_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mulready-study-of-hands-t09108",
+      "id": "23284",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of hand",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09109_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mulready-study-of-hand-t09109",
+      "id": "23280",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of hand",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09110_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mulready-study-of-hand-t09110",
+      "id": "24452",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of an old man",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09118_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mulready-head-of-an-old-man-t09118",
+      "id": "23285",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "10469",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10470",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10471",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10472",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10480",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10473",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10474",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10475",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10476",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10477",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10478",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10479",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20234",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23286",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23291",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23292",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23290",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23287",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23288",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23289",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23281",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23282",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23283",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23284",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23280",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24452",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23285",
+      "value": 1
+    }
+  ]
+}

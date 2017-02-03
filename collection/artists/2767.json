@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Noble, Paul",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/paul-noble-2767",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "playframe",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78399_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/noble-playframe-p78399",
+      "id": "27235",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "paul\u2019s place",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/noble-pauls-place-p78667",
+      "id": "71579",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lidonob",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13325_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/noble-lidonob-t13325",
+      "id": "113484",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "27235",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71579",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "113484",
+      "value": 1
+    }
+  ]
+}

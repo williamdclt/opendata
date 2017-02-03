@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Sutherland, Graham, OM",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/graham-sutherland-om-2014",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "green tree form: interior of woods",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05139_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutherland-green-tree-form-interior-of-woods-n05139",
+      "id": "14013",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "welsh landscape with roads",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05666_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutherland-welsh-landscape-with-roads-n05666",
+      "id": "14014",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "devastation, 1940: a house on the welsh border",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05734_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutherland-devastation-1940-a-house-on-the-welsh-border-n05734",
+      "id": "14015",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "devastation, 1941: east end, wrecked public house",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05735_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutherland-devastation-1941-east-end-wrecked-public-house-n05735",
+      "id": "14016",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "devastation, 1941: an east end street",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05736_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutherland-devastation-1941-an-east-end-street-n05736",
+      "id": "14017",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "devastation, 1941: east end, burnt paper warehouse",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05737_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutherland-devastation-1941-east-end-burnt-paper-warehouse-n05737",
+      "id": "14018",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "feeding a steel furnace",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05738_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutherland-feeding-a-steel-furnace-n05738",
+      "id": "14019",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a foundry: hot metal has been poured into a mould and inflammable gas is rising",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05739_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutherland-a-foundry-hot-metal-has-been-poured-into-a-mould-and-inflammable-gas-is-rising-n05739",
+      "id": "14020",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tapping a blast furnace",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05740_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutherland-tapping-a-blast-furnace-n05740",
+      "id": "14021",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "miner probing a drill hole",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05741_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutherland-miner-probing-a-drill-hole-n05741",
+      "id": "14022",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "furnaces",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05743_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutherland-furnaces-n05743",
+      "id": "14023",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "crucifixion",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05774_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutherland-crucifixion-n05774",
+      "id": "14024",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "somerset maugham",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06034_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutherland-somerset-maugham-n06034",
+      "id": "14025",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the origins of the land",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06085_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutherland-the-origins-of-the-land-n06085",
+      "id": "14026",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head iii",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06183_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutherland-head-iii-n06183",
+      "id": "14027",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "entrance to a lane",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06190_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutherland-entrance-to-a-lane-n06190",
+      "id": "14028",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "la foresta i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01603_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutherland-la-foresta-i-p01603",
+      "id": "14029",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "la foresta ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01604_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutherland-la-foresta-ii-p01604",
+      "id": "14030",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "il fiume i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01605_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutherland-il-fiume-i-p01605",
+      "id": "14031",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "il fiume ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01606_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutherland-il-fiume-ii-p01606",
+      "id": "14032",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "la roccia",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01607_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutherland-la-roccia-p01607",
+      "id": "14033",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "la roccia",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01608_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutherland-la-roccia-p01608",
+      "id": "14034",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pecken wood",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02066_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutherland-pecken-wood-p02066",
+      "id": "14035",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cray fields",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02067_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutherland-cray-fields-p02067",
+      "id": "14036",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "clegyr boia",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02068_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutherland-clegyr-boia-p02068",
+      "id": "14037",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of aloys senefelder",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06581_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutherland-portrait-of-aloys-senefelder-p06581",
+      "id": "14038",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pastoral",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07117_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutherland-pastoral-p07117",
+      "id": "14039",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of somerset maugham i",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutherland-portrait-of-somerset-maugham-i-p11009",
+      "id": "14040",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: frontispiece]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77085_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutherland-no-title-frontispiece-p77085",
+      "id": "14041",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "1. orpheus",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77086_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutherland-1-orpheus-p77086",
+      "id": "14042",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "2. the tortoise",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77087_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutherland-2-the-tortoise-p77087",
+      "id": "14043",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "3. the lion",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77088_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutherland-3-the-lion-p77088",
+      "id": "14044",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "4. the snake",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77089_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutherland-4-the-snake-p77089",
+      "id": "14045",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "5. the mouse",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77090_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutherland-5-the-mouse-p77090",
+      "id": "14046",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "6. the elephant",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77091_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutherland-6-the-elephant-p77091",
+      "id": "14047",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "7. orpheus",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77092_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutherland-7-orpheus-p77092",
+      "id": "14048",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "8. the caterpillar",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77093_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutherland-8-the-caterpillar-p77093",
+      "id": "14049",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "9. the fly",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77094_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutherland-9-the-fly-p77094",
+      "id": "14050",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "10. the flea",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77095_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutherland-10-the-flea-p77095",
+      "id": "14051",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "11. the grasshopper",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77096_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutherland-11-the-grasshopper-p77096",
+      "id": "14052",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "14013",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14014",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14015",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14016",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14017",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14018",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14019",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14020",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14021",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14022",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14023",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14024",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14025",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14026",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14027",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14028",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14029",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14030",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14031",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14032",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14033",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14034",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14035",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14036",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14037",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14038",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14039",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14040",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14041",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14042",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14043",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14044",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14045",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14046",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14047",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14048",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14049",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14050",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14051",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14052",
+      "value": 1
+    }
+  ]
+}

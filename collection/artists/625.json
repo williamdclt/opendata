@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Ackroyd, Norman",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/norman-ackroyd-625",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "1st millbank print",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07131_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ackroyd-1st-millbank-print-p07131",
+      "id": "429",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "millbank, black version",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07132_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ackroyd-millbank-black-version-p07132",
+      "id": "430",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gentle rainstorm",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07133_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ackroyd-gentle-rainstorm-p07133",
+      "id": "431",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the avenue at avington",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08210_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ackroyd-the-avenue-at-avington-p08210",
+      "id": "432",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cartmel fell",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77815_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ackroyd-cartmel-fell-p77815",
+      "id": "21578",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "429",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "430",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "431",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "432",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21578",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "El-Salahi, Ibrahim",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/ibrahim-el-salahi-16988",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13736_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/el-salahi-untitled-t13736",
+      "id": "125284",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "125284",
+      "value": 1
+    }
+  ]
+}

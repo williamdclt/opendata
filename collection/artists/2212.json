@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Mistry, Dhruva",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/dhruva-mistry-2212",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "maya medallion: the dark one 2",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mistry-maya-medallion-the-dark-one-2-t05037",
+      "id": "16608",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16608",
+      "value": 1
+    }
+  ]
+}

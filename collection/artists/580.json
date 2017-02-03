@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Ward, Edward Matthew",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/edward-matthew-ward-580",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "doctor johnson in the ante-room of the lord chesterfield waiting for an audience, 1748",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00430_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ward-doctor-johnson-in-the-ante-room-of-the-lord-chesterfield-waiting-for-an-audience-1748-n00430",
+      "id": "15915",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the disgrace of lord clarendon, after his last interview with the king - scene at whitehall palace, in 1667 (replica)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00431_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ward-the-disgrace-of-lord-clarendon-after-his-last-interview-with-the-king-scene-at-n00431",
+      "id": "15916",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the south sea bubble, a scene in \u2018change alley in 1720",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00432_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ward-the-south-sea-bubble-a-scene-in-change-alley-in-1720-n00432",
+      "id": "15917",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "james ii in his palace of whitehall, receiving the news of the landing of the prince of orange, in 1688",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ward-james-ii-in-his-palace-of-whitehall-receiving-the-news-of-the-landing-of-the-prince-n00616",
+      "id": "15918",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "scene from \u2018david garrick\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04697_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ward-scene-from-david-garrick-n04697",
+      "id": "15919",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "15915",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15916",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15917",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15918",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15919",
+      "value": 1
+    }
+  ]
+}

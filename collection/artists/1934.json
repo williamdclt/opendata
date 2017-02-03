@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Shapiro, Joel",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/joel-shapiro-1934",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shapiro-untitled-t03697",
+      "id": "13345",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07154_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shapiro-untitled-t07154",
+      "id": "21776",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shapiro-untitled-t12454",
+      "id": "91391",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13345",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21776",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "91391",
+      "value": 1
+    }
+  ]
+}

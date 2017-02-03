@@ -1,0 +1,323 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gross, Anthony",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/anthony-gross-1222",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "desert patrol",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05696_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gross-desert-patrol-n05696",
+      "id": "5694",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "liberation and battle of france: the church of st jean among the ruins of caen, normandy",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05697_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gross-liberation-and-battle-of-france-the-church-of-st-jean-among-the-ruins-of-caen-n05697",
+      "id": "5695",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "liberation and battle of france: the fall of the arsenal at cherbourg",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05698_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gross-liberation-and-battle-of-france-the-fall-of-the-arsenal-at-cherbourg-n05698",
+      "id": "5696",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "liberation and battle of france: cherbourg, battalion h.q. of the east yorks",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05699_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gross-liberation-and-battle-of-france-cherbourg-battalion-hq-of-the-east-yorks-n05699",
+      "id": "5697",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gateway into germany: the maas in flood near the berg bridge",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05700_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gross-gateway-into-germany-the-maas-in-flood-near-the-berg-bridge-n05700",
+      "id": "5698",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "final stages of the german war: krupp\u2019s works at essen",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05701_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gross-final-stages-of-the-german-war-krupps-works-at-essen-n05701",
+      "id": "5699",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03154_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gross-no-title-p03154",
+      "id": "5700",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sortie d\u2019usine no. 4",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07245_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gross-sortie-dusine-no-4-p07245",
+      "id": "5701",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "la bourdette",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07246_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gross-la-bourdette-p07246",
+      "id": "5702",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "burgundy canal",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07247_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gross-burgundy-canal-p07247",
+      "id": "5703",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "children going out to the fields (small plate)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07248_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gross-children-going-out-to-the-fields-small-plate-p07248",
+      "id": "5704",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "les mamelons",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07249_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gross-les-mamelons-p07249",
+      "id": "5705",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wheatfield",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07250_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gross-wheatfield-p07250",
+      "id": "5706",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "winter grasses",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07251_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gross-winter-grasses-p07251",
+      "id": "5707",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "coulourgues",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07252_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gross-coulourgues-p07252",
+      "id": "5708",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape with juniper",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11380_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gross-landscape-with-juniper-p11380",
+      "id": "21116",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "grey landscape, le boulv\u00e9",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00146_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gross-grey-landscape-le-boulve-t00146",
+      "id": "5709",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "foothills",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00735_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gross-foothills-t00735",
+      "id": "5710",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "quercy blanc",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02111_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gross-quercy-blanc-t02111",
+      "id": "5711",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pech de murat",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02393_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gross-pech-de-murat-t02393",
+      "id": "5712",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "place du th\u00e9\u00e2tre, brive-la-gaillarde",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03318_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gross-place-du-theatre-brive-la-gaillarde-t03318",
+      "id": "5713",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "la route de ste livrade",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03328_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gross-la-route-de-ste-livrade-t03328",
+      "id": "5714",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5694",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5695",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5696",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5697",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5698",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5699",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5700",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5701",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5702",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5703",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5704",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5705",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5706",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5707",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5708",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21116",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5709",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5710",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5711",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5712",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5713",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5714",
+      "value": 1
+    }
+  ]
+}

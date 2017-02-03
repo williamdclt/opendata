@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Art & Language (Michael Baldwin, born 1945; Mel Ramsden, born 1944)",
+      "url": null,
+      "gender": "",
+      "tatelink": "http://www.tate.org.uk/art/artists/art-language-michael-baldwin-born-1945-mel-ramsden-born-1944-2202",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "ten postcards",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08005_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/art-language-michael-baldwin-ten-postcards-p08005",
+      "id": "600",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gustave courbet\u2019s \u2018burial at ornans\u2019; expressing a sensuous affection .../expressing a vibrant erotic vision .../expressing states of mind that are vivid and compelling",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/art-language-michael-baldwin-gustave-courbets-burial-at-ornans-expressing-a-sensuous-t03453",
+      "id": "601",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "index: the studio at 3 wesley place, in the dark (vi), showing the position of \u2018embarrassments\u2019 in (iv)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03800_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/art-language-michael-baldwin-index-the-studio-at-3-wesley-place-in-the-dark-vi-showing-the-t03800",
+      "id": "602",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "index: the studio at 3 wesley place, in the dark (iv), and illuminated by an explosion nearby (vi)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03801_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/art-language-michael-baldwin-index-the-studio-at-3-wesley-place-in-the-dark-iv-and-t03801",
+      "id": "603",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "index: the studio at 3 wesley place, executed by mouth (ii)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03802_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/art-language-michael-baldwin-index-the-studio-at-3-wesley-place-executed-by-mouth-ii-t03802",
+      "id": "604",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "index: the studio at 3 wesley place (vi), illuminated by an explosion nearby",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03803_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/art-language-michael-baldwin-index-the-studio-at-3-wesley-place-vi-illuminated-by-an-t03803",
+      "id": "605",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "index: the studio at 3 wesley place",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03804_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/art-language-michael-baldwin-index-the-studio-at-3-wesley-place-t03804",
+      "id": "606",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of v.i. lenin with cap, in the style of jackson pollock iii",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12406_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/art-language-michael-baldwin-portrait-of-vi-lenin-with-cap-in-the-style-of-jackson-pollock-t12406",
+      "id": "91834",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "600",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "601",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "602",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "603",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "604",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "605",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "606",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "91834",
+      "value": 1
+    }
+  ]
+}

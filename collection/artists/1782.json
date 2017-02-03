@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Shepperson, Claude",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/claude-shepperson-1782",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "advanced dressing station in france",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03083_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shepperson-advanced-dressing-station-in-france-p03083",
+      "id": "13365",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "casualty clearing station in france",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03084_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shepperson-casualty-clearing-station-in-france-p03084",
+      "id": "13366",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "on board a hospital transport",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03085_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shepperson-on-board-a-hospital-transport-p03085",
+      "id": "13367",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "detraining in england",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03086_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shepperson-detraining-in-england-p03086",
+      "id": "13368",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "in hospital, england",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03087_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shepperson-in-hospital-england-p03087",
+      "id": "13369",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "convalescence in england",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03088_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shepperson-convalescence-in-england-p03088",
+      "id": "13370",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13365",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13366",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13367",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13368",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13369",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13370",
+      "value": 1
+    }
+  ]
+}

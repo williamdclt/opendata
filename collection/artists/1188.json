@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gonz\u00e1lez, Julio",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/julio-gonzalez-1188",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "maternity",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01242_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-maternity-t01242",
+      "id": "5442",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01262_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-self-portrait-t01262",
+      "id": "5443",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure of terror ii",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01263_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-figure-of-terror-ii-t01263",
+      "id": "5444",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "aerial figure",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01264_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-aerial-figure-t01264",
+      "id": "5445",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018maternity\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01500_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-study-for-maternity-t01500",
+      "id": "5446",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman dressing",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01590_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-woman-dressing-t01590",
+      "id": "5447",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sleeping girl",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01591_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-sleeping-girl-t01591",
+      "id": "5448",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of a girl. verso: the frill",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01592_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-portrait-of-a-girl-verso-the-frill-t01592",
+      "id": "5449",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "peasant gardening",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01593_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-peasant-gardening-t01593",
+      "id": "5450",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "profile of a girl in a head-dress",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01594_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-profile-of-a-girl-in-a-head-dress-t01594",
+      "id": "5451",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nude girl washing herself",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01595_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-nude-girl-washing-herself-t01595",
+      "id": "5452",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nude girl",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01596_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-nude-girl-t01596",
+      "id": "5453",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "large tree",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01597_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-large-tree-t01597",
+      "id": "5454",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "large trees",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01598_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-large-trees-t01598",
+      "id": "5455",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "peasant with a bundle of sticks",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01599_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-peasant-with-a-bundle-of-sticks-t01599",
+      "id": "5456",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "apple picking",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01600_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-apple-picking-t01600",
+      "id": "5457",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "peasant couple with apple-trees",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01601_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-peasant-couple-with-apple-trees-t01601",
+      "id": "5458",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "peasant with a large pitchfork",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01602_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-peasant-with-a-large-pitchfork-t01602",
+      "id": "5459",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "work in the fields",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01603_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-work-in-the-fields-t01603",
+      "id": "5460",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "transplanting and watering",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01604_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-transplanting-and-watering-t01604",
+      "id": "5461",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "imaginary face",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01605_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-imaginary-face-t01605",
+      "id": "5462",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sulky face",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01606_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-sulky-face-t01606",
+      "id": "5463",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stern mask with a beard",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-stern-mask-with-a-beard-t01607",
+      "id": "5464",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stern face",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01608_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-stern-face-t01608",
+      "id": "5465",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reclining figure with a large hand",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01609_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-reclining-figure-with-a-large-hand-t01609",
+      "id": "5466",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "noble woman",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-noble-woman-t01610",
+      "id": "5467",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure at a window",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01611_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-figure-at-a-window-t01611",
+      "id": "5468",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure with a white rectangle",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01612_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-figure-with-a-white-rectangle-t01612",
+      "id": "5469",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fantastic figure",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01613_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-fantastic-figure-t01613",
+      "id": "5470",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vibrating figure",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01614_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-vibrating-figure-t01614",
+      "id": "5471",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure with balls, known as \u2018severe\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01615_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-figure-with-balls-known-as-severe-t01615",
+      "id": "5472",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure with balls",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01616_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-figure-with-balls-t01616",
+      "id": "5473",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head with a long neck",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01617_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-head-with-a-long-neck-t01617",
+      "id": "5474",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shrieking head, called \u2018the shriek\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01618_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-shrieking-head-called-the-shriek-t01618",
+      "id": "5475",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "v-shaped head",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01619_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-v-shaped-head-t01619",
+      "id": "5476",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "face with a black sun",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-face-with-a-black-sun-t01620",
+      "id": "5477",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stern mask",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01621_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-stern-mask-t01621",
+      "id": "5478",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure in glory",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01622_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-figure-in-glory-t01622",
+      "id": "5479",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "architectural figure no. 2",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01623_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-architectural-figure-no-2-t01623",
+      "id": "5480",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "maltese face",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01624_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gonzalez-maltese-face-t01624",
+      "id": "5481",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5442",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5443",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5444",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5445",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5446",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5447",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5448",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5449",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5450",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5451",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5452",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5453",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5454",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5455",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5456",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5457",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5458",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5459",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5460",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5461",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5462",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5463",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5464",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5465",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5466",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5467",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5468",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5469",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5470",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5471",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5472",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5473",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5474",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5475",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5476",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5477",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5478",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5479",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5480",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5481",
+      "value": 1
+    }
+  ]
+}

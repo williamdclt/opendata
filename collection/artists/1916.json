@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Scott, William",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/william-scott-1916",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "mackerel on a plate",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06245_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-mackerel-on-a-plate-n06245",
+      "id": "13222",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the harbour",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-the-harbour-p01071",
+      "id": "13223",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "summer suite: brown predominating",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-summer-suite-brown-predominating-p01891",
+      "id": "13224",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black pan, beige cup on brown",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-black-pan-beige-cup-on-brown-p05103",
+      "id": "13225",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bottle and bowl, blues on green",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-bottle-and-bowl-blues-on-green-p05104",
+      "id": "13226",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cup and pan blues",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-cup-and-pan-blues-p05105",
+      "id": "13227",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cup, bowl, pan, browns and ochres",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-cup-bowl-pan-browns-and-ochres-p05106",
+      "id": "13228",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "white bowl, black pan on brown",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-white-bowl-black-pan-on-brown-p05107",
+      "id": "13229",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "angles equal",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-angles-equal-p05108",
+      "id": "13230",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "areas contrasted",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-areas-contrasted-p05109",
+      "id": "13231",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blue field",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-blue-field-p05110",
+      "id": "13232",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blue and white related",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-blue-and-white-related-p05111",
+      "id": "13233",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "brown field defined",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-brown-field-defined-p05112",
+      "id": "13234",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cobalt predominates",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-cobalt-predominates-p05113",
+      "id": "13235",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "divided counterchange",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-divided-counterchange-p05114",
+      "id": "13236",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "equals",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-equals-p05115",
+      "id": "13237",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "estate landscape",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-estate-landscape-p05116",
+      "id": "13238",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fire on the rectangle",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-fire-on-the-rectangle-p05117",
+      "id": "13239",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "first triangles",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-first-triangles-p05118",
+      "id": "13240",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "forms encaged",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-forms-encaged-p05119",
+      "id": "13241",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lines with breadth supercede",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-lines-with-breadth-supercede-p05120",
+      "id": "13242",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a poem for alexander",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-a-poem-for-alexander-p05121",
+      "id": "13243",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "second triangles",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-second-triangles-p05122",
+      "id": "13244",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "white predominates",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-white-predominates-p05123",
+      "id": "13245",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "yellow square plus quarter blue",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-yellow-square-plus-quarter-blue-p05124",
+      "id": "13246",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-still-life-p05125",
+      "id": "13247",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "arran",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-arran-p06552",
+      "id": "13248",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "benbecula",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-benbecula-p06553",
+      "id": "13249",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jura",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-jura-p06554",
+      "id": "13250",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "barra",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-barra-p06555",
+      "id": "13251",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mingulay",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-mingulay-p06556",
+      "id": "13252",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "scalpay",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-scalpay-p06557",
+      "id": "13253",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "summer suite with blue",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-summer-suite-with-blue-p06687",
+      "id": "13254",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "summer suite: green predominating",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-summer-suite-green-predominating-p06688",
+      "id": "13255",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "grapes",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-grapes-p06822",
+      "id": "13256",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pears",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06823_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-pears-p06823",
+      "id": "13257",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "winter still life",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00119_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-winter-still-life-t00119",
+      "id": "13258",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "white, sand and ochre",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00415_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-white-sand-and-ochre-t00415",
+      "id": "13259",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ochre still life",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00505_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-ochre-still-life-t00505",
+      "id": "13260",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "berlin blues 4",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00795_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-berlin-blues-4-t00795",
+      "id": "13261",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13222",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13223",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13224",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13225",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13226",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13227",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13228",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13229",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13230",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13231",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13232",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13233",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13234",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13235",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13236",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13237",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13238",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13239",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13240",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13241",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13242",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13243",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13244",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13245",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13246",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13247",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13248",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13249",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13250",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13251",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13252",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13253",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13254",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13255",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13256",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13257",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13258",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13259",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13260",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13261",
+      "value": 1
+    }
+  ]
+}

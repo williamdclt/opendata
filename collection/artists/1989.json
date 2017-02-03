@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Steele, Jeffrey",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/jeffrey-steele-1989",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "domenico",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03095_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steele-domenico-p03095",
+      "id": "13771",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rational concepts",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07429_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steele-rational-concepts-p07429",
+      "id": "13772",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "curvilinear structure (abakum)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12620_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steele-curvilinear-structure-abakum-t12620",
+      "id": "96884",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title] (preparatory drawing for abakum)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12621_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steele-no-title-preparatory-drawing-for-abakum-t12621",
+      "id": "97075",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13771",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13772",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96884",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97075",
+      "value": 1
+    }
+  ]
+}

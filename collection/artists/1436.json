@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Kossoff, Leon",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/leon-kossoff-1436",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "outside kilburn underground [stage proof]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02933_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kossoff-outside-kilburn-underground-stage-proof-p02933",
+      "id": "8201",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "outside kilburn underground [stage proof]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02934_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kossoff-outside-kilburn-underground-stage-proof-p02934",
+      "id": "8202",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "outside kilburn underground [stage proof]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02935_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kossoff-outside-kilburn-underground-stage-proof-p02935",
+      "id": "8203",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "outside kilburn underground [stage proof]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02936_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kossoff-outside-kilburn-underground-stage-proof-p02936",
+      "id": "8204",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "outside kilburn underground [stage proof]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02937_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kossoff-outside-kilburn-underground-stage-proof-p02937",
+      "id": "8205",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "going home [stage proof]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02938_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kossoff-going-home-stage-proof-p02938",
+      "id": "8206",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "going home [stage proof]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02939_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kossoff-going-home-stage-proof-p02939",
+      "id": "8207",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "going home [stage proof]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02940_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kossoff-going-home-stage-proof-p02940",
+      "id": "8208",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "going home [stage proof]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02941_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kossoff-going-home-stage-proof-p02941",
+      "id": "8209",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a woman bathing in a stream (hendrickje stoffels)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11686_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kossoff-a-woman-bathing-in-a-stream-hendrickje-stoffels-p11686",
+      "id": "27176",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bacchanal before a herm (1)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11687_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kossoff-bacchanal-before-a-herm-1-p11687",
+      "id": "27177",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bacchanal before a herm (2)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11688_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kossoff-bacchanal-before-a-herm-2-p11688",
+      "id": "27178",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bathsheba reading david\u2019s letter",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11689_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kossoff-bathsheba-reading-davids-letter-p11689",
+      "id": "27179",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cephalus and aurora (1)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11690_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kossoff-cephalus-and-aurora-1-p11690",
+      "id": "27180",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cephalus and aurora (2)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11691_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kossoff-cephalus-and-aurora-2-p11691",
+      "id": "27181",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cephalus and aurora (3)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11692_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kossoff-cephalus-and-aurora-3-p11692",
+      "id": "27182",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "christ brought before the people",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11693_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kossoff-christ-brought-before-the-people-p11693",
+      "id": "27183",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "christ after the flagellation contemplated by the christian soul (1)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11694_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kossoff-christ-after-the-flagellation-contemplated-by-the-christian-soul-1-p11694",
+      "id": "27184",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "christ after the flagellation contemplated by the christian soul (2)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11695_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kossoff-christ-after-the-flagellation-contemplated-by-the-christian-soul-2-p11695",
+      "id": "27185",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "christ after the flagellation contemplated by the christian soul (3)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11696_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kossoff-christ-after-the-flagellation-contemplated-by-the-christian-soul-3-p11696",
+      "id": "27186",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "combing the hair (la coiffure)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11697_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kossoff-combing-the-hair-la-coiffure-p11697",
+      "id": "27187",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "judgement of solomon (1)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11698_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kossoff-judgement-of-solomon-1-p11698",
+      "id": "27188",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "judgement of solomon (2)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11699_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kossoff-judgement-of-solomon-2-p11699",
+      "id": "27189",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "minerva protects pax from mars (\u2018peace and war\u2019) (1)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11700_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kossoff-minerva-protects-pax-from-mars-peace-and-war-1-p11700",
+      "id": "27190",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "minerva protects pax from mars (\u2018peace and war\u2019) (2)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11701_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kossoff-minerva-protects-pax-from-mars-peace-and-war-2-p11701",
+      "id": "27191",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "minerva protects pax from mars (\u2018peace and war\u2019) (3)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11702_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kossoff-minerva-protects-pax-from-mars-peace-and-war-3-p11702",
+      "id": "27192",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "minerva protects pax from mars (\u2018peace and war\u2019) (4)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11703_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kossoff-minerva-protects-pax-from-mars-peace-and-war-4-p11703",
+      "id": "27193",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "minerva protects pax from mars (\u2018peace and war\u2019) (5)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11704_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kossoff-minerva-protects-pax-from-mars-peace-and-war-5-p11704",
+      "id": "27194",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rebekha quenching the thirst of eliezer at the well",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11705_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kossoff-rebekha-quenching-the-thirst-of-eliezer-at-the-well-p11705",
+      "id": "27195",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "salisbury cathedral from the meadows (1)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11706_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kossoff-salisbury-cathedral-from-the-meadows-1-p11706",
+      "id": "27196",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "salisbury cathedral from the meadows (2)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11707_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kossoff-salisbury-cathedral-from-the-meadows-2-p11707",
+      "id": "27197",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the adoration of the kings",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11708_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kossoff-the-adoration-of-the-kings-p11708",
+      "id": "27198",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the blinding of sampson",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11709_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kossoff-the-blinding-of-sampson-p11709",
+      "id": "27199",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the brazen serpent (1)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11710_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kossoff-the-brazen-serpent-1-p11710",
+      "id": "27200",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the brazen serpent (2)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11711_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kossoff-the-brazen-serpent-2-p11711",
+      "id": "27201",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the brazen serpent (3)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11712_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kossoff-the-brazen-serpent-3-p11712",
+      "id": "27202",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the consecration of saint nicholas (1)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11713_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kossoff-the-consecration-of-saint-nicholas-1-p11713",
+      "id": "27203",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the consecration of saint nicholas (2)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11714_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kossoff-the-consecration-of-saint-nicholas-2-p11714",
+      "id": "27204",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the family of darius before alexander (1)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11715_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kossoff-the-family-of-darius-before-alexander-1-p11715",
+      "id": "27205",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the family of darius before alexander (2)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11716_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kossoff-the-family-of-darius-before-alexander-2-p11716",
+      "id": "27206",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8201",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8202",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8203",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8204",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8205",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8206",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8207",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8208",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8209",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27176",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27177",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27178",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27179",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27180",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27181",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27182",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27183",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27184",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27185",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27186",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27187",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27188",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27189",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27190",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27191",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27192",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27193",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27194",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27195",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27196",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27197",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27198",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27199",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27200",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27201",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27202",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27203",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27204",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27205",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27206",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Charles, James",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/james-charles-91",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "will it rain?",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02119_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/charles-will-it-rain-n02119",
+      "id": "2170",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "studies of sheep",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02122_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/charles-studies-of-sheep-n02122",
+      "id": "2171",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "in the hayfield: two studies",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02123_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/charles-in-the-hayfield-two-studies-n02123",
+      "id": "2172",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "heads: children and a family group",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02124_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/charles-heads-children-and-a-family-group-n02124",
+      "id": "2173",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "studies of landscapes and figures",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02125_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/charles-studies-of-landscapes-and-figures-n02125",
+      "id": "2174",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a country road",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02126_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/charles-a-country-road-n02126",
+      "id": "2175",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "threatening weather",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03394_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/charles-threatening-weather-n03394",
+      "id": "2176",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2170",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2171",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2172",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2173",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2174",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2175",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2176",
+      "value": 1
+    }
+  ]
+}

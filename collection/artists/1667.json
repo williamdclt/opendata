@@ -1,0 +1,169 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Morris, Sir Cedric, Bt",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-cedric-morris-bt-1667",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "iris seedlings",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03230_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morris-iris-seedlings-t03230",
+      "id": "10308",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lucian freud",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03231_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morris-lucian-freud-t03231",
+      "id": "10309",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "david and barbara carr",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03232_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morris-david-and-barbara-carr-t03232",
+      "id": "10310",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "patisseries and a croissant",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03592_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morris-patisseries-and-a-croissant-t03592",
+      "id": "10311",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "frances hodgkins",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03831_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morris-frances-hodgkins-t03831",
+      "id": "10312",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape of shame",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04996_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morris-landscape-of-shame-t04996",
+      "id": "10313",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "peregrine falcons",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05498_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morris-peregrine-falcons-t05498",
+      "id": "17284",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "belle of bloomsbury",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05499_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morris-belle-of-bloomsbury-t05499",
+      "id": "17285",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the eggs",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06522_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morris-the-eggs-t06522",
+      "id": "20343",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "experiment in textures",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06970_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morris-experiment-in-textures-t06970",
+      "id": "21278",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "les ponts de ceret",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07784_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morris-les-ponts-de-ceret-t07784",
+      "id": "67120",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "10308",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10309",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10310",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10311",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10312",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10313",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17284",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17285",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20343",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21278",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67120",
+      "value": 1
+    }
+  ]
+}

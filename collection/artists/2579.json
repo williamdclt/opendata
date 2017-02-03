@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gordon, Julia Emily",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/julia-emily-gordon-2579",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a terrace (after turner\u2019s \u2018isola bella, lago maggiore\u2019 for rogers\u2019s \u2018italy\u2019)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08896_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gordon-a-terrace-after-turners-isola-bella-lago-maggiore-for-rogerss-italy-t08896",
+      "id": "22947",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st germain en laye",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08897_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gordon-st-germain-en-laye-t08897",
+      "id": "22943",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st germain en laye",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08898_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gordon-st-germain-en-laye-t08898",
+      "id": "22944",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "palace at nanteuil",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08899_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gordon-palace-at-nanteuil-t08899",
+      "id": "22945",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pere lachaise",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08900_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gordon-pere-lachaise-t08900",
+      "id": "22946",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "calais",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11639_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gordon-calais-t11639",
+      "id": "22948",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "22947",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22943",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22944",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22945",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22946",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22948",
+      "value": 1
+    }
+  ]
+}

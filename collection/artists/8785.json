@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Brouwn, Stanley",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/stanley-brouwn-8785",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "1000 mm",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brouwn-1000-mm-t12176",
+      "id": "88173",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "3 m 1:1, 3 steps 1:1",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brouwn-3-m-11-3-steps-11-t12274",
+      "id": "90128",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "88173",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90128",
+      "value": 1
+    }
+  ]
+}

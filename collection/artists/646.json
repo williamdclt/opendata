@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Amiet, Cuno",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/cuno-amiet-646",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "view from the studio",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00393_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/amiet-view-from-the-studio-t00393",
+      "id": "503",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape from the jura mountains",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00394_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/amiet-landscape-from-the-jura-mountains-t00394",
+      "id": "504",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "503",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "504",
+      "value": 1
+    }
+  ]
+}

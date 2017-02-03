@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Ibbetson, Julius Caesar",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/julius-caesar-ibbetson-292",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "smugglers on the irish coast",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01460_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ibbetson-smugglers-on-the-irish-coast-n01460",
+      "id": "7014",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sand quarry at alum bay",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02948_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ibbetson-sand-quarry-at-alum-bay-n02948",
+      "id": "7015",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two children",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04910_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ibbetson-two-children-n04910",
+      "id": "7016",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two children",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ibbetson-two-children-n04920",
+      "id": "7017",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a married sailor\u2019s return",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05793_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ibbetson-a-married-sailors-return-n05793",
+      "id": "7018",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "an unmarried sailor\u2019s return",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05794_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ibbetson-an-unmarried-sailors-return-n05794",
+      "id": "7019",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "briton ferry, glamorgan",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01889_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ibbetson-briton-ferry-glamorgan-t01889",
+      "id": "7020",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a derbyshire landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09546_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ibbetson-a-derbyshire-landscape-t09546",
+      "id": "23058",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "7014",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7015",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7016",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7017",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7018",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7019",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7020",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23058",
+      "value": 1
+    }
+  ]
+}

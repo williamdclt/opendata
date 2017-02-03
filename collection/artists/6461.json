@@ -1,0 +1,337 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Mitchell, Joan",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/joan-mitchell-6461",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "joie de vivre",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mitchell-joie-de-vivre-p12130",
+      "id": "79521",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "in time",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mitchell-in-time-p12131",
+      "id": "79657",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "morning",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mitchell-morning-p12132",
+      "id": "79658",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cobble hill",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mitchell-cobble-hill-p12133",
+      "id": "79659",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mornings on the bridge",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mitchell-mornings-on-the-bridge-p12134",
+      "id": "79660",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sky",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mitchell-sky-p12135",
+      "id": "79661",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "urn burial",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mitchell-urn-burial-p12136",
+      "id": "79662",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "avenue of poplars",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mitchell-avenue-of-poplars-p12137",
+      "id": "79663",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sunflowers iii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mitchell-sunflowers-iii-p12138",
+      "id": "79667",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sunflowers iv",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mitchell-sunflowers-iv-p12139",
+      "id": "79668",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "trees i",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mitchell-trees-i-p12140",
+      "id": "80015",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "trees ii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mitchell-trees-ii-p12141",
+      "id": "80016",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "trees iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12142_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mitchell-trees-iii-p12142",
+      "id": "80017",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "trees iv",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mitchell-trees-iv-p12143",
+      "id": "80018",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bedford ii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mitchell-bedford-ii-p12144",
+      "id": "80020",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "flower ii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mitchell-flower-ii-p12145",
+      "id": "80021",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "flower iii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mitchell-flower-iii-p12146",
+      "id": "80022",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sides of a river i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12147_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mitchell-sides-of-a-river-i-p12147",
+      "id": "80023",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sides of a river ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12148_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mitchell-sides-of-a-river-ii-p12148",
+      "id": "80024",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sides of a river iii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mitchell-sides-of-a-river-iii-p12149",
+      "id": "80025",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "brush",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mitchell-brush-p12150",
+      "id": "80026",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "brush, state i",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mitchell-brush-state-i-p12151",
+      "id": "80027",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chord ii",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12921_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mitchell-chord-ii-t12921",
+      "id": "103655",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "79521",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79657",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79658",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79659",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79660",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79661",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79662",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79663",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79667",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79668",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80015",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80016",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80017",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80018",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80020",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80021",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80022",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80023",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80024",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80025",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80026",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80027",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "103655",
+      "value": 1
+    }
+  ]
+}

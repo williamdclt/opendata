@@ -1,0 +1,365 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Boxer, Stanley",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/stanley-boxer-6550",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "introduction, royal prance of the lion",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boxer-introduction-royal-prance-of-the-lion-p12032",
+      "id": "79975",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chicken and cock",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boxer-chicken-and-cock-p12033",
+      "id": "79977",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jackass free",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12034_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boxer-jackass-free-p12034",
+      "id": "79978",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "turtle",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boxer-turtle-p12035",
+      "id": "79979",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kangaroos",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boxer-kangaroos-p12036",
+      "id": "79980",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "aquarium",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boxer-aquarium-p12037",
+      "id": "79981",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "personages with long ears",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boxer-personages-with-long-ears-p12038",
+      "id": "79982",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cockatoo in the depth of the woods",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boxer-cockatoo-in-the-depth-of-the-woods-p12039",
+      "id": "79983",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "birds soaring",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boxer-birds-soaring-p12040",
+      "id": "79984",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pianist",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boxer-pianist-p12041",
+      "id": "79985",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "finale",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boxer-finale-p12042",
+      "id": "79986",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "conventionofslydiscussants",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12043_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boxer-conventionofslydiscussants-p12043",
+      "id": "79987",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "askanceglancelongingly",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12044_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boxer-askanceglancelongingly-p12044",
+      "id": "79988",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "curiousstalking",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12045_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boxer-curiousstalking-p12045",
+      "id": "79989",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pauseofnoconcern",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12046_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boxer-pauseofnoconcern-p12046",
+      "id": "79990",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "strangetalkwithfriend",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12047_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boxer-strangetalkwithfriend-p12047",
+      "id": "79991",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "oddconversationatnoon",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12048_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boxer-oddconversationatnoon-p12048",
+      "id": "79992",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "amissinamist",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12049_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boxer-amissinamist-p12049",
+      "id": "79993",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "argumentofnoavail",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12050_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boxer-argumentofnoavail-p12050",
+      "id": "79994",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "buddingwithoutpast",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12051_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boxer-buddingwithoutpast-p12051",
+      "id": "79995",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "feybowlofplay",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12052_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boxer-feybowlofplay-p12052",
+      "id": "79996",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gatheringforsomereason",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12053_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boxer-gatheringforsomereason-p12053",
+      "id": "79997",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "obliquequestionofaturtle",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boxer-obliquequestionofaturtle-p12054",
+      "id": "79998",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cleavedsummerautumnalglance",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12055_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boxer-cleavedsummerautumnalglance-p12055",
+      "id": "80002",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "softwinterseekingwhiteness",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boxer-softwinterseekingwhiteness-p12056",
+      "id": "80003",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "79975",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79977",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79978",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79979",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79980",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79981",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79982",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79983",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79984",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79985",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79986",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79987",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79988",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79989",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79990",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79991",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79992",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79993",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79994",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79995",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79996",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79997",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79998",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80002",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80003",
+      "value": 1
+    }
+  ]
+}

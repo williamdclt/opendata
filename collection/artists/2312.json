@@ -1,0 +1,239 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Therrien, Robert",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/robert-therrien-2312",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "no title (table and four chairs)",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00166_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/therrien-no-title-table-and-four-chairs-ar00166",
+      "id": "98367",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "no title (oil can)",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00167_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/therrien-no-title-oil-can-ar00167",
+      "id": "98369",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "no title (scrubbrush panel)",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00168_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/therrien-no-title-scrubbrush-panel-ar00168",
+      "id": "98371",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "no title (large red brick drawing)",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00169_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/therrien-no-title-large-red-brick-drawing-ar00169",
+      "id": "98372",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "red room",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00702_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/therrien-red-room-ar00702",
+      "id": "98993",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "no title (stacked plates)",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR01127_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/therrien-no-title-stacked-plates-ar01127",
+      "id": "111887",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "no title (beard cart)",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR01128_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/therrien-no-title-beard-cart-ar01128",
+      "id": "98370",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77831_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/therrien-no-title-p77831",
+      "id": "21621",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77832_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/therrien-no-title-p77832",
+      "id": "21622",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77833_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/therrien-no-title-p77833",
+      "id": "21623",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77834_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/therrien-no-title-p77834",
+      "id": "21624",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77835_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/therrien-no-title-p77835",
+      "id": "21625",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77836_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/therrien-no-title-p77836",
+      "id": "21626",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77837_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/therrien-no-title-p77837",
+      "id": "21627",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77838_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/therrien-no-title-p77838",
+      "id": "21628",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "no title",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/therrien-no-title-t07874",
+      "id": "20583",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "98367",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98369",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98371",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98372",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98993",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "111887",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98370",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21621",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21622",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21623",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21624",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21625",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21626",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21627",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21628",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20583",
+      "value": 1
+    }
+  ]
+}

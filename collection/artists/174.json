@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Faed, Thomas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/thomas-faed-174",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the silken gown",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01525_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/faed-the-silken-gown-n01525",
+      "id": "4214",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "faults on both sides",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01526_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/faed-faults-on-both-sides-n01526",
+      "id": "4215",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "highland mother",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01527_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/faed-highland-mother-n01527",
+      "id": "4216",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4214",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4215",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4216",
+      "value": 1
+    }
+  ]
+}

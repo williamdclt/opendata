@@ -1,0 +1,169 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Cooper, Richard, Junior",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/richard-cooper-junior-2419",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "landscape composition in the blot manner",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08814_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cooper-landscape-composition-in-the-blot-manner-t08814",
+      "id": "22454",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "italian composition",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08827_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cooper-italian-composition-t08827",
+      "id": "22453",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the west end of a church, in italy or france",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08834_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cooper-the-west-end-of-a-church-in-italy-or-france-t08834",
+      "id": "22451",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a stormy day in a park",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09295_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cooper-a-stormy-day-in-a-park-t09295",
+      "id": "22455",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view in italy",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09508_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cooper-view-in-italy-t09508",
+      "id": "22452",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11442_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cooper-title-not-known-t11442",
+      "id": "25425",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11443_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cooper-title-not-known-t11443",
+      "id": "25426",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11444_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cooper-title-not-known-t11444",
+      "id": "25427",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11445_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cooper-title-not-known-t11445",
+      "id": "25428",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11446_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cooper-title-not-known-t11446",
+      "id": "25429",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11447_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cooper-title-not-known-t11447",
+      "id": "25430",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "22454",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22453",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22451",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22455",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22452",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25425",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25426",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25427",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25428",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25429",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25430",
+      "value": 1
+    }
+  ]
+}

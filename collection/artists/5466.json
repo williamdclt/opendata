@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hays, Dan",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/dan-hays-5466",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "colorado impression 11b (after dan hays, colorado)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07946_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hays-colorado-impression-11b-after-dan-hays-colorado-t07946",
+      "id": "76394",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "76394",
+      "value": 1
+    }
+  ]
+}

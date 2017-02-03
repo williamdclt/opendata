@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gill, Colin",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/colin-gill-1167",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018l\u2019allegro\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gill-study-for-lallegro-n03659",
+      "id": "5204",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5204",
+      "value": 1
+    }
+  ]
+}

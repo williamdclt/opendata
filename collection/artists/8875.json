@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Usl\u00e9, Juan",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/juan-usle-8875",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "bilingual",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12276_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/usle-bilingual-t12276",
+      "id": "88336",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "88336",
+      "value": 1
+    }
+  ]
+}

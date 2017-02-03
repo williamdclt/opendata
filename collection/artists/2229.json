@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Blore, Edward",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/edward-blore-2229",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "st margaret\u2019s, at cliff, near dover, kent",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05240_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blore-st-margarets-at-cliff-near-dover-kent-t05240",
+      "id": "17017",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st margaret\u2019s at cliff, near dover, kent",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05241_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blore-st-margarets-at-cliff-near-dover-kent-t05241",
+      "id": "17018",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "17017",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17018",
+      "value": 1
+    }
+  ]
+}

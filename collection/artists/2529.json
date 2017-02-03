@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Reynolds, Samuel William, Junior",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/samuel-william-reynolds-junior-2529",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a landscape with waterfall, an artist sketching in the foreground",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09370_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reynolds-a-landscape-with-waterfall-an-artist-sketching-in-the-foreground-t09370",
+      "id": "23413",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "23413",
+      "value": 1
+    }
+  ]
+}

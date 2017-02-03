@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hirst, Damien",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/damien-hirst-2308",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "monument to the living and the dead",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00045_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-monument-to-the-living-and-the-dead-ar00045",
+      "id": "94302",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "controlled substance key painting",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00498_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-controlled-substance-key-painting-ar00498",
+      "id": "98342",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "away from the flock",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00499_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-away-from-the-flock-ar00499",
+      "id": "98344",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "trinity - pharmacology, physiology, pathology",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00500_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-trinity-pharmacology-physiology-pathology-ar00500",
+      "id": "98345",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "with dead head",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00617_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-with-dead-head-ar00617",
+      "id": "98346",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "beans & chips",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11641_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-beans-chips-p11641",
+      "id": "26837",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mushroom",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11642_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-mushroom-p11642",
+      "id": "26767",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "steak and kidney",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11643_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-steak-and-kidney-p11643",
+      "id": "26766",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sausages",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11644_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-sausages-p11644",
+      "id": "26839",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "omelette",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11645_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-omelette-p11645",
+      "id": "26838",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "liver bacon onions",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11646_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-liver-bacon-onions-p11646",
+      "id": "26840",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dumpling",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11647_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-dumpling-p11647",
+      "id": "26841",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "salad",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11648_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-salad-p11648",
+      "id": "26842",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chicken",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11649_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-chicken-p11649",
+      "id": "26843",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sandwich",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11650_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-sandwich-p11650",
+      "id": "26844",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "meatballs",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11651_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-meatballs-p11651",
+      "id": "26845",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cornish pasty",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11652_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-cornish-pasty-p11652",
+      "id": "26846",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "corned beef",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11653_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-corned-beef-p11653",
+      "id": "26847",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wheel meet again",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13034_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-wheel-meet-again-p13034",
+      "id": "98707",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tie a yellow ribbon round the old oak tree",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13035_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-tie-a-yellow-ribbon-round-the-old-oak-tree-p13035",
+      "id": "98708",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "you threw a melon at my head",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13036_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-you-threw-a-melon-at-my-head-p13036",
+      "id": "98709",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "my way",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13037_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-my-way-p13037",
+      "id": "98710",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "burning wheel",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13038_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-burning-wheel-p13038",
+      "id": "98711",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ring-a-ring of roses",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13039_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-ring-a-ring-of-roses-p13039",
+      "id": "98712",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "i get around",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13040_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-i-get-around-p13040",
+      "id": "98713",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "global a go-go - for joe",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13041_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-global-a-go-go-for-joe-p13041",
+      "id": "98714",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "all around the world",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13042_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-all-around-the-world-p13042",
+      "id": "98715",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "in-a-spin",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13043_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-in-a-spin-p13043",
+      "id": "98716",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "round",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13044_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-round-p13044",
+      "id": "98717",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "liberty",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13045_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-liberty-p13045",
+      "id": "98718",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "like a snowball down a mountain",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13046_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-like-a-snowball-down-a-mountain-p13046",
+      "id": "98719",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spin me right round",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13047_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-spin-me-right-round-p13047",
+      "id": "98720",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "i saw the half of the moon",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13048_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-i-saw-the-half-of-the-moon-p13048",
+      "id": "98721",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lavender baby",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13049_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-lavender-baby-p13049",
+      "id": "98722",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "billy mill roundabout",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13050_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-billy-mill-roundabout-p13050",
+      "id": "98723",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "there\u2019s more to life than making jam and having kids",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13051_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-theres-more-to-life-than-making-jam-and-having-kids-p13051",
+      "id": "98724",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "orbital",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13052_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-orbital-p13052",
+      "id": "98725",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spinning wheel",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13053_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-spinning-wheel-p13053",
+      "id": "98726",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "oh my god ... and for those really stubborn stains!!!!!??*",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13054_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-oh-my-god-and-for-those-really-stubborn-stains-p13054",
+      "id": "98727",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "circles in the sand",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13055_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-circles-in-the-sand-p13055",
+      "id": "98728",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "94302",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98342",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98344",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98345",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98346",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26837",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26767",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26766",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26839",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26838",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26840",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26841",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26842",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26843",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26844",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26845",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26846",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26847",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98707",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98708",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98709",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98710",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98711",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98712",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98713",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98714",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98715",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98716",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98717",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98718",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98719",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98720",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98721",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98722",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98723",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98724",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98725",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98726",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98727",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98728",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Skeaping, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-skeaping-1949",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "blood horse",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/skeaping-blood-horse-n05455",
+      "id": "13450",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "horse",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06129_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/skeaping-horse-n06129",
+      "id": "13451",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mare and foal",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01722_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/skeaping-mare-and-foal-p01722",
+      "id": "13452",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "buffalo",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/skeaping-buffalo-t03767",
+      "id": "13453",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "burmese dancer",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/skeaping-burmese-dancer-t03768",
+      "id": "13454",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fish",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06548_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/skeaping-fish-t06548",
+      "id": "20321",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "akua-ba",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07862_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/skeaping-akua-ba-t07862",
+      "id": "27097",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13450",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13451",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13452",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13453",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13454",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20321",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27097",
+      "value": 1
+    }
+  ]
+}

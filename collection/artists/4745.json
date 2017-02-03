@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Finn-Kelcey, Rose",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/rose-finn-kelcey-4745",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the restless image - a discrepancy between the felt position and the seen position. self portrait",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78607_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/finn-kelcey-the-restless-image-a-discrepancy-between-the-felt-position-and-the-seen-p78607",
+      "id": "71563",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "71563",
+      "value": 1
+    }
+  ]
+}

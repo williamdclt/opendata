@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Garcia Torres, Mario",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/mario-garcia-torres-10370",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "what happens in halifax stays in halifax (in 36 slides)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/garcia-torres-what-happens-in-halifax-stays-in-halifax-in-36-slides-t12888",
+      "id": "96084",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "96084",
+      "value": 1
+    }
+  ]
+}

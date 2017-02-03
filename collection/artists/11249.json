@@ -1,0 +1,183 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Model, Lisette",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/lisette-model-11249",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "woman with veil, san francisco",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/model-woman-with-veil-san-francisco-p79965",
+      "id": "113740",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman with shawl, new york city",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/model-woman-with-shawl-new-york-city-p79966",
+      "id": "113744",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman in flowered dress, promenade des anglais, riviera",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/model-woman-in-flowered-dress-promenade-des-anglais-riviera-p79967",
+      "id": "113745",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "french gambler, promenade des anglais, riviera",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/model-french-gambler-promenade-des-anglais-riviera-p79968",
+      "id": "113746",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "famous gambler, monte carlo",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/model-famous-gambler-monte-carlo-p79969",
+      "id": "113747",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fashion show, hotel pierre, new york city",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/model-fashion-show-hotel-pierre-new-york-city-p79970",
+      "id": "113748",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "newspaper salesman, paris",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/model-newspaper-salesman-paris-p79971",
+      "id": "113749",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman at coney island",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/model-woman-at-coney-island-p79972",
+      "id": "113750",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blind man, paris",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/model-blind-man-paris-p79973",
+      "id": "113751",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "singer at the cafe metropole, new york city",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/model-singer-at-the-cafe-metropole-new-york-city-p79974",
+      "id": "113752",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "little man, lower east side, new york city",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/model-little-man-lower-east-side-new-york-city-p79975",
+      "id": "113753",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "window reflections, fifth avenue, new york city",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/model-window-reflections-fifth-avenue-new-york-city-p79976",
+      "id": "113754",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "113740",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "113744",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "113745",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "113746",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "113747",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "113748",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "113749",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "113750",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "113751",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "113752",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "113753",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "113754",
+      "value": 1
+    }
+  ]
+}

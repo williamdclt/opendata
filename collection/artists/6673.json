@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Sorman, Steven",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/steven-sorman-6673",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "from time to time - i",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorman-from-time-to-time-i-p12261",
+      "id": "80523",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "each way",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorman-each-way-p12262",
+      "id": "80524",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "change of heart",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorman-change-of-heart-p12263",
+      "id": "80525",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorman-no-title-p12264",
+      "id": "80526",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorman-no-title-p12265",
+      "id": "80527",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorman-no-title-p12266",
+      "id": "80528",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorman-no-title-p12267",
+      "id": "80529",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorman-no-title-p12268",
+      "id": "80530",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorman-no-title-p12269",
+      "id": "80531",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorman-no-title-p12270",
+      "id": "80532",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorman-no-title-p12271",
+      "id": "80533",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorman-no-title-p12272",
+      "id": "80534",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorman-no-title-p12273",
+      "id": "80535",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorman-no-title-p12274",
+      "id": "80536",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorman-no-title-p12275",
+      "id": "80537",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorman-no-title-p12276",
+      "id": "80538",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorman-no-title-p12277",
+      "id": "80539",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorman-no-title-p12278",
+      "id": "80540",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorman-no-title-p12279",
+      "id": "80541",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorman-no-title-p12280",
+      "id": "80542",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorman-no-title-p12281",
+      "id": "80543",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorman-no-title-p12282",
+      "id": "80544",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorman-no-title-p12283",
+      "id": "80545",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorman-no-title-p12284",
+      "id": "80546",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wind shift",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorman-wind-shift-p12285",
+      "id": "80563",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "any of which",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorman-any-of-which-p12286",
+      "id": "80564",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "as remembered",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorman-as-remembered-p12287",
+      "id": "80566",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "could be",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorman-could-be-p12288",
+      "id": "80567",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "facing",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorman-facing-p12289",
+      "id": "80577",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "duty of water",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorman-duty-of-water-p12290",
+      "id": "80578",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "acting like ourselves",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorman-acting-like-ourselves-p12291",
+      "id": "80579",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "acting like ourselves, state i",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorman-acting-like-ourselves-state-i-p12292",
+      "id": "80580",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "acting like ourselves, state ii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorman-acting-like-ourselves-state-ii-p12293",
+      "id": "80581",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "coming going",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorman-coming-going-p12294",
+      "id": "80582",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "coming going, state i",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorman-coming-going-state-i-p12295",
+      "id": "80583",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "coming going, state ii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorman-coming-going-state-ii-p12296",
+      "id": "80584",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dwarf of itself",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorman-dwarf-of-itself-p12297",
+      "id": "80585",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dwarf of itself, state i",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorman-dwarf-of-itself-state-i-p12298",
+      "id": "80586",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dwarf of itself, state ii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorman-dwarf-of-itself-state-ii-p12299",
+      "id": "80589",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dwarf of itself, state iii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sorman-dwarf-of-itself-state-iii-p12300",
+      "id": "80590",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "80523",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80524",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80525",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80526",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80527",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80528",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80529",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80530",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80531",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80532",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80533",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80534",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80535",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80536",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80537",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80538",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80539",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80540",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80541",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80542",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80543",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80544",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80545",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80546",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80563",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80564",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80566",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80567",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80577",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80578",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80579",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80580",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80581",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80582",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80583",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80584",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80585",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80586",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80589",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80590",
+      "value": 1
+    }
+  ]
+}

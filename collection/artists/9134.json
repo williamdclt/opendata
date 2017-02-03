@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Warren, Rebecca",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/rebecca-warren-9134",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "come, helga",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12258_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warren-come-helga-t12258",
+      "id": "88550",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "versailles",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12259_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warren-versailles-t12259",
+      "id": "89119",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "in the bois",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12816_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warren-in-the-bois-t12816",
+      "id": "100383",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "88550",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "89119",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "100383",
+      "value": 1
+    }
+  ]
+}

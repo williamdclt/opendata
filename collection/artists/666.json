@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Arnatt, Keith",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/keith-arnatt-666",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "art as an act of retraction",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arnatt-art-as-an-act-of-retraction-p13140",
+      "id": "112242",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rejected proposal for the peter stuyvesant \u2018city sculpture project\u2019 (for cardiff city)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arnatt-rejected-proposal-for-the-peter-stuyvesant-city-sculpture-project-for-cardiff-city-p13141",
+      "id": "112243",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "i have decided to go to the tate gallery next friday",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arnatt-i-have-decided-to-go-to-the-tate-gallery-next-friday-p13142",
+      "id": "112244",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of the artist as a shadow of his former self",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arnatt-portrait-of-the-artist-as-a-shadow-of-his-former-self-p13143",
+      "id": "112245",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "art as an act of omission",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arnatt-art-as-an-act-of-omission-p13144",
+      "id": "112246",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "invisible hole revealed by the shadow of the artist",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arnatt-invisible-hole-revealed-by-the-shadow-of-the-artist-p13145",
+      "id": "112247",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-burial (television interference project)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01747_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arnatt-self-burial-television-interference-project-t01747",
+      "id": "589",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of the artist as a shadow of his former self",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07647_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arnatt-portrait-of-the-artist-as-a-shadow-of-his-former-self-t07647",
+      "id": "27240",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "trouser - word piece",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07649_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arnatt-trouser-word-piece-t07649",
+      "id": "27275",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "walking the dog",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13047_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arnatt-walking-the-dog-t13047",
+      "id": "108867",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "walking the dog",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13048_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arnatt-walking-the-dog-t13048",
+      "id": "108870",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "walking the dog",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13049_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arnatt-walking-the-dog-t13049",
+      "id": "108871",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "walking the dog",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13050_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arnatt-walking-the-dog-t13050",
+      "id": "108872",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "walking the dog",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13051_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arnatt-walking-the-dog-t13051",
+      "id": "108873",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "walking the dog",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13052_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arnatt-walking-the-dog-t13052",
+      "id": "108874",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "walking the dog",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13053_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arnatt-walking-the-dog-t13053",
+      "id": "108875",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "walking the dog",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13054_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arnatt-walking-the-dog-t13054",
+      "id": "108876",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "walking the dog",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13055_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arnatt-walking-the-dog-t13055",
+      "id": "108877",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "walking the dog",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13056_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arnatt-walking-the-dog-t13056",
+      "id": "108878",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "walking the dog",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13057_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arnatt-walking-the-dog-t13057",
+      "id": "108879",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "walking the dog",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13058_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arnatt-walking-the-dog-t13058",
+      "id": "108880",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "walking the dog",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13059_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arnatt-walking-the-dog-t13059",
+      "id": "108881",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "walking the dog",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13060_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arnatt-walking-the-dog-t13060",
+      "id": "108882",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "walking the dog",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13061_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arnatt-walking-the-dog-t13061",
+      "id": "108883",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "walking the dog",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13062_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arnatt-walking-the-dog-t13062",
+      "id": "108884",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "walking the dog",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13063_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arnatt-walking-the-dog-t13063",
+      "id": "108885",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "walking the dog",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13064_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arnatt-walking-the-dog-t13064",
+      "id": "108886",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "walking the dog",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13065_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arnatt-walking-the-dog-t13065",
+      "id": "108887",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "walking the dog",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13066_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arnatt-walking-the-dog-t13066",
+      "id": "108888",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "walking the dog",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13067_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arnatt-walking-the-dog-t13067",
+      "id": "108889",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "walking the dog",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13068_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arnatt-walking-the-dog-t13068",
+      "id": "108890",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "walking the dog",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13069_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arnatt-walking-the-dog-t13069",
+      "id": "108891",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "walking the dog",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13070_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arnatt-walking-the-dog-t13070",
+      "id": "108892",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "walking the dog",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13071_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arnatt-walking-the-dog-t13071",
+      "id": "108893",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "walking the dog",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13072_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arnatt-walking-the-dog-t13072",
+      "id": "108894",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "walking the dog",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13073_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arnatt-walking-the-dog-t13073",
+      "id": "108895",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "walking the dog",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13074_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arnatt-walking-the-dog-t13074",
+      "id": "108896",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "walking the dog",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13075_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arnatt-walking-the-dog-t13075",
+      "id": "108897",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "walking the dog",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13076_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arnatt-walking-the-dog-t13076",
+      "id": "108898",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "walking the dog",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13077_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arnatt-walking-the-dog-t13077",
+      "id": "108899",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "112242",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112243",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112244",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112245",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112246",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112247",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "589",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27240",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27275",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "108867",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "108870",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "108871",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "108872",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "108873",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "108874",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "108875",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "108876",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "108877",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "108878",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "108879",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "108880",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "108881",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "108882",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "108883",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "108884",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "108885",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "108886",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "108887",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "108888",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "108889",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "108890",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "108891",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "108892",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "108893",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "108894",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "108895",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "108896",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "108897",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "108898",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "108899",
+      "value": 1
+    }
+  ]
+}

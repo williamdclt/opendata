@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Tryon, Wyndham",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/wyndham-tryon-2070",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "fraga",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04442_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tryon-fraga-n04442",
+      "id": "14494",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "castle in spain",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05408_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tryon-castle-in-spain-n05408",
+      "id": "14495",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "14494",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14495",
+      "value": 1
+    }
+  ]
+}

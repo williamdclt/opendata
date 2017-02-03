@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Morellet, Fran\u00e7ois",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/francois-morellet-1661",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "two warps and wefts of short lines 0\u00b0 90\u00b0",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01840_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morellet-two-warps-and-wefts-of-short-lines-0-90-t01840",
+      "id": "10287",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "10287",
+      "value": 1
+    }
+  ]
+}

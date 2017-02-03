@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Clark, Joseph",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/joseph-clark-95",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "mother\u2019s darling",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01593_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clark-mothers-darling-n01593",
+      "id": "2228",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "early promise",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01610_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clark-early-promise-n01610",
+      "id": "2229",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2228",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2229",
+      "value": 1
+    }
+  ]
+}

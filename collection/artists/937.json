@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Constant",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/constant-constant-a-nieuwenhuys-937",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03245_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constant-no-title-p03245",
+      "id": "2768",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "after us, liberty",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03705_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constant-after-us-liberty-t03705",
+      "id": "2769",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2768",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2769",
+      "value": 1
+    }
+  ]
+}

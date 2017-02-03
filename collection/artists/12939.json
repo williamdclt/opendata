@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Ewan, Ruth",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/ruth-ewan-12939",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the world we live in (fred)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79790_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ewan-the-world-we-live-in-fred-p79790",
+      "id": "105091",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "105091",
+      "value": 1
+    }
+  ]
+}

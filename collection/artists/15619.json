@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Makarius, Sameer",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sameer-makarius-15619",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "stack of sewer pipes",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/makarius-stack-of-sewer-pipes-p13170",
+      "id": "117977",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nets of mar del plata\u2019s fishermen",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/makarius-nets-of-mar-del-platas-fishermen-p13171",
+      "id": "117978",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vision of pipes through a pipe",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/makarius-vision-of-pipes-through-a-pipe-p80011",
+      "id": "117983",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shutter in a house of la boca",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/makarius-shutter-in-a-house-of-la-boca-p80012",
+      "id": "117984",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "117977",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117978",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117983",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117984",
+      "value": 1
+    }
+  ]
+}

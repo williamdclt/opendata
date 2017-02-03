@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Herring, Ed",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/ed-herring-1279",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "1. 6",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08010_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herring-1-6-p08010",
+      "id": "6187",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "proposition",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herring-proposition-t13814",
+      "id": "122974",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tea-bag piece",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herring-tea-bag-piece-t13815",
+      "id": "123590",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "float",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herring-float-t13816",
+      "id": "123626",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "oiled earth",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herring-oiled-earth-t13817",
+      "id": "123630",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "zinc-plated wood",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herring-zinc-plated-wood-t13818",
+      "id": "123634",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "acts",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herring-acts-t13819",
+      "id": "123636",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tie-up",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herring-tie-up-t13820",
+      "id": "123633",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6187",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "122974",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123590",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123626",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123630",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123634",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123636",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123633",
+      "value": 1
+    }
+  ]
+}

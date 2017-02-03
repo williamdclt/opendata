@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Graevenitz, Gerhard von",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/gerhard-von-graevenitz-1199",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "5 black rectangles on white",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01822_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/graevenitz-5-black-rectangles-on-white-t01822",
+      "id": "5560",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5560",
+      "value": 1
+    }
+  ]
+}

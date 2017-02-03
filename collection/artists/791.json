@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Bowey, Olwyn",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/olwyn-bowey-791",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "portrait sketch of l.s. lowry",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00662_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bowey-portrait-sketch-of-ls-lowry-t00662",
+      "id": "1374",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1374",
+      "value": 1
+    }
+  ]
+}

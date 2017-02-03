@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Close, Chuck",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/chuck-close-920",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "self-portrait etching",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/close-self-portrait-etching-p07387",
+      "id": "2308",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2308",
+      "value": 1
+    }
+  ]
+}

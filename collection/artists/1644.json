@@ -1,0 +1,141 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Minton, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-minton-1644",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "horseguards in their dressing rooms at whitehall",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77471_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/minton-horseguards-in-their-dressing-rooms-at-whitehall-p77471",
+      "id": "19241",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "composition: the death of james dean",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00140_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/minton-composition-the-death-of-james-dean-t00140",
+      "id": "9569",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portuguese cannon, mazagan, morocco",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00159_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/minton-portuguese-cannon-mazagan-morocco-t00159",
+      "id": "9570",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "street and railway bridge",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00162_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/minton-street-and-railway-bridge-t00162",
+      "id": "9571",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "corte, corsica",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00237_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/minton-corte-corsica-t00237",
+      "id": "9572",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "children by the sea",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04887_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/minton-children-by-the-sea-t04887",
+      "id": "9573",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape at les baux",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04926_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/minton-landscape-at-les-baux-t04926",
+      "id": "9574",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of kevin maybury",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05770_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/minton-portrait-of-kevin-maybury-t05770",
+      "id": "19102",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of a boy (?)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06464_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/minton-portrait-of-a-boy-t06464",
+      "id": "20182",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "19241",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9569",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9570",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9571",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9572",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9573",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9574",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19102",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20182",
+      "value": 1
+    }
+  ]
+}

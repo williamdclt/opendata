@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Baxter, Iain",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/iain-baxter-710",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "bagged day-glo oranges",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03218_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baxter-bagged-day-glo-oranges-p03218",
+      "id": "801",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "801",
+      "value": 1
+    }
+  ]
+}

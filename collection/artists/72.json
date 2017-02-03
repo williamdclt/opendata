@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Butler, Mildred Anne",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/mildred-anne-butler-72",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "morning bath",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01708_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/butler-morning-bath-n01708",
+      "id": "1869",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1869",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Sala, George Augustus Henry",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/george-augustus-henry-sala-2454",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the way it\u2019s done at the casino. a couple dancing",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10115_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sala-the-way-its-done-at-the-casino-a-couple-dancing-t10115",
+      "id": "23494",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "23494",
+      "value": 1
+    }
+  ]
+}

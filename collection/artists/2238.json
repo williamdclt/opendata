@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Kirkeby, Per",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/per-kirkeby-2238",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kirkeby-title-not-known-p11220",
+      "id": "2575",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: no. 6]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77301_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kirkeby-no-title-no-6-p77301",
+      "id": "17332",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: no. 4]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77302_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kirkeby-no-title-no-4-p77302",
+      "id": "17333",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: no. 9]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kirkeby-no-title-no-9-p77303",
+      "id": "17334",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: no. 13]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77304_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kirkeby-no-title-no-13-p77304",
+      "id": "17335",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78138_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kirkeby-no-title-p78138",
+      "id": "26302",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78139_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kirkeby-no-title-p78139",
+      "id": "26343",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78140_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kirkeby-no-title-p78140",
+      "id": "26354",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78141_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kirkeby-no-title-p78141",
+      "id": "26353",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78142_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kirkeby-no-title-p78142",
+      "id": "26352",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78143_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kirkeby-no-title-p78143",
+      "id": "26351",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78144_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kirkeby-no-title-p78144",
+      "id": "26350",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78145_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kirkeby-no-title-p78145",
+      "id": "26349",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78146_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kirkeby-no-title-p78146",
+      "id": "26348",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78147_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kirkeby-no-title-p78147",
+      "id": "26347",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78148_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kirkeby-no-title-p78148",
+      "id": "26346",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78149_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kirkeby-no-title-p78149",
+      "id": "26345",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78150_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kirkeby-no-title-p78150",
+      "id": "26344",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78151_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kirkeby-no-title-p78151",
+      "id": "26342",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78152_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kirkeby-no-title-p78152",
+      "id": "26341",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78153_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kirkeby-no-title-p78153",
+      "id": "26340",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78154_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kirkeby-no-title-p78154",
+      "id": "26339",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78155_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kirkeby-no-title-p78155",
+      "id": "26338",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78156_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kirkeby-no-title-p78156",
+      "id": "26337",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78157_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kirkeby-no-title-p78157",
+      "id": "26336",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78158_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kirkeby-no-title-p78158",
+      "id": "26335",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78159_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kirkeby-no-title-p78159",
+      "id": "26334",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78160_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kirkeby-no-title-p78160",
+      "id": "26333",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78161_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kirkeby-no-title-p78161",
+      "id": "26332",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78162_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kirkeby-no-title-p78162",
+      "id": "26331",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78163_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kirkeby-no-title-p78163",
+      "id": "26330",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78164_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kirkeby-no-title-p78164",
+      "id": "26329",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78165_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kirkeby-no-title-p78165",
+      "id": "26328",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78166_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kirkeby-no-title-p78166",
+      "id": "26327",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78167_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kirkeby-no-title-p78167",
+      "id": "26326",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78168_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kirkeby-no-title-p78168",
+      "id": "26325",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78169_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kirkeby-no-title-p78169",
+      "id": "26324",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78170_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kirkeby-no-title-p78170",
+      "id": "26323",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78171_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kirkeby-no-title-p78171",
+      "id": "26322",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78172_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kirkeby-no-title-p78172",
+      "id": "26321",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2575",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17332",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17333",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17334",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17335",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26302",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26343",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26354",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26353",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26352",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26351",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26350",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26349",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26348",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26347",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26346",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26345",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26344",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26342",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26341",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26340",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26339",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26338",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26337",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26336",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26335",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26334",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26333",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26332",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26331",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26330",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26329",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26328",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26327",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26326",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26325",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26324",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26323",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26322",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26321",
+      "value": 1
+    }
+  ]
+}

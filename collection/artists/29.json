@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Beaumont, Sir George Howland, Bt",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-george-howland-beaumont-bt-29",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "landscape, with jacques and the wounded stag",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00119_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beaumont-landscape-with-jacques-and-the-wounded-stag-n00119",
+      "id": "830",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01148_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beaumont-landscape-t01148",
+      "id": "831",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "waterfall at keswick",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01221_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beaumont-waterfall-at-keswick-t01221",
+      "id": "832",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the river stour at dedham",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01231_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beaumont-the-river-stour-at-dedham-t01231",
+      "id": "833",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09732_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beaumont-title-not-known-t09732",
+      "id": "22307",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09733_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beaumont-title-not-known-t09733",
+      "id": "24550",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09734_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beaumont-title-not-known-t09734",
+      "id": "24551",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09735_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beaumont-title-not-known-t09735",
+      "id": "24552",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09736_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beaumont-title-not-known-t09736",
+      "id": "24553",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09737_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beaumont-title-not-known-t09737",
+      "id": "24554",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09738_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beaumont-title-not-known-t09738",
+      "id": "24555",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09739_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beaumont-title-not-known-t09739",
+      "id": "24556",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09740_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beaumont-title-not-known-t09740",
+      "id": "24557",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09741_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beaumont-title-not-known-t09741",
+      "id": "24558",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09742_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beaumont-title-not-known-t09742",
+      "id": "24559",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09743_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beaumont-title-not-known-t09743",
+      "id": "24560",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09744_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beaumont-title-not-known-t09744",
+      "id": "24561",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09745_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beaumont-title-not-known-t09745",
+      "id": "24562",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09746_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beaumont-title-not-known-t09746",
+      "id": "24563",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09747_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beaumont-title-not-known-t09747",
+      "id": "24564",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known] verso: sketch",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09748_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beaumont-title-not-known-verso-sketch-t09748",
+      "id": "24565",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known] verso: sketches of heads",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09749_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beaumont-title-not-known-verso-sketches-of-heads-t09749",
+      "id": "24566",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09750_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beaumont-title-not-known-t09750",
+      "id": "24567",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10455_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beaumont-title-not-known-t10455",
+      "id": "22305",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10456_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beaumont-title-not-known-t10456",
+      "id": "24766",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10457_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beaumont-title-not-known-t10457",
+      "id": "24767",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10458_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beaumont-title-not-known-t10458",
+      "id": "24768",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10459_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beaumont-title-not-known-t10459",
+      "id": "24769",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10460_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beaumont-title-not-known-t10460",
+      "id": "24770",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10461_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beaumont-title-not-known-t10461",
+      "id": "24771",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10462_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beaumont-title-not-known-t10462",
+      "id": "24772",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10463_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beaumont-title-not-known-t10463",
+      "id": "24773",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10464_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beaumont-title-not-known-t10464",
+      "id": "24774",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10465_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beaumont-title-not-known-t10465",
+      "id": "24775",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10466_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beaumont-title-not-known-t10466",
+      "id": "24776",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10467_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beaumont-title-not-known-t10467",
+      "id": "24777",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10468_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beaumont-title-not-known-t10468",
+      "id": "24778",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10469_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beaumont-title-not-known-t10469",
+      "id": "24779",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10470_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beaumont-title-not-known-t10470",
+      "id": "24780",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10471_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beaumont-title-not-known-t10471",
+      "id": "24781",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "830",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "831",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "832",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "833",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22307",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24550",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24551",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24552",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24553",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24554",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24555",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24556",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24557",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24558",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24559",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24560",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24561",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24562",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24563",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24564",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24565",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24566",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24567",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22305",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24766",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24767",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24768",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24769",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24770",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24771",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24772",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24773",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24774",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24775",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24776",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24777",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24778",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24779",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24780",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24781",
+      "value": 1
+    }
+  ]
+}

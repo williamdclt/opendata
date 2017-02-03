@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Barenger, James",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/james-barenger-18",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "jonathan griffin, huntsman to the earl of derby\u2019s staghounds",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02356_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barenger-jonathan-griffin-huntsman-to-the-earl-of-derbys-staghounds-t02356",
+      "id": "716",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "716",
+      "value": 1
+    }
+  ]
+}

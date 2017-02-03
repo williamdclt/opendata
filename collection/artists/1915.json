@@ -1,0 +1,183 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Scott, Tim",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/tim-scott-1915",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "dulcimer",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-dulcimer-t01212",
+      "id": "13208",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "peach wheels",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01215_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-peach-wheels-t01215",
+      "id": "13209",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "curlicue",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-curlicue-t01362",
+      "id": "13210",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "agrippa",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01363_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-agrippa-t01363",
+      "id": "13211",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "quantic of giza",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-quantic-of-giza-t01364",
+      "id": "13212",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "quadreme",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01365_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-quadreme-t01365",
+      "id": "13213",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "quinquereme",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01366_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-quinquereme-t01366",
+      "id": "13214",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "trireme",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01367_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-trireme-t01367",
+      "id": "13215",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wine",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01368_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-wine-t01368",
+      "id": "13216",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bird in arras iv",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-bird-in-arras-iv-t01369",
+      "id": "13217",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bird in arras vi",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-bird-in-arras-vi-t01370",
+      "id": "13218",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pool v",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01371_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-pool-v-t01371",
+      "id": "13219",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13208",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13209",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13210",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13211",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13212",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13213",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13214",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13215",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13216",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13217",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13218",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13219",
+      "value": 1
+    }
+  ]
+}

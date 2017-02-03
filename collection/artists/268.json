@@ -1,0 +1,239 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Holland, James",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/james-holland-268",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the grand canal, venice",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01809_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holland-the-grand-canal-venice-n01809",
+      "id": "6661",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "greenwich hospital as it was in 1837",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03051_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holland-greenwich-hospital-as-it-was-in-1837-n03051",
+      "id": "6662",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st ouen: rouen",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03326_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holland-st-ouen-rouen-n03326",
+      "id": "6663",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of architecture at rouen",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03333_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holland-study-of-architecture-at-rouen-n03333",
+      "id": "6664",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a recollection of venice",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03524_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holland-a-recollection-of-venice-n03524",
+      "id": "6665",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the thames below woolwich, 1843",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04236_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holland-the-thames-below-woolwich-1843-n04236",
+      "id": "6666",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rotterdam",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holland-rotterdam-t01002",
+      "id": "6667",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the tour d\u2019horloge, rouen",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05492_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holland-the-tour-dhorloge-rouen-t05492",
+      "id": "17270",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rouen",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08174_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holland-rouen-t08174",
+      "id": "23009",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "genoa, from the shore to the north",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08947_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holland-genoa-from-the-shore-to-the-north-t08947",
+      "id": "23010",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "genoa; women washing in a stream beneath buildings",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08949_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holland-genoa-women-washing-in-a-stream-beneath-buildings-t08949",
+      "id": "23011",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "genoa; a crowd outside a church",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08950_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holland-genoa-a-crowd-outside-a-church-t08950",
+      "id": "23012",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "venetian scene",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09437_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holland-venetian-scene-t09437",
+      "id": "23013",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ampezzo",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10249_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holland-ampezzo-t10249",
+      "id": "23007",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cottage interior in north wales",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10250_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holland-cottage-interior-in-north-wales-t10250",
+      "id": "23008",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rouen",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10692_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holland-rouen-t10692",
+      "id": "25053",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6661",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6662",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6663",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6664",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6665",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6666",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6667",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17270",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23009",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23010",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23011",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23012",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23013",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23007",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23008",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25053",
+      "value": 1
+    }
+  ]
+}

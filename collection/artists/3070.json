@@ -1,0 +1,14 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Price, Ken",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/ken-price-3070",
+      "id": "Artist",
+      "size": 30
+    }
+  ],
+  "links": []
+}

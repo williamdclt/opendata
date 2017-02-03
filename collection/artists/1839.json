@@ -1,0 +1,225 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Richier, Germaine",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/germaine-richier-1839",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "personage",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11277_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richier-personage-p11277",
+      "id": "19259",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11278_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richier-self-portrait-p11278",
+      "id": "19260",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "insects",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11279_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richier-insects-p11279",
+      "id": "19235",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11280_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richier-portrait-p11280",
+      "id": "19261",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11281_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richier-untitled-p11281",
+      "id": "19236",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "beetles",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11282_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richier-beetles-p11282",
+      "id": "19262",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the hydra",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11283_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richier-the-hydra-p11283",
+      "id": "19237",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the hurricane",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11284_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richier-the-hurricane-p11284",
+      "id": "19238",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11285_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richier-untitled-p11285",
+      "id": "19239",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bat",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11286_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richier-bat-p11286",
+      "id": "19240",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "water",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00075_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richier-water-t00075",
+      "id": "12546",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "diabolo",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07004_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richier-diabolo-t07004",
+      "id": "21413",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "storm man",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07013_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richier-storm-man-t07013",
+      "id": "21416",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hurricane woman",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07014_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richier-hurricane-woman-t07014",
+      "id": "21417",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chessboard, large version (original painted plaster)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07616_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richier-chessboard-large-version-original-painted-plaster-t07616",
+      "id": "27068",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "19259",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19260",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19235",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19261",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19236",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19262",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19237",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19238",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19239",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19240",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12546",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21413",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21416",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21417",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27068",
+      "value": 1
+    }
+  ]
+}

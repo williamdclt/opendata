@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Young-Hae Chang Heavy Industries (Young-Hae Chang, Marc Voge)",
+      "url": null,
+      "gender": "",
+      "tatelink": "http://www.tate.org.uk/art/artists/young-hae-chang-heavy-industries-young-hae-chang-marc-voge-15539",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "young-hae chang heavy industries presents: down in fukuoka with the belarusian blues",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/young-hae-chang-heavy-industries-young-hae-chang-young-hae-chang-heavy-industries-presents-t13637",
+      "id": "117425",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "teaser",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/young-hae-chang-heavy-industries-young-hae-chang-teaser-t13638",
+      "id": "117431",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "trailer",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/young-hae-chang-heavy-industries-young-hae-chang-trailer-t13639",
+      "id": "117432",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "117425",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117431",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117432",
+      "value": 1
+    }
+  ]
+}

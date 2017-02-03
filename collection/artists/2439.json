@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Locker, Edward Hawke",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/edward-hawke-locker-2439",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "nether hall, essex",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08175_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/locker-nether-hall-essex-t08175",
+      "id": "23178",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rievaulx",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08202_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/locker-rievaulx-t08202",
+      "id": "23177",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "23178",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23177",
+      "value": 1
+    }
+  ]
+}

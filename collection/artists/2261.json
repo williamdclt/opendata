@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Cleyn, Francis",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/francis-cleyn-2261",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "samuel\u2019s reproach to saul",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05745_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cleyn-samuels-reproach-to-saul-t05745",
+      "id": "19092",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "19092",
+      "value": 1
+    }
+  ]
+}

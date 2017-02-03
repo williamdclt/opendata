@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Graham, Dan",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/dan-graham-1200",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "two correlated rotations",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01737_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/graham-two-correlated-rotations-t01737",
+      "id": "5561",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5561",
+      "value": 1
+    }
+  ]
+}

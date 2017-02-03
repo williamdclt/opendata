@@ -1,0 +1,211 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Williams, Fred",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/fred-williams-2307",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "upwey landscape no. 5",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77552_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/williams-upwey-landscape-no-5-p77552",
+      "id": "20526",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "scrub at lilydale",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77553_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/williams-scrub-at-lilydale-p77553",
+      "id": "20525",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ponds, lysterfield",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77554_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/williams-ponds-lysterfield-p77554",
+      "id": "20524",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chopped trees",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77555_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/williams-chopped-trees-p77555",
+      "id": "20527",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape triptych number 1",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77800_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/williams-landscape-triptych-number-1-p77800",
+      "id": "21532",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "you yangs landscape number 1",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77801_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/williams-you-yangs-landscape-number-1-p77801",
+      "id": "21533",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "yarra billabong, kew ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77802_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/williams-yarra-billabong-kew-ii-p77802",
+      "id": "21534",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "upwey landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07016_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/williams-upwey-landscape-t07016",
+      "id": "21432",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the st george river",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07532_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/williams-the-st-george-river-t07532",
+      "id": "26676",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "coal delivery",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12268_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/williams-coal-delivery-t12268",
+      "id": "89885",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "burnt landscape ii (bushfire series)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12269_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/williams-burnt-landscape-ii-bushfire-series-t12269",
+      "id": "89886",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "beachscape, erith island ii",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12270_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/williams-beachscape-erith-island-ii-t12270",
+      "id": "89887",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dry creek bed, werribee gorge i",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12271_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/williams-dry-creek-bed-werribee-gorge-i-t12271",
+      "id": "89890",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "riverbed d",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12272_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/williams-riverbed-d-t12272",
+      "id": "89892",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "20526",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20525",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20524",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20527",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21532",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21533",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21534",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21432",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26676",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "89885",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "89886",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "89887",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "89890",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "89892",
+      "value": 1
+    }
+  ]
+}

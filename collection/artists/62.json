@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Brock, Sir Thomas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-thomas-brock-62",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a moment of peril",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brock-a-moment-of-peril-n01747",
+      "id": "1535",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sir henry tate",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01765_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brock-sir-henry-tate-n01765",
+      "id": "1536",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "eve",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01784_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brock-eve-n01784",
+      "id": "1537",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "thomas gainsborough, r.a.",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02074_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brock-thomas-gainsborough-ra-n02074",
+      "id": "1538",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sir john everett millais",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07664_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brock-sir-john-everett-millais-t07664",
+      "id": "27325",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1535",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1536",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1537",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1538",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27325",
+      "value": 1
+    }
+  ]
+}

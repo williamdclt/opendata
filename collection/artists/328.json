@@ -1,0 +1,253 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Laporte, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-laporte-328",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "rob roy\u2019s cave",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04915_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/laporte-rob-roys-cave-n04915",
+      "id": "8383",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two cottages",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09699_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/laporte-two-cottages-t09699",
+      "id": "23126",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a wood",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09702_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/laporte-a-wood-t09702",
+      "id": "23123",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "meadows at the edge of a wood, sheep grazing",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09703_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/laporte-meadows-at-the-edge-of-a-wood-sheep-grazing-t09703",
+      "id": "23125",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a cottage beyond a meadow among trees",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09704_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/laporte-a-cottage-beyond-a-meadow-among-trees-t09704",
+      "id": "23122",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a lake and distant hills beyond trees",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09705_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/laporte-a-lake-and-distant-hills-beyond-trees-t09705",
+      "id": "23127",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a water-mill",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09706_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/laporte-a-water-mill-t09706",
+      "id": "23129",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a rocky lane, with dead tree, a cottage in the distance",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09707_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/laporte-a-rocky-lane-with-dead-tree-a-cottage-in-the-distance-t09707",
+      "id": "23131",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "classical landscape with river and temple",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09708_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/laporte-classical-landscape-with-river-and-temple-t09708",
+      "id": "23133",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape with trees and cottages",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09709_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/laporte-landscape-with-trees-and-cottages-t09709",
+      "id": "23130",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "park scene with deer",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09710_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/laporte-park-scene-with-deer-t09710",
+      "id": "23132",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "studies of two trees, larch fir and birch",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09711_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/laporte-studies-of-two-trees-larch-fir-and-birch-t09711",
+      "id": "23119",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a cottage beyond a stream amid trees",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09712_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/laporte-a-cottage-beyond-a-stream-amid-trees-t09712",
+      "id": "23121",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a road with an inn",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09713_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/laporte-a-road-with-an-inn-t09713",
+      "id": "23128",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a lake beyond trees",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09714_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/laporte-a-lake-beyond-trees-t09714",
+      "id": "23120",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a glade in a wood",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09715_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/laporte-a-glade-in-a-wood-t09715",
+      "id": "23124",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "studies of two trees - aspen and alder",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09844_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/laporte-studies-of-two-trees-aspen-and-alder-t09844",
+      "id": "23118",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8383",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23126",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23123",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23125",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23122",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23127",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23129",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23131",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23133",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23130",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23132",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23119",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23121",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23128",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23120",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23124",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23118",
+      "value": 1
+    }
+  ]
+}

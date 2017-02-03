@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Rennell, Lady Mary",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/lady-mary-rennell-1827",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the boy jesus and the shepherd",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06462_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rennell-the-boy-jesus-and-the-shepherd-p06462",
+      "id": "12354",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "carmelites in choir",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06463_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rennell-carmelites-in-choir-p06463",
+      "id": "12355",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "carmelite nun",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06678_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rennell-carmelite-nun-p06678",
+      "id": "12356",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "christmas card",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06679_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rennell-christmas-card-p06679",
+      "id": "12357",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "forest",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06745_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rennell-forest-p06745",
+      "id": "12358",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "aborigines",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06746_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rennell-aborigines-p06746",
+      "id": "12359",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "welsh landscape",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06747_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rennell-welsh-landscape-p06747",
+      "id": "12360",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12354",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12355",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12356",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12357",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12358",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12359",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12360",
+      "value": 1
+    }
+  ]
+}

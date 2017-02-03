@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gabo, Naum",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/naum-gabo-1137",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01921_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gabo-no-title-p01921",
+      "id": "4767",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01922_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gabo-no-title-p01922",
+      "id": "4768",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01923_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gabo-no-title-p01923",
+      "id": "4769",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01924_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gabo-no-title-p01924",
+      "id": "4770",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01925_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gabo-no-title-p01925",
+      "id": "4771",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01926_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gabo-no-title-p01926",
+      "id": "4772",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01927_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gabo-no-title-p01927",
+      "id": "4773",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01928_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gabo-no-title-p01928",
+      "id": "4774",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01929_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gabo-no-title-p01929",
+      "id": "4775",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01930_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gabo-no-title-p01930",
+      "id": "4776",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01931_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gabo-no-title-p01931",
+      "id": "4777",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01932_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gabo-no-title-p01932",
+      "id": "4778",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01933_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gabo-no-title-p01933",
+      "id": "4779",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01934_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gabo-no-title-p01934",
+      "id": "4780",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01935_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gabo-no-title-p01935",
+      "id": "4781",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01936_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gabo-no-title-p01936",
+      "id": "4782",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01937_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gabo-no-title-p01937",
+      "id": "4783",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01938_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gabo-no-title-p01938",
+      "id": "4784",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01939_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gabo-no-title-p01939",
+      "id": "4785",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01940_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gabo-no-title-p01940",
+      "id": "4786",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01941_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gabo-no-title-p01941",
+      "id": "4787",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01942_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gabo-untitled-p01942",
+      "id": "4788",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01943_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gabo-untitled-p01943",
+      "id": "4789",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01944_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gabo-untitled-p01944",
+      "id": "4790",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01945_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gabo-untitled-p01945",
+      "id": "4791",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01946_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gabo-no-title-p01946",
+      "id": "4792",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01947_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gabo-no-title-p01947",
+      "id": "4793",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01948_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gabo-no-title-p01948",
+      "id": "4794",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01949_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gabo-no-title-p01949",
+      "id": "4795",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02001_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gabo-no-title-p02001",
+      "id": "4796",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02002_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gabo-no-title-p02002",
+      "id": "4797",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02003_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gabo-no-title-p02003",
+      "id": "4798",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02004_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gabo-no-title-p02004",
+      "id": "4799",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02005_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gabo-no-title-p02005",
+      "id": "4800",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02006_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gabo-no-title-p02006",
+      "id": "4801",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02007_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gabo-no-title-p02007",
+      "id": "4802",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "opus 1",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11382_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gabo-opus-1-p11382",
+      "id": "21300",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "opus 2",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gabo-opus-2-p11383",
+      "id": "21301",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "opus 3",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11384_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gabo-opus-3-p11384",
+      "id": "21302",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "opus 4",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11385_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gabo-opus-4-p11385",
+      "id": "21303",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4767",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4768",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4769",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4770",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4771",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4772",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4773",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4774",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4775",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4776",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4777",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4778",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4779",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4780",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4781",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4782",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4783",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4784",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4785",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4786",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4787",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4788",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4789",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4790",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4791",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4792",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4793",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4794",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4795",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4796",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4797",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4798",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4799",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4800",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4801",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4802",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21300",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21301",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21302",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21303",
+      "value": 1
+    }
+  ]
+}

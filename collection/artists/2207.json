@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Golub, Leon",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/leon-golub-2207",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "fighter",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77249_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/golub-fighter-p77249",
+      "id": "5395",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wounded sphinx",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77250_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/golub-wounded-sphinx-p77250",
+      "id": "5396",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "white squad",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77251_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/golub-white-squad-p77251",
+      "id": "5397",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vietnam ii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/golub-vietnam-ii-t13702",
+      "id": "79815",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5395",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5396",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5397",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79815",
+      "value": 1
+    }
+  ]
+}

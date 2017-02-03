@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Richards, Ceri",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/ceri-richards-1836",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "blossoms",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05354_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-blossoms-n05354",
+      "id": "12433",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cold light, deep shadow",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05949_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-cold-light-deep-shadow-n05949",
+      "id": "12434",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for the sabine theme",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01752_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-study-for-the-sabine-theme-p01752",
+      "id": "12435",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for the sabine theme",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01753_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-study-for-the-sabine-theme-p01753",
+      "id": "12436",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pianist",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01754_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-pianist-p01754",
+      "id": "12437",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "arrangement for a piano",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01755_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-arrangement-for-a-piano-p01755",
+      "id": "12438",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the sabine theme",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01756_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-the-sabine-theme-p01756",
+      "id": "12439",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "baroque interlude",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01757_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-baroque-interlude-p01757",
+      "id": "12440",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sunlight in trafalgar square",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01758_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-sunlight-in-trafalgar-square-p01758",
+      "id": "12441",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "clair de lune",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05066_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-clair-de-lune-p05066",
+      "id": "12442",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jardin sous la pluie",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05067_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-jardin-sous-la-pluie-p05067",
+      "id": "12443",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05068_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-landscape-p05068",
+      "id": "12444",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "origin of a rose",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05069_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-origin-of-a-rose-p05069",
+      "id": "12445",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "peu \u00e0 peu sortant de la brume",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05070_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-peu-a-peu-sortant-de-la-brume-p05070",
+      "id": "12446",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of beethoven",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05071_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-portrait-of-beethoven-p05071",
+      "id": "12447",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "music room",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05072_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-music-room-p05072",
+      "id": "12448",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bagatelle",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05073_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-bagatelle-p05073",
+      "id": "12449",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "violon d\u2019ingres",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05074_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-violon-dingres-p05074",
+      "id": "12450",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "prometheus ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05075_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-prometheus-ii-p05075",
+      "id": "12451",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pastorale",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05076_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-pastorale-p05076",
+      "id": "12452",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "major-minor orange-blue",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05077_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-major-minor-orange-blue-p05077",
+      "id": "12453",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "missa solemnis",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05078_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-missa-solemnis-p05078",
+      "id": "12454",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the inaudible tenth",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05079_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-the-inaudible-tenth-p05079",
+      "id": "12455",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "prometheus",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05080_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-prometheus-p05080",
+      "id": "12456",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "origin of species",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05081_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-origin-of-species-p05081",
+      "id": "12457",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "trafalgar square",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06464_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-trafalgar-square-p06464",
+      "id": "12458",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hammerklavier (trial proof)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06465_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-hammerklavier-trial-proof-p06465",
+      "id": "12459",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "le poisson d\u2019or",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06466_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-le-poisson-dor-p06466",
+      "id": "12461",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cath\u00e9drale engloutie ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06467_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-cathedrale-engloutie-ii-p06467",
+      "id": "12462",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cath\u00e9drale engloutie iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06468_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-cathedrale-engloutie-iii-p06468",
+      "id": "12463",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "... ce qu\u2019a vu le vent d\u2019ouest",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06469_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-ce-qua-vu-le-vent-douest-p06469",
+      "id": "12464",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "la pianiste",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06470_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-la-pianiste-p06470",
+      "id": "12465",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "trafalgar square",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06471_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-trafalgar-square-p06471",
+      "id": "12466",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "trafalgar square",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06472_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-trafalgar-square-p06472",
+      "id": "12467",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "trafalgar square (trial proof)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06473_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-trafalgar-square-trial-proof-p06473",
+      "id": "12468",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the author\u2019s prologue",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06474_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-the-authors-prologue-p06474",
+      "id": "12469",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the force that through the green fuse drives the flower",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06475_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-the-force-that-through-the-green-fuse-drives-the-flower-p06475",
+      "id": "12470",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the crooked rose",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06476_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-the-crooked-rose-p06476",
+      "id": "12471",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blossom",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06477_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-blossom-p06477",
+      "id": "12472",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the force that drives the water through the rocks",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06478_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-the-force-that-drives-the-water-through-the-rocks-p06478",
+      "id": "12473",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12433",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12434",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12435",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12436",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12437",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12438",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12439",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12440",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12441",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12442",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12443",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12444",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12445",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12446",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12447",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12448",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12449",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12450",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12451",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12452",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12453",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12454",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12455",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12456",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12457",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12458",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12459",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12461",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12462",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12463",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12464",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12465",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12466",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12467",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12468",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12469",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12470",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12471",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12472",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12473",
+      "value": 1
+    }
+  ]
+}

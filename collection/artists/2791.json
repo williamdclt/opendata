@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Neto, Ernesto",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/ernesto-neto-2791",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "we fishing the time (densidades e buracos de minhoca)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/neto-we-fishing-the-time-densidades-e-buracos-de-minhoca-t11928",
+      "id": "27372",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "27372",
+      "value": 1
+    }
+  ]
+}

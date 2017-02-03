@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Lee, Ufan",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/lee-ufan-2640",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "from line",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lee-from-line-t07301",
+      "id": "22134",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "from winds",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lee-from-winds-t07302",
+      "id": "22135",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "correspondence",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lee-correspondence-t07303",
+      "id": "22136",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "22134",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22135",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22136",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Balla, Giacomo",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/giacomo-balla-688",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "abstract speed - the car has passed",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01222_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/balla-abstract-speed-the-car-has-passed-t01222",
+      "id": "703",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "703",
+      "value": 1
+    }
+  ]
+}

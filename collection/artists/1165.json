@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gilbert, Stephen",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/stephen-gilbert-1165",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77187_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilbert-untitled-p77187",
+      "id": "5195",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77188_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilbert-untitled-p77188",
+      "id": "5196",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "structure 14c",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00464_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilbert-structure-14c-t00464",
+      "id": "5197",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03698_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilbert-untitled-t03698",
+      "id": "5198",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04933_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilbert-untitled-t04933",
+      "id": "5199",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04934_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilbert-untitled-t04934",
+      "id": "5200",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04935_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilbert-untitled-t04935",
+      "id": "5201",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5195",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5196",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5197",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5198",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5199",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5200",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5201",
+      "value": 1
+    }
+  ]
+}

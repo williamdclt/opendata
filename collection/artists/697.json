@@ -1,0 +1,435 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Barns-Graham, Wilhelmina",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/wilhelmina-barns-graham-697",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "vermillion discs onto turquoise square",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barns-graham-vermillion-discs-onto-turquoise-square-p13239",
+      "id": "126970",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "orange and red on pink",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barns-graham-orange-and-red-on-pink-p13240",
+      "id": "126971",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "november i",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barns-graham-november-i-p13241",
+      "id": "126972",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "november ii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barns-graham-november-ii-p13242",
+      "id": "126973",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two circles on purple",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barns-graham-two-circles-on-purple-p13243",
+      "id": "126974",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "venetian red",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barns-graham-venetian-red-p13244",
+      "id": "126975",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spring",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barns-graham-spring-p13245",
+      "id": "126976",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "orange and lemon playing games",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barns-graham-orange-and-lemon-playing-games-p13246",
+      "id": "126977",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "orange and lemon playing games i",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barns-graham-orange-and-lemon-playing-games-i-p13247",
+      "id": "126978",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "orange and lemon playing games ii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barns-graham-orange-and-lemon-playing-games-ii-p13248",
+      "id": "126979",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vision in time i",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barns-graham-vision-in-time-i-p13249",
+      "id": "126980",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vision in time ii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barns-graham-vision-in-time-ii-p13250",
+      "id": "126982",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "eight lines ii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barns-graham-eight-lines-ii-p13251",
+      "id": "126983",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sunghrie i",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barns-graham-sunghrie-i-p13252",
+      "id": "126984",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sunghrie ii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barns-graham-sunghrie-ii-p13253",
+      "id": "126985",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sunghrie iii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barns-graham-sunghrie-iii-p13254",
+      "id": "126986",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "homage to johnny",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barns-graham-homage-to-johnny-p13255",
+      "id": "126987",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tango",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barns-graham-tango-p13256",
+      "id": "126988",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wind dance series no. ii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barns-graham-wind-dance-series-no-ii-p13257",
+      "id": "126989",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wind dance series no. iv",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barns-graham-wind-dance-series-no-iv-p13258",
+      "id": "126990",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wind dance series no. i",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barns-graham-wind-dance-series-no-i-p13259",
+      "id": "126991",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wind dance series no. iii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barns-graham-wind-dance-series-no-iii-p13260",
+      "id": "126992",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "linear abstract",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77577_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barns-graham-linear-abstract-p77577",
+      "id": "20589",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "glacier crystal, grindelwald",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00708_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barns-graham-glacier-crystal-grindelwald-t00708",
+      "id": "732",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "composition february i",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02237_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barns-graham-composition-february-i-t02237",
+      "id": "733",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "red form",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02238_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barns-graham-red-form-t02238",
+      "id": "734",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "eight lines, porthmeor",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07528_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barns-graham-eight-lines-porthmeor-t07528",
+      "id": "26681",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "june painting, ultramarine and yellow",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07529_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barns-graham-june-painting-ultramarine-and-yellow-t07529",
+      "id": "26682",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "island sheds, st ives no. 1",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07546_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barns-graham-island-sheds-st-ives-no-1-t07546",
+      "id": "26724",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lava movement, la geria",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07547_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barns-graham-lava-movement-la-geria-t07547",
+      "id": "26725",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "126970",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "126971",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "126972",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "126973",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "126974",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "126975",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "126976",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "126977",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "126978",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "126979",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "126980",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "126982",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "126983",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "126984",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "126985",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "126986",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "126987",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "126988",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "126989",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "126990",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "126991",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "126992",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20589",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "732",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "733",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "734",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26681",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26682",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26724",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26725",
+      "value": 1
+    }
+  ]
+}

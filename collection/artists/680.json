@@ -1,0 +1,225 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Ayres, OBE Gillian",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/gillian-ayres-obe-680",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04016_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ayres-untitled-p04016",
+      "id": "655",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "crivelli\u2019s room i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04017_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ayres-crivellis-room-i-p04017",
+      "id": "656",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "crivelli\u2019s room ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04018_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ayres-crivellis-room-ii-p04018",
+      "id": "657",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "damask",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04019_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ayres-damask-p04019",
+      "id": "658",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "khuds",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04020_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ayres-khuds-p04020",
+      "id": "659",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lorenzo the magnificent and niccolo the gear",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04021_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ayres-lorenzo-the-magnificent-and-niccolo-the-gear-p04021",
+      "id": "660",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tachiste i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77156_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ayres-tachiste-i-p77156",
+      "id": "661",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "january",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ayres-january-p77669",
+      "id": "21025",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "distillation",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01714_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ayres-distillation-t01714",
+      "id": "662",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "break-off",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01715_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ayres-break-off-t01715",
+      "id": "663",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "antony and cleopatra",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03458_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ayres-antony-and-cleopatra-t03458",
+      "id": "664",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pha\u00ebthon",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06994_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ayres-phaethon-t06994",
+      "id": "21389",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sundark blues",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07003_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ayres-sundark-blues-t07003",
+      "id": "21410",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the colour that was there",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07118_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ayres-the-colour-that-was-there-t07118",
+      "id": "21687",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "weddell",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ayres-weddell-t13725",
+      "id": "126538",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "655",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "656",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "657",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "658",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "659",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "660",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "661",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21025",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "662",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "663",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "664",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21389",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21410",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21687",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "126538",
+      "value": 1
+    }
+  ]
+}

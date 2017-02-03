@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Girtin, Thomas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/thomas-girtin-211",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the gatehouse of battle abbey, sussex",
+      "url": "http://www.tate.org.uk/art/images/work/D/D00/D00384_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/girtin-the-gatehouse-of-battle-abbey-sussex-d00384",
+      "id": "27799",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a thatched cottage among trees",
+      "url": "http://www.tate.org.uk/art/images/work/D/D00/D00718_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/girtin-a-thatched-cottage-among-trees-d00718",
+      "id": "28133",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "glasgow: looking along high street towards the cathedral",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36571_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/girtin-glasgow-looking-along-high-street-towards-the-cathedral-d36571",
+      "id": "63656",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "part of the ruins of walsingham priory",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36572_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/girtin-part-of-the-ruins-of-walsingham-priory-d36572",
+      "id": "63657",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kidwelly church, with the castle beyond",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36573_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/girtin-kidwelly-church-with-the-castle-beyond-d36573",
+      "id": "63658",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the ruins of bungay castle, suffolk",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36574_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/girtin-the-ruins-of-bungay-castle-suffolk-d36574",
+      "id": "63659",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of lancaster",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36575_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/girtin-view-of-lancaster-d36575",
+      "id": "63660",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "part of the ruins of porchester castle, hampshire",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36576_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/girtin-part-of-the-ruins-of-porchester-castle-hampshire-d36576",
+      "id": "63661",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the ruins of porchester castle, hampshire",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36577_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/girtin-the-ruins-of-porchester-castle-hampshire-d36577",
+      "id": "63662",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "porchester castle from the north-east",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36578_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/girtin-porchester-castle-from-the-north-east-d36578",
+      "id": "63663",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "part of the ruins of lewes castle, sussex",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36579_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/girtin-part-of-the-ruins-of-lewes-castle-sussex-d36579",
+      "id": "63664",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a lake, with a boat drawn up on the nearer shore, and hills beyond",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36580_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/girtin-a-lake-with-a-boat-drawn-up-on-the-nearer-shore-and-hills-beyond-d36580",
+      "id": "63665",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dover castle seen from inland, with houses in the foreground",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36584_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/girtin-dover-castle-seen-from-inland-with-houses-in-the-foreground-d36584",
+      "id": "63669",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape with a house and church tower among trees",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36585_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/girtin-landscape-with-a-house-and-church-tower-among-trees-d36585",
+      "id": "63670",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the ruins of middleham castle, yorkshire",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36586_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/girtin-the-ruins-of-middleham-castle-yorkshire-d36586",
+      "id": "63671",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "studies of cypress trees",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36587_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/girtin-studies-of-cypress-trees-d36587",
+      "id": "63672",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the ruined west front of dunbrody abbey, co. wexford",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36588_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/girtin-the-ruined-west-front-of-dunbrody-abbey-co-wexford-d36588",
+      "id": "63673",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kirkstall abbey from the north west",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36589_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/girtin-kirkstall-abbey-from-the-north-west-d36589",
+      "id": "63674",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "barnard castle, yorkshire, from the west",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36590_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/girtin-barnard-castle-yorkshire-from-the-west-d36590",
+      "id": "63675",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dumbarton rock from the north",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36591_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/girtin-dumbarton-rock-from-the-north-d36591",
+      "id": "63676",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "horton church, northumberland",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36592_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/girtin-horton-church-northumberland-d36592",
+      "id": "63677",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "romborough priory, suffolk",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36593_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/girtin-romborough-priory-suffolk-d36593",
+      "id": "63678",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "framlingham castle, suffolk",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36594_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/girtin-framlingham-castle-suffolk-d36594",
+      "id": "63679",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the ruins of the holy ghost chapel, basingstoke",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36595_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/girtin-the-ruins-of-the-holy-ghost-chapel-basingstoke-d36595",
+      "id": "63680",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "colchester castle",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36596_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/girtin-colchester-castle-d36596",
+      "id": "63681",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "part of the refectory of walsingham abbey",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36597_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/girtin-part-of-the-refectory-of-walsingham-abbey-d36597",
+      "id": "63682",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "?the ruined gateway of mettingham castle, suffolk",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36598_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/girtin-the-ruined-gateway-of-mettingham-castle-suffolk-d36598",
+      "id": "63683",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "margam abbey church, glamorgan, from the north west",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36599_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/girtin-margam-abbey-church-glamorgan-from-the-north-west-d36599",
+      "id": "63684",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "much wenlock priory, shropshire",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36600_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/girtin-much-wenlock-priory-shropshire-d36600",
+      "id": "63685",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ruined abbey, abbotsbury, dorset",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36601_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/girtin-ruined-abbey-abbotsbury-dorset-d36601",
+      "id": "63686",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view along a road past houses among trees, with houses and a church tower in the distance",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36602_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/girtin-view-along-a-road-past-houses-among-trees-with-houses-and-a-church-tower-in-the-d36602",
+      "id": "63687",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the west gate, canterbury, with neighbouring buildings",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36605_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/girtin-the-west-gate-canterbury-with-neighbouring-buildings-d36605",
+      "id": "63690",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view across a lake, or along a coast, with many small islands",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36606_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/girtin-view-across-a-lake-or-along-a-coast-with-many-small-islands-d36606",
+      "id": "63691",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the keep of hedingham castle, essex",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36607_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/girtin-the-keep-of-hedingham-castle-essex-d36607",
+      "id": "63692",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hedingham castle keep, essex",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36608_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/girtin-hedingham-castle-keep-essex-d36608",
+      "id": "63693",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the keep of rochester castle, kent, from the east",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36609_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/girtin-the-keep-of-rochester-castle-kent-from-the-east-d36609",
+      "id": "63694",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pont-y-pair, bettws-y-coed, north wales",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36610_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/girtin-pont-y-pair-bettws-y-coed-north-wales-d36610",
+      "id": "63695",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a street in conway, with plas mawr",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36611_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/girtin-a-street-in-conway-with-plas-mawr-d36611",
+      "id": "63696",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "buildings at aylesbury",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36612_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/girtin-buildings-at-aylesbury-d36612",
+      "id": "63697",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the hull of a ship with a barge and smaller boats",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36626_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/girtin-the-hull-of-a-ship-with-a-barge-and-smaller-boats-d36626",
+      "id": "63711",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "27799",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "28133",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63656",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63657",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63658",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63659",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63660",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63661",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63662",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63663",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63664",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63665",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63669",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63670",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63671",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63672",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63673",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63674",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63675",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63676",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63677",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63678",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63679",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63680",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63681",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63682",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63683",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63684",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63685",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63686",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63687",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63690",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63691",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63692",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63693",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63694",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63695",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63696",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63697",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63711",
+      "value": 1
+    }
+  ]
+}

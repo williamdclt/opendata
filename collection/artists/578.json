@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Wallis, Henry",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/henry-wallis-578",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "chatterton",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01685_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wallis-chatterton-n01685",
+      "id": "15906",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the room in which shakespeare was born",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00042_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wallis-the-room-in-which-shakespeare-was-born-t00042",
+      "id": "15907",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018chatterton\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01721_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wallis-study-for-chatterton-t01721",
+      "id": "15908",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018chatterton\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01722_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wallis-study-for-chatterton-t01722",
+      "id": "15909",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a girl sitting in a chair",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01723_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wallis-study-of-a-girl-sitting-in-a-chair-t01723",
+      "id": "15910",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape study",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01724_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wallis-landscape-study-t01724",
+      "id": "15911",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "15906",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15907",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15908",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15909",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15910",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15911",
+      "value": 1
+    }
+  ]
+}

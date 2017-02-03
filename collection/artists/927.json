@@ -1,0 +1,197 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Coldstream, Sir William",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-william-coldstream-927",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "man with a beard",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05108_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coldstream-man-with-a-beard-n05108",
+      "id": "2443",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "havildar ajmer singh",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05687_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coldstream-havildar-ajmer-singh-n05687",
+      "id": "2444",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "inez spender",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05883_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coldstream-inez-spender-n05883",
+      "id": "2445",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the right reverend george bell, d.d., bishop of chichester",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coldstream-the-right-reverend-george-bell-dd-bishop-of-chichester-t00074",
+      "id": "2446",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "winifred burger",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00339_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coldstream-winifred-burger-t00339",
+      "id": "2447",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "studio interior",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00537_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coldstream-studio-interior-t00537",
+      "id": "2448",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "casualty reception station, capua",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coldstream-casualty-reception-station-capua-t01107",
+      "id": "2449",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reclining nude",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02079_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coldstream-reclining-nude-t02079",
+      "id": "2450",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "on the map",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03068_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coldstream-on-the-map-t03068",
+      "id": "2451",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seated nude",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coldstream-seated-nude-t03704",
+      "id": "2452",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "orange tree i",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coldstream-orange-tree-i-t06513",
+      "id": "20240",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fort burgoyn, dover",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coldstream-fort-burgoyn-dover-t07585",
+      "id": "26870",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nude, camberwell",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coldstream-nude-camberwell-t07586",
+      "id": "26871",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2443",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2444",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2445",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2446",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2447",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2448",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2449",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2450",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2451",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2452",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20240",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26870",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26871",
+      "value": 1
+    }
+  ]
+}

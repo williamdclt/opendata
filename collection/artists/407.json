@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Orchardson, Sir William Quiller",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-william-quiller-orchardson-407",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "her first dance",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01519_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orchardson-her-first-dance-n01519",
+      "id": "10954",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the first cloud",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01520_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orchardson-the-first-cloud-n01520",
+      "id": "10955",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "her mother\u2019s voice",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01521_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orchardson-her-mothers-voice-n01521",
+      "id": "10956",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "napoleon on board the bellerophon",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01601_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orchardson-napoleon-on-board-the-bellerophon-n01601",
+      "id": "10957",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "charles moxon",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03212_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orchardson-charles-moxon-n03212",
+      "id": "10958",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs charles moxon",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03213_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orchardson-mrs-charles-moxon-n03213",
+      "id": "10959",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of napoleon, study for \u2018napoleon on board the bellerophon\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06001_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orchardson-head-of-napoleon-study-for-napoleon-on-board-the-bellerophon-n06001",
+      "id": "10960",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "10954",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10955",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10956",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10957",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10958",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10959",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10960",
+      "value": 1
+    }
+  ]
+}

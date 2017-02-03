@@ -1,0 +1,379 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Romney, George",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/george-romney-457",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "lady hamilton (?as a figure in \u2018fortune telling\u2019)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00312_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/romney-lady-hamilton-as-a-figure-in-fortune-telling-n00312",
+      "id": "12728",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a lady in a brown dress: \u2018the parson\u2019s daughter\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01068_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/romney-a-lady-in-a-brown-dress-the-parsons-daughter-n01068",
+      "id": "12729",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mr and mrs william lindow",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01396_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/romney-mr-and-mrs-william-lindow-n01396",
+      "id": "12730",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs mark currie",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01651_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/romney-mrs-mark-currie-n01651",
+      "id": "12731",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs johnstone and her son (?)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01667_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/romney-mrs-johnstone-and-her-son-n01667",
+      "id": "12732",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lady hamilton as cassandra",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01668_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/romney-lady-hamilton-as-cassandra-n01668",
+      "id": "12733",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "elizabeth, countess of craven, later margravine of anspach",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01669_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/romney-elizabeth-countess-of-craven-later-margravine-of-anspach-n01669",
+      "id": "12734",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jacob morland of capplethwaite",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01906_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/romney-jacob-morland-of-capplethwaite-n01906",
+      "id": "12735",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "william pitt the younger",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02280_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/romney-william-pitt-the-younger-n02280",
+      "id": "12736",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs robert trotter of bush",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02943_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/romney-mrs-robert-trotter-of-bush-n02943",
+      "id": "12737",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the beaumont family",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03400_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/romney-the-beaumont-family-n03400",
+      "id": "12738",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lady emilia kerr",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03724_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/romney-lady-emilia-kerr-n03724",
+      "id": "12739",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dr john matthews",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04489_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/romney-dr-john-matthews-n04489",
+      "id": "12740",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs john matthews",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04490_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/romney-mrs-john-matthews-n04490",
+      "id": "12741",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "emma hart as circe",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05591_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/romney-emma-hart-as-circe-n05591",
+      "id": "12742",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lady altamont",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05788_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/romney-lady-altamont-n05788",
+      "id": "12743",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tom hayley as robin goodfellow",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05850_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/romney-tom-hayley-as-robin-goodfellow-n05850",
+      "id": "12744",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "richard cumberland the dramatist",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00063_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/romney-richard-cumberland-the-dramatist-t00063",
+      "id": "12748",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs richard cumberland and her son charles",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00064_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/romney-mrs-richard-cumberland-and-her-son-charles-t00064",
+      "id": "12745",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "midshipman george cumberland",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00065_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/romney-midshipman-george-cumberland-t00065",
+      "id": "12746",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "john howard visiting a lazaretto",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03547_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/romney-john-howard-visiting-a-lazaretto-t03547",
+      "id": "12747",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "serena in the boat of apathy",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08547_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/romney-serena-in-the-boat-of-apathy-t08547",
+      "id": "23461",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "niobid",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08954_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/romney-niobid-t08954",
+      "id": "23463",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a waterfall. verso: study of a hero\u2019s head and arm",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09145_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/romney-a-waterfall-verso-study-of-a-heros-head-and-arm-t09145",
+      "id": "23465",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mother and child",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09198_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/romney-mother-and-child-t09198",
+      "id": "23464",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mother and child",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09205_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/romney-mother-and-child-t09205",
+      "id": "23462",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12728",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12729",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12730",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12731",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12732",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12733",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12734",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12735",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12736",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12737",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12738",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12739",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12740",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12741",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12742",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12743",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12744",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12748",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12745",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12746",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12747",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23461",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23463",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23465",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23464",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23462",
+      "value": 1
+    }
+  ]
+}

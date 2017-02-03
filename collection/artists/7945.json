@@ -1,0 +1,169 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Kerrich, Thomas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/thomas-kerrich-7945",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "seascape around sunset, burnham, norfolk",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11956_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kerrich-seascape-around-sunset-burnham-norfolk-t11956",
+      "id": "85084",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seascape before sunset, burnham, norfolk",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11957_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kerrich-seascape-before-sunset-burnham-norfolk-t11957",
+      "id": "85085",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "diagram of three landscapes drawn towards and away from the sun",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11958_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kerrich-diagram-of-three-landscapes-drawn-towards-and-away-from-the-sun-t11958",
+      "id": "85086",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cloudscape with colour trials",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11959_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kerrich-cloudscape-with-colour-trials-t11959",
+      "id": "85087",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a cluster of cumulus clouds",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11960_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kerrich-study-of-a-cluster-of-cumulus-clouds-t11960",
+      "id": "85088",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of two clusters of cumulus clouds",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11961_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kerrich-study-of-two-clusters-of-cumulus-clouds-t11961",
+      "id": "85089",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape with storm clouds",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11962_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kerrich-landscape-with-storm-clouds-t11962",
+      "id": "85090",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape with billowing clouds",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11963_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kerrich-landscape-with-billowing-clouds-t11963",
+      "id": "85091",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cloudy sky over sand dunes",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11964_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kerrich-cloudy-sky-over-sand-dunes-t11964",
+      "id": "85092",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape with blustery clouds",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11965_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kerrich-landscape-with-blustery-clouds-t11965",
+      "id": "85093",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cromer sketchbook",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kerrich-cromer-sketchbook-t12469",
+      "id": "90241",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "85084",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85085",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85086",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85087",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85088",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85089",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85090",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85091",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85092",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85093",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90241",
+      "value": 1
+    }
+  ]
+}

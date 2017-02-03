@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Wilson, William A.",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/william-a-wilson-2545",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "loch lomond",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09276_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-loch-lomond-t09276",
+      "id": "24025",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "24025",
+      "value": 1
+    }
+  ]
+}

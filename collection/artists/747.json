@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Beuys, Joseph",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/joseph-beuys-747",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "scala napoletana",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00086_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beuys-scala-napoletana-ar00086",
+      "id": "93050",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "langhaus (vitrine)",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00087_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beuys-langhaus-vitrine-ar00087",
+      "id": "93046",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fat chair",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00088_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beuys-fat-chair-ar00088",
+      "id": "93047",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "domenica delle palme",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00089_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beuys-domenica-delle-palme-ar00089",
+      "id": "95850",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for dominica delle palme vitrine",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00090_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beuys-drawing-for-dominica-delle-palme-vitrine-ar00090",
+      "id": "98496",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "white turbulence",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00091_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beuys-white-turbulence-ar00091",
+      "id": "98499",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "felt suit",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00092_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beuys-felt-suit-ar00092",
+      "id": "98502",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "show your wound",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00093_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beuys-show-your-wound-ar00093",
+      "id": "98512",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "show your wound",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00094_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beuys-show-your-wound-ar00094",
+      "id": "98513",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dove, food, rainbow",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00095_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beuys-dove-food-rainbow-ar00095",
+      "id": "98530",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ice age",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00096_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beuys-ice-age-ar00096",
+      "id": "98531",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "roses",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00097_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beuys-roses-ar00097",
+      "id": "98533",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the table",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00098_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beuys-the-table-ar00098",
+      "id": "98535",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "angel whale",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00099_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beuys-angel-whale-ar00099",
+      "id": "98536",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "weird sister",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00100_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beuys-weird-sister-ar00100",
+      "id": "98537",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "white woman in the grass (fairy)",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00101_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beuys-white-woman-in-the-grass-fairy-ar00101",
+      "id": "98539",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sculptures",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00102_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beuys-sculptures-ar00102",
+      "id": "98542",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hearts of the revolutionaries: passage of the planets of the future",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00103_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beuys-hearts-of-the-revolutionaries-passage-of-the-planets-of-the-future-ar00103",
+      "id": "98546",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "observation on the cat",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00104_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beuys-observation-on-the-cat-ar00104",
+      "id": "98548",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "actresses",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00105_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beuys-actresses-ar00105",
+      "id": "98550",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (frauendarstellung)",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00106_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beuys-untitled-frauendarstellung-ar00106",
+      "id": "98551",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "clan",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00107_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beuys-clan-ar00107",
+      "id": "98554",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blacksmith ii",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00108_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beuys-blacksmith-ii-ar00108",
+      "id": "98555",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "witches spitting fire",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00109_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beuys-witches-spitting-fire-ar00109",
+      "id": "98558",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "battery",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00110_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beuys-battery-ar00110",
+      "id": "98560",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "monument to the stag",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00111_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beuys-monument-to-the-stag-ar00111",
+      "id": "98561",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "electricity",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00112_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beuys-electricity-ar00112",
+      "id": "98562",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "girl pushing against elastic sculpture",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00113_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beuys-girl-pushing-against-elastic-sculpture-ar00113",
+      "id": "98601",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pregnant woman with swan",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00114_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beuys-pregnant-woman-with-swan-ar00114",
+      "id": "98603",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "play 17",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00115_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beuys-play-17-ar00115",
+      "id": "98618",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "for felt sculpture",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00116_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beuys-for-felt-sculpture-ar00116",
+      "id": "98621",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "therapeuticum",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00117_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beuys-therapeuticum-ar00117",
+      "id": "98624",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tunnel (cathode rays) felt-room action",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00118_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beuys-tunnel-cathode-rays-felt-room-action-ar00118",
+      "id": "98630",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "for brown environment",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00119_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beuys-for-brown-environment-ar00119",
+      "id": "98631",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "for brown environment: giant vessels",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00120_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beuys-for-brown-environment-giant-vessels-ar00120",
+      "id": "98632",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "houses of the shaman",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00121_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beuys-houses-of-the-shaman-ar00121",
+      "id": "98634",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dwarf (self-portrait)",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00122_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beuys-dwarf-self-portrait-ar00122",
+      "id": "98635",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "granite in arid chalk",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00123_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beuys-granite-in-arid-chalk-ar00123",
+      "id": "98640",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "score for manresa",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00124_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beuys-score-for-manresa-ar00124",
+      "id": "98644",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "astral chemical goddess",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00125_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beuys-astral-chemical-goddess-ar00125",
+      "id": "98655",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "93050",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93046",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93047",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95850",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98496",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98499",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98502",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98512",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98513",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98530",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98531",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98533",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98535",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98536",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98537",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98539",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98542",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98546",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98548",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98550",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98551",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98554",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98555",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98558",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98560",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98561",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98562",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98601",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98603",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98618",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98621",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98624",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98630",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98631",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98632",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98634",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98635",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98640",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98644",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98655",
+      "value": 1
+    }
+  ]
+}

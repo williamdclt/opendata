@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Reeb, David",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/david-reeb-2783",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "ofra haza with soldiers in gaza",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reeb-ofra-haza-with-soldiers-in-gaza-t07651",
+      "id": "27302",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "let\u2019s have another war no.5",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reeb-lets-have-another-war-no5-t07652",
+      "id": "27289",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jerusalem picture no.1",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reeb-jerusalem-picture-no1-t07653",
+      "id": "27303",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "clean",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reeb-clean-t07654",
+      "id": "27299",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "27302",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27289",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27303",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27299",
+      "value": 1
+    }
+  ]
+}

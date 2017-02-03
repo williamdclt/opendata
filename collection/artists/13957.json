@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Grubic, Igor",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/igor-grubic-13957",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "east side story",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/grubic-east-side-story-t13651",
+      "id": "110145",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "110145",
+      "value": 1
+    }
+  ]
+}

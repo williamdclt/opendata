@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Martin, Frank",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/frank-martin-1584",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "louise brooks",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01446_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-louise-brooks-p01446",
+      "id": "9307",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vilma banky",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01447_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-vilma-banky-p01447",
+      "id": "9308",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9307",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9308",
+      "value": 1
+    }
+  ]
+}

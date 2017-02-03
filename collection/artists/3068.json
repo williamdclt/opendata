@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Kienholz, Edward",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/edward-kienholz-3068",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the marriage icon",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kienholz-the-marriage-icon-t12603",
+      "id": "66617",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sawdy",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kienholz-sawdy-t12604",
+      "id": "66618",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "66617",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66618",
+      "value": 1
+    }
+  ]
+}

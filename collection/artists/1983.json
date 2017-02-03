@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Stahly, Fran\u00e7ois",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/francois-stahly-1983",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "growth",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00940_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stahly-growth-t00940",
+      "id": "13745",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13745",
+      "value": 1
+    }
+  ]
+}

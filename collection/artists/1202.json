@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Grant, Alistair",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/alistair-grant-1202",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "ghost ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01156_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/grant-ghost-ii-p01156",
+      "id": "5564",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ghost v",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01157_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/grant-ghost-v-p01157",
+      "id": "5565",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ghost vi",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01158_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/grant-ghost-vi-p01158",
+      "id": "5566",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ghost i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02488_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/grant-ghost-i-p02488",
+      "id": "5567",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ghost iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02489_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/grant-ghost-iii-p02489",
+      "id": "5568",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ghost iv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02490_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/grant-ghost-iv-p02490",
+      "id": "5569",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st valery",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07254_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/grant-st-valery-p07254",
+      "id": "5570",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "galopin ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07255_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/grant-galopin-ii-p07255",
+      "id": "5571",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5564",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5565",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5566",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5567",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5568",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5569",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5570",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5571",
+      "value": 1
+    }
+  ]
+}

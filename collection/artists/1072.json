@@ -1,0 +1,155 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Evans, Garth",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/garth-evans-1072",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02469_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/evans-untitled-p02469",
+      "id": "4187",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02470_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/evans-untitled-p02470",
+      "id": "4188",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02471_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/evans-untitled-p02471",
+      "id": "4189",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02472_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/evans-untitled-p02472",
+      "id": "4190",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02473_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/evans-untitled-p02473",
+      "id": "4191",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02474_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/evans-untitled-p02474",
+      "id": "4192",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "white no. 34",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00672_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/evans-white-no-34-t00672",
+      "id": "4193",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled no.3",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07942_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/evans-untitled-no3-t07942",
+      "id": "76315",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sheffield",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07943_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/evans-sheffield-t07943",
+      "id": "76316",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "convoy",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07962_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/evans-convoy-t07962",
+      "id": "76317",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4187",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4188",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4189",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4190",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4191",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4192",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4193",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "76315",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "76316",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "76317",
+      "value": 1
+    }
+  ]
+}

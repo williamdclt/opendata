@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Nicholson, Winifred",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/winifred-nicholson-1704",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "window-sill, lugano",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05126_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-window-sill-lugano-n05126",
+      "id": "10739",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "quarante huit quai d\u2019auteuil",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01995_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-quarante-huit-quai-dauteuil-t01995",
+      "id": "10740",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "moonlight and lamplight",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01996_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-moonlight-and-lamplight-t01996",
+      "id": "10741",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "flower table",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03960_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-flower-table-t03960",
+      "id": "10742",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sandpipers, alnmouth",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05484_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-sandpipers-alnmouth-t05484",
+      "id": "17264",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the hunter\u2019s moon",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06678_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-the-hunters-moon-t06678",
+      "id": "20615",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "recollect",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06679_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-recollect-t06679",
+      "id": "20616",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "glimpse upon waking",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06888_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-glimpse-upon-waking-t06888",
+      "id": "21091",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "10739",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10740",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10741",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10742",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17264",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20615",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20616",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21091",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Teshigahara, Sofu",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sofu-teshigahara-2030",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "white cloud",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/teshigahara-white-cloud-t00546",
+      "id": "14136",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "14136",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Beer, Richard",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/richard-beer-721",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "magdalen bridge",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beer-magdalen-bridge-p01360",
+      "id": "843",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "oxford spires",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beer-oxford-spires-p01361",
+      "id": "844",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nash terrace",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beer-nash-terrace-p06026",
+      "id": "845",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ca rezzonico",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beer-ca-rezzonico-p06027",
+      "id": "846",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "conolly\u2019s obelisk",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beer-conollys-obelisk-p06028",
+      "id": "847",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rushton triangular lodge",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beer-rushton-triangular-lodge-p06029",
+      "id": "848",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "greenlands",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beer-greenlands-p06030",
+      "id": "849",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "843",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "844",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "845",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "846",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "847",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "848",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "849",
+      "value": 1
+    }
+  ]
+}

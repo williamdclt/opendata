@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Spencer, Jean",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/jean-spencer-2697",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07607_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-no-title-t07607",
+      "id": "27057",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07608_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-no-title-t07608",
+      "id": "27058",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07609_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-no-title-t07609",
+      "id": "27059",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07610_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-no-title-t07610",
+      "id": "27060",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07611_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-no-title-t07611",
+      "id": "27055",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07612_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-no-title-t07612",
+      "id": "27056",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "27057",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27058",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27059",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27060",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27055",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27056",
+      "value": 1
+    }
+  ]
+}

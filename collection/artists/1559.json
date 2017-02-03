@@ -1,0 +1,295 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Maitland, Paul",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/paul-maitland-1559",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "cheyne walk: the corner of beaufort street",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03622_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maitland-cheyne-walk-the-corner-of-beaufort-street-n03622",
+      "id": "9183",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kensington gardens: vicinity of the pond",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04398_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maitland-kensington-gardens-vicinity-of-the-pond-n04398",
+      "id": "9184",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "barges, chelsea riverside, the \u2018eighties",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05879_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maitland-barges-chelsea-riverside-the-eighties-n05879",
+      "id": "9185",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hyacinth",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03622_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maitland-hyacinth-t03622",
+      "id": "9186",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "factories bordering the river",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03623_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maitland-factories-bordering-the-river-t03623",
+      "id": "9187",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the sun pier, chatham",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03624_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maitland-the-sun-pier-chatham-t03624",
+      "id": "9188",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the gardens, chelsea embankment",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03625_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maitland-the-gardens-chelsea-embankment-t03625",
+      "id": "9189",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "surrey side of the river - grey day",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03626_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maitland-surrey-side-of-the-river-grey-day-t03626",
+      "id": "9190",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "riverside industries",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03627_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maitland-riverside-industries-t03627",
+      "id": "9191",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "warehouse across the river",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03628_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maitland-warehouse-across-the-river-t03628",
+      "id": "9192",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "battersea boat houses",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03629_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maitland-battersea-boat-houses-t03629",
+      "id": "9193",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "by hyde park gate, kensington gardens",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03630_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maitland-by-hyde-park-gate-kensington-gardens-t03630",
+      "id": "9194",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fall of the leaves, kensington gardens",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03631_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maitland-fall-of-the-leaves-kensington-gardens-t03631",
+      "id": "9195",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "autumn, kensington gardens",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03632_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maitland-autumn-kensington-gardens-t03632",
+      "id": "9196",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the flower walk, kensington gardens",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03633_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maitland-the-flower-walk-kensington-gardens-t03633",
+      "id": "9197",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kensington gardens with chairs and figures",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03634_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maitland-kensington-gardens-with-chairs-and-figures-t03634",
+      "id": "9198",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the embankment after a shower",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maitland-the-embankment-after-a-shower-t03635",
+      "id": "9199",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "in buckinghamshire",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03636_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maitland-in-buckinghamshire-t03636",
+      "id": "9200",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a yacht off sheerness",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03637_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maitland-a-yacht-off-sheerness-t03637",
+      "id": "9201",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the three public-houses, morning sun light",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03647_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maitland-the-three-public-houses-morning-sun-light-t03647",
+      "id": "9202",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9183",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9184",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9185",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9186",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9187",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9188",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9189",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9190",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9191",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9192",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9193",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9194",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9195",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9196",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9197",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9198",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9199",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9200",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9201",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9202",
+      "value": 1
+    }
+  ]
+}

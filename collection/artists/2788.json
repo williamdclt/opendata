@@ -1,0 +1,323 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Kilpper, Thomas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/thomas-kilpper-2788",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the ring: henry cooper",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78537_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kilpper-the-ring-henry-cooper-p78537",
+      "id": "27351",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the ring: marie lloyd",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78538_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kilpper-the-ring-marie-lloyd-p78538",
+      "id": "27350",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the ring: will alsop",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78539_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kilpper-the-ring-will-alsop-p78539",
+      "id": "27349",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the ring: dick burge",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78540_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kilpper-the-ring-dick-burge-p78540",
+      "id": "27348",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the ring: bella burge",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78541_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kilpper-the-ring-bella-burge-p78541",
+      "id": "27347",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the ring: alfred hitchcock",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78542_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kilpper-the-ring-alfred-hitchcock-p78542",
+      "id": "27346",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the ring: ho chi minh",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78543_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kilpper-the-ring-ho-chi-minh-p78543",
+      "id": "27345",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the ring: nicholas serota",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78544_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kilpper-the-ring-nicholas-serota-p78544",
+      "id": "27344",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the ring: gordon harker",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78545_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kilpper-the-ring-gordon-harker-p78545",
+      "id": "27343",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the ring: hans holbein",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78546_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kilpper-the-ring-hans-holbein-p78546",
+      "id": "27342",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the ring: tim thomas",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78547_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kilpper-the-ring-tim-thomas-p78547",
+      "id": "27341",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the ring: winston churchill",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78548_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kilpper-the-ring-winston-churchill-p78548",
+      "id": "27340",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the ring: charles dickens",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78549_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kilpper-the-ring-charles-dickens-p78549",
+      "id": "27339",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the ring: louisa raeburn",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78550_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kilpper-the-ring-louisa-raeburn-p78550",
+      "id": "27338",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the ring: william shakespeare",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78551_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kilpper-the-ring-william-shakespeare-p78551",
+      "id": "27337",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the ring: madonna",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78552_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kilpper-the-ring-madonna-p78552",
+      "id": "27336",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the ring: denis healey",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78553_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kilpper-the-ring-denis-healey-p78553",
+      "id": "27335",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the ring: the dance of death",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78554_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kilpper-the-ring-the-dance-of-death-p78554",
+      "id": "27334",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the ring: g. f. handel",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78555_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kilpper-the-ring-g-f-handel-p78555",
+      "id": "27333",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the ring: robert atkins",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78556_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kilpper-the-ring-robert-atkins-p78556",
+      "id": "27332",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the ring: andy warhol and jean michel basquiat boxing",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78557_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kilpper-the-ring-andy-warhol-and-jean-michel-basquiat-boxing-p78557",
+      "id": "27331",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the ring: fight on",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kilpper-the-ring-fight-on-t07671",
+      "id": "27352",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "27351",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27350",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27349",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27348",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27347",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27346",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27345",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27344",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27343",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27342",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27341",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27340",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27339",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27338",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27337",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27336",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27335",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27334",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27333",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27332",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27331",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27352",
+      "value": 1
+    }
+  ]
+}

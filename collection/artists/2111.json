@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Vordemberge-Gildewart, Friedrich",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/friedrich-vordemberge-gildewart-2111",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "composition no. 15",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01474_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/vordemberge-gildewart-composition-no-15-t01474",
+      "id": "15766",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "15766",
+      "value": 1
+    }
+  ]
+}

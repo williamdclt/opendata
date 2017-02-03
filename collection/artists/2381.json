@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Davis, Stuart",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/stuart-davis-2381",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "composition",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77810_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-composition-p77810",
+      "id": "21522",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "21522",
+      "value": 1
+    }
+  ]
+}

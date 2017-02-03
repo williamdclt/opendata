@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Grant, Sir Francis",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-francis-grant-2281",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "portrait of a lady (? mrs edmund peel)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06456_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/grant-portrait-of-a-lady-mrs-edmund-peel-t06456",
+      "id": "19512",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "19512",
+      "value": 1
+    }
+  ]
+}

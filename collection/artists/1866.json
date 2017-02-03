@@ -1,0 +1,309 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Rosenquist, James",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/james-rosenquist-1866",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "marilyn",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07241_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rosenquist-marilyn-p07241",
+      "id": "16979",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pale tent ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07253_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rosenquist-pale-tent-ii-p07253",
+      "id": "12756",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "off the continental divide",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07379_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rosenquist-off-the-continental-divide-p07379",
+      "id": "12757",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "katonah muse",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rosenquist-katonah-muse-p12228",
+      "id": "80487",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "magic bowl",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rosenquist-magic-bowl-p12229",
+      "id": "80488",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the light bulb shining",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rosenquist-the-light-bulb-shining-p12230",
+      "id": "80489",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "time dust",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rosenquist-time-dust-p12231",
+      "id": "80490",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "house of fire",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rosenquist-house-of-fire-p12232",
+      "id": "80491",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "space dust",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12233_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rosenquist-space-dust-p12233",
+      "id": "80492",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "time door time d\u2019or",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12234_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rosenquist-time-door-time-dor-p12234",
+      "id": "80493",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the bird of paradise approaches the hot water planet",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rosenquist-the-bird-of-paradise-approaches-the-hot-water-planet-p12235",
+      "id": "80494",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sky hole",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rosenquist-sky-hole-p12236",
+      "id": "80495",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "where the water goes",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12237_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rosenquist-where-the-water-goes-p12237",
+      "id": "80496",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sun sets on the time zone",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rosenquist-sun-sets-on-the-time-zone-p12238",
+      "id": "80497",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "skull snap",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12239_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rosenquist-skull-snap-p12239",
+      "id": "80498",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "skull snap, state i",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rosenquist-skull-snap-state-i-p12240",
+      "id": "80499",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "caught one lost one for the fast student or star catcher",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rosenquist-caught-one-lost-one-for-the-fast-student-or-star-catcher-p12241",
+      "id": "80500",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman in the sun",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rosenquist-woman-in-the-sun-p12242",
+      "id": "80501",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the flame dances on leo\u2019s book",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rosenquist-the-flame-dances-on-leos-book-p13304",
+      "id": "66895",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sunglasses - landing net - triangle",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77056_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rosenquist-sunglasses-landing-net-triangle-p77056",
+      "id": "12759",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "silo",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01829_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rosenquist-silo-t01829",
+      "id": "12760",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16979",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12756",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12757",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80487",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80488",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80489",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80490",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80491",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80492",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80493",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80494",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80495",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80496",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80497",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80498",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80499",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80500",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80501",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66895",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12759",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12760",
+      "value": 1
+    }
+  ]
+}

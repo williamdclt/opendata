@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Haseltine, Herbert",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/herbert-haseltine-1253",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "suffolk punch stallion: sudbourne premier",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/haseltine-suffolk-punch-stallion-sudbourne-premier-n04560",
+      "id": "5865",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5865",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Madani, Tala",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/tala-madani-14729",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a with wagon",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/madani-a-with-wagon-t13320",
+      "id": "113656",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stoneman skinning man",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/madani-stoneman-skinning-man-t13444",
+      "id": "120611",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "113656",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "120611",
+      "value": 1
+    }
+  ]
+}

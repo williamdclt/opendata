@@ -1,0 +1,393 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Green, Alan",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/alan-green-1212",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "variation a",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01406_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/green-variation-a-p01406",
+      "id": "5639",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "variation b",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01407_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/green-variation-b-p01407",
+      "id": "5640",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "variation c",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01408_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/green-variation-c-p01408",
+      "id": "5641",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "four rectangles",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01774_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/green-four-rectangles-p01774",
+      "id": "5642",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "second state",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01775_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/green-second-state-p01775",
+      "id": "5643",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "second state",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01776_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/green-second-state-p01776",
+      "id": "5644",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01777_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/green-black-p01777",
+      "id": "5645",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black on black",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01778_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/green-black-on-black-p01778",
+      "id": "5646",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cream over crimson",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01779_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/green-cream-over-crimson-p01779",
+      "id": "5647",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "white on brown",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01780_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/green-white-on-brown-p01780",
+      "id": "5648",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "1/4 black diagonal",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01781_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/green-14-black-diagonal-p01781",
+      "id": "5649",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "1/4 black red",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01782_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/green-14-black-red-p01782",
+      "id": "5650",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "1/2 black",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01783_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/green-12-black-p01783",
+      "id": "5651",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "1/2 red black",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01784_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/green-12-red-black-p01784",
+      "id": "5652",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "1/2 to the right",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01785_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/green-12-to-the-right-p01785",
+      "id": "5653",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "1. black vertical on black",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01856_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/green-1-black-vertical-on-black-p01856",
+      "id": "5654",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "2. 90% on white",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01857_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/green-2-90-on-white-p01857",
+      "id": "5655",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "3. grey on 180\u00b0",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01858_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/green-3-grey-on-180-p01858",
+      "id": "5656",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "4. white horizontal, black verticals",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01859_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/green-4-white-horizontal-black-verticals-p01859",
+      "id": "5657",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black diagonal to edge",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03117_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/green-black-diagonal-to-edge-p03117",
+      "id": "5658",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black over white",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03118_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/green-black-over-white-p03118",
+      "id": "5659",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "white diagonal to edge",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03119_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/green-white-diagonal-to-edge-p03119",
+      "id": "5660",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "white over black",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03120_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/green-white-over-black-p03120",
+      "id": "5661",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "one to four",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03443_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/green-one-to-four-t03443",
+      "id": "5662",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "check",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03835_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/green-check-t03835",
+      "id": "5663",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "broken blue angle",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13576_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/green-broken-blue-angle-t13576",
+      "id": "117931",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "angled whites to blue grey",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13577_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/green-angled-whites-to-blue-grey-t13577",
+      "id": "117932",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5639",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5640",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5641",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5642",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5643",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5644",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5645",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5646",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5647",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5648",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5649",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5650",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5651",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5652",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5653",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5654",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5655",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5656",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5657",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5658",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5659",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5660",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5661",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5662",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5663",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117931",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117932",
+      "value": 1
+    }
+  ]
+}

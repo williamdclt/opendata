@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Tuttle, Richard",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/richard-tuttle-8006",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "monday",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tuttle-monday-p20272",
+      "id": "85167",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tuesday",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tuttle-tuesday-p20273",
+      "id": "85168",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wednesday",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tuttle-wednesday-p20274",
+      "id": "85169",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "thursday",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tuttle-thursday-p20275",
+      "id": "85170",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "friday",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tuttle-friday-p20276",
+      "id": "85171",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "saturday",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tuttle-saturday-p20277",
+      "id": "85172",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sunday",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tuttle-sunday-p20278",
+      "id": "85173",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "85167",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85168",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85169",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85170",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85171",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85172",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85173",
+      "value": 1
+    }
+  ]
+}

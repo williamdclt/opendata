@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Sierra, Santiago",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/santiago-sierra-6878",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "160 cm line tattooed on 4 people el gallo arte contempor\u00e1neo. salamanca, spain. december 2000",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11852_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sierra-160-cm-line-tattooed-on-4-people-el-gallo-arte-contemporaneo-salamanca-spain-t11852",
+      "id": "81203",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "81203",
+      "value": 1
+    }
+  ]
+}

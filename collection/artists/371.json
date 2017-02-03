@@ -1,0 +1,211 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Martin, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-martin-371",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the destruction of pompei and herculaneum",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00793_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-the-destruction-of-pompei-and-herculaneum-n00793",
+      "id": "20745",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the fallen angels entering pandemonium, from \u2018paradise lost\u2019, book 1",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05435_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-the-fallen-angels-entering-pandemonium-from-paradise-lost-book-1-n05435",
+      "id": "9309",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the great day of his wrath",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05613_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-the-great-day-of-his-wrath-n05613",
+      "id": "9310",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the coronation of queen victoria",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05753_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-the-coronation-of-queen-victoria-n05753",
+      "id": "9311",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the garden of eden",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01007_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-the-garden-of-eden-t01007",
+      "id": "9312",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the last judgement",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01927_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-the-last-judgement-t01927",
+      "id": "9313",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the plains of heaven",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01928_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-the-plains-of-heaven-t01928",
+      "id": "9314",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the crucifixion",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-the-crucifixion-t04893",
+      "id": "9315",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "plate from \u2018illustrations to the bible\u2019: the destruction of the pharoah\u2019s host",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04894_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-plate-from-illustrations-to-the-bible-the-destruction-of-the-pharoahs-host-t04894",
+      "id": "9316",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "plate from \u2018illustrations to the bible\u2019: moses breaketh the tables",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04895_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-plate-from-illustrations-to-the-bible-moses-breaketh-the-tables-t04895",
+      "id": "9317",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "plate from \u2018illustrations to the bible\u2019: belshazzar\u2019s feast",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04896_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-plate-from-illustrations-to-the-bible-belshazzars-feast-t04896",
+      "id": "9318",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "plate from \u2018illustrations to the bible\u2019: the covenant",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04897_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-plate-from-illustrations-to-the-bible-the-covenant-t04897",
+      "id": "9319",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018the last judgement\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07271_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-study-for-the-last-judgement-t07271",
+      "id": "22077",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "trees",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09489_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-trees-t09489",
+      "id": "23235",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "20745",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9309",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9310",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9311",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9312",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9313",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9314",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9315",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9316",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9317",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9318",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9319",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22077",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23235",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Stothard, Thomas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/thomas-stothard-531",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the first drawing ... made for ritson",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00867_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stothard-the-first-drawing-made-for-ritson-a00867",
+      "id": "13913",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00868_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stothard-title-not-known-a00868",
+      "id": "13914",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00869_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stothard-title-not-known-a00869",
+      "id": "13915",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00870_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stothard-title-not-known-a00870",
+      "id": "13916",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00871_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stothard-title-not-known-a00871",
+      "id": "13917",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00872_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stothard-title-not-known-a00872",
+      "id": "13918",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00873_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stothard-title-not-known-a00873",
+      "id": "13919",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018the pilgrimage to canterbury\u2019, with studies of heads, figures on horseback, and two group sketches",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00874_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stothard-sketch-for-the-pilgrimage-to-canterbury-with-studies-of-heads-figures-on-a00874",
+      "id": "13920",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00875_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stothard-title-not-known-a00875",
+      "id": "13921",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00876_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stothard-title-not-known-a00876",
+      "id": "13922",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018the pilgrimage to canterbury\u2019, with a compositional sketch, a key to the figures, and studies of heads and figures",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00877_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stothard-sketch-for-the-pilgrimage-to-canterbury-with-a-compositional-sketch-a-key-to-the-a00877",
+      "id": "13923",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "preliminary version (?or later replica) of finished composition (n01163)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stothard-preliminary-version-or-later-replica-of-finished-composition-n01163-a00878",
+      "id": "13924",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the vintage",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00317_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stothard-the-vintage-n00317",
+      "id": "13925",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a woodland dance",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00318_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stothard-a-woodland-dance-n00318",
+      "id": "13926",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "calypso with her nymphs caressing cupid",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00319_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stothard-calypso-with-her-nymphs-caressing-cupid-n00319",
+      "id": "13927",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "diana and her nymphs bathing",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00320_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stothard-diana-and-her-nymphs-bathing-n00320",
+      "id": "13928",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "intemperance: mark antony and cleopatra",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00321_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stothard-intemperance-mark-antony-and-cleopatra-n00321",
+      "id": "13929",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a battle",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00322_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stothard-a-battle-n00322",
+      "id": "13930",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nymphs discover the narcissus",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01069_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stothard-nymphs-discover-the-narcissus-n01069",
+      "id": "13931",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cupids preparing for the chase",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01070_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stothard-cupids-preparing-for-the-chase-n01070",
+      "id": "13932",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the pilgrimage to canterbury",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01163_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stothard-the-pilgrimage-to-canterbury-n01163",
+      "id": "13933",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nymphs and satyrs",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01185_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stothard-nymphs-and-satyrs-n01185",
+      "id": "13934",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a nymph sleeping",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01827_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stothard-a-nymph-sleeping-n01827",
+      "id": "13935",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sans souci",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01829_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stothard-sans-souci-n01829",
+      "id": "13936",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shakespearean characters",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01830_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stothard-shakespearean-characters-n01830",
+      "id": "13937",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cupid bound to a tree",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01832_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stothard-cupid-bound-to-a-tree-n01832",
+      "id": "13938",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lord william russell taking leave of his children",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01833_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stothard-lord-william-russell-taking-leave-of-his-children-n01833",
+      "id": "13939",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "scene from \u2018romeo and juliet\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stothard-scene-from-romeo-and-juliet-n01835",
+      "id": "13940",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lady reclining",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01836_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stothard-lady-reclining-n01836",
+      "id": "13941",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "peace came down upon the earth",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02219_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stothard-peace-came-down-upon-the-earth-n02219",
+      "id": "13942",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of female figures",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04318_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stothard-study-of-female-figures-n04318",
+      "id": "13943",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "classical female figures",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05191_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stothard-classical-female-figures-n05191",
+      "id": "13944",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "religion teaching her children",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stothard-religion-teaching-her-children-n05194",
+      "id": "13945",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the pilgrimage to canterbury, engraved by louis schiavonetti and james heath",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06857_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stothard-the-pilgrimage-to-canterbury-engraved-by-louis-schiavonetti-and-james-heath-t06857",
+      "id": "20967",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a scene on the medway",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07042_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stothard-a-scene-on-the-medway-t07042",
+      "id": "21537",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the pilgrimage to canterbury, engraved by ?leopold beyer",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07043_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stothard-the-pilgrimage-to-canterbury-engraved-by-leopold-beyer-t07043",
+      "id": "21538",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the pilgrimage to canterbury",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07044_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stothard-the-pilgrimage-to-canterbury-t07044",
+      "id": "21539",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the pilgrimage to canterbury",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07045_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stothard-the-pilgrimage-to-canterbury-t07045",
+      "id": "21540",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a group of preliminary sketches for stothard\u2019s \u2018the pilgrimage to canterbury\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07046_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stothard-a-group-of-preliminary-sketches-for-stothards-the-pilgrimage-to-canterbury-t07046",
+      "id": "21541",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "james i coming to england",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07047_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stothard-james-i-coming-to-england-t07047",
+      "id": "21542",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13913",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13914",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13915",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13916",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13917",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13918",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13919",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13920",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13921",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13922",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13923",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13924",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13925",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13926",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13927",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13928",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13929",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13930",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13931",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13932",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13933",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13934",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13935",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13936",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13937",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13938",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13939",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13940",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13941",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13942",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13943",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13944",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13945",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20967",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21537",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21538",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21539",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21540",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21541",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21542",
+      "value": 1
+    }
+  ]
+}

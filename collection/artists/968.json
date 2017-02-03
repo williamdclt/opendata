@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Currie, John S.",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-s-currie-968",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "head of a woman",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04090_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/currie-head-of-a-woman-n04090",
+      "id": "2971",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2971",
+      "value": 1
+    }
+  ]
+}

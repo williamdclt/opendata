@@ -1,0 +1,463 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Kounellis, Jannis",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/jannis-kounellis-1438",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00068_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kounellis-untitled-ar00068",
+      "id": "98214",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00069_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kounellis-untitled-ar00069",
+      "id": "98212",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "coal sculpture with wall of coloured glass",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00070_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kounellis-coal-sculpture-with-wall-of-coloured-glass-ar00070",
+      "id": "98215",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bells",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00071_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kounellis-bells-ar00071",
+      "id": "98216",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00072_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kounellis-untitled-ar00072",
+      "id": "98217",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00073_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kounellis-untitled-ar00073",
+      "id": "98218",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (knife and train)",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00074_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kounellis-untitled-knife-and-train-ar00074",
+      "id": "98225",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00075_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kounellis-untitled-ar00075",
+      "id": "98226",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00497_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kounellis-untitled-ar00497",
+      "id": "98213",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (coffee)",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00581_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kounellis-untitled-coffee-ar00581",
+      "id": "98219",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (hanging knife)",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00582_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kounellis-untitled-hanging-knife-ar00582",
+      "id": "98220",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (sack with z)",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00583_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kounellis-untitled-sack-with-z-ar00583",
+      "id": "98221",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (scissors)",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00584_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kounellis-untitled-scissors-ar00584",
+      "id": "98222",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (sewing machine)",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00585_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kounellis-untitled-sewing-machine-ar00585",
+      "id": "98223",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (hair)",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00586_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kounellis-untitled-hair-ar00586",
+      "id": "98224",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00614_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kounellis-untitled-ar00614",
+      "id": "98211",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR01136_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kounellis-untitled-ar01136",
+      "id": "105644",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78423_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kounellis-no-title-p78423",
+      "id": "79",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78424_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kounellis-no-title-p78424",
+      "id": "243",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78425_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kounellis-no-title-p78425",
+      "id": "244",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78426_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kounellis-no-title-p78426",
+      "id": "245",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78427_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kounellis-no-title-p78427",
+      "id": "246",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78428_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kounellis-no-title-p78428",
+      "id": "247",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78429_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kounellis-no-title-p78429",
+      "id": "248",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78430_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kounellis-no-title-p78430",
+      "id": "249",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78431_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kounellis-no-title-p78431",
+      "id": "250",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78432_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kounellis-no-title-p78432",
+      "id": "251",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78433_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kounellis-no-title-p78433",
+      "id": "252",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78434_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kounellis-no-title-p78434",
+      "id": "253",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03796_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kounellis-untitled-t03796",
+      "id": "8224",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04937_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kounellis-untitled-t04937",
+      "id": "8225",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07074_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kounellis-untitled-t07074",
+      "id": "21551",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "98214",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98212",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98215",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98216",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98217",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98218",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98225",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98226",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98213",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98219",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98220",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98221",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98222",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98223",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98224",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98211",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "105644",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "243",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "244",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "245",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "246",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "247",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "248",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "249",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "250",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "251",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "252",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "253",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8224",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8225",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21551",
+      "value": 1
+    }
+  ]
+}

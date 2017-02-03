@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "May, Nicholas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/nicholas-may-2367",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "anabatic print",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/may-anabatic-print-p77932",
+      "id": "21862",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "liminal 174",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/may-liminal-174-t06990",
+      "id": "21314",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "21862",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21314",
+      "value": 1
+    }
+  ]
+}

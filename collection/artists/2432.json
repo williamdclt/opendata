@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Ince, Joseph Murray",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/joseph-murray-ince-2432",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the royal palace, stockholm",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09065_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ince-the-royal-palace-stockholm-t09065",
+      "id": "23059",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "23059",
+      "value": 1
+    }
+  ]
+}

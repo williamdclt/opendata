@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Daws, Lawrence",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/lawrence-daws-984",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "burning train",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04161_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daws-burning-train-p04161",
+      "id": "3667",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the cage",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04162_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daws-the-cage-p04162",
+      "id": "3668",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "omen bird",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04163_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daws-omen-bird-p04163",
+      "id": "3669",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pacific eye",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04164_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daws-pacific-eye-p04164",
+      "id": "3670",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "3667",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3668",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3669",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3670",
+      "value": 1
+    }
+  ]
+}

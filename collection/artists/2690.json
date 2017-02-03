@@ -1,0 +1,14 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Greenhill, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-greenhill-2690",
+      "id": "Artist",
+      "size": 30
+    }
+  ],
+  "links": []
+}

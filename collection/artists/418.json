@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Peppercorn, Arthur Douglas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/arthur-douglas-peppercorn-418",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the path by the river",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03035_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/peppercorn-the-path-by-the-river-n03035",
+      "id": "11519",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "11519",
+      "value": 1
+    }
+  ]
+}

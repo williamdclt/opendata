@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Donnelly, Trisha",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/trisha-donnelly-8143",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the redwood and the raven",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79237_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/donnelly-the-redwood-and-the-raven-p79237",
+      "id": "91988",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/donnelly-untitled-t12027",
+      "id": "85525",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "91988",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85525",
+      "value": 1
+    }
+  ]
+}

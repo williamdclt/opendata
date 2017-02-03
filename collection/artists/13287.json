@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Griffiths, Brian",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/brian-griffiths-13287",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the body and ground (or your lovely smile)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/griffiths-the-body-and-ground-or-your-lovely-smile-t13828",
+      "id": "123246",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the clown situation (grey stripe)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/griffiths-the-clown-situation-grey-stripe-t13829",
+      "id": "123426",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "123246",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123426",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Atkinson, Terry",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/terry-atkinson-11829",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "postcard from trotsky in gdansk to svetlana stalin and malcolm muggeridge, dated 1983 \u2018the blood of christ certainly passeth all understanding\u2019.",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/atkinson-postcard-from-trotsky-in-gdansk-to-svetlana-stalin-and-malcolm-muggeridge-dated-t12835",
+      "id": "100245",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "100245",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Cox, Stephen",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/stephen-cox-951",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "tondo: we must always turn south",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03356_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-tondo-we-must-always-turn-south-t03356",
+      "id": "2886",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gethsemane",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-gethsemane-t03794",
+      "id": "2887",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for etruscan",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05506_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-study-for-etruscan-t05506",
+      "id": "17292",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for etruscan",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05507_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-study-for-etruscan-t05507",
+      "id": "17293",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for ganepathi and devi",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05508_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-study-for-ganepathi-and-devi-t05508",
+      "id": "17294",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "torso untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-torso-untitled-t05509",
+      "id": "17295",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "crowned torso",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05510_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-crowned-torso-t05510",
+      "id": "17296",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05511_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-untitled-t05511",
+      "id": "17297",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05512_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-untitled-t05512",
+      "id": "17298",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05513_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-untitled-t05513",
+      "id": "17299",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05514_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-untitled-t05514",
+      "id": "17300",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018gethsemane\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-drawing-for-gethsemane-t05720",
+      "id": "18887",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chrysalis",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06662_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-chrysalis-t06662",
+      "id": "20580",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tondo nuvole",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-tondo-nuvole-t07764",
+      "id": "66718",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2886",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2887",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17292",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17293",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17294",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17295",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17296",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17297",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17298",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17299",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17300",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18887",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20580",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66718",
+      "value": 1
+    }
+  ]
+}

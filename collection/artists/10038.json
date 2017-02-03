@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Mir, Aleksandra",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/aleksandra-mir-10038",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "first woman on the moon",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mir-first-woman-on-the-moon-t13704",
+      "id": "91303",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "91303",
+      "value": 1
+    }
+  ]
+}

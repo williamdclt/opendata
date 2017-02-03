@@ -1,0 +1,505 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Celmins, Vija",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/vija-celmins-2731",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled (desert-galaxy)",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00162_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celmins-untitled-desert-galaxy-ar00162",
+      "id": "95853",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "night sky #19",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00163_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celmins-night-sky-19-ar00163",
+      "id": "95856",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "web #1",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00164_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celmins-web-1-ar00164",
+      "id": "95857",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drypoint - ocean surface",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00467_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celmins-drypoint-ocean-surface-ar00467",
+      "id": "95861",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "december 1984",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00468_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celmins-december-1984-ar00468",
+      "id": "95863",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "concentric bearings a",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00469_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celmins-concentric-bearings-a-ar00469",
+      "id": "95864",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "concentric bearings d",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00470_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celmins-concentric-bearings-d-ar00470",
+      "id": "95865",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mount holyoke",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00471_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celmins-mount-holyoke-ar00471",
+      "id": "95866",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (source materials)",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00472_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celmins-untitled-source-materials-ar00472",
+      "id": "95867",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ocean surface wood engraving 2000",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00473_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celmins-ocean-surface-wood-engraving-2000-ar00473",
+      "id": "95868",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "night sky 1 reversed",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00474_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celmins-night-sky-1-reversed-ar00474",
+      "id": "95869",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "night sky 2 reversed",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00475_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celmins-night-sky-2-reversed-ar00475",
+      "id": "95870",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (web 1)",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00476_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celmins-untitled-web-1-ar00476",
+      "id": "95871",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (web 2)",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00477_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celmins-untitled-web-2-ar00477",
+      "id": "95872",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (web 3)",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00478_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celmins-untitled-web-3-ar00478",
+      "id": "95873",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (web 4)",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00479_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celmins-untitled-web-4-ar00479",
+      "id": "95874",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "night sky woodcut",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00480_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celmins-night-sky-woodcut-ar00480",
+      "id": "95875",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jupiter moon - constellation",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00481_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celmins-jupiter-moon-constellation-ar00481",
+      "id": "95876",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "concentric bearings b",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00482_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celmins-concentric-bearings-b-ar00482",
+      "id": "95877",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "concentric bearings c",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00483_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celmins-concentric-bearings-c-ar00483",
+      "id": "95878",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ocean surface woodcut 1992",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00484_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celmins-ocean-surface-woodcut-1992-ar00484",
+      "id": "95879",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "night sky 3",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00485_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celmins-night-sky-3-ar00485",
+      "id": "95880",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled portfolio: galaxy",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00605_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celmins-untitled-portfolio-galaxy-ar00605",
+      "id": "95858",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "constellation - uccello",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00606_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celmins-constellation-uccello-ar00606",
+      "id": "95862",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "web ladder",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR01155_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celmins-web-ladder-ar01155",
+      "id": "115735",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "divided night sky",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR01156_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celmins-divided-night-sky-ar01156",
+      "id": "115736",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reverse galaxy",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR01157_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celmins-reverse-galaxy-ar01157",
+      "id": "115737",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "falling stars",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR01158_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celmins-falling-stars-ar01158",
+      "id": "115738",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dark galaxy",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR01159_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celmins-dark-galaxy-ar01159",
+      "id": "115739",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "starfield",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR01160_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celmins-starfield-ar01160",
+      "id": "115740",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "alliance",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR01161_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celmins-alliance-ar01161",
+      "id": "112230",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sky",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78334_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celmins-sky-p78334",
+      "id": "26860",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "galaxy",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78335_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celmins-galaxy-p78335",
+      "id": "26861",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ocean",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78336_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celmins-ocean-p78336",
+      "id": "26862",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "desert",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78337_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celmins-desert-p78337",
+      "id": "26863",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "95853",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95856",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95857",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95861",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95863",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95864",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95865",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95866",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95867",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95868",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95869",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95870",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95871",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95872",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95873",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95874",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95875",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95876",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95877",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95878",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95879",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95880",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95858",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95862",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "115735",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "115736",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "115737",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "115738",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "115739",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "115740",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112230",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26860",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26861",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26862",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26863",
+      "value": 1
+    }
+  ]
+}

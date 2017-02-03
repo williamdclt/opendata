@@ -1,0 +1,211 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "McCartney, Linda",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/linda-mccartney-1603",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "mick jagger",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccartney-mick-jagger-p05441",
+      "id": "9046",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "brian jones",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccartney-brian-jones-p05442",
+      "id": "9047",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "grace slick",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccartney-grace-slick-p05443",
+      "id": "9048",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "b.b. king",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccartney-bb-king-p05444",
+      "id": "9049",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pete townshend",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccartney-pete-townshend-p05445",
+      "id": "9050",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cups at emi studios",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccartney-cups-at-emi-studios-p05446",
+      "id": "9051",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "brysi barbados",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccartney-brysi-barbados-p05447",
+      "id": "9052",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jimi hendrix blue",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccartney-jimi-hendrix-blue-p05448",
+      "id": "9053",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wrecked car",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccartney-wrecked-car-p05449",
+      "id": "9054",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "david bowie",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccartney-david-bowie-p05450",
+      "id": "9055",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "painted toenails",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccartney-painted-toenails-p05451",
+      "id": "9056",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mary, scotland",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccartney-mary-scotland-p05452",
+      "id": "9057",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cinnamon",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccartney-cinnamon-p05453",
+      "id": "9058",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mccartney",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccartney-mccartney-p05454",
+      "id": "9059",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9046",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9047",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9048",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9049",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9050",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9051",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9052",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9053",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9054",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9055",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9056",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9057",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9058",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9059",
+      "value": 1
+    }
+  ]
+}

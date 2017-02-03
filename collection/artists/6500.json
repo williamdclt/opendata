@@ -1,0 +1,491 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Bj\u00f8rlo, Per Inge",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/per-inge-bjrlo-6500",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "head i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11998_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bjrlo-head-i-p11998",
+      "id": "79829",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11999_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bjrlo-head-ii-p11999",
+      "id": "79839",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12000_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bjrlo-head-iii-p12000",
+      "id": "79840",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head iv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12001_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bjrlo-head-iv-p12001",
+      "id": "79841",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head v",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12002_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bjrlo-head-v-p12002",
+      "id": "79842",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head vi",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12003_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bjrlo-head-vi-p12003",
+      "id": "79843",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head vii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12004_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bjrlo-head-vii-p12004",
+      "id": "79844",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head viii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12005_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bjrlo-head-viii-p12005",
+      "id": "79845",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head ix",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12006_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bjrlo-head-ix-p12006",
+      "id": "79846",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head x",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12007_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bjrlo-head-x-p12007",
+      "id": "79847",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head xi",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12008_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bjrlo-head-xi-p12008",
+      "id": "79848",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head xii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12009_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bjrlo-head-xii-p12009",
+      "id": "79849",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head xiii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bjrlo-head-xiii-p12010",
+      "id": "79850",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head xiv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12011_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bjrlo-head-xiv-p12011",
+      "id": "79851",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head xv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12012_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bjrlo-head-xv-p12012",
+      "id": "79852",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sort",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12013_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bjrlo-sort-p12013",
+      "id": "79933",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "let in",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12014_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bjrlo-let-in-p12014",
+      "id": "79934",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "silence: flight, dive, moonshine",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bjrlo-silence-flight-dive-moonshine-p12015",
+      "id": "79935",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "atmosphere i",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bjrlo-atmosphere-i-p12016",
+      "id": "79936",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "atmosphere ii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bjrlo-atmosphere-ii-p12017",
+      "id": "79937",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "couple",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bjrlo-couple-p12018",
+      "id": "79938",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dark relief",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bjrlo-dark-relief-p12019",
+      "id": "79939",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "line",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bjrlo-line-p12020",
+      "id": "79940",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "claw",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bjrlo-claw-p12021",
+      "id": "79941",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mind",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bjrlo-mind-p12022",
+      "id": "79942",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "listening flesh",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bjrlo-listening-flesh-p12023",
+      "id": "79943",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "listening water",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bjrlo-listening-water-p12024",
+      "id": "79944",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "listening earth",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bjrlo-listening-earth-p12025",
+      "id": "79945",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "behind",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bjrlo-behind-p12026",
+      "id": "79969",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drifting",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bjrlo-drifting-p12027",
+      "id": "79970",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "inside",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bjrlo-inside-p12028",
+      "id": "79971",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pressure",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bjrlo-pressure-p12029",
+      "id": "79972",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "trust",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bjrlo-trust-p12030",
+      "id": "79973",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drift",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12031_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bjrlo-drift-p12031",
+      "id": "79974",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "79829",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79839",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79840",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79841",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79842",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79843",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79844",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79845",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79846",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79847",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79848",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79849",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79850",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79851",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79852",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79933",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79934",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79935",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79936",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79937",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79938",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79939",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79940",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79941",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79942",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79943",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79944",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79945",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79969",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79970",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79971",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79972",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79973",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79974",
+      "value": 1
+    }
+  ]
+}

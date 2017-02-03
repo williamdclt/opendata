@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Buckingham, Matthew",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/matthew-buckingham-11696",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "situation leading to a story",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/buckingham-situation-leading-to-a-story-t12990",
+      "id": "99465",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "99465",
+      "value": 1
+    }
+  ]
+}

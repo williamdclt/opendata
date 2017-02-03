@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Cabrita Reis, Pedro",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/pedro-cabrita-reis-14505",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "limbo",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13492_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cabrita-reis-limbo-t13492",
+      "id": "113048",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the moscow piece",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13493_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cabrita-reis-the-moscow-piece-t13493",
+      "id": "113049",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the unnamed word #1",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13649_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cabrita-reis-the-unnamed-word-1-t13649",
+      "id": "113047",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "unframed #3",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13650_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cabrita-reis-unframed-3-t13650",
+      "id": "113016",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "113048",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "113049",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "113047",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "113016",
+      "value": 1
+    }
+  ]
+}

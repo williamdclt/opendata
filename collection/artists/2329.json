@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gibbs, Henry",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/henry-gibbs-2329",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "aeneas and his family fleeing burning troy",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06782_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gibbs-aeneas-and-his-family-fleeing-burning-troy-t06782",
+      "id": "20840",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "20840",
+      "value": 1
+    }
+  ]
+}

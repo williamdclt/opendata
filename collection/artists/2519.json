@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Neale, John Preston",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-preston-neale-2519",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "lowther castle, westmoreland",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06435_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/neale-lowther-castle-westmoreland-t06435",
+      "id": "20107",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "remains of walsingham abbey, norfolk, engraved by scott",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06436_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/neale-remains-of-walsingham-abbey-norfolk-engraved-by-scott-t06436",
+      "id": "20108",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of marnhead, devonshire",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10351_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/neale-view-of-marnhead-devonshire-t10351",
+      "id": "23311",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "20107",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20108",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23311",
+      "value": 1
+    }
+  ]
+}

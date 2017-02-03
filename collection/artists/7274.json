@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Goldsworthy, Andy",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/andy-goldsworthy-7274",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "stalk line / brough, cumbria / 1982",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/goldsworthy-stalk-line-brough-cumbria-1982-p80073",
+      "id": "112286",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hazel sticks / bentham, yorkshire / september 1980",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/goldsworthy-hazel-sticks-bentham-yorkshire-september-1980-p80074",
+      "id": "112290",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "damp patch / river water on stones / ilkley, yorkshire / april 1981",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/goldsworthy-damp-patch-river-water-on-stones-ilkley-yorkshire-april-1981-p80075",
+      "id": "112292",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "holes / middleton woods, yorkshire / 1 february 1981",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/goldsworthy-holes-middleton-woods-yorkshire-1-february-1981-p80076",
+      "id": "112293",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "112286",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112290",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112292",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112293",
+      "value": 1
+    }
+  ]
+}

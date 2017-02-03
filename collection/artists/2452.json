@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Richardson, Thomas Miles, Junior",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/thomas-miles-richardson-junior-2452",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the vale of delphi",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08542_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richardson-the-vale-of-delphi-t08542",
+      "id": "23432",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "23432",
+      "value": 1
+    }
+  ]
+}

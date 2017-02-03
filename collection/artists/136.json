@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Dance-Holland, Sir Nathaniel",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-nathaniel-dance-holland-136",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "thomas nuthall with a dog and gun",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00053_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-holland-thomas-nuthall-with-a-dog-and-gun-t00053",
+      "id": "3007",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the meeting of dido and aeneas",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06736_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-holland-the-meeting-of-dido-and-aeneas-t06736",
+      "id": "20759",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a girl seated, in a flowered dress",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08165_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-holland-a-girl-seated-in-a-flowered-dress-t08165",
+      "id": "22702",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of hester smith n\u00e9e dance",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08229_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-holland-portrait-of-hester-smith-nee-dance-t08229",
+      "id": "22762",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of a man in profile to left",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08257_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-holland-head-of-a-man-in-profile-to-left-t08257",
+      "id": "22764",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dollalolla",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08279_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-holland-dollalolla-t08279",
+      "id": "22707",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "captain scropholo",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08280_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-holland-captain-scropholo-t08280",
+      "id": "22708",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mouthers",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08281_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-holland-mouthers-t08281",
+      "id": "22705",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bob cherry",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08282_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-holland-bob-cherry-t08282",
+      "id": "22704",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bond street",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08283_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-holland-bond-street-t08283",
+      "id": "22706",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a goose and two headless men",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08284_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-holland-a-goose-and-two-headless-men-t08284",
+      "id": "22711",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of a boy. verso: drawing",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08286_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-holland-portrait-of-a-boy-verso-drawing-t08286",
+      "id": "22709",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08287_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-holland-title-not-known-t08287",
+      "id": "24173",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08288_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-holland-title-not-known-t08288",
+      "id": "24174",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08289_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-holland-title-not-known-t08289",
+      "id": "24175",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08290_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-holland-title-not-known-t08290",
+      "id": "24176",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08291_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-holland-title-not-known-t08291",
+      "id": "24177",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08292_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-holland-title-not-known-t08292",
+      "id": "24178",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08293_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-holland-title-not-known-t08293",
+      "id": "24179",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08294_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-holland-title-not-known-t08294",
+      "id": "24180",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08295_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-holland-title-not-known-t08295",
+      "id": "24181",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08296_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-holland-title-not-known-t08296",
+      "id": "24182",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08297_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-holland-title-not-known-t08297",
+      "id": "24183",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08298_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-holland-title-not-known-t08298",
+      "id": "24184",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08299_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-holland-title-not-known-t08299",
+      "id": "24185",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08300_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-holland-title-not-known-t08300",
+      "id": "24186",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08301_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-holland-title-not-known-t08301",
+      "id": "24187",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08302_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-holland-title-not-known-t08302",
+      "id": "24188",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08303_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-holland-title-not-known-t08303",
+      "id": "24189",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08304_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-holland-title-not-known-t08304",
+      "id": "24190",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08305_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-holland-title-not-known-t08305",
+      "id": "24191",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known] verso: sketches",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08306_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-holland-title-not-known-verso-sketches-t08306",
+      "id": "24192",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08307_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-holland-title-not-known-t08307",
+      "id": "24193",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08308_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-holland-title-not-known-t08308",
+      "id": "24194",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08309_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-holland-title-not-known-t08309",
+      "id": "24195",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08310_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-holland-title-not-known-t08310",
+      "id": "24196",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08311_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-holland-title-not-known-t08311",
+      "id": "24197",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08312_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-holland-title-not-known-t08312",
+      "id": "24198",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08313_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-holland-title-not-known-t08313",
+      "id": "24199",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08314_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dance-holland-title-not-known-t08314",
+      "id": "24200",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "3007",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20759",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22702",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22762",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22764",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22707",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22708",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22705",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22704",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22706",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22711",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22709",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24173",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24174",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24175",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24176",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24177",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24178",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24179",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24180",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24181",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24182",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24183",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24184",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24185",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24186",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24187",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24188",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24189",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24190",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24191",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24192",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24193",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24194",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24195",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24196",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24197",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24198",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24199",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24200",
+      "value": 1
+    }
+  ]
+}

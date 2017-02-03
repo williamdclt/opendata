@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Mellis, Margaret",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/margaret-mellis-1620",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "blue anemone",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01267_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mellis-blue-anemone-t01267",
+      "id": "9435",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sobranie collage",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04124_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mellis-sobranie-collage-t04124",
+      "id": "9436",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "marsh white",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04929_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mellis-marsh-white-t04929",
+      "id": "9437",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "number thirty five",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04930_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mellis-number-thirty-five-t04930",
+      "id": "9438",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9435",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9436",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9437",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9438",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Bevan, Robert",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/robert-bevan-748",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "horse sale at the barbican",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04750_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bevan-horse-sale-at-the-barbican-n04750",
+      "id": "968",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the cab horse",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05911_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bevan-the-cab-horse-n05911",
+      "id": "969",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ploughing in brittany. verso: study of a woman",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00250_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bevan-ploughing-in-brittany-verso-study-of-a-woman-t00250",
+      "id": "970",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "haze over the valley",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00282_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bevan-haze-over-the-valley-t00282",
+      "id": "971",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "morning over the ploughed fields",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01121_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bevan-morning-over-the-ploughed-fields-t01121",
+      "id": "972",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "968",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "969",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "970",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "971",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "972",
+      "value": 1
+    }
+  ]
+}

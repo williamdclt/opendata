@@ -1,0 +1,267 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hambling, Maggi",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/maggi-hambling-1242",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "max wall and his image",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03542_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hambling-max-wall-and-his-image-t03542",
+      "id": "5765",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "minotaur surprised while eating",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05023_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hambling-minotaur-surprised-while-eating-t05023",
+      "id": "5766",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mud dream 1",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05822_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hambling-mud-dream-1-t05822",
+      "id": "19244",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mud dream 2",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05823_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hambling-mud-dream-2-t05823",
+      "id": "19245",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mud dream 3",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05824_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hambling-mud-dream-3-t05824",
+      "id": "19246",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mud dream 4",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05825_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hambling-mud-dream-4-t05825",
+      "id": "19247",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mud dream 5",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05826_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hambling-mud-dream-5-t05826",
+      "id": "19248",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mud dream 6",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05827_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hambling-mud-dream-6-t05827",
+      "id": "19249",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mud dream 7",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05828_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hambling-mud-dream-7-t05828",
+      "id": "19250",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sunrise 11.7.90",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05829_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hambling-sunrise-11790-t05829",
+      "id": "19252",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sunrise 14.8.88",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05830_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hambling-sunrise-14888-t05830",
+      "id": "19251",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sunrise 16.8.90",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05831_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hambling-sunrise-16890-t05831",
+      "id": "19253",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dragon morning",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05832_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hambling-dragon-morning-t05832",
+      "id": "19254",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of frances rose",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06786_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hambling-portrait-of-frances-rose-t06786",
+      "id": "20900",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for portrait of frances rose",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06968_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hambling-study-for-portrait-of-frances-rose-t06968",
+      "id": "21270",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "war coffin",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hambling-war-coffin-t07078",
+      "id": "21571",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "father, late december 1997",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07835_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hambling-father-late-december-1997-t07835",
+      "id": "70299",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of dr david brown",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11745_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hambling-portrait-of-dr-david-brown-t11745",
+      "id": "78516",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5765",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5766",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19244",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19245",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19246",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19247",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19248",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19249",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19250",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19252",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19251",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19253",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19254",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20900",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21270",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21571",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "70299",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78516",
+      "value": 1
+    }
+  ]
+}

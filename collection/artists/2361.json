@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Doig, Peter",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/peter-doig-2361",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "ski jacket",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11471_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doig-ski-jacket-p11471",
+      "id": "22172",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rosedale house",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11472_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doig-rosedale-house-p11472",
+      "id": "22181",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "red house",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11473_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doig-red-house-p11473",
+      "id": "22180",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "from \u2018pond life\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11474_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doig-from-pond-life-p11474",
+      "id": "22179",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "concrete cabin",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11475_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doig-concrete-cabin-p11475",
+      "id": "22178",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "border house",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11476_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doig-border-house-p11476",
+      "id": "22177",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "from \u2018pond life\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11477_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doig-from-pond-life-p11477",
+      "id": "22176",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blotter",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11478_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doig-blotter-p11478",
+      "id": "22175",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "concrete cabin",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11479_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doig-concrete-cabin-p11479",
+      "id": "22174",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "white out",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11480_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doig-white-out-p11480",
+      "id": "22173",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reflection (what does your soul look like?)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11544_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doig-reflection-what-does-your-soul-look-like-p11544",
+      "id": "26403",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "canoe lake",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11545_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doig-canoe-lake-p11545",
+      "id": "26408",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ski lift",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11546_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doig-ski-lift-p11546",
+      "id": "26415",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "camp forestia",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11547_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doig-camp-forestia-p11547",
+      "id": "26414",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure in a mountain landscape",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11548_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doig-figure-in-a-mountain-landscape-p11548",
+      "id": "26413",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "window pane",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11549_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doig-window-pane-p11549",
+      "id": "26410",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lunker",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11550_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doig-lunker-p11550",
+      "id": "26412",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "daytime astronomy",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11551_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doig-daytime-astronomy-p11551",
+      "id": "26411",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "night fishing",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11552_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doig-night-fishing-p11552",
+      "id": "26409",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ski hill",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11553_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doig-ski-hill-p11553",
+      "id": "26416",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11554_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doig-no-title-p11554",
+      "id": "26417",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11555_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doig-no-title-p11555",
+      "id": "26422",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11556_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doig-no-title-p11556",
+      "id": "26421",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11557_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doig-no-title-p11557",
+      "id": "26423",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11558_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doig-no-title-p11558",
+      "id": "26418",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11559_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doig-no-title-p11559",
+      "id": "26419",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11560_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doig-no-title-p11560",
+      "id": "26420",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11561_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doig-no-title-p11561",
+      "id": "26424",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "echo lake",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78390_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doig-echo-lake-p78390",
+      "id": "27244",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "king\u2019s cross mosquito",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78514_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doig-kings-cross-mosquito-p78514",
+      "id": "66638",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ski jacket",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06962_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doig-ski-jacket-t06962",
+      "id": "21261",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "echo lake",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07467_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doig-echo-lake-t07467",
+      "id": "26453",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doig-untitled-t13750",
+      "id": "126361",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doig-untitled-t13751",
+      "id": "126363",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doig-untitled-t13752",
+      "id": "126364",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doig-untitled-t13753",
+      "id": "126365",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doig-untitled-t13754",
+      "id": "126366",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doig-untitled-t13755",
+      "id": "126367",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doig-untitled-t13756",
+      "id": "126368",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doig-untitled-t13757",
+      "id": "126369",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "22172",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22181",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22180",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22179",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22178",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22177",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22176",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22175",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22174",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22173",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26403",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26408",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26415",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26414",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26413",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26410",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26412",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26411",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26409",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26416",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26417",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26422",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26421",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26423",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26418",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26419",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26420",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26424",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27244",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66638",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21261",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26453",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "126361",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "126363",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "126364",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "126365",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "126366",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "126367",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "126368",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "126369",
+      "value": 1
+    }
+  ]
+}

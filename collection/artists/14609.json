@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Marwan (Marwan Kassab Bachi)",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/marwan-marwan-kassab-bachi-14609",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "sisyphus, the wall",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marwan-marwan-kassab-bachi-sisyphus-the-wall-t13272",
+      "id": "113373",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "113373",
+      "value": 1
+    }
+  ]
+}

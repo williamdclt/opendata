@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Partum, Ewa",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/ewa-partum-11244",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "active poetry",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/partum-active-poetry-t12766",
+      "id": "96371",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "active poetry",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12767_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/partum-active-poetry-t12767",
+      "id": "96373",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "96371",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96373",
+      "value": 1
+    }
+  ]
+}

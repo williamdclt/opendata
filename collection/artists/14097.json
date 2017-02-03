@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Shemza, Anwar Jalal",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/anwar-jalal-shemza-14097",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "forms emerging",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shemza-forms-emerging-p79950",
+      "id": "110810",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chessmen one",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13333_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shemza-chessmen-one-t13333",
+      "id": "110809",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "composition with number six",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13566_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shemza-composition-with-number-six-t13566",
+      "id": "122271",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "meem two",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13567_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shemza-meem-two-t13567",
+      "id": "122273",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "110810",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "110809",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "122271",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "122273",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Moynihan, Rodrigo",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/rodrigo-moynihan-1674",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "private clarke, a.t.s.",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05714_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moynihan-private-clarke-ats-n05714",
+      "id": "10368",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life with skull",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05771_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moynihan-still-life-with-skull-n05771",
+      "id": "10369",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait group",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06079_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moynihan-portrait-group-n06079",
+      "id": "10370",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lake shadow",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06397_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moynihan-lake-shadow-p06397",
+      "id": "10371",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "objective abstraction",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00172_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moynihan-objective-abstraction-t00172",
+      "id": "10372",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "yellow and violet",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00187_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moynihan-yellow-and-violet-t00187",
+      "id": "10373",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "interior with a nude and a still life",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01583_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moynihan-interior-with-a-nude-and-a-still-life-t01583",
+      "id": "10374",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "painting",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01770_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moynihan-painting-t01770",
+      "id": "10375",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure in studio",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03158_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moynihan-figure-in-studio-t03158",
+      "id": "10376",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the shelf: objects and shadows - front view",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03931_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moynihan-the-shelf-objects-and-shadows-front-view-t03931",
+      "id": "10377",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06836_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moynihan-study-t06836",
+      "id": "20941",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "river scene with figures",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06837_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moynihan-river-scene-with-figures-t06837",
+      "id": "20942",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blue drawing",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06838_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moynihan-blue-drawing-t06838",
+      "id": "20943",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "trees at costa frede",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06839_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moynihan-trees-at-costa-frede-t06839",
+      "id": "20944",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dead tree at nigadoo lake",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06840_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moynihan-dead-tree-at-nigadoo-lake-t06840",
+      "id": "20945",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of lake i",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06841_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moynihan-view-of-lake-i-t06841",
+      "id": "20946",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st est\u00e8ve: trees by a path",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06842_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moynihan-st-esteve-trees-by-a-path-t06842",
+      "id": "20947",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "objects on a table",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06843_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moynihan-objects-on-a-table-t06843",
+      "id": "20948",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "trees and undergrowth",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06844_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moynihan-trees-and-undergrowth-t06844",
+      "id": "20949",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "trees at the entrance of a path",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06845_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moynihan-trees-at-the-entrance-of-a-path-t06845",
+      "id": "20950",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "watercolour box and brushes",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06846_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moynihan-watercolour-box-and-brushes-t06846",
+      "id": "20952",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sitting figure",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06847_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moynihan-sitting-figure-t06847",
+      "id": "20951",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "10368",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10369",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10370",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10371",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10372",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10373",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10374",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10375",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10376",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10377",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20941",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20942",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20943",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20944",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20945",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20946",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20947",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20948",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20949",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20950",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20952",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20951",
+      "value": 1
+    }
+  ]
+}

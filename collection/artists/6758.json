@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Dittborn, Eugenio",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/eugenio-dittborn-6758",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "to hang airmail painting no.5",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11827_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dittborn-to-hang-airmail-painting-no5-t11827",
+      "id": "80861",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "to return (rtm) airmail painting no.103",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11828_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dittborn-to-return-rtm-airmail-painting-no103-t11828",
+      "id": "80862",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "80861",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80862",
+      "value": 1
+    }
+  ]
+}

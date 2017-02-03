@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Carline, Nancy",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/nancy-carline-861",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "supper on the terrace",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/carline-supper-on-the-terrace-t04117",
+      "id": "1984",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1984",
+      "value": 1
+    }
+  ]
+}

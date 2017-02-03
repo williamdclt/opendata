@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Duncombe, Susanna",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/susanna-duncombe-nee-susanna-highmore-2284",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "mythological scene, with a warrior riding an airborne monster above a landscape with classical figures",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04242_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duncombe-mythological-scene-with-a-warrior-riding-an-airborne-monster-above-a-landscape-t04242",
+      "id": "6289",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mythological scene, with a warrior addressing a lady outside a classical mansion, two maidens riding unicorns behind",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04243_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duncombe-mythological-scene-with-a-warrior-addressing-a-lady-outside-a-classical-mansion-t04243",
+      "id": "6290",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the ghost scene from \u2018the castle of otranto\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04244_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duncombe-the-ghost-scene-from-the-castle-of-otranto-t04244",
+      "id": "6291",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "three pilgrims confronted by cupid",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04245_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duncombe-three-pilgrims-confronted-by-cupid-t04245",
+      "id": "6292",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "three pilgrims in a landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04246_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duncombe-three-pilgrims-in-a-landscape-t04246",
+      "id": "6293",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "three pilgrims confronted by cupid",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04247_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duncombe-three-pilgrims-confronted-by-cupid-t04247",
+      "id": "6294",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pilgrims entering a temple, with cupid at their side",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04248_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duncombe-pilgrims-entering-a-temple-with-cupid-at-their-side-t04248",
+      "id": "6295",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a lady reading in a park, two gentlemen approaching",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04249_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duncombe-a-lady-reading-in-a-park-two-gentlemen-approaching-t04249",
+      "id": "6296",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a warrior in a landscape, brandishing a sword",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04250_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duncombe-a-warrior-in-a-landscape-brandishing-a-sword-t04250",
+      "id": "6297",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a man and a woman coming to the aid of a wounded traveller",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04251_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duncombe-a-man-and-a-woman-coming-to-the-aid-of-a-wounded-traveller-t04251",
+      "id": "6298",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cupid and a female figure receiving a pilgrim outside a castle (fragment)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04252_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duncombe-cupid-and-a-female-figure-receiving-a-pilgrim-outside-a-castle-fragment-t04252",
+      "id": "6299",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "athena seated in a doorway, attended by three female figures (fragment)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04253_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duncombe-athena-seated-in-a-doorway-attended-by-three-female-figures-fragment-t04253",
+      "id": "6300",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "classical female figure from behind (fragment)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04254_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duncombe-classical-female-figure-from-behind-fragment-t04254",
+      "id": "6301",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a pilgrim couple in a landscape (fragment)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04255_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duncombe-a-pilgrim-couple-in-a-landscape-fragment-t04255",
+      "id": "6302",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "three clergymen and three ladies in conversation",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04256_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duncombe-three-clergymen-and-three-ladies-in-conversation-t04256",
+      "id": "6303",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a young novice at her devotion preparatory to her taking the veil",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04257_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duncombe-a-young-novice-at-her-devotion-preparatory-to-her-taking-the-veil-t04257",
+      "id": "6304",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a continental street scene with a shrine",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04258_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duncombe-a-continental-street-scene-with-a-shrine-t04258",
+      "id": "6305",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a monk and two soldiers",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04259_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duncombe-a-monk-and-two-soldiers-t04259",
+      "id": "6306",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vignette with cupids and a courting couple in a library",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04260_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duncombe-vignette-with-cupids-and-a-courting-couple-in-a-library-t04260",
+      "id": "6307",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vignette with two ladies conversing in a park, with athena chasing away cupid",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04261_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duncombe-vignette-with-two-ladies-conversing-in-a-park-with-athena-chasing-away-cupid-t04261",
+      "id": "6308",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a lady and a gentleman out riding",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duncombe-a-lady-and-a-gentleman-out-riding-t04262",
+      "id": "6309",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a huntsman blowing his horn in a landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04263_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duncombe-a-huntsman-blowing-his-horn-in-a-landscape-t04263",
+      "id": "6310",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a cow standing in a pool beside a shed, drinking",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04264_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duncombe-a-cow-standing-in-a-pool-beside-a-shed-drinking-t04264",
+      "id": "6311",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a man on horseback and three figures with a sieve",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duncombe-a-man-on-horseback-and-three-figures-with-a-sieve-t04265",
+      "id": "6312",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a tree in a landscape",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duncombe-a-tree-in-a-landscape-t04266",
+      "id": "6313",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "four ladies and a young gentleman in an interior",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04267_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duncombe-four-ladies-and-a-young-gentleman-in-an-interior-t04267",
+      "id": "6314",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a country fair with numerous figures",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04268_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duncombe-a-country-fair-with-numerous-figures-t04268",
+      "id": "6315",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of a country house with a lady and gentleman approaching a sundial",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duncombe-view-of-a-country-house-with-a-lady-and-gentleman-approaching-a-sundial-t04269",
+      "id": "6316",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of a moated castle in a landscape, with figures promenading",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duncombe-view-of-a-moated-castle-in-a-landscape-with-figures-promenading-t04270",
+      "id": "6317",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a lady and a gentleman dancing",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04271_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duncombe-a-lady-and-a-gentleman-dancing-t04271",
+      "id": "6318",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two girls dancing",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04272_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duncombe-two-girls-dancing-t04272",
+      "id": "6319",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs thicknesse playing a viol",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04273_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duncombe-mrs-thicknesse-playing-a-viol-t04273",
+      "id": "6320",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a lady before a medallion bust of handel",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04274_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duncombe-a-lady-before-a-medallion-bust-of-handel-t04274",
+      "id": "6321",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "coastal scene with three sailing boats at anchor",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04275_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duncombe-coastal-scene-with-three-sailing-boats-at-anchor-t04275",
+      "id": "6322",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "coastal scene with a two-master at anchor and a horse-drawn wagon on shore",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04276_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duncombe-coastal-scene-with-a-two-master-at-anchor-and-a-horse-drawn-wagon-on-shore-t04276",
+      "id": "6323",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "coastal scene with two sailing boats at anchor and three figures on the shore",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04277_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duncombe-coastal-scene-with-two-sailing-boats-at-anchor-and-three-figures-on-the-shore-t04277",
+      "id": "6324",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "coastal scene with two sailing boats at anchor and a third under sail",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04278_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duncombe-coastal-scene-with-two-sailing-boats-at-anchor-and-a-third-under-sail-t04278",
+      "id": "6325",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "river scene with a sailing boat",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04279_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duncombe-river-scene-with-a-sailing-boat-t04279",
+      "id": "6326",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "coastal scene with two boats, within a printed scrolled border",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04280_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duncombe-coastal-scene-with-two-boats-within-a-printed-scrolled-border-t04280",
+      "id": "6327",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "coastal landscape with gothick buildings and promenades",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04281_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/duncombe-coastal-landscape-with-gothick-buildings-and-promenades-t04281",
+      "id": "6328",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6289",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6290",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6291",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6292",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6293",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6294",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6295",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6296",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6297",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6298",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6299",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6300",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6301",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6302",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6303",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6304",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6305",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6306",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6307",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6308",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6309",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6310",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6311",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6312",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6313",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6314",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6315",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6316",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6317",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6318",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6319",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6320",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6321",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6322",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6323",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6324",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6325",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6326",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6327",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6328",
+      "value": 1
+    }
+  ]
+}

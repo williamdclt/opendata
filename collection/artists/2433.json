@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Jackson, Samuel Phillips",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/samuel-phillips-jackson-2433",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "wide landscape with cliffs and sea",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09398_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jackson-wide-landscape-with-cliffs-and-sea-t09398",
+      "id": "24130",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "24130",
+      "value": 1
+    }
+  ]
+}

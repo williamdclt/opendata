@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Thornton, Valerie",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/valerie-thornton-2039",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "amboise",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01615_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/thornton-amboise-p01615",
+      "id": "14167",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "boxford church, suffolk",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01616_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/thornton-boxford-church-suffolk-p01616",
+      "id": "14168",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "monterde",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02638_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/thornton-monterde-p02638",
+      "id": "14169",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sang\u00fcesa",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02639_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/thornton-sanguesa-p02639",
+      "id": "14170",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "norfolk farm",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06815_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/thornton-norfolk-farm-p06815",
+      "id": "14171",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bominaco (the abruzzi)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06891_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/thornton-bominaco-the-abruzzi-t06891",
+      "id": "21084",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "14167",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14168",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14169",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14170",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14171",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21084",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Brammer, Leonard",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/leonard-brammer-799",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the two ovens",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05549_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brammer-the-two-ovens-n05549",
+      "id": "1428",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1428",
+      "value": 1
+    }
+  ]
+}

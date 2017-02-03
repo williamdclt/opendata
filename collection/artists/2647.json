@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Denner, Balthasar",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/balthasar-denner-2647",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a girl in a straw hat",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07322_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/denner-a-girl-in-a-straw-hat-t07322",
+      "id": "25951",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "25951",
+      "value": 1
+    }
+  ]
+}

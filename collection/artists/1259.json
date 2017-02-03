@@ -1,0 +1,323 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Head, Tim",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/tim-head-1259",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "equilibrium",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07515_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/head-equilibrium-p07515",
+      "id": "5921",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "false alarm i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07516_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/head-false-alarm-i-p07516",
+      "id": "5922",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "false alarm ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07517_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/head-false-alarm-ii-p07517",
+      "id": "5923",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dislocations",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07518_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/head-dislocations-p07518",
+      "id": "5924",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "elevation i and ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07519_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/head-elevation-i-and-ii-p07519",
+      "id": "5925",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black light",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07615_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/head-black-light-p07615",
+      "id": "5926",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ambidextrous",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07616_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/head-ambidextrous-p07616",
+      "id": "5927",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "erasers ii: on the rocks",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77262_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/head-erasers-ii-on-the-rocks-p77262",
+      "id": "17241",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cats and dogs",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/head-cats-and-dogs-p77623",
+      "id": "20818",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "industrial hole 2",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78134_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/head-industrial-hole-2-p78134",
+      "id": "26307",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "industrial hole 1",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78135_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/head-industrial-hole-1-p78135",
+      "id": "26297",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "industrial hole 3",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78136_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/head-industrial-hole-3-p78136",
+      "id": "26296",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "industrial hole 4",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78137_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/head-industrial-hole-4-p78137",
+      "id": "26298",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "displacements",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02078_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/head-displacements-t02078",
+      "id": "5928",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "deep freeze",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04932_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/head-deep-freeze-t04932",
+      "id": "5929",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018project for guggenheim spiral\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05709_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/head-drawing-for-project-for-guggenheim-spiral-t05709",
+      "id": "18930",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018project for guggenheim spiral\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05710_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/head-drawing-for-project-for-guggenheim-spiral-t05710",
+      "id": "18939",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018project for guggenheim spiral\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05711_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/head-drawing-for-project-for-guggenheim-spiral-t05711",
+      "id": "18940",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018project for guggenheim spiral\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05712_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/head-drawing-for-project-for-guggenheim-spiral-t05712",
+      "id": "18941",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018project for guggenheim spiral\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05713_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/head-drawing-for-project-for-guggenheim-spiral-t05713",
+      "id": "18942",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018project for guggenheim spiral\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05714_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/head-drawing-for-project-for-guggenheim-spiral-t05714",
+      "id": "18943",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018project for guggenheim spiral\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05715_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/head-drawing-for-project-for-guggenheim-spiral-t05715",
+      "id": "18944",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5921",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5922",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5923",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5924",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5925",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5926",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5927",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17241",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20818",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26307",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26297",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26296",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26298",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5928",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5929",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18930",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18939",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18940",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18941",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18942",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18943",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18944",
+      "value": 1
+    }
+  ]
+}

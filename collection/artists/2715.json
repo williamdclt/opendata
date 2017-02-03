@@ -1,0 +1,14 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Mosley, Charles",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/charles-mosley-2715",
+      "id": "Artist",
+      "size": 30
+    }
+  ],
+  "links": []
+}

@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Wyatt, Henry",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/henry-wyatt-616",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "vigilance",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00383_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wyatt-vigilance-n00383",
+      "id": "16488",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "archimedes",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00384_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wyatt-archimedes-n00384",
+      "id": "16489",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16488",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16489",
+      "value": 1
+    }
+  ]
+}

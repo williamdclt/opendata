@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Yeames, William Frederick",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/william-frederick-yeames-619",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "amy robsart",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01609_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yeames-amy-robsart-n01609",
+      "id": "16506",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16506",
+      "value": 1
+    }
+  ]
+}

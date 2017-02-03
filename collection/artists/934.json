@@ -1,0 +1,281 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Conder, Charles",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/charles-conder-934",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "fan: the romantic excursion",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03194_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/conder-fan-the-romantic-excursion-n03194",
+      "id": "2544",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gossip",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03195_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/conder-gossip-n03195",
+      "id": "2545",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "masked woman",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03196_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/conder-masked-woman-n03196",
+      "id": "2546",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the plum tree",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03423_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/conder-the-plum-tree-n03423",
+      "id": "2547",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "windy day at brighton",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03645_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/conder-windy-day-at-brighton-n03645",
+      "id": "2543",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a summer afternoon: the green apple",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03837_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/conder-a-summer-afternoon-the-green-apple-n03837",
+      "id": "2548",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "springtime",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04221_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/conder-springtime-n04221",
+      "id": "2549",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the new moon fan",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04243_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/conder-the-new-moon-fan-n04243",
+      "id": "2550",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "swanage",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04407_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/conder-swanage-n04407",
+      "id": "2551",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "swanage bay",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04411_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/conder-swanage-bay-n04411",
+      "id": "2552",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "by the sea: swanage",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04412_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/conder-by-the-sea-swanage-n04412",
+      "id": "2553",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait study.  verso: study of a man in bed and a nurse holding a lamp",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04497_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/conder-portrait-study-verso-study-of-a-man-in-bed-and-a-nurse-holding-a-lamp-n04497",
+      "id": "2554",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait study",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04498_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/conder-portrait-study-n04498",
+      "id": "2555",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a fan",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/conder-a-fan-n04499",
+      "id": "2556",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spring by the sea",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04578_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/conder-spring-by-the-sea-n04578",
+      "id": "2557",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gibraltar from algeciras",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04939_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/conder-gibraltar-from-algeciras-n04939",
+      "id": "2558",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "in the blue country or colloque sentimentale",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05365_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/conder-in-the-blue-country-or-colloque-sentimentale-n05365",
+      "id": "2559",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "trees in a meadow",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05547_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/conder-trees-in-a-meadow-n05547",
+      "id": "2560",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spanish set",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01018_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/conder-spanish-set-p01018",
+      "id": "2561",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2544",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2545",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2546",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2547",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2543",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2548",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2549",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2550",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2551",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2552",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2553",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2554",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2555",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2556",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2557",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2558",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2559",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2560",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2561",
+      "value": 1
+    }
+  ]
+}

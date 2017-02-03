@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Repin, Ilya",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/ilya-repin-1829",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "study of an old man",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/repin-study-of-an-old-man-t00651",
+      "id": "12376",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12376",
+      "value": 1
+    }
+  ]
+}

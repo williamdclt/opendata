@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Lijn, Liliane",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/liliane-lijn-1511",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "koan-cuts i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01222_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lijn-koan-cuts-i-p01222",
+      "id": "8791",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "koan-cuts ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01223_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lijn-koan-cuts-ii-p01223",
+      "id": "8792",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "koan-cuts iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01224_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lijn-koan-cuts-iii-p01224",
+      "id": "8793",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "koan-cuts iv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01225_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lijn-koan-cuts-iv-p01225",
+      "id": "8794",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "koan-cuts v",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01226_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lijn-koan-cuts-v-p01226",
+      "id": "8795",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "liquid reflections",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01828_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lijn-liquid-reflections-t01828",
+      "id": "8796",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "space displace koan",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07491_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lijn-space-displace-koan-t07491",
+      "id": "26484",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8791",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8792",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8793",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8794",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8795",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8796",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26484",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Stella, Frank",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/frank-stella-1994",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07404_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stella-i-p07404",
+      "id": "13813",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07405_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stella-ii-p07405",
+      "id": "13814",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "estoril five ii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stella-estoril-five-ii-p07735",
+      "id": "13815",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "schwarze weisheit #1",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12321_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stella-schwarze-weisheit-1-p12321",
+      "id": "80664",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "schwarze weisheit #2",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12322_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stella-schwarze-weisheit-2-p12322",
+      "id": "80665",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "schwarze weisheit #3",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stella-schwarze-weisheit-3-p12323",
+      "id": "80666",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "schwarze weisheit for d.j.",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stella-schwarze-weisheit-for-dj-p12324",
+      "id": "80667",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stranz",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12325_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stella-stranz-p12325",
+      "id": "80668",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nemrik",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stella-nemrik-p12326",
+      "id": "80669",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "juam",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12327_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stella-juam-p12327",
+      "id": "80670",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "juam, state i",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stella-juam-state-i-p12328",
+      "id": "80671",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cantahar",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stella-cantahar-p12329",
+      "id": "80672",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "orofena",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stella-orofena-p12330",
+      "id": "80673",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "roncador",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12331_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stella-roncador-p12331",
+      "id": "80674",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "eusapia",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stella-eusapia-p12332",
+      "id": "80675",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "iffish",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12333_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stella-iffish-p12333",
+      "id": "80676",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "aiolio",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stella-aiolio-p12334",
+      "id": "80677",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "no smoking (large)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stella-no-smoking-large-p12335",
+      "id": "80682",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "no smoking (small)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stella-no-smoking-small-p12336",
+      "id": "80683",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fattipuff",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stella-fattipuff-p12337",
+      "id": "80684",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fattiburg",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stella-fattiburg-p12338",
+      "id": "80685",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dubiaxo",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stella-dubiaxo-p12339",
+      "id": "80686",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jundapur",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stella-jundapur-p12340",
+      "id": "80687",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sanor",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stella-sanor-p12341",
+      "id": "80688",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bilbimtesirol",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stella-bilbimtesirol-p12342",
+      "id": "80689",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "perinthia",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stella-perinthia-p12343",
+      "id": "80690",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "plutusia",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stella-plutusia-p12344",
+      "id": "80691",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "atvatabar",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stella-atvatabar-p12345",
+      "id": "80692",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "calnogor",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stella-calnogor-p12346",
+      "id": "80693",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "egyplosis",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stella-egyplosis-p12347",
+      "id": "80694",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spectralia",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stella-spectralia-p12348",
+      "id": "80697",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "feneralia",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stella-feneralia-p12349",
+      "id": "80698",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "libertinia",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stella-libertinia-p12350",
+      "id": "80699",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a bower in the arsacides",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stella-a-bower-in-the-arsacides-p12351",
+      "id": "80701",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the affidavit",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stella-the-affidavit-p12352",
+      "id": "80702",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the whale-watch",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stella-the-whale-watch-p12353",
+      "id": "80703",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jonah historically regarded (dome)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stella-jonah-historically-regarded-dome-p12354",
+      "id": "80705",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the cabin. ahab and starbuck",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stella-the-cabin-ahab-and-starbuck-p12355",
+      "id": "80707",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the fossil whale",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stella-the-fossil-whale-p12356",
+      "id": "80708",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stubb & flash kill a right whale",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stella-stubb-flash-kill-a-right-whale-p12357",
+      "id": "80709",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13813",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13814",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13815",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80664",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80665",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80666",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80667",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80668",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80669",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80670",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80671",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80672",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80673",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80674",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80675",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80676",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80677",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80682",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80683",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80684",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80685",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80686",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80687",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80688",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80689",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80690",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80691",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80692",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80693",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80694",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80697",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80698",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80699",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80701",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80702",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80703",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80705",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80707",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80708",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80709",
+      "value": 1
+    }
+  ]
+}

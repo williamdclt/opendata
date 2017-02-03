@@ -1,0 +1,225 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Graham, Rodney",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/rodney-graham-7810",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "fishing on a jetty",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79177_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/graham-fishing-on-a-jetty-p79177",
+      "id": "86367",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the system of landor\u2019s cottage. a pendant to poe\u2019s last story",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11929_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/graham-the-system-of-landors-cottage-a-pendant-to-poes-last-story-t11929",
+      "id": "84787",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[the piazza 4.1]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11930_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/graham-the-piazza-41-t11930",
+      "id": "84799",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[la v\u00e9randa]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11931_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/graham-la-veranda-t11931",
+      "id": "84800",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "parsifal. transformation music (act i). with e. humperdinck\u2019s supplement no. 90. the latter transcribed from the original manuscript and the whole typeset according to the artist\u2019s specifications",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11932_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/graham-parsifal-transformation-music-act-i-with-e-humperdincks-supplement-no-90-the-latter-t11932",
+      "id": "84801",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "parsifal (1882 - 38,969,364,735)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11933_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/graham-parsifal-1882-38969364735-t11933",
+      "id": "84802",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "casino royale (sculpture de voyage)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11934_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/graham-casino-royale-sculpture-de-voyage-t11934",
+      "id": "84803",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a design for a mirrored slipcase for les derni\u00e8res merveilles de la science (a children\u2019s book published by garnier fr\u00e8res circa 1900)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11935_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/graham-a-design-for-a-mirrored-slipcase-for-les-dernieres-merveilles-de-la-science-a-t11935",
+      "id": "84804",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "white shirt (for mallarm\u00e9) spring 1993",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11936_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/graham-white-shirt-for-mallarme-spring-1993-t11936",
+      "id": "84805",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jacob grimms\u2019 study in berlin - wilhelm grimms\u2019 study in berlin",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11937_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/graham-jacob-grimms-study-in-berlin-wilhelm-grimms-study-in-berlin-t11937",
+      "id": "84806",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "le syst\u00e8me du cottage landor",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11938_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/graham-le-systeme-du-cottage-landor-t11938",
+      "id": "84807",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vathek*",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11939_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/graham-vathek-t11939",
+      "id": "84812",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "how i became a ramblin\u2019 man",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12055_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/graham-how-i-became-a-ramblin-man-t12055",
+      "id": "86368",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "aberdeen",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12165_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/graham-aberdeen-t12165",
+      "id": "86371",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reading machine for parsifal. one signature",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/graham-reading-machine-for-parsifal-one-signature-t12202",
+      "id": "88772",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "86367",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "84787",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "84799",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "84800",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "84801",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "84802",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "84803",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "84804",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "84805",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "84806",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "84807",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "84812",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "86368",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "86371",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88772",
+      "value": 1
+    }
+  ]
+}

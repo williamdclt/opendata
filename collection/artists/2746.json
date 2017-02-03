@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Martin, Barry",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/barry-martin-2746",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "three interlocking spirals with differing rates of acceleration",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20230_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-three-interlocking-spirals-with-differing-rates-of-acceleration-p20230",
+      "id": "71345",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "metal surface",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07603_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-metal-surface-t07603",
+      "id": "27014",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "double ringed movement",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07604_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-double-ringed-movement-t07604",
+      "id": "27015",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "movement collage",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07884_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-movement-collage-t07884",
+      "id": "71346",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "71345",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27014",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27015",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71346",
+      "value": 1
+    }
+  ]
+}

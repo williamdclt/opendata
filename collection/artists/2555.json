@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Rigby, Elizabeth",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/elizabeth-rigby-lady-eastlake-2555",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "sketch of the castle of bacharach",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09759_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rigby-sketch-of-the-castle-of-bacharach-t09759",
+      "id": "23436",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09760_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rigby-title-not-known-t09760",
+      "id": "23437",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09761_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rigby-title-not-known-t09761",
+      "id": "23438",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09762_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rigby-title-not-known-t09762",
+      "id": "23439",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09763_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rigby-title-not-known-t09763",
+      "id": "23440",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09764_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rigby-title-not-known-t09764",
+      "id": "23441",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09765_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rigby-title-not-known-t09765",
+      "id": "23442",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known] verso: sketch",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09766_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rigby-title-not-known-verso-sketch-t09766",
+      "id": "23443",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09767_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rigby-title-not-known-t09767",
+      "id": "23444",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09768_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rigby-title-not-known-t09768",
+      "id": "23445",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09769_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rigby-title-not-known-t09769",
+      "id": "23446",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09770_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rigby-title-not-known-t09770",
+      "id": "23447",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09771_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rigby-title-not-known-t09771",
+      "id": "23448",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09772_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rigby-title-not-known-t09772",
+      "id": "23449",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09773_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rigby-title-not-known-t09773",
+      "id": "23450",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known] verso: sketch",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09774_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rigby-title-not-known-verso-sketch-t09774",
+      "id": "23451",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known] verso: sketch",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09775_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rigby-title-not-known-verso-sketch-t09775",
+      "id": "23452",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09776_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rigby-title-not-known-t09776",
+      "id": "23453",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09777_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rigby-title-not-known-t09777",
+      "id": "23454",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09778_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rigby-title-not-known-t09778",
+      "id": "24575",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09779_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rigby-title-not-known-t09779",
+      "id": "24576",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09780_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rigby-title-not-known-t09780",
+      "id": "24577",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09781_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rigby-title-not-known-t09781",
+      "id": "24578",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09782_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rigby-title-not-known-t09782",
+      "id": "24580",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09783_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rigby-title-not-known-t09783",
+      "id": "24579",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09784_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rigby-title-not-known-t09784",
+      "id": "24581",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09785_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rigby-title-not-known-t09785",
+      "id": "24582",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known] verso: sketch",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09786_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rigby-title-not-known-verso-sketch-t09786",
+      "id": "24583",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09787_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rigby-title-not-known-t09787",
+      "id": "24584",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known] verso: sketch",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09788_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rigby-title-not-known-verso-sketch-t09788",
+      "id": "24585",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09789_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rigby-title-not-known-t09789",
+      "id": "24586",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09790_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rigby-title-not-known-t09790",
+      "id": "24587",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09791_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rigby-title-not-known-t09791",
+      "id": "24588",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09792_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rigby-title-not-known-t09792",
+      "id": "24589",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09793_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rigby-title-not-known-t09793",
+      "id": "24591",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known] verso: sketch",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09794_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rigby-title-not-known-verso-sketch-t09794",
+      "id": "24590",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09795_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rigby-title-not-known-t09795",
+      "id": "24592",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09796_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rigby-title-not-known-t09796",
+      "id": "24593",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09797_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rigby-title-not-known-t09797",
+      "id": "24594",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09798_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rigby-title-not-known-t09798",
+      "id": "24595",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "23436",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23437",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23438",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23439",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23440",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23441",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23442",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23443",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23444",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23445",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23446",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23447",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23448",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23449",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23450",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23451",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23452",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23453",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23454",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24575",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24576",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24577",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24578",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24580",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24579",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24581",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24582",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24583",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24584",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24585",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24586",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24587",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24588",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24589",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24591",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24590",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24592",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24593",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24594",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24595",
+      "value": 1
+    }
+  ]
+}

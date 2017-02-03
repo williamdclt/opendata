@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Spoerri, Daniel",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/daniel-spoerri-1979",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "daniel isaac spoerri-feinstein",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07569_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spoerri-daniel-isaac-spoerri-feinstein-p07569",
+      "id": "13736",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "prose poems",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03382_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spoerri-prose-poems-t03382",
+      "id": "13737",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13736",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13737",
+      "value": 1
+    }
+  ]
+}

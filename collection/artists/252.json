@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Herring, John Frederick",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-frederick-herring-252",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the frugal meal",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00452_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herring-the-frugal-meal-n00452",
+      "id": "6191",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mazeppa pursued by wolves (after horace vernet)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00188_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herring-mazeppa-pursued-by-wolves-after-horace-vernet-t00188",
+      "id": "6192",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mazeppa surrounded by horses (after horace vernet)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00189_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herring-mazeppa-surrounded-by-horses-after-horace-vernet-t00189",
+      "id": "6193",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "birmingham with patrick conolly up, and his owner, john beardsworth",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02361_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herring-birmingham-with-patrick-conolly-up-and-his-owner-john-beardsworth-t02361",
+      "id": "6194",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "manuella, at richard watt\u2019s stud farm, bishop burton, yorkshire",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02362_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herring-manuella-at-richard-watts-stud-farm-bishop-burton-yorkshire-t02362",
+      "id": "6195",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the hunting stud",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03430_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herring-the-hunting-stud-t03430",
+      "id": "6196",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6191",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6192",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6193",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6194",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6195",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6196",
+      "value": 1
+    }
+  ]
+}

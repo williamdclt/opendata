@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Latham, James",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/james-latham-330",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the rt hon. sir capel molyneux",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05801_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/latham-the-rt-hon-sir-capel-molyneux-n05801",
+      "id": "8394",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8394",
+      "value": 1
+    }
+  ]
+}

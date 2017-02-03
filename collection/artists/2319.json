@@ -1,0 +1,435 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Whiteread, Rachel",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/rachel-whiteread-2319",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "london",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/whiteread-london-p13275",
+      "id": "122047",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a: clapton park estate, mandeville street, london e5; ambergate court; norbury court, october 1993",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77868_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/whiteread-a-clapton-park-estate-mandeville-street-london-e5-ambergate-court-norbury-court-p77868",
+      "id": "21647",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a: clapton park estate, mandeville street, london e5; ambergate court; norbury court; october 1993",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77869_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/whiteread-a-clapton-park-estate-mandeville-street-london-e5-ambergate-court-norbury-court-p77869",
+      "id": "21658",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a: clapton park estate, mandeville street, london e5; ambergate court; norbury court; october 1993",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77870_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/whiteread-a-clapton-park-estate-mandeville-street-london-e5-ambergate-court-norbury-court-p77870",
+      "id": "21655",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a: clapton park estate, mandeville street, london e5; ambergate court, norbury court; october 1993",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77871_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/whiteread-a-clapton-park-estate-mandeville-street-london-e5-ambergate-court-norbury-court-p77871",
+      "id": "21657",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "b: clapton park estate, mandeville street, london e5; bakewell court; repton court; march 1995",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77872_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/whiteread-b-clapton-park-estate-mandeville-street-london-e5-bakewell-court-repton-court-p77872",
+      "id": "21654",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "b: clapton park estate, mandeville street, london e5; bakewell court; repton court; march 1995",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77873_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/whiteread-b-clapton-park-estate-mandeville-street-london-e5-bakewell-court-repton-court-p77873",
+      "id": "21656",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "b: clapton park estate, mandeville street, london e5; bakewell court; repton court; march 1995",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77874_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/whiteread-b-clapton-park-estate-mandeville-street-london-e5-bakewell-court-repton-court-p77874",
+      "id": "21653",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "b: clapton park estate, mandeville street, london e5; bakewell court; repton court; march 1995",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77875_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/whiteread-b-clapton-park-estate-mandeville-street-london-e5-bakewell-court-repton-court-p77875",
+      "id": "21652",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "c: trowbridge estate, london e9; hannington point; hilmarton point; deverill point; june 1995",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77876_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/whiteread-c-trowbridge-estate-london-e9-hannington-point-hilmarton-point-deverill-point-p77876",
+      "id": "21651",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "c: trowbridge estate, london e9; hannington point; hilmarton point; deverill point; june 1995",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77877_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/whiteread-c-trowbridge-estate-london-e9-hannington-point-hilmarton-point-deverill-point-p77877",
+      "id": "21650",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "c: trowbridge estate, london e9; hannington point; hilmarton point; deverill point; june 1995",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77878_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/whiteread-c-trowbridge-estate-london-e9-hannington-point-hilmarton-point-deverill-point-p77878",
+      "id": "21649",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "c: trowbridge estate, london e9; hannington point; hilmarton point; deverill point; june 1995",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77879_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/whiteread-c-trowbridge-estate-london-e9-hannington-point-hilmarton-point-deverill-point-p77879",
+      "id": "21648",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mausoleum under construction",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77934_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/whiteread-mausoleum-under-construction-p77934",
+      "id": "21864",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "storytime",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79391_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/whiteread-storytime-p79391",
+      "id": "101522",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (air bed ii)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06731_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/whiteread-untitled-air-bed-ii-t06731",
+      "id": "20674",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (floor/ceiling)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06769_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/whiteread-untitled-floorceiling-t06769",
+      "id": "20808",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study (blue) for \u2018floor\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06848_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/whiteread-study-blue-for-floor-t06848",
+      "id": "20940",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (floor)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07129_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/whiteread-untitled-floor-t07129",
+      "id": "21703",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (rooms)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07938_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/whiteread-untitled-rooms-t07938",
+      "id": "70992",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (stairs)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07939_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/whiteread-untitled-stairs-t07939",
+      "id": "70993",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (nine tables)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07984_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/whiteread-untitled-nine-tables-t07984",
+      "id": "70990",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (twenty-four switches)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07985_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/whiteread-untitled-twenty-four-switches-t07985",
+      "id": "70991",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stair space iii",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13275_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/whiteread-stair-space-iii-t13275",
+      "id": "114492",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13276_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/whiteread-untitled-t13276",
+      "id": "114493",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "green bed",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/whiteread-green-bed-t13559",
+      "id": "114446",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for (white)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/whiteread-study-for-white-t13560",
+      "id": "114447",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for wax floor",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13561_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/whiteread-study-for-wax-floor-t13561",
+      "id": "113906",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stairs",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13562_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/whiteread-stairs-t13562",
+      "id": "113908",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two windows",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/whiteread-two-windows-t13563",
+      "id": "113909",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "122047",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21647",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21658",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21655",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21657",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21654",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21656",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21653",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21652",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21651",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21650",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21649",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21648",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21864",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101522",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20674",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20808",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20940",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21703",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "70992",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "70993",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "70990",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "70991",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114492",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114493",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114446",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114447",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "113906",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "113908",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "113909",
+      "value": 1
+    }
+  ]
+}

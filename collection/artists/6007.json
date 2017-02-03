@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Lockhart, Sharon",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/sharon-lockhart-6007",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "maja and elodie",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lockhart-maja-and-elodie-p13234",
+      "id": "78031",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "goshogaoka girls basketball team: ayako sano",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lockhart-goshogaoka-girls-basketball-team-ayako-sano-p13235",
+      "id": "90489",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "78031",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90489",
+      "value": 1
+    }
+  ]
+}

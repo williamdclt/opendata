@@ -1,0 +1,435 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Nash, Paul",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/paul-nash-1690",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "tench pond in a gale",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03843_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nash-tench-pond-in-a-gale-n03843",
+      "id": "10537",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "behind the inn",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04259_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nash-behind-the-inn-n04259",
+      "id": "10538",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape at iden",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05047_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nash-landscape-at-iden-n05047",
+      "id": "10539",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blue house on the shore",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05048_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nash-blue-house-on-the-shore-n05048",
+      "id": "10540",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "london: winter scene, no. 2",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05129_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nash-london-winter-scene-no-2-n05129",
+      "id": "10541",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "grotto in the snow",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05254_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nash-grotto-in-the-snow-n05254",
+      "id": "10542",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pillar and moon",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05392_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nash-pillar-and-moon-n05392",
+      "id": "10543",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape from a dream",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05667_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nash-landscape-from-a-dream-n05667",
+      "id": "10544",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bomber in the corn",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05715_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nash-bomber-in-the-corn-n05715",
+      "id": "10545",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the messerschmidt in windsor great park",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05716_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nash-the-messerschmidt-in-windsor-great-park-n05716",
+      "id": "10546",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "totes meer (dead sea)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05717_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nash-totes-meer-dead-sea-n05717",
+      "id": "10547",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "voyages of the moon",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06024_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nash-voyages-of-the-moon-n06024",
+      "id": "10548",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "promenade ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01026_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nash-promenade-ii-p01026",
+      "id": "10549",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the wall, dymchurch",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01751_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nash-the-wall-dymchurch-p01751",
+      "id": "10550",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kinetic feature",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00734_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nash-kinetic-feature-t00734",
+      "id": "10551",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "equivalents for the megaliths",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01251_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nash-equivalents-for-the-megaliths-t01251",
+      "id": "10552",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "swanage",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01771_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nash-swanage-t01771",
+      "id": "10553",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lavengro and isopel in the dingle",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01782_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nash-lavengro-and-isopel-in-the-dingle-t01782",
+      "id": "10554",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the pyramids in the sea",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01821_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nash-the-pyramids-in-the-sea-t01821",
+      "id": "10555",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018lavengro and isopel in the dingle\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01945_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nash-sketch-for-lavengro-and-isopel-in-the-dingle-t01945",
+      "id": "10556",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the orchard",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01946_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nash-the-orchard-t01946",
+      "id": "10557",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "in the marshes",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02243_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nash-in-the-marshes-t02243",
+      "id": "10558",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lares",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03098_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nash-lares-t03098",
+      "id": "10559",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mansions of the dead",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03204_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nash-mansions-of-the-dead-t03204",
+      "id": "10560",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "three rooms",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03205_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nash-three-rooms-t03205",
+      "id": "10561",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "harbour and room",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03206_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nash-harbour-and-room-t03206",
+      "id": "10562",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the colne",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03820_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nash-the-colne-t03820",
+      "id": "10563",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wittenham clumps",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04157_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nash-wittenham-clumps-t04157",
+      "id": "10564",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape at large",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04161_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nash-landscape-at-large-t04161",
+      "id": "10565",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "flight of the magnolia",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07552_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nash-flight-of-the-magnolia-t07552",
+      "id": "26722",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "10537",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10538",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10539",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10540",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10541",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10542",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10543",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10544",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10545",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10546",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10547",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10548",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10549",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10550",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10551",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10552",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10553",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10554",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10555",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10556",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10557",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10558",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10559",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10560",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10561",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10562",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10563",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10564",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10565",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26722",
+      "value": 1
+    }
+  ]
+}

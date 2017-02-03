@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hodges, William",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/william-hodges-263",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "tomb and distant view of rajmahal hills",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00690_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodges-tomb-and-distant-view-of-rajmahal-hills-t00690",
+      "id": "6541",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6541",
+      "value": 1
+    }
+  ]
+}

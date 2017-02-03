@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Serres, Dominic",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/dominic-serres-485",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "general view of the environs of naples",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08269_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/serres-general-view-of-the-environs-of-naples-t08269",
+      "id": "23516",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "23516",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Carline, Hilda",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/hilda-carline-860",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "self-portrait",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01998_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/carline-self-portrait-t01998",
+      "id": "1983",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1983",
+      "value": 1
+    }
+  ]
+}

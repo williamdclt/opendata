@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hamilton, Anthea",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/anthea-hamilton-4789",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "divers",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-divers-p13270",
+      "id": "122042",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "122042",
+      "value": 1
+    }
+  ]
+}

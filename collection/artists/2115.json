@@ -1,0 +1,211 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Walker, Dame Ethel",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/dame-ethel-walker-2115",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "miss buchanan",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03685_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-miss-buchanan-n03685",
+      "id": "15789",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two figures, study for \u2018the excursion of nausicaa\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03874_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-two-figures-study-for-the-excursion-of-nausicaa-n03874",
+      "id": "15790",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "decoration: the excursion of nausicaa",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03885_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-decoration-the-excursion-of-nausicaa-n03885",
+      "id": "15791",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "miss jean werner laurie",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04669_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-miss-jean-werner-laurie-n04669",
+      "id": "15792",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the hon. mrs adams",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04944_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-the-hon-mrs-adams-n04944",
+      "id": "15793",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vanessa",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05038_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-vanessa-n05038",
+      "id": "15794",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seascape: autumn morning",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05332_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-seascape-autumn-morning-n05332",
+      "id": "15795",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the zone of love: decoration",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05668_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-the-zone-of-love-decoration-n05668",
+      "id": "15796",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the zone of hate: decoration",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-the-zone-of-hate-decoration-n05669",
+      "id": "15797",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the bathers",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05855_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-the-bathers-n05855",
+      "id": "15798",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06006_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-self-portrait-n06006",
+      "id": "15799",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the artist\u2019s stepmother, mrs arthur walker",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06028_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-the-artists-stepmother-mrs-arthur-walker-n06028",
+      "id": "15800",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "flowers in a jug",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00128_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-flowers-in-a-jug-t00128",
+      "id": "15801",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lilith",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00131_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-lilith-t00131",
+      "id": "15802",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "15789",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15790",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15791",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15792",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15793",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15794",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15795",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15796",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15797",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15798",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15799",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15800",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15801",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15802",
+      "value": 1
+    }
+  ]
+}

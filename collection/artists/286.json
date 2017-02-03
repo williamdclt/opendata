@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hunt, William Henry",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/william-henry-hunt-286",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "landscape sketch",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00217_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hunt-landscape-sketch-a00217",
+      "id": "6973",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape sketch",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00218_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hunt-landscape-sketch-a00218",
+      "id": "6974",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait study of a bearded man",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01970_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hunt-portrait-study-of-a-bearded-man-n01970",
+      "id": "6975",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a peasant girl",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01971_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hunt-a-peasant-girl-n01971",
+      "id": "6976",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fruit",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01972_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hunt-fruit-n01972",
+      "id": "6977",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a water carrier",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01973_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hunt-a-water-carrier-n01973",
+      "id": "6978",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "apples",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01974_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hunt-apples-n01974",
+      "id": "6979",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "primroses and bird\u2019s nest",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03564_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hunt-primroses-and-birds-nest-n03564",
+      "id": "6980",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study from nature at twickenham",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01154_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hunt-study-from-nature-at-twickenham-t01154",
+      "id": "6981",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a horse in a stable",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08176_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hunt-a-horse-in-a-stable-t08176",
+      "id": "23019",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stables at the old priory, dover",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08177_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hunt-stables-at-the-old-priory-dover-t08177",
+      "id": "23034",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seascape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08179_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hunt-seascape-t08179",
+      "id": "23022",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seascape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08180_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hunt-seascape-t08180",
+      "id": "23023",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seascape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08181_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hunt-seascape-t08181",
+      "id": "23024",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "near bushey. landscape with distant church beyond trees",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08182_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hunt-near-bushey-landscape-with-distant-church-beyond-trees-t08182",
+      "id": "23035",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "?near bushey",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08940_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hunt-near-bushey-t08940",
+      "id": "23020",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "?bushey",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08941_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hunt-bushey-t08941",
+      "id": "23021",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shore scene, a figure to right",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08945_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hunt-shore-scene-a-figure-to-right-t08945",
+      "id": "23032",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "coast scene, a ship to left",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08946_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hunt-coast-scene-a-ship-to-left-t08946",
+      "id": "23033",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a girl\u2019s head, in profile to right",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08952_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hunt-a-girls-head-in-profile-to-right-t08952",
+      "id": "23027",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a girl, full face, wearing a hat",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08953_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hunt-a-girl-full-face-wearing-a-hat-t08953",
+      "id": "23028",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of frederick nash, in profile to left",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08955_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hunt-portrait-of-frederick-nash-in-profile-to-left-t08955",
+      "id": "23029",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two sailing ships, beached",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08956_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hunt-two-sailing-ships-beached-t08956",
+      "id": "23030",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fishing vessels on a beach",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08957_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hunt-fishing-vessels-on-a-beach-t08957",
+      "id": "23031",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a park, castle in distance",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09429_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hunt-a-park-castle-in-distance-t09429",
+      "id": "23048",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a park",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09430_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hunt-a-park-t09430",
+      "id": "23049",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "studies of tree trunks",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09431_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hunt-studies-of-tree-trunks-t09431",
+      "id": "23050",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "open landscape with trees",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09432_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hunt-open-landscape-with-trees-t09432",
+      "id": "23051",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a grindstone",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10177_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hunt-a-grindstone-t10177",
+      "id": "23052",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a cottage in a marsh",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10265_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hunt-a-cottage-in-a-marsh-t10265",
+      "id": "23036",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a ?cairn under a stormy sky",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10266_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hunt-a-cairn-under-a-stormy-sky-t10266",
+      "id": "23037",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a wide seascape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10267_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hunt-a-wide-seascape-t10267",
+      "id": "23038",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two ships on the sea, a hulk on the shore",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10268_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hunt-two-ships-on-the-sea-a-hulk-on-the-shore-t10268",
+      "id": "23039",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a small ship at sea under a bank of cloud",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10269_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hunt-a-small-ship-at-sea-under-a-bank-of-cloud-t10269",
+      "id": "23040",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of a young man, looking down",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10270_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hunt-head-of-a-young-man-looking-down-t10270",
+      "id": "23041",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of a boy",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10271_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hunt-head-of-a-boy-t10271",
+      "id": "23042",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of an old man",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10272_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hunt-head-of-an-old-man-t10272",
+      "id": "23043",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10273_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hunt-a-landscape-t10273",
+      "id": "23045",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a cottage",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10274_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hunt-a-cottage-t10274",
+      "id": "23046",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a man leaning against a felled tree",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10275_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hunt-a-man-leaning-against-a-felled-tree-t10275",
+      "id": "23047",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6973",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6974",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6975",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6976",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6977",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6978",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6979",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6980",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6981",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23019",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23034",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23022",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23023",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23024",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23035",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23020",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23021",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23032",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23033",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23027",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23028",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23029",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23030",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23031",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23048",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23049",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23050",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23051",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23052",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23036",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23037",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23038",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23039",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23040",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23041",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23042",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23043",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23045",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23046",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23047",
+      "value": 1
+    }
+  ]
+}

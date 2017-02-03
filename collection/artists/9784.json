@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Shaw, Raqib",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/raqib-shaw-9784",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "jane",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12373_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shaw-jane-t12373",
+      "id": "91242",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "91242",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Brancusi, Constantin",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/constantin-brancusi-800",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "dana\u00efde",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00296_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brancusi-danaide-t00296",
+      "id": "1430",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "maiastra",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01751_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brancusi-maiastra-t01751",
+      "id": "1431",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03066_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brancusi-head-t03066",
+      "id": "1432",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fish",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07107_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brancusi-fish-t07107",
+      "id": "21638",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1430",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1431",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1432",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21638",
+      "value": 1
+    }
+  ]
+}

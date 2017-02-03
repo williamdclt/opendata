@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Ford, Laura",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/laura-ford-2733",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "moose",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07580_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ford-moose-t07580",
+      "id": "26848",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "26848",
+      "value": 1
+    }
+  ]
+}

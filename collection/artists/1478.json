@@ -1,0 +1,561 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Leach, Bernard",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/bernard-leach-1478",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "bird dish",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06326_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leach-bird-dish-p06326",
+      "id": "8443",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black jar",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06327_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leach-black-jar-p06327",
+      "id": "8444",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cornish coast tile",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06328_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leach-cornish-coast-tile-p06328",
+      "id": "8445",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "deer plate",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06329_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leach-deer-plate-p06329",
+      "id": "8446",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fish vase",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06330_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leach-fish-vase-p06330",
+      "id": "8447",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lion tile",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06331_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leach-lion-tile-p06331",
+      "id": "8448",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tree jar",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06332_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leach-tree-jar-p06332",
+      "id": "8449",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for a pot",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06359_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leach-drawing-for-a-pot-p06359",
+      "id": "8450",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vase",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12059_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leach-vase-t12059",
+      "id": "88186",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tile",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12060_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leach-tile-t12060",
+      "id": "88187",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spherical vase",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12061_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leach-spherical-vase-t12061",
+      "id": "88188",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lidded pot",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12062_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leach-lidded-pot-t12062",
+      "id": "88189",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "slipware plate",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12063_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leach-slipware-plate-t12063",
+      "id": "88190",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tea bowl",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12069_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leach-tea-bowl-t12069",
+      "id": "88196",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "standard ware cake plate",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12070_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leach-standard-ware-cake-plate-t12070",
+      "id": "88197",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fruit bowl",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12071_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leach-fruit-bowl-t12071",
+      "id": "88198",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vase",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12072_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leach-vase-t12072",
+      "id": "88199",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fruit bowl",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12073_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leach-fruit-bowl-t12073",
+      "id": "88200",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vase",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leach-vase-t12074",
+      "id": "88201",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jar",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12075_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leach-jar-t12075",
+      "id": "88202",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "squared-off jar",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12076_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leach-squared-off-jar-t12076",
+      "id": "88203",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "coffee pot",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12078_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leach-coffee-pot-t12078",
+      "id": "88205",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "flat-sided bottle",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12079_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leach-flat-sided-bottle-t12079",
+      "id": "88206",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vase",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12080_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leach-vase-t12080",
+      "id": "88207",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vase",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12081_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leach-vase-t12081",
+      "id": "88208",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bowl",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12082_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leach-bowl-t12082",
+      "id": "88210",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jug",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12083_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leach-jug-t12083",
+      "id": "88211",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vase",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12084_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leach-vase-t12084",
+      "id": "88212",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "standard ware general purpose bowl",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12085_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leach-standard-ware-general-purpose-bowl-t12085",
+      "id": "88213",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "standard ware cake plate",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12086_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leach-standard-ware-cake-plate-t12086",
+      "id": "88214",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bowl  ",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12087_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leach-bowl-t12087",
+      "id": "88215",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "facetted bowl",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12088_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leach-facetted-bowl-t12088",
+      "id": "88216",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jar",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12089_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leach-jar-t12089",
+      "id": "88217",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vase",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12090_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leach-vase-t12090",
+      "id": "88218",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jar",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12091_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leach-jar-t12091",
+      "id": "88219",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vase",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12092_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leach-vase-t12092",
+      "id": "88220",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lidded jar",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12093_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leach-lidded-jar-t12093",
+      "id": "88221",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tea bowl",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12094_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leach-tea-bowl-t12094",
+      "id": "88222",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "large bowl",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12129_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leach-large-bowl-t12129",
+      "id": "88258",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8443",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8444",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8445",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8446",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8447",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8448",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8449",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8450",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88186",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88187",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88188",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88189",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88190",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88196",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88197",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88198",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88199",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88200",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88201",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88202",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88203",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88205",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88206",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88207",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88208",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88210",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88211",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88212",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88213",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88214",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88215",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88216",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88217",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88218",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88219",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88220",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88221",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88222",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88258",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Walker, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-walker-2116",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01666_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-untitled-p01666",
+      "id": "15819",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01667_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-untitled-p01667",
+      "id": "15820",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07262_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-untitled-p07262",
+      "id": "15821",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07263_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-untitled-p07263",
+      "id": "15822",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07264_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-untitled-p07264",
+      "id": "15823",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07265_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-untitled-p07265",
+      "id": "15824",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07266_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-untitled-p07266",
+      "id": "15825",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07267_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-i-p07267",
+      "id": "15826",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07268_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-ii-p07268",
+      "id": "15827",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07269_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-iii-p07269",
+      "id": "15828",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "iv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07270_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-iv-p07270",
+      "id": "15829",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "v",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07271_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-v-p07271",
+      "id": "15830",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vi",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07272_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-vi-p07272",
+      "id": "15831",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07273_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-vii-p07273",
+      "id": "15832",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "viii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07274_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-viii-p07274",
+      "id": "15833",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ix",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07275_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-ix-p07275",
+      "id": "15834",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "x",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07276_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-x-p07276",
+      "id": "15835",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "xi",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07277_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-xi-p07277",
+      "id": "15836",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "xii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07278_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-xii-p07278",
+      "id": "15837",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tank iii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-tank-iii-p07279",
+      "id": "15838",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tank iv",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-tank-iv-p07280",
+      "id": "15839",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tank v",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-tank-v-p07281",
+      "id": "15840",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-no-title-p07282",
+      "id": "15841",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-no-title-p07283",
+      "id": "15842",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-no-title-p07284",
+      "id": "15843",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-no-title-p07285",
+      "id": "15844",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-no-title-p07286",
+      "id": "15845",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-no-title-p07287",
+      "id": "15846",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-no-title-p07288",
+      "id": "15847",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-no-title-p07289",
+      "id": "15848",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-no-title-p07290",
+      "id": "15849",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-no-title-p07291",
+      "id": "15850",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07292_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-untitled-p07292",
+      "id": "15851",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07293_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-untitled-p07293",
+      "id": "15852",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07294_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-untitled-p07294",
+      "id": "15853",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07295_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-untitled-p07295",
+      "id": "15854",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07296_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-untitled-p07296",
+      "id": "15855",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07297_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-untitled-p07297",
+      "id": "15856",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07298_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-untitled-p07298",
+      "id": "15857",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07299_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-untitled-p07299",
+      "id": "15858",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "15819",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15820",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15821",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15822",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15823",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15824",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15825",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15826",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15827",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15828",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15829",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15830",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15831",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15832",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15833",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15834",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15835",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15836",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15837",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15838",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15839",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15840",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15841",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15842",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15843",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15844",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15845",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15846",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15847",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15848",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15849",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15850",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15851",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15852",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15853",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15854",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15855",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15856",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15857",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15858",
+      "value": 1
+    }
+  ]
+}

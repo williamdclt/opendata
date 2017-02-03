@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Absalon",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/absalon-2606",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "cell no. 1",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07222_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/absalon-cell-no-1-t07222",
+      "id": "21925",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "proposals for a habitat",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/absalon-proposals-for-a-habitat-t07223",
+      "id": "21926",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "solutions",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/absalon-solutions-t07224",
+      "id": "21927",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "noises",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/absalon-noises-t07225",
+      "id": "21928",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "battle",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/absalon-battle-t07226",
+      "id": "21929",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "assassinations",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/absalon-assassinations-t07227",
+      "id": "21930",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "21925",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21926",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21927",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21928",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21929",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21930",
+      "value": 1
+    }
+  ]
+}

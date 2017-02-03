@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Alechinsky, Pierre",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/pierre-alechinsky-639",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03241_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/alechinsky-no-title-p03241",
+      "id": "477",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03242_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/alechinsky-no-title-p03242",
+      "id": "478",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "in the process of vanishing",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07520_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/alechinsky-in-the-process-of-vanishing-p07520",
+      "id": "479",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "starving fireman",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07521_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/alechinsky-starving-fireman-p07521",
+      "id": "480",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jumbled ephemerides",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07522_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/alechinsky-jumbled-ephemerides-p07522",
+      "id": "481",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the hairdresser",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77240_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/alechinsky-the-hairdresser-p77240",
+      "id": "482",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "something of a world",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77241_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/alechinsky-something-of-a-world-p77241",
+      "id": "483",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the night",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77242_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/alechinsky-the-night-p77242",
+      "id": "484",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "477",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "478",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "479",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "480",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "481",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "482",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "483",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "484",
+      "value": 1
+    }
+  ]
+}

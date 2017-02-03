@@ -1,0 +1,323 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Monro, Nicholas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/nicholas-monro-1654",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "animals running through fire",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04591_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/monro-animals-running-through-fire-p04591",
+      "id": "9621",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the balloon race",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04592_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/monro-the-balloon-race-p04592",
+      "id": "9622",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cosmic consciousness",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04593_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/monro-cosmic-consciousness-p04593",
+      "id": "9623",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dancers",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04594_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/monro-dancers-p04594",
+      "id": "9624",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure with crosses",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04595_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/monro-figure-with-crosses-p04595",
+      "id": "9625",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "girl at window",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04596_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/monro-girl-at-window-p04596",
+      "id": "9626",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "green figures",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04597_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/monro-green-figures-p04597",
+      "id": "9627",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hedges",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04598_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/monro-hedges-p04598",
+      "id": "9628",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hooded figures",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04599_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/monro-hooded-figures-p04599",
+      "id": "9629",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hospital",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04600_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/monro-hospital-p04600",
+      "id": "9630",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "operating theatre",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04601_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/monro-operating-theatre-p04601",
+      "id": "9631",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sheep",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04602_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/monro-sheep-p04602",
+      "id": "9632",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stone circle",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04603_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/monro-stone-circle-p04603",
+      "id": "9633",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "craters",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04604_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/monro-craters-p04604",
+      "id": "9634",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the flood",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04605_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/monro-the-flood-p04605",
+      "id": "9635",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "igloos",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04606_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/monro-igloos-p04606",
+      "id": "9636",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kangaroos",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04607_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/monro-kangaroos-p04607",
+      "id": "9637",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "colony",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04608_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/monro-colony-p04608",
+      "id": "9638",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lobby",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04609_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/monro-lobby-p04609",
+      "id": "9639",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "boats",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04610_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/monro-boats-p04610",
+      "id": "9640",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gazelles",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04611_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/monro-gazelles-p04611",
+      "id": "9641",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "estuary",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07672_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/monro-estuary-p07672",
+      "id": "9642",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9621",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9622",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9623",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9624",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9625",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9626",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9627",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9628",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9629",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9630",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9631",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9632",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9633",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9634",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9635",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9636",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9637",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9638",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9639",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9640",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9641",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9642",
+      "value": 1
+    }
+  ]
+}

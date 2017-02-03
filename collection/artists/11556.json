@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Channer, Alice",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/alice-channer-11556",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "(sleeve)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/channer-sleeve-t13039",
+      "id": "109387",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "see-thru",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13040_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/channer-see-thru-t13040",
+      "id": "109149",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "109387",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "109149",
+      "value": 1
+    }
+  ]
+}

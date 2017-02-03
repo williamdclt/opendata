@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Siddal, Elizabeth Eleanor",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/elizabeth-eleanor-siddal-494",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "lady affixing pennant to a knight\u2019s spear",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03202_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/siddal-lady-affixing-pennant-to-a-knights-spear-n03202",
+      "id": "13426",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sir patrick spens",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03471_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/siddal-sir-patrick-spens-n03471",
+      "id": "13427",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13426",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13427",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Tillemans, Peter",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/peter-tillemans-552",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "foxhunting in wooded country",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02376_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillemans-foxhunting-in-wooded-country-t02376",
+      "id": "14189",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the duke of kent\u2019s family",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08516_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillemans-the-duke-of-kents-family-t08516",
+      "id": "23813",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ideal landscape. verso: landscape composition with travellers, gibbets and wheels in the distance",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08608_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillemans-ideal-landscape-verso-landscape-composition-with-travellers-gibbets-and-wheels-t08608",
+      "id": "23812",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "14189",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23813",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23812",
+      "value": 1
+    }
+  ]
+}

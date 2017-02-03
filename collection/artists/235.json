@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hamilton, James",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/james-hamilton-235",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "two hounds chasing a hare",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02266_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-two-hounds-chasing-a-hare-t02266",
+      "id": "5771",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5771",
+      "value": 1
+    }
+  ]
+}

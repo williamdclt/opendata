@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Boyd and Evans, Fionnuala and Leslie",
+      "url": null,
+      "gender": "",
+      "tatelink": "http://www.tate.org.uk/art/artists/boyd-and-evans-fionnuala-boyd-leslie-evans-795",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the wall",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04909_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boyd-and-evans-the-wall-t04909",
+      "id": "1396",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1396",
+      "value": 1
+    }
+  ]
+}

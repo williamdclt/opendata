@@ -1,0 +1,197 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Annesley, David",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/david-annesley-650",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "mauve, orange, yellow, turquoise on pale blue",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04008_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/annesley-mauve-orange-yellow-turquoise-on-pale-blue-p04008",
+      "id": "518",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "red, yellow, blue and turquoise",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04009_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/annesley-red-yellow-blue-and-turquoise-p04009",
+      "id": "519",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "orinoco",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00828_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/annesley-orinoco-t00828",
+      "id": "520",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "x-act",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01339_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/annesley-x-act-t01339",
+      "id": "521",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "swing low",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01340_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/annesley-swing-low-t01340",
+      "id": "522",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jump",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01341_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/annesley-jump-t01341",
+      "id": "523",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "loquat",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01342_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/annesley-loquat-t01342",
+      "id": "524",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "godroon",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01343_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/annesley-godroon-t01343",
+      "id": "525",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "big ring",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01344_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/annesley-big-ring-t01344",
+      "id": "526",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "big yellow circle",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01345_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/annesley-big-yellow-circle-t01345",
+      "id": "527",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "narrow blue circle",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01346_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/annesley-narrow-blue-circle-t01346",
+      "id": "528",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01347_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/annesley-untitled-t01347",
+      "id": "529",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01348_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/annesley-untitled-t01348",
+      "id": "530",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "518",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "519",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "520",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "521",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "522",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "523",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "524",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "525",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "526",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "527",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "528",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "529",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "530",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Carter, B.A.R.",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/bar-carter-869",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "nude model",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00443_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/carter-nude-model-t00443",
+      "id": "2005",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2005",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Runciman, Alexander",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/alexander-runciman-464",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "fingal encounters carbon carglass",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03604_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/runciman-fingal-encounters-carbon-carglass-t03604",
+      "id": "13019",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fingal encounters carbon carglass (upright version)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03605_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/runciman-fingal-encounters-carbon-carglass-upright-version-t03605",
+      "id": "13020",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "agrippina with the ashes of germanicus",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03606_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/runciman-agrippina-with-the-ashes-of-germanicus-t03606",
+      "id": "13021",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13019",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13020",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13021",
+      "value": 1
+    }
+  ]
+}

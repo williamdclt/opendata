@@ -1,0 +1,365 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gilbert & George",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/gilbert-george-1163",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "george the cunt and gilbert the shit",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00170_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilbert-george-george-the-cunt-and-gilbert-the-shit-ar00170",
+      "id": "98307",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fallen leaves",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00171_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilbert-george-fallen-leaves-ar00171",
+      "id": "98311",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "crusade",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00172_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilbert-george-crusade-ar00172",
+      "id": "98312",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hunger",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00173_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilbert-george-hunger-ar00173",
+      "id": "90617",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "thirst",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00174_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilbert-george-thirst-ar00174",
+      "id": "90616",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "family tree",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00175_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilbert-george-family-tree-ar00175",
+      "id": "92948",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "faith drop",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00176_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilbert-george-faith-drop-ar00176",
+      "id": "92275",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "light headed",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00504_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilbert-george-light-headed-ar00504",
+      "id": "90620",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "existers",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00505_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilbert-george-existers-ar00505",
+      "id": "91159",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "balls: the evening before the morning after - drinking sculpture",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01701_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilbert-george-balls-the-evening-before-the-morning-after-drinking-sculpture-t01701",
+      "id": "5180",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "in the bush",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01702_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilbert-george-in-the-bush-t01702",
+      "id": "5181",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gordon\u2019s makes us drunk",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01703_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilbert-george-gordons-makes-us-drunk-t01703",
+      "id": "5182",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a portrait of the artists as young men",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01704_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilbert-george-a-portrait-of-the-artists-as-young-men-t01704",
+      "id": "5183",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "postcard sculpture 1974",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03241_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilbert-george-postcard-sculpture-1974-t03241",
+      "id": "5184",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "england",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03297_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilbert-george-england-t03297",
+      "id": "5185",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "coronation cross",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03352_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilbert-george-coronation-cross-t03352",
+      "id": "5186",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the nature of our looking",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03452_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilbert-george-the-nature-of-our-looking-t03452",
+      "id": "5187",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "death hope life fear",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05743_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilbert-george-death-hope-life-fear-t05743",
+      "id": "19000",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "red morning trouble",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07155_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilbert-george-red-morning-trouble-t07155",
+      "id": "21777",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "happy",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07156_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilbert-george-happy-t07156",
+      "id": "21778",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "deatho knocko",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07157_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilbert-george-deatho-knocko-t07157",
+      "id": "21779",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cunt scum",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07406_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilbert-george-cunt-scum-t07406",
+      "id": "26221",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "naked eye",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07493_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilbert-george-naked-eye-t07493",
+      "id": "26509",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "named",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11844_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilbert-george-named-t11844",
+      "id": "78661",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fates",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12168_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilbert-george-fates-t12168",
+      "id": "86381",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "98307",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98311",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98312",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90617",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90616",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "92948",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "92275",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90620",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "91159",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5180",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5181",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5182",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5183",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5184",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5185",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5186",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5187",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19000",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21777",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21778",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21779",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26221",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26509",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78661",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "86381",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Ai, Weiwei",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/ai-weiwei-8208",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "table and pillar",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12809_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ai-table-and-pillar-t12809",
+      "id": "93227",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sunflower seeds",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13408_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ai-sunflower-seeds-t13408",
+      "id": "115122",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "93227",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "115122",
+      "value": 1
+    }
+  ]
+}

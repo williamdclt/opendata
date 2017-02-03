@@ -1,0 +1,141 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Roboz, Zsuzsi",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/zsuzsi-roboz-1858",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "closing day",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06681_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roboz-closing-day-p06681",
+      "id": "12678",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "backstage",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06682_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roboz-backstage-p06682",
+      "id": "12679",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "connoisseurs",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06683_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roboz-connoisseurs-p06683",
+      "id": "12680",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "interval",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06684_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roboz-interval-p06684",
+      "id": "12681",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dressing room",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06685_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roboz-dressing-room-p06685",
+      "id": "12682",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dear mum",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06686_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roboz-dear-mum-p06686",
+      "id": "12683",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dancing figure",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06748_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roboz-dancing-figure-p06748",
+      "id": "12684",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "patricia ruanne and nicholas johnson",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06806_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roboz-patricia-ruanne-and-nicholas-johnson-p06806",
+      "id": "12685",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rehearsal at donmar studios",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06807_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roboz-rehearsal-at-donmar-studios-p06807",
+      "id": "12686",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12678",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12679",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12680",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12681",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12682",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12683",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12684",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12685",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12686",
+      "value": 1
+    }
+  ]
+}

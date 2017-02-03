@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Eyton, Anthony",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/anthony-eyton-1075",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "open window, spitalfields",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03339_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/eyton-open-window-spitalfields-t03339",
+      "id": "4209",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the tank, bankside power station",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07035_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/eyton-the-tank-bankside-power-station-t07035",
+      "id": "21492",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bankside - the turbine hall",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07125_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/eyton-bankside-the-turbine-hall-t07125",
+      "id": "21659",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4209",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21492",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21659",
+      "value": 1
+    }
+  ]
+}

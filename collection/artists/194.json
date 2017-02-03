@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Frith, William Powell",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/william-powell-frith-194",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the derby day",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00615_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frith-the-derby-day-n00615",
+      "id": "4672",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "uncle toby and the widow wadman",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01781_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frith-uncle-toby-and-the-widow-wadman-n01781",
+      "id": "4673",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dolly varden",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00041_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frith-dolly-varden-t00041",
+      "id": "4674",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4672",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4673",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4674",
+      "value": 1
+    }
+  ]
+}

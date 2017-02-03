@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Bruguera, Tania",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/tania-bruguera-11982",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "tatlin\u2019s whisper #5",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12989_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bruguera-tatlins-whisper-5-t12989",
+      "id": "100837",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "made in india",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bruguera-made-in-india-t13574",
+      "id": "118762",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "100837",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118762",
+      "value": 1
+    }
+  ]
+}

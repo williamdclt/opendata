@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Erlanger, Rodolphe d'",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/rodolphe-derlanger-1062",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "street in cairo",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03669_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/erlanger-street-in-cairo-n03669",
+      "id": "4128",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4128",
+      "value": 1
+    }
+  ]
+}

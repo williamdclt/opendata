@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Heron, Patrick",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/patrick-heron-1278",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "blue and deep violet with orange, brown and green : april 1970",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04272_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heron-blue-and-deep-violet-with-orange-brown-and-green-april-1970-p04272",
+      "id": "6133",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blues dovetailed in yellow : april 1970",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04273_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heron-blues-dovetailed-in-yellow-april-1970-p04273",
+      "id": "6134",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "four  blues, two discs : april 1970",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04274_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heron-four-blues-two-discs-april-1970-p04274",
+      "id": "6135",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "interlocking pink and vermilion with blue : april 1970",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04275_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heron-interlocking-pink-and-vermilion-with-blue-april-1970-p04275",
+      "id": "6136",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "interlocking scarlet and pink in deep green : april 1970",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04276_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heron-interlocking-scarlet-and-pink-in-deep-green-april-1970-p04276",
+      "id": "6137",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "magenta disc and red edge : april 1970",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04277_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heron-magenta-disc-and-red-edge-april-1970-p04277",
+      "id": "6138",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "six in light orange with red in yellow : april 1970",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04278_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heron-six-in-light-orange-with-red-in-yellow-april-1970-p04278",
+      "id": "6139",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "six in vermilion with green in yellow : april 1970",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04279_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heron-six-in-vermilion-with-green-in-yellow-april-1970-p04279",
+      "id": "6140",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "six in vermilion with red in red : april 1970",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04280_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heron-six-in-vermilion-with-red-in-red-april-1970-p04280",
+      "id": "6141",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "six in vermilion with violet in red : april 1970",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04281_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heron-six-in-vermilion-with-violet-in-red-april-1970-p04281",
+      "id": "6142",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "three reds in green and magenta in blue : april 1970",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04282_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heron-three-reds-in-green-and-magenta-in-blue-april-1970-p04282",
+      "id": "6143",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "three reds in magenta and green in blue : april 1970",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04283_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heron-three-reds-in-magenta-and-green-in-blue-april-1970-p04283",
+      "id": "6144",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two magenta discs in dark reds : april 1970",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04284_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heron-two-magenta-discs-in-dark-reds-april-1970-p04284",
+      "id": "6145",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two pink discs in dark reds : april 1970",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04285_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heron-two-pink-discs-in-dark-reds-april-1970-p04285",
+      "id": "6146",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "umber disc and red edge : april 1970",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04286_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heron-umber-disc-and-red-edge-april-1970-p04286",
+      "id": "6147",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04287_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heron-untitled-p04287",
+      "id": "6148",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "eight including ultramarine",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04288_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heron-eight-including-ultramarine-p04288",
+      "id": "6149",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04289_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heron-untitled-p04289",
+      "id": "6150",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "january 1973 : 1",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04290_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heron-january-1973-1-p04290",
+      "id": "6151",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "january 1973 : 2",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04291_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heron-january-1973-2-p04291",
+      "id": "6152",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "january 1973 : 3",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04292_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heron-january-1973-3-p04292",
+      "id": "6153",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "january 1973 : 4",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04293_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heron-january-1973-4-p04293",
+      "id": "6154",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "january 1973 : 5",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04294_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heron-january-1973-5-p04294",
+      "id": "6155",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "january 1973 : 6",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04295_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heron-january-1973-6-p04295",
+      "id": "6156",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "january 1973 : 7",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04296_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heron-january-1973-7-p04296",
+      "id": "6157",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "january 1973 : 8",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04297_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heron-january-1973-8-p04297",
+      "id": "6158",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "january 1973 : 10",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04298_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heron-january-1973-10-p04298",
+      "id": "6159",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "january 1973 : 11",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04299_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heron-january-1973-11-p04299",
+      "id": "6160",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "january 1973 : 12",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04300_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heron-january-1973-12-p04300",
+      "id": "6161",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "january 1973 : 13",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04301_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heron-january-1973-13-p04301",
+      "id": "6162",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "january 1973 : 14",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04302_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heron-january-1973-14-p04302",
+      "id": "6163",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "january 1973 : 15",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04303_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heron-january-1973-15-p04303",
+      "id": "6164",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "january 1973 : 16",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04304_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heron-january-1973-16-p04304",
+      "id": "6165",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "january 1973 : 17",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04305_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heron-january-1973-17-p04305",
+      "id": "6166",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "january 1973 : 18",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04306_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heron-january-1973-18-p04306",
+      "id": "6167",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "january 1973 : 19",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04307_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heron-january-1973-19-p04307",
+      "id": "6168",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "small red : january 1973 : 1",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04308_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heron-small-red-january-1973-1-p04308",
+      "id": "6169",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "small red : january 1973 : 2",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04309_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heron-small-red-january-1973-2-p04309",
+      "id": "6170",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "small red : january 1973 : 3",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04310_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heron-small-red-january-1973-3-p04310",
+      "id": "6171",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "small red : january 1973 : 4",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04311_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/heron-small-red-january-1973-4-p04311",
+      "id": "6172",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6133",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6134",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6135",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6136",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6137",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6138",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6139",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6140",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6141",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6142",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6143",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6144",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6145",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6146",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6147",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6148",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6149",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6150",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6151",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6152",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6153",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6154",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6155",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6156",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6157",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6158",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6159",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6160",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6161",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6162",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6163",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6164",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6165",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6166",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6167",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6168",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6169",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6170",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6171",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6172",
+      "value": 1
+    }
+  ]
+}

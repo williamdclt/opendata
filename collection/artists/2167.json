@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Wood, Christopher",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/christopher-wood-2167",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "church at tr\u00e9boul",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04552_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wood-church-at-treboul-n04552",
+      "id": "16445",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "boat in harbour, brittany",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00489_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wood-boat-in-harbour-brittany-t00489",
+      "id": "16446",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "douarnenez, brittany",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00545_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wood-douarnenez-brittany-t00545",
+      "id": "16447",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018church at tr\u00e9boul\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01085_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wood-study-for-church-at-treboul-t01085",
+      "id": "16448",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a fishing boat in dieppe harbour",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07799_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wood-a-fishing-boat-in-dieppe-harbour-t07799",
+      "id": "3",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the fisherman\u2019s farewell",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07994_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wood-the-fishermans-farewell-t07994",
+      "id": "215",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "zebra and parachute",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12038_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wood-zebra-and-parachute-t12038",
+      "id": "4",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16445",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16446",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16447",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16448",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "215",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Biermann, Aenne",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/aenne-biermann-15999",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled (self portrait)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/biermann-untitled-self-portrait-p80258",
+      "id": "120519",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hazelnut catkins",
+      "url": "http://www.tate.org.uk/art/images/work/P/P80/P80259_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/biermann-hazelnut-catkins-p80259",
+      "id": "120521",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/biermann-title-not-known-p80260",
+      "id": "120522",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ceramic cup",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/biermann-ceramic-cup-p80261",
+      "id": "120523",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "120519",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "120521",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "120522",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "120523",
+      "value": 1
+    }
+  ]
+}

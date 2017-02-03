@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Frink, Dame Elisabeth",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/dame-elisabeth-frink-1124",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "bird",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06140_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frink-bird-n06140",
+      "id": "4561",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01097_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frink-title-not-known-p01097",
+      "id": "4562",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chanticleer and the fox",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01098_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frink-chanticleer-and-the-fox-p01098",
+      "id": "4563",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the miller\u2019s tale i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01099_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frink-the-millers-tale-i-p01099",
+      "id": "4564",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the miller\u2019s tale",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01100_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frink-the-millers-tale-p01100",
+      "id": "4565",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01101_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frink-title-not-known-p01101",
+      "id": "4566",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "horse and rider vi",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01102_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frink-horse-and-rider-vi-p01102",
+      "id": "4567",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "horse\u2019s head",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01103_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frink-horses-head-p01103",
+      "id": "4568",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "small horse and rider",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01104_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frink-small-horse-and-rider-p01104",
+      "id": "4569",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "man and horse iv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01105_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frink-man-and-horse-iv-p01105",
+      "id": "4570",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "small boar",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01106_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frink-small-boar-p01106",
+      "id": "4571",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01107_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frink-title-not-known-p01107",
+      "id": "4572",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the knight\u2019s tale",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01108_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frink-the-knights-tale-p01108",
+      "id": "4573",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the miller\u2019s tale i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01109_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frink-the-millers-tale-i-p01109",
+      "id": "4574",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the miller\u2019s tale ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01110_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frink-the-millers-tale-ii-p01110",
+      "id": "4575",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01111_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frink-title-not-known-p01111",
+      "id": "4576",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the shipman\u2019s tale",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01112_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frink-the-shipmans-tale-p01112",
+      "id": "4577",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the prioress\u2019s tale",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01113_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frink-the-prioresss-tale-p01113",
+      "id": "4578",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chaucer\u2019s tale of sir topaz",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01114_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frink-chaucers-tale-of-sir-topaz-p01114",
+      "id": "4579",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the nun\u2019s priests\u2019 tale",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01115_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frink-the-nuns-priests-tale-p01115",
+      "id": "4580",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the physician\u2019s tale",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01116_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frink-the-physicians-tale-p01116",
+      "id": "4581",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the pardoner\u2019s tale",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01117_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frink-the-pardoners-tale-p01117",
+      "id": "4582",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the wife of bath\u2019s tale",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01118_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frink-the-wife-of-baths-tale-p01118",
+      "id": "4583",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the summoner\u2019s tale",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01119_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frink-the-summoners-tale-p01119",
+      "id": "4584",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the clerk\u2019s tale",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01120_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frink-the-clerks-tale-p01120",
+      "id": "4585",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the merchant\u2019s tale",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01121_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frink-the-merchants-tale-p01121",
+      "id": "4586",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the squire\u2019s tale",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01122_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frink-the-squires-tale-p01122",
+      "id": "4587",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the franklin\u2019s tale",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01123_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frink-the-franklins-tale-p01123",
+      "id": "4588",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the second nun\u2019s tale",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01124_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frink-the-second-nuns-tale-p01124",
+      "id": "4589",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the manciple\u2019s tale",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01125_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frink-the-manciples-tale-p01125",
+      "id": "4590",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "goggled head",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01126_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frink-goggled-head-p01126",
+      "id": "4591",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "golden eagle",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01127_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frink-golden-eagle-p01127",
+      "id": "4592",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "goshawk",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01128_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frink-goshawk-p01128",
+      "id": "4593",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "honey buzzard",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01129_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frink-honey-buzzard-p01129",
+      "id": "4594",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kestrel",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01130_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frink-kestrel-p01130",
+      "id": "4595",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lammergeier",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01131_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frink-lammergeier-p01131",
+      "id": "4596",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "marsh harrier",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01132_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frink-marsh-harrier-p01132",
+      "id": "4597",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "osprey",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01133_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frink-osprey-p01133",
+      "id": "4598",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "peregrine falcon",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01134_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frink-peregrine-falcon-p01134",
+      "id": "4599",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sparrow hawk",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01135_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frink-sparrow-hawk-p01135",
+      "id": "4600",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4561",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4562",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4563",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4564",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4565",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4566",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4567",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4568",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4569",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4570",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4571",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4572",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4573",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4574",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4575",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4576",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4577",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4578",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4579",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4580",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4581",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4582",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4583",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4584",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4585",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4586",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4587",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4588",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4589",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4590",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4591",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4592",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4593",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4594",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4595",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4596",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4597",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4598",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4599",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4600",
+      "value": 1
+    }
+  ]
+}

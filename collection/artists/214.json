@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Goodall, Frederick",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/frederick-goodall-214",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the village holiday",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00450_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/goodall-the-village-holiday-n00450",
+      "id": "5502",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the tired soldier resting at a roadside well",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00451_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/goodall-the-tired-soldier-resting-at-a-roadside-well-n00451",
+      "id": "5503",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the ploughman and the shepherdess: time of the evening prayer",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01562_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/goodall-the-ploughman-and-the-shepherdess-time-of-the-evening-prayer-n01562",
+      "id": "5504",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5502",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5503",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5504",
+      "value": 1
+    }
+  ]
+}

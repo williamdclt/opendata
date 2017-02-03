@@ -1,0 +1,211 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Zipp, Thomas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/thomas-zipp-9937",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "apfel",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zipp-apfel-p79323",
+      "id": "93253",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sailor schweres wasser",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79324_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zipp-sailor-schweres-wasser-p79324",
+      "id": "94141",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dada",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79325_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zipp-dada-p79325",
+      "id": "94142",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lewmorc",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79326_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zipp-lewmorc-p79326",
+      "id": "94143",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "balloon",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79327_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zipp-balloon-p79327",
+      "id": "94144",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ffw",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79328_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zipp-ffw-p79328",
+      "id": "94145",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "snow",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79329_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zipp-snow-p79329",
+      "id": "94146",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "relics",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79330_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zipp-relics-p79330",
+      "id": "94147",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "achtung",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79331_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zipp-achtung-p79331",
+      "id": "94148",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "broil (lise m)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79332_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zipp-broil-lise-m-p79332",
+      "id": "94149",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "aggregat",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79333_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zipp-aggregat-p79333",
+      "id": "94150",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "o.4",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79334_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zipp-o4-p79334",
+      "id": "94151",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "s",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79335_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zipp-s-p79335",
+      "id": "94152",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mens agitat molem",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79336_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zipp-mens-agitat-molem-p79336",
+      "id": "94153",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "93253",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "94141",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "94142",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "94143",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "94144",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "94145",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "94146",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "94147",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "94148",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "94149",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "94150",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "94151",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "94152",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "94153",
+      "value": 1
+    }
+  ]
+}

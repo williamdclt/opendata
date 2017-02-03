@@ -1,0 +1,14 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Ethridge, Roe",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/roe-ethridge-7080",
+      "id": "Artist",
+      "size": 30
+    }
+  ],
+  "links": []
+}

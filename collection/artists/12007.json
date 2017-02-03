@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Panting, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-panting-12007",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled sketch model for steel sculpture",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/panting-untitled-sketch-model-for-steel-sculpture-t12829",
+      "id": "101003",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled sketch model for steel sculpture",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/panting-untitled-sketch-model-for-steel-sculpture-t12830",
+      "id": "101004",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled sketch model for steel sculpture",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/panting-untitled-sketch-model-for-steel-sculpture-t12831",
+      "id": "101005",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled sketch model for steel sculpture",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/panting-untitled-sketch-model-for-steel-sculpture-t12832",
+      "id": "101006",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "101003",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101004",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101005",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101006",
+      "value": 1
+    }
+  ]
+}

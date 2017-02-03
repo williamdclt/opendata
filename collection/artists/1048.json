@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Dzamonja, Dusan",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/dusan-dzamonja-1048",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "metal sculpture 14",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dzamonja-metal-sculpture-14-t00430",
+      "id": "4071",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4071",
+      "value": 1
+    }
+  ]
+}

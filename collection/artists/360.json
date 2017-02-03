@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Maccoll, Dugald Sutherland",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/dugald-sutherland-maccoll-360",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "dieppe",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03149_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maccoll-dieppe-n03149",
+      "id": "9060",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a belfry at dinan",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03322_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maccoll-a-belfry-at-dinan-n03322",
+      "id": "9061",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "brasenose college, oxford",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03413_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maccoll-brasenose-college-oxford-n03413",
+      "id": "9062",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wilmington barn",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03522_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maccoll-wilmington-barn-n03522",
+      "id": "9063",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st catherine\u2019s quay, honfleur",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04508_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maccoll-st-catherines-quay-honfleur-n04508",
+      "id": "9064",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "crock and cottage loaf no. 2",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05103_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maccoll-crock-and-cottage-loaf-no-2-n05103",
+      "id": "9065",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9060",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9061",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9062",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9063",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9064",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9065",
+      "value": 1
+    }
+  ]
+}

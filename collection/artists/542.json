@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Taylor, John, of Bath",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-taylor-of-bath-542",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "paddlers among ruins",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02983_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/taylor-paddlers-among-ruins-n02983",
+      "id": "14128",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "14128",
+      "value": 1
+    }
+  ]
+}

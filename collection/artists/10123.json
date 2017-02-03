@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Reigl, Judit",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/judit-reigl-10123",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "guano",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12309_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reigl-guano-t12309",
+      "id": "91770",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mass writing",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reigl-mass-writing-t12310",
+      "id": "91771",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "91770",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "91771",
+      "value": 1
+    }
+  ]
+}

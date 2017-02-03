@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Tickle, Matthew",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/matthew-tickle-11958",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "nowhere",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79371_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tickle-nowhere-p79371",
+      "id": "100717",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "100717",
+      "value": 1
+    }
+  ]
+}

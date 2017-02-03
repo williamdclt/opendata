@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Barclay, Claire",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/claire-barclay-4731",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barclay-untitled-p80037",
+      "id": "116693",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barclay-untitled-p80038",
+      "id": "116694",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barclay-untitled-p80039",
+      "id": "116695",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barclay-untitled-p80040",
+      "id": "116696",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "116693",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "116694",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "116695",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "116696",
+      "value": 1
+    }
+  ]
+}

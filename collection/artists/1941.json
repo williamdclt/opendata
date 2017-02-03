@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Sickert, Walter Richard",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/walter-richard-sickert-1941",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "george moore",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03181_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sickert-george-moore-n03181",
+      "id": "13380",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "caf\u00e9 des tribunaux, dieppe",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03182_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sickert-cafe-des-tribunaux-dieppe-n03182",
+      "id": "13381",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "despair",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03183_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sickert-despair-n03183",
+      "id": "13382",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a marengo",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03621_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sickert-a-marengo-n03621",
+      "id": "13383",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the piazzetta and the old campanile, venice",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03810_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sickert-the-piazzetta-and-the-old-campanile-venice-n03810",
+      "id": "13384",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ennui",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03846_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sickert-ennui-n03846",
+      "id": "13385",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "roquefort",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03847_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sickert-roquefort-n03847",
+      "id": "13386",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the front at hove (turpe senex miles turpe senilis amor)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04651_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sickert-the-front-at-hove-turpe-senex-miles-turpe-senilis-amor-n04651",
+      "id": "13387",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "aubrey beardsley",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04655_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sickert-aubrey-beardsley-n04655",
+      "id": "13388",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "miss gwen ffrangcon-davies as isabella of france",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04673_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sickert-miss-gwen-ffrangcon-davies-as-isabella-of-france-n04673",
+      "id": "13389",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jacques-emile blanche",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04912_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sickert-jacques-emile-blanche-n04912",
+      "id": "13390",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "les arcades de la poissonnerie, dieppe",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05045_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sickert-les-arcades-de-la-poissonnerie-dieppe-n05045",
+      "id": "13391",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the tottenham distillery",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05086_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sickert-the-tottenham-distillery-n05086",
+      "id": "13392",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "belvedere, bath",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05087_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sickert-belvedere-bath-n05087",
+      "id": "13393",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rowlandson house - sunset",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05088_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sickert-rowlandson-house-sunset-n05088",
+      "id": "13394",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "baccarat - the fur cape",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05089_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sickert-baccarat-the-fur-cape-n05089",
+      "id": "13413",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "l\u2019am\u00e9ricaine",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05090_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sickert-lamericaine-n05090",
+      "id": "13395",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman washing her hair",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05091_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sickert-woman-washing-her-hair-n05091",
+      "id": "13396",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tipperary",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05092_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sickert-tipperary-n05092",
+      "id": "13397",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "venice, la salute",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05093_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sickert-venice-la-salute-n05093",
+      "id": "13398",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dieppe, study no. 2; facade of st jacques",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05094_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sickert-dieppe-study-no-2-facade-of-st-jacques-n05094",
+      "id": "13399",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pierrot and woman embracing",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05095_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sickert-pierrot-and-woman-embracing-n05095",
+      "id": "13400",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018the statue of duquesne, dieppe\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05096_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sickert-sketch-for-the-statue-of-duquesne-dieppe-n05096",
+      "id": "13401",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs barrett",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05127_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sickert-mrs-barrett-n05127",
+      "id": "13402",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the little tea party: nina hamnett and roald kristian",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05288_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sickert-the-little-tea-party-nina-hamnett-and-roald-kristian-n05288",
+      "id": "13403",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two women on a sofa - le tose",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05296_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sickert-two-women-on-a-sofa-le-tose-n05296",
+      "id": "13404",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the straw hat",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05309_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sickert-the-straw-hat-n05309",
+      "id": "13425",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018l\u2019armoire \u00e0 glace\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05312_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sickert-study-for-larmoire-a-glace-n05312",
+      "id": "13405",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "l\u2019armoire \u00e0 glace",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05313_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sickert-larmoire-a-glace-n05313",
+      "id": "13406",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "interior of st mark\u2019s, venice",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05314_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sickert-interior-of-st-marks-venice-n05314",
+      "id": "13407",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "off to the pub",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05430_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sickert-off-to-the-pub-n05430",
+      "id": "13414",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018the little tea party\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05619_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sickert-study-for-the-little-tea-party-n05619",
+      "id": "13408",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st mark\u2019s, venice (pax tibi marce evangelista meus)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05914_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sickert-st-marks-venice-pax-tibi-marce-evangelista-meus-n05914",
+      "id": "13409",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018l\u2019armoire \u00e0 glace\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06087_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sickert-study-for-larmoire-a-glace-n06087",
+      "id": "13410",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs anna knight",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06142_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sickert-mrs-anna-knight-n06142",
+      "id": "13411",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the new bedford",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06174_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sickert-the-new-bedford-n06174",
+      "id": "13412",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ennui",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11050_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sickert-ennui-p11050",
+      "id": "13415",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "harold gilman",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00164_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sickert-harold-gilman-t00164",
+      "id": "13416",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sir alec martin, kbe",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00221_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sickert-sir-alec-martin-kbe-t00221",
+      "id": "13417",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lady martin",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00222_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sickert-lady-martin-t00222",
+      "id": "13418",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13380",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13381",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13382",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13383",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13384",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13385",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13386",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13387",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13388",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13389",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13390",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13391",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13392",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13393",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13394",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13413",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13395",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13396",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13397",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13398",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13399",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13400",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13401",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13402",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13403",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13404",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13425",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13405",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13406",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13407",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13414",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13408",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13409",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13410",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13411",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13412",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13415",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13416",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13417",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13418",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Wolmark, Alfred",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/alfred-wolmark-2163",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "fisher girl of concarneau",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00030_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wolmark-fisher-girl-of-concarneau-t00030",
+      "id": "16407",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "decorative still life",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wolmark-decorative-still-life-t01241",
+      "id": "16408",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16407",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16408",
+      "value": 1
+    }
+  ]
+}

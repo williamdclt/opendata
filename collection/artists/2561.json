@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Miller, James",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/james-miller-2561",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "downham academy",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09126_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/miller-downham-academy-t09126",
+      "id": "23247",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "23247",
+      "value": 1
+    }
+  ]
+}

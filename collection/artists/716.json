@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Beardsley, Aubrey",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/aubrey-beardsley-716",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "caprice. verso: masked woman with a white mouse",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03815_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beardsley-caprice-verso-masked-woman-with-a-white-mouse-n03815",
+      "id": "821",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cover design for the \u2018yellow book\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04171_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beardsley-cover-design-for-the-yellow-book-n04171",
+      "id": "822",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "design for the frontispiece to john davidson\u2019s plays",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04172_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beardsley-design-for-the-frontispiece-to-john-davidsons-plays-n04172",
+      "id": "823",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "professor fred brown",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04235_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beardsley-professor-fred-brown-n04235",
+      "id": "824",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "messalina and her companion",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04423_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beardsley-messalina-and-her-companion-n04423",
+      "id": "825",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "la dame aux camelias",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04608_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beardsley-la-dame-aux-camelias-n04608",
+      "id": "826",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the fat woman",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04609_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beardsley-the-fat-woman-n04609",
+      "id": "827",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "frontispiece to chopin\u2019s third ballade",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07487_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beardsley-frontispiece-to-chopins-third-ballade-t07487",
+      "id": "26477",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "821",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "822",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "823",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "824",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "825",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "826",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "827",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26477",
+      "value": 1
+    }
+  ]
+}

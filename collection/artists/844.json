@@ -1,0 +1,253 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Butler, Reg",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/reg-butler-844",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "study for head of watcher",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01061_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/butler-study-for-head-of-watcher-a01061",
+      "id": "1870",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for head of watcher",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01062_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/butler-study-for-head-of-watcher-a01062",
+      "id": "1871",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for head of watcher",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01063_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/butler-study-for-head-of-watcher-a01063",
+      "id": "1872",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05942_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/butler-woman-n05942",
+      "id": "1873",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "girl",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06223_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/butler-girl-n06223",
+      "id": "1874",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure in space",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06061_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/butler-figure-in-space-p06061",
+      "id": "1875",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "italian girl",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06062_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/butler-italian-girl-p06062",
+      "id": "1876",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "girl",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06063_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/butler-girl-p06063",
+      "id": "1877",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tower",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06064_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/butler-tower-p06064",
+      "id": "1878",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ophelia",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00262_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/butler-ophelia-t00262",
+      "id": "1879",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for woman resting",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00263_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/butler-study-for-woman-resting-t00263",
+      "id": "1880",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "working model for \u2018the unknown political prisoner\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02332_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/butler-working-model-for-the-unknown-political-prisoner-t02332",
+      "id": "1881",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03392_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/butler-woman-t03392",
+      "id": "1882",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mus\u00e9e imaginaire",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03703_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/butler-musee-imaginaire-t03703",
+      "id": "1883",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "crouching woman",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03711_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/butler-crouching-woman-t03711",
+      "id": "1884",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "circe head",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03867_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/butler-circe-head-t03867",
+      "id": "1885",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "girl on a round base",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07793_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/butler-girl-on-a-round-base-t07793",
+      "id": "66714",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1870",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1871",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1872",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1873",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1874",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1875",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1876",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1877",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1878",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1879",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1880",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1881",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1882",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1883",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1884",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1885",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66714",
+      "value": 1
+    }
+  ]
+}

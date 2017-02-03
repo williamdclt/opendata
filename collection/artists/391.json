@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "M\u00fcller, William James",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/william-james-muller-391",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "lycia: a burdock",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/muller-lycia-a-burdock-a00821",
+      "id": "10387",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lycia: a xanthian youth",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/muller-lycia-a-xanthian-youth-a00822",
+      "id": "10388",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lycia: a xanthian boy with a bow",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/muller-lycia-a-xanthian-boy-with-a-bow-a00823",
+      "id": "10389",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lycia: women in near eastern dress",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/muller-lycia-women-in-near-eastern-dress-a00824",
+      "id": "10390",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "eastern landscape",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00379_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/muller-eastern-landscape-n00379",
+      "id": "10467",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a mountain stream",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01040_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/muller-a-mountain-stream-n01040",
+      "id": "10391",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of bologna: capriccio with eastern figures",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01463_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/muller-view-of-bologna-capriccio-with-eastern-figures-n01463",
+      "id": "10392",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dredging on the medway",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01474_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/muller-dredging-on-the-medway-n01474",
+      "id": "10393",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "caernarvon castle",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01565_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/muller-caernarvon-castle-n01565",
+      "id": "10394",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a lake-side scene",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01728_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/muller-a-lake-side-scene-n01728",
+      "id": "10395",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "trees, suffolk",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02315_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/muller-trees-suffolk-n02315",
+      "id": "10396",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gateway of caernarvon castle",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02316_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/muller-gateway-of-caernarvon-castle-n02316",
+      "id": "10397",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "castle ditch, bristol",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02317_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/muller-castle-ditch-bristol-n02317",
+      "id": "10398",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fourteen stars inn, counterslip",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02318_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/muller-fourteen-stars-inn-counterslip-n02318",
+      "id": "10399",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "castle, (?harlech)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02319_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/muller-castle-harlech-n02319",
+      "id": "10400",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the avon, 1",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02320_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/muller-the-avon-1-n02320",
+      "id": "10401",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the avon, 2",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02321_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/muller-the-avon-2-n02321",
+      "id": "10402",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the avon, 3: from leigh woods",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/muller-the-avon-3-from-leigh-woods-n02322",
+      "id": "10403",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the avon, 4",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02323_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/muller-the-avon-4-n02323",
+      "id": "10404",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the avon, 5",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02324_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/muller-the-avon-5-n02324",
+      "id": "10405",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the avon, 6",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02325_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/muller-the-avon-6-n02325",
+      "id": "10406",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the avon, 7",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02326_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/muller-the-avon-7-n02326",
+      "id": "10407",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the avon, 8",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02327_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/muller-the-avon-8-n02327",
+      "id": "10408",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of willows",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02328_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/muller-study-of-willows-n02328",
+      "id": "10409",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "an interior",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02329_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/muller-an-interior-n02329",
+      "id": "10410",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bristol harbour in ice",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02330_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/muller-bristol-harbour-in-ice-n02330",
+      "id": "10411",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a roadside, leigh",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02331_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/muller-a-roadside-leigh-n02331",
+      "id": "10412",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of pines, rheinwald",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02332_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/muller-study-of-pines-rheinwald-n02332",
+      "id": "10413",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "near wallenstadt",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02333_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/muller-near-wallenstadt-n02333",
+      "id": "10414",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "near wallenstadt, 2",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02334_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/muller-near-wallenstadt-2-n02334",
+      "id": "10415",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the spl\u00fcgen",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02336_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/muller-the-splugen-n02336",
+      "id": "10416",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "via mala",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02337_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/muller-via-mala-n02337",
+      "id": "10417",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lake or river bank, with houses",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02338_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/muller-lake-or-river-bank-with-houses-n02338",
+      "id": "10418",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "venice",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02339_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/muller-venice-n02339",
+      "id": "10419",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the lagoon, venice",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02340_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/muller-the-lagoon-venice-n02340",
+      "id": "10420",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tivoli: villa of maecenas from the north",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02341_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/muller-tivoli-villa-of-maecenas-from-the-north-n02341",
+      "id": "10421",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tivoli: villa of maecenas from the north-west",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02342_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/muller-tivoli-villa-of-maecenas-from-the-north-west-n02342",
+      "id": "10422",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tivoli: the cascade",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02343_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/muller-tivoli-the-cascade-n02343",
+      "id": "10423",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tivoli, with the temple of the sibyl",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02344_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/muller-tivoli-with-the-temple-of-the-sibyl-n02344",
+      "id": "10424",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a woodland pool",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02345_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/muller-a-woodland-pool-n02345",
+      "id": "10425",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "10387",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10388",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10389",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10390",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10467",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10391",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10392",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10393",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10394",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10395",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10396",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10397",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10398",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10399",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10400",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10401",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10402",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10403",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10404",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10405",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10406",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10407",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10408",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10409",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10410",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10411",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10412",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10413",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10414",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10415",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10416",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10417",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10418",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10419",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10420",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10421",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10422",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10423",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10424",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10425",
+      "value": 1
+    }
+  ]
+}

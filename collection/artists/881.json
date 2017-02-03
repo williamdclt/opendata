@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Chagall, Marc",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/marc-chagall-881",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the poet reclining",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05390_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chagall-the-poet-reclining-n05390",
+      "id": "2143",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the vision",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05757_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chagall-the-vision-n05757",
+      "id": "2144",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the green donkey",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05758_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chagall-the-green-donkey-n05758",
+      "id": "2145",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the cat transformed into a woman",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05759_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chagall-the-cat-transformed-into-a-woman-n05759",
+      "id": "2146",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bouquet with flying lovers",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05804_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chagall-bouquet-with-flying-lovers-n05804",
+      "id": "2147",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the dance and the circus",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06135_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chagall-the-dance-and-the-circus-n06135",
+      "id": "2148",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the blue circus",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06136_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chagall-the-blue-circus-n06136",
+      "id": "2149",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2143",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2144",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2145",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2146",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2147",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2148",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2149",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Wiseman, Albany",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/albany-wiseman-2157",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "french engine",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wiseman-french-engine-p06618",
+      "id": "16380",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "charlotte place",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wiseman-charlotte-place-p06619",
+      "id": "16381",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fitzroy square",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wiseman-fitzroy-square-p06620",
+      "id": "16382",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "berwick market",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wiseman-berwick-market-p06621",
+      "id": "16383",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "meard street",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wiseman-meard-street-p06622",
+      "id": "16384",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mitchell\u2019s yard",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wiseman-mitchells-yard-p06623",
+      "id": "16385",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "romilly street",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wiseman-romilly-street-p06624",
+      "id": "16386",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "soho shop fronts",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wiseman-soho-shop-fronts-p06625",
+      "id": "16387",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "soho square",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wiseman-soho-square-p06626",
+      "id": "16388",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the phoenician",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wiseman-the-phoenician-p06697",
+      "id": "16389",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16380",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16381",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16382",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16383",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16384",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16385",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16386",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16387",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16388",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16389",
+      "value": 1
+    }
+  ]
+}

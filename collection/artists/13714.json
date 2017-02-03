@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Maljkovic, David",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/david-maljkovic-13714",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "images with their own shadow",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maljkovic-images-with-their-own-shadow-t13225",
+      "id": "109154",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "109154",
+      "value": 1
+    }
+  ]
+}

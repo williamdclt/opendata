@@ -1,0 +1,561 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Holzer, Jenny",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/jenny-holzer-1307",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "blue purple tilt",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00082_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holzer-blue-purple-tilt-ar00082",
+      "id": "95466",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "protect protect",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00083_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holzer-protect-protect-ar00083",
+      "id": "95898",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shape the battlespace",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00084_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holzer-shape-the-battlespace-ar00084",
+      "id": "95899",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "phase i... running start shape the battlespace pewter",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR01132_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holzer-phase-i-running-start-shape-the-battlespace-pewter-ar01132",
+      "id": "111597",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "phase ii... running start decisive operations violet",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR01133_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holzer-phase-ii-running-start-decisive-operations-violet-ar01133",
+      "id": "111598",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "force at end of phase iii (if required) violet",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR01134_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holzer-force-at-end-of-phase-iii-if-required-violet-ar01134",
+      "id": "111599",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "phase iii - decisive operations violet",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR01135_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holzer-phase-iii-decisive-operations-violet-ar01135",
+      "id": "111600",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77382_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holzer-no-title-p77382",
+      "id": "19025",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77383_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holzer-no-title-p77383",
+      "id": "19046",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77384_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holzer-no-title-p77384",
+      "id": "19047",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77385_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holzer-no-title-p77385",
+      "id": "19048",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77386_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holzer-no-title-p77386",
+      "id": "19049",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77387_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holzer-no-title-p77387",
+      "id": "19050",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77388_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holzer-no-title-p77388",
+      "id": "19059",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77389_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holzer-no-title-p77389",
+      "id": "19051",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77390_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holzer-no-title-p77390",
+      "id": "19052",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77391_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holzer-no-title-p77391",
+      "id": "19053",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77392_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holzer-no-title-p77392",
+      "id": "19054",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77393_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holzer-no-title-p77393",
+      "id": "19101",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77394_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holzer-no-title-p77394",
+      "id": "19055",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77395_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holzer-no-title-p77395",
+      "id": "19056",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77396_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holzer-no-title-p77396",
+      "id": "19057",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77397_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holzer-no-title-p77397",
+      "id": "19058",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77398_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holzer-no-title-p77398",
+      "id": "19060",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77399_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holzer-no-title-p77399",
+      "id": "19061",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77400_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holzer-no-title-p77400",
+      "id": "19062",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77401_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holzer-no-title-p77401",
+      "id": "19063",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77402_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holzer-no-title-p77402",
+      "id": "19064",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77403_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holzer-no-title-p77403",
+      "id": "19065",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77404_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holzer-no-title-p77404",
+      "id": "19066",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77405_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holzer-no-title-p77405",
+      "id": "19067",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77406_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holzer-no-title-p77406",
+      "id": "19068",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77407_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holzer-no-title-p77407",
+      "id": "19069",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77408_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holzer-no-title-p77408",
+      "id": "19070",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77409_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holzer-no-title-p77409",
+      "id": "19071",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77410_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holzer-no-title-p77410",
+      "id": "19072",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77411_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holzer-no-title-p77411",
+      "id": "19073",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77412_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holzer-no-title-p77412",
+      "id": "19074",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "truisms",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03959_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holzer-truisms-t03959",
+      "id": "6691",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "95466",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95898",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95899",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "111597",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "111598",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "111599",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "111600",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19025",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19046",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19047",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19048",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19049",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19050",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19059",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19051",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19052",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19053",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19054",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19101",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19055",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19056",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19057",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19058",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19060",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19061",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19062",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19063",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19064",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19065",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19066",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19067",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19068",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19069",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19070",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19071",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19072",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19073",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19074",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6691",
+      "value": 1
+    }
+  ]
+}

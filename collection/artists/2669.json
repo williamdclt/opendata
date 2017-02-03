@@ -1,0 +1,491 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Moffatt, Tracey",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/tracey-moffatt-2669",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the wizard of oz, 1956",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78100_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moffatt-the-wizard-of-oz-1956-p78100",
+      "id": "26285",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "birth certificate, 1962",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78101_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moffatt-birth-certificate-1962-p78101",
+      "id": "26290",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "charm alone, 1965",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78102_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moffatt-charm-alone-1965-p78102",
+      "id": "26291",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "heart attack, 1970",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78103_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moffatt-heart-attack-1970-p78103",
+      "id": "26292",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "doll birth, 1972",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78104_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moffatt-doll-birth-1972-p78104",
+      "id": "26259",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "useless, 1974",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78105_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moffatt-useless-1974-p78105",
+      "id": "26263",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mother\u2019s day, 1975",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78106_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moffatt-mothers-day-1975-p78106",
+      "id": "26261",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "job hunt, 1976",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78107_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moffatt-job-hunt-1976-p78107",
+      "id": "26262",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "telecam guys, 1977",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78108_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moffatt-telecam-guys-1977-p78108",
+      "id": "26255",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78109_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moffatt-no-title-p78109",
+      "id": "26260",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78110_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moffatt-no-title-p78110",
+      "id": "26264",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78111_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moffatt-no-title-p78111",
+      "id": "26258",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78112_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moffatt-no-title-p78112",
+      "id": "26271",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78113_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moffatt-no-title-p78113",
+      "id": "26253",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78114_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moffatt-no-title-p78114",
+      "id": "26280",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78115_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moffatt-no-title-p78115",
+      "id": "26256",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78116_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moffatt-no-title-p78116",
+      "id": "26257",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78117_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moffatt-no-title-p78117",
+      "id": "26281",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78118_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moffatt-no-title-p78118",
+      "id": "26282",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78119_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moffatt-no-title-p78119",
+      "id": "26283",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78120_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moffatt-no-title-p78120",
+      "id": "26284",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78121_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moffatt-no-title-p78121",
+      "id": "26267",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78122_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moffatt-no-title-p78122",
+      "id": "26268",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78123_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moffatt-no-title-p78123",
+      "id": "26269",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78124_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moffatt-no-title-p78124",
+      "id": "26270",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78125_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moffatt-no-title-p78125",
+      "id": "26266",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78126_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moffatt-no-title-p78126",
+      "id": "26273",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78127_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moffatt-no-title-p78127",
+      "id": "26274",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78128_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moffatt-no-title-p78128",
+      "id": "26275",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78129_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moffatt-no-title-p78129",
+      "id": "26276",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78130_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moffatt-no-title-p78130",
+      "id": "26277",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78131_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moffatt-no-title-p78131",
+      "id": "26278",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78132_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moffatt-no-title-p78132",
+      "id": "26252",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78133_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moffatt-no-title-p78133",
+      "id": "26272",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "26285",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26290",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26291",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26292",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26259",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26263",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26261",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26262",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26255",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26260",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26264",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26258",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26271",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26253",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26280",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26256",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26257",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26281",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26282",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26283",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26284",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26267",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26268",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26269",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26270",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26266",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26273",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26274",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26275",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26276",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26277",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26278",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26252",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26272",
+      "value": 1
+    }
+  ]
+}

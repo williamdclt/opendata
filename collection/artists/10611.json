@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Cahun, Claude",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/claude-cahun-10611",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79317_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cahun-untitled-p79317",
+      "id": "93564",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79318_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cahun-untitled-p79318",
+      "id": "93565",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "i extend my arms",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79319_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cahun-i-extend-my-arms-p79319",
+      "id": "93566",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79320_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cahun-untitled-p79320",
+      "id": "93567",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "crystal heads, british museum, london, june-july 1936",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79321_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cahun-crystal-heads-british-museum-london-june-july-1936-p79321",
+      "id": "93568",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "93564",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93565",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93566",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93567",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93568",
+      "value": 1
+    }
+  ]
+}

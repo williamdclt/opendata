@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "De Loutherbourg, Philip James",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/philip-james-de-loutherbourg-145",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "study of rocks on clifton down, bristol",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36356_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-loutherbourg-study-of-rocks-on-clifton-down-bristol-d36356",
+      "id": "63441",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a lime kiln at clifton",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36357_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-loutherbourg-a-lime-kiln-at-clifton-d36357",
+      "id": "63442",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of smoking kiln",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36358_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-loutherbourg-study-of-smoking-kiln-d36358",
+      "id": "63443",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "part of the avon gorge at clifton, with a kiln on the cliff edge",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36359_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-loutherbourg-part-of-the-avon-gorge-at-clifton-with-a-kiln-on-the-cliff-edge-d36359",
+      "id": "63444",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of woods and hills across the avon gorge at clifton",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36360_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-loutherbourg-view-of-woods-and-hills-across-the-avon-gorge-at-clifton-d36360",
+      "id": "63445",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a lime kiln at the foot of st vincent\u2019s rock, avon gorge",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36361_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-loutherbourg-study-of-a-lime-kiln-at-the-foot-of-st-vincents-rock-avon-gorge-d36361",
+      "id": "63446",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hills and woods at briton ferry, seen from the estuary of the neath river",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36362_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-loutherbourg-hills-and-woods-at-briton-ferry-seen-from-the-estuary-of-the-neath-river-d36362",
+      "id": "63447",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch of a house and a boat",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36363_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-loutherbourg-sketch-of-a-house-and-a-boat-d36363",
+      "id": "63448",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a wooded cape at briton ferry",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36364_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-loutherbourg-a-wooded-cape-at-briton-ferry-d36364",
+      "id": "63449",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wooded hills beside water (?at briton ferry)",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36365_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-loutherbourg-wooded-hills-beside-water-at-briton-ferry-d36365",
+      "id": "63450",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a wooded cape with a house on a low promontory at briton ferry",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36366_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-loutherbourg-a-wooded-cape-with-a-house-on-a-low-promontory-at-briton-ferry-d36366",
+      "id": "63451",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "part of the mill at aberdulais on the neath river",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36367_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-loutherbourg-part-of-the-mill-at-aberdulais-on-the-neath-river-d36367",
+      "id": "63452",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "part of the overshot mill at aberdulais",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36368_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-loutherbourg-part-of-the-overshot-mill-at-aberdulais-d36368",
+      "id": "63453",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rocks beside the neath river at aberdulais mill",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36369_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-loutherbourg-rocks-beside-the-neath-river-at-aberdulais-mill-d36369",
+      "id": "63454",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a copper-smelting works at swansea",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36370_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-loutherbourg-a-copper-smelting-works-at-swansea-d36370",
+      "id": "63455",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a copper-smelting works at swansea",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36371_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-loutherbourg-a-copper-smelting-works-at-swansea-d36371",
+      "id": "63456",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of an iron foundry at swansea",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36372_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-loutherbourg-view-of-an-iron-foundry-at-swansea-d36372",
+      "id": "63457",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "buildings and trees near an iron foundry at swansea",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36373_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-loutherbourg-buildings-and-trees-near-an-iron-foundry-at-swansea-d36373",
+      "id": "63458",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a large copper-smelting works at swansea (perhaps the copper works at landore on the river tawe, north of swansea)",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36374_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-loutherbourg-a-large-copper-smelting-works-at-swansea-perhaps-the-copper-works-at-d36374",
+      "id": "63459",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of an iron foundry at swansea",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36375_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-loutherbourg-view-of-an-iron-foundry-at-swansea-d36375",
+      "id": "63460",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[inscription not by turner]",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36376_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-loutherbourg-inscription-not-by-turner-d36376",
+      "id": "63461",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of an iron foundry at swansea",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36377_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-loutherbourg-view-of-an-iron-foundry-at-swansea-d36377",
+      "id": "63462",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "part of an iron foundry at swansea, with a pond in the foreground",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36378_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-loutherbourg-part-of-an-iron-foundry-at-swansea-with-a-pond-in-the-foreground-d36378",
+      "id": "63463",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "an iron foundry at swansea: two kilns and other buildings",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36379_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-loutherbourg-an-iron-foundry-at-swansea-two-kilns-and-other-buildings-d36379",
+      "id": "63464",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "an iron foundry at swansea, with the masts of a ship, and the banks of a river",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36380_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-loutherbourg-an-iron-foundry-at-swansea-with-the-masts-of-a-ship-and-the-banks-of-a-d36380",
+      "id": "63465",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a mill near swansea",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36381_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-loutherbourg-a-mill-near-swansea-d36381",
+      "id": "63466",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hillsides and buildings near the fforest copper works",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36382_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-loutherbourg-hillsides-and-buildings-near-the-fforest-copper-works-d36382",
+      "id": "63467",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fforest copper works, clase",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36383_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-loutherbourg-fforest-copper-works-clase-d36383",
+      "id": "63468",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "part of the fforest copper works, clase",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36384_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-loutherbourg-part-of-the-fforest-copper-works-clase-d36384",
+      "id": "63469",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a stone cottage among rocks",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36385_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-loutherbourg-a-stone-cottage-among-rocks-d36385",
+      "id": "63470",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the bridge at beddgelert with part of moel hebog",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36386_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-loutherbourg-the-bridge-at-beddgelert-with-part-of-moel-hebog-d36386",
+      "id": "63471",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "houses at beddgelert, with a mountain beyond",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36387_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-loutherbourg-houses-at-beddgelert-with-a-mountain-beyond-d36387",
+      "id": "63472",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of the mountains round llyn ogwen, looking north west",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36388_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-loutherbourg-view-of-the-mountains-round-llyn-ogwen-looking-north-west-d36388",
+      "id": "63473",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of tryfan and a bridge over the rier ogwen",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36389_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-loutherbourg-view-of-tryfan-and-a-bridge-over-the-rier-ogwen-d36389",
+      "id": "63474",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view in nant ffrancon towards carredd-y-filinst",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36390_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-loutherbourg-view-in-nant-ffrancon-towards-carredd-y-filinst-d36390",
+      "id": "63475",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view up nant ffrancon towards the glyders",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36391_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-loutherbourg-view-up-nant-ffrancon-towards-the-glyders-d36391",
+      "id": "63476",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "houses and mountains seen from a bridge near llangollen",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36392_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-loutherbourg-houses-and-mountains-seen-from-a-bridge-near-llangollen-d36392",
+      "id": "63477",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a house and trees, with distant valley and mountain",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36393_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-loutherbourg-a-house-and-trees-with-distant-valley-and-mountain-d36393",
+      "id": "63478",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the banks of the river dee at llangollen",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36394_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-loutherbourg-the-banks-of-the-river-dee-at-llangollen-d36394",
+      "id": "63479",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the river dee at llangollen, with hills beyond; looking west",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36395_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-loutherbourg-the-river-dee-at-llangollen-with-hills-beyond-looking-west-d36395",
+      "id": "63480",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "63441",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63442",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63443",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63444",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63445",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63446",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63447",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63448",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63449",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63450",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63451",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63452",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63453",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63454",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63455",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63456",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63457",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63458",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63459",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63460",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63461",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63462",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63463",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63464",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63465",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63466",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63467",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63468",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63469",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63470",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63471",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63472",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63473",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63474",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63475",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63476",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63477",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63478",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63479",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63480",
+      "value": 1
+    }
+  ]
+}

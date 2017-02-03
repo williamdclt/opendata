@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Scott, Frances",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/frances-scott-lady-douglas-2573",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a castle above a river, among mountains, after robert adam",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08604_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-a-castle-above-a-river-among-mountains-after-robert-adam-t08604",
+      "id": "23504",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a waterfall in a gorge",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08605_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-a-waterfall-in-a-gorge-t08605",
+      "id": "23505",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a mountain gorge with a river",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08606_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-a-mountain-gorge-with-a-river-t08606",
+      "id": "23506",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dunskie castle near port patrick",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08607_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-dunskie-castle-near-port-patrick-t08607",
+      "id": "23507",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "23504",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23505",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23506",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23507",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Scott, Robert",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/robert-scott-1914",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "peruvian night",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-peruvian-night-p06753",
+      "id": "13199",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13199",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Farington, Joseph",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/joseph-farington-176",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "landscape at sandringham, with trees and wagon",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04296_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/farington-landscape-at-sandringham-with-trees-and-wagon-n04296",
+      "id": "4228",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape, with castle",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04297_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/farington-landscape-with-castle-n04297",
+      "id": "4229",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cockermouth castle",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04298_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/farington-cockermouth-castle-n04298",
+      "id": "4230",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the oak tree",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00786_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/farington-the-oak-tree-t00786",
+      "id": "4231",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08446_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/farington-title-not-known-t08446",
+      "id": "22848",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08447_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/farington-title-not-known-t08447",
+      "id": "23101",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08448_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/farington-title-not-known-t08448",
+      "id": "23309",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "north-east view of worcester cathedral",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08449_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/farington-north-east-view-of-worcester-cathedral-t08449",
+      "id": "23492",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08450_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/farington-title-not-known-t08450",
+      "id": "24163",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08451_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/farington-title-not-known-t08451",
+      "id": "24164",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08452_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/farington-title-not-known-t08452",
+      "id": "24165",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08453_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/farington-title-not-known-t08453",
+      "id": "24166",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08454_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/farington-title-not-known-t08454",
+      "id": "24167",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08455_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/farington-title-not-known-t08455",
+      "id": "24168",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08456_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/farington-title-not-known-t08456",
+      "id": "24169",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08457_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/farington-title-not-known-t08457",
+      "id": "24170",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08458_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/farington-title-not-known-t08458",
+      "id": "24171",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08459_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/farington-title-not-known-t08459",
+      "id": "24172",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08460_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/farington-title-not-known-t08460",
+      "id": "24276",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the rose & crown, broxburn",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08883_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/farington-the-rose-crown-broxburn-t08883",
+      "id": "22846",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "scene in a wood, with figures",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08937_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/farington-scene-in-a-wood-with-figures-t08937",
+      "id": "22847",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4228",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4229",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4230",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4231",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22848",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23101",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23309",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23492",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24163",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24164",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24165",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24166",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24167",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24168",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24169",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24170",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24171",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24172",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24276",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22846",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22847",
+      "value": 1
+    }
+  ]
+}

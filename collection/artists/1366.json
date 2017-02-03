@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Johnson, Ben",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/ben-johnson-1366",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "escalator",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01883_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/johnson-escalator-p01883",
+      "id": "7169",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "7169",
+      "value": 1
+    }
+  ]
+}

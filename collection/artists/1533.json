@@ -1,0 +1,337 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Lowry, L.S.",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/ls-lowry-1533",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "dwelling, ordsall lane, salford",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05003_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lowry-dwelling-ordsall-lane-salford-n05003",
+      "id": "9006",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "coming out of school",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05912_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lowry-coming-out-of-school-n05912",
+      "id": "9007",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the old house, grove street, salford",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05992_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lowry-the-old-house-grove-street-salford-n05992",
+      "id": "9008",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018dwellings, ordsall lane, salford\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06027_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lowry-study-for-dwellings-ordsall-lane-salford-n06027",
+      "id": "9009",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the pond",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06032_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lowry-the-pond-n06032",
+      "id": "9010",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "punch and judy",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01712_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lowry-punch-and-judy-p01712",
+      "id": "9011",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bloomsbury square",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03267_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lowry-bloomsbury-square-p03267",
+      "id": "9012",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a hillside",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03268_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lowry-a-hillside-p03268",
+      "id": "9013",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seaside promenade",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03269_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lowry-seaside-promenade-p03269",
+      "id": "9014",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shapes & sizes",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03270_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lowry-shapes-sizes-p03270",
+      "id": "9015",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sunday afternoon",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03271_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lowry-sunday-afternoon-p03271",
+      "id": "9016",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tree in a square",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03272_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lowry-tree-in-a-square-p03272",
+      "id": "9017",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "castle on the sands",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03273_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lowry-castle-on-the-sands-p03273",
+      "id": "9018",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a northern town",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03274_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lowry-a-northern-town-p03274",
+      "id": "9019",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "old steps, stockport",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03275_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lowry-old-steps-stockport-p03275",
+      "id": "9020",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the three cats, alstow",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03276_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lowry-the-three-cats-alstow-p03276",
+      "id": "9021",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "francis terrace, salford",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03277_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lowry-francis-terrace-salford-p03277",
+      "id": "9022",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the pavilion",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03278_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lowry-the-pavilion-p03278",
+      "id": "9023",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the viaduct, stockport",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03279_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lowry-the-viaduct-stockport-p03279",
+      "id": "9024",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "winter in broughton",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03280_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lowry-winter-in-broughton-p03280",
+      "id": "9025",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "industrial landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00111_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lowry-industrial-landscape-t00111",
+      "id": "9026",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a young man",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00142_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lowry-a-young-man-t00142",
+      "id": "9027",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hillside in wales",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00591_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lowry-hillside-in-wales-t00591",
+      "id": "9028",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9006",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9007",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9008",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9009",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9010",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9011",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9012",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9013",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9014",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9015",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9016",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9017",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9018",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9019",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9020",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9021",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9022",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9023",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9024",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9025",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9026",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9027",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9028",
+      "value": 1
+    }
+  ]
+}

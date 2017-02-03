@@ -1,0 +1,197 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Renger-Patzsch, Albert",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/albert-renger-patzsch-2709",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "h\u00f6rder verein - coal mixing plant (dortmund)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79952_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/renger-patzsch-horder-verein-coal-mixing-plant-dortmund-p79952",
+      "id": "114613",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woodcutter from the ore mountains",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79953_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/renger-patzsch-woodcutter-from-the-ore-mountains-p79953",
+      "id": "114614",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "saxon hosiery weaver at a handloom",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79954_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/renger-patzsch-saxon-hosiery-weaver-at-a-handloom-p79954",
+      "id": "114615",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bookbinder gilding",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79955_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/renger-patzsch-bookbinder-gilding-p79955",
+      "id": "114616",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "picture gallery dresden",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79956_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/renger-patzsch-picture-gallery-dresden-p79956",
+      "id": "114617",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "from the work: north german brick cathedrals, stralsund - st mary\u2019s church, nave from the choir",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79957_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/renger-patzsch-from-the-work-north-german-brick-cathedrals-stralsund-st-marys-church-nave-p79957",
+      "id": "114618",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "paderborn westphalia jesuit church",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79958_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/renger-patzsch-paderborn-westphalia-jesuit-church-p79958",
+      "id": "114619",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "greifswald, st nicholas\u2019s church, series: north german brick cathedrals",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79959_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/renger-patzsch-greifswald-st-nicholass-church-series-north-german-brick-cathedrals-p79959",
+      "id": "114620",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hamburg, port",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79960_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/renger-patzsch-hamburg-port-p79960",
+      "id": "114621",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hamburg, port scene",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79961_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/renger-patzsch-hamburg-port-scene-p79961",
+      "id": "114622",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "m\u00fcnster in westphalia, st clement\u2019s church, built by schlaun",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79962_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/renger-patzsch-munster-in-westphalia-st-clements-church-built-by-schlaun-p79962",
+      "id": "114623",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fortified church in grottr\u00fcckerswalde, ore mountains",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79963_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/renger-patzsch-fortified-church-in-grottruckerswalde-ore-mountains-p79963",
+      "id": "114624",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hamburg, st nicholas\u2019s church",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79964_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/renger-patzsch-hamburg-st-nicholass-church-p79964",
+      "id": "114625",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "114613",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114614",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114615",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114616",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114617",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114618",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114619",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114620",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114621",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114622",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114623",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114624",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114625",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Frye, Thomas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/thomas-frye-2265",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "henry crispe of the custom house",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05784_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frye-henry-crispe-of-the-custom-house-t05784",
+      "id": "19178",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "19178",
+      "value": 1
+    }
+  ]
+}

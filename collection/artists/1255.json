@@ -1,0 +1,239 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hayden, Henri",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/henri-hayden-1255",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "bottle and fruit",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01159_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hayden-bottle-and-fruit-p01159",
+      "id": "5872",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the red hill",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01160_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hayden-the-red-hill-p01160",
+      "id": "5873",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fay-le-bac",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01161_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hayden-fay-le-bac-p01161",
+      "id": "5874",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "brown still life",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01162_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hayden-brown-still-life-p01162",
+      "id": "5875",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blue landscape",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01163_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hayden-blue-landscape-p01163",
+      "id": "5876",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "green landscape",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01164_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hayden-green-landscape-p01164",
+      "id": "5877",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black vase",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01165_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hayden-black-vase-p01165",
+      "id": "5878",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the sun",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01166_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hayden-the-sun-p01166",
+      "id": "5879",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "red and blue teapot",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01167_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hayden-red-and-blue-teapot-p01167",
+      "id": "5880",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "courtablon",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01168_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hayden-courtablon-p01168",
+      "id": "5881",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01169_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hayden-still-life-p01169",
+      "id": "5882",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hayden landscape",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01170_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hayden-hayden-landscape-p01170",
+      "id": "5883",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "orange landscape",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01171_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hayden-orange-landscape-p01171",
+      "id": "5884",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (blue landscape)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01172_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hayden-untitled-blue-landscape-p01172",
+      "id": "5885",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the red plain",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00559_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hayden-the-red-plain-t00559",
+      "id": "5886",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chess board in ochre",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hayden-chess-board-in-ochre-t00818",
+      "id": "5887",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5872",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5873",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5874",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5875",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5876",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5877",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5878",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5879",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5880",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5881",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5882",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5883",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5884",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5885",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5886",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5887",
+      "value": 1
+    }
+  ]
+}

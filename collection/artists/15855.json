@@ -1,0 +1,421 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Wilson, Fred",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/fred-wilson-15855",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "antigua-barbuda",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-antigua-barbuda-t13602",
+      "id": "118785",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "barbados",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-barbados-t13604",
+      "id": "118787",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "benin",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-benin-t13605",
+      "id": "118788",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "burkina faso",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-burkina-faso-t13606",
+      "id": "118789",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cameroon",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-cameroon-t13607",
+      "id": "118790",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "central african republic",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-central-african-republic-t13608",
+      "id": "118791",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "comoros",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-comoros-t13609",
+      "id": "118792",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "congo",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-congo-t13610",
+      "id": "118793",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dominica",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-dominica-t13611",
+      "id": "118794",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gabon",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-gabon-t13612",
+      "id": "118795",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "haiti",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-haiti-t13613",
+      "id": "118796",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kenya",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-kenya-t13614",
+      "id": "118797",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lesotho",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-lesotho-t13615",
+      "id": "118798",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "malawi",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-malawi-t13616",
+      "id": "118799",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "niger",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-niger-t13617",
+      "id": "118800",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "senegal",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-senegal-t13618",
+      "id": "118801",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seychelles",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-seychelles-t13619",
+      "id": "118802",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "swaziland",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-swaziland-t13620",
+      "id": "118803",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "togo",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-togo-t13621",
+      "id": "118804",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "trinidad-tobago",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-trinidad-tobago-t13622",
+      "id": "118805",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "uganda",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-uganda-t13623",
+      "id": "118806",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ghana",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-ghana-t13624",
+      "id": "118807",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jamaica",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-jamaica-t13625",
+      "id": "118808",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nigeria",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-nigeria-t13626",
+      "id": "118809",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "saint vincent-grenadines",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-saint-vincent-grenadines-t13627",
+      "id": "118810",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "zimbabwe",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-zimbabwe-t13628",
+      "id": "118811",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "malawi",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-malawi-t13629",
+      "id": "118812",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "grey area (black version)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-grey-area-black-version-t13632",
+      "id": "118754",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ota benga",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-ota-benga-t13633",
+      "id": "118756",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "118785",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118787",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118788",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118789",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118790",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118791",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118792",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118793",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118794",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118795",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118796",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118797",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118798",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118799",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118800",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118801",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118802",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118803",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118804",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118805",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118806",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118807",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118808",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118809",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118810",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118811",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118812",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118754",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118756",
+      "value": 1
+    }
+  ]
+}

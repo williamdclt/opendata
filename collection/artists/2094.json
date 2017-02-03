@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Vantongerloo, Georges",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/georges-vantongerloo-2094",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "no. 98 2478 red/135 green",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01574_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/vantongerloo-no-98-2478-red135-green-t01574",
+      "id": "15698",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "interrelation of volumes",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02306_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/vantongerloo-interrelation-of-volumes-t02306",
+      "id": "15699",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "15698",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15699",
+      "value": 1
+    }
+  ]
+}

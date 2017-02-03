@@ -1,0 +1,141 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Dufy, Raoul",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/raoul-dufy-1038",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "olive trees by the golfe juan",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04850_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dufy-olive-trees-by-the-golfe-juan-n04850",
+      "id": "4033",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "deauville, drying the sails",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05943_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dufy-deauville-drying-the-sails-n05943",
+      "id": "4034",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the band",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01703_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dufy-the-band-p01703",
+      "id": "4035",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the baou de saint-jeannet",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02133_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dufy-the-baou-de-saint-jeannet-t02133",
+      "id": "4036",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the wheatfield",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03564_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dufy-the-wheatfield-t03564",
+      "id": "4037",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "open window at saint-jeannet",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03565_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dufy-open-window-at-saint-jeannet-t03565",
+      "id": "4038",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the kessler family on horseback",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03566_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dufy-the-kessler-family-on-horseback-t03566",
+      "id": "4039",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape study for \u2018the kessler family on horseback\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dufy-landscape-study-for-the-kessler-family-on-horseback-t03567",
+      "id": "4040",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the kessler family on horseback",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05500_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dufy-the-kessler-family-on-horseback-t05500",
+      "id": "17286",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4033",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4034",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4035",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4036",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4037",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4038",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4039",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4040",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17286",
+      "value": 1
+    }
+  ]
+}

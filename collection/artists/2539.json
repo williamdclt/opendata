@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Sanders, Ann",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/ann-sanders-2539",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "wooded landscape with traveller and packhorse, after f. towne",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08575_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sanders-wooded-landscape-with-traveller-and-packhorse-after-f-towne-t08575",
+      "id": "23854",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "23854",
+      "value": 1
+    }
+  ]
+}

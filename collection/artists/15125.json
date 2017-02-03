@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Martin, Anne",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/anne-martin-15125",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "from one world to another",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13321_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-from-one-world-to-another-t13321",
+      "id": "115177",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "115177",
+      "value": 1
+    }
+  ]
+}

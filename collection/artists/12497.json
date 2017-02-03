@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hlobo, Nicholas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/nicholas-hlobo-12497",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "macaleni iintozomlambo",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13242_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hlobo-macaleni-iintozomlambo-t13242",
+      "id": "112232",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ikhonkco",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13243_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hlobo-ikhonkco-t13243",
+      "id": "112233",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "iingcamango",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hlobo-iingcamango-t13430",
+      "id": "117227",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "balindile i",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13737_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hlobo-balindile-i-t13737",
+      "id": "126544",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "112232",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112233",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117227",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "126544",
+      "value": 1
+    }
+  ]
+}

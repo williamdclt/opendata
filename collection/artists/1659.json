@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Moore, Henry, OM, CH",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/henry-moore-om-ch-1659",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "two seated figures",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05208_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-two-seated-figures-n05208",
+      "id": "9660",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two seated women",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05209_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-two-seated-women-n05209",
+      "id": "9661",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "standing figures",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05210_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-standing-figures-n05210",
+      "id": "9662",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "recumbent figure",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05387_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-recumbent-figure-n05387",
+      "id": "9663",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "maquette for madonna and child",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05600_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-maquette-for-madonna-and-child-n05600",
+      "id": "9664",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "maquette for madonna and child",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05601_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-maquette-for-madonna-and-child-n05601",
+      "id": "9665",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "maquette for madonna and child",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05602_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-maquette-for-madonna-and-child-n05602",
+      "id": "9666",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "maquette for madonna and child",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05603_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-maquette-for-madonna-and-child-n05603",
+      "id": "9667",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "maquette for family group",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05604_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-maquette-for-family-group-n05604",
+      "id": "9668",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "maquette for family group",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05605_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-maquette-for-family-group-n05605",
+      "id": "9669",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "maquette for family group",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05606_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-maquette-for-family-group-n05606",
+      "id": "9670",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "grey tube shelter",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05706_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-grey-tube-shelter-n05706",
+      "id": "9671",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman seated in the underground",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05707_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-woman-seated-in-the-underground-n05707",
+      "id": "9672",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a tilbury shelter scene",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05708_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-a-tilbury-shelter-scene-n05708",
+      "id": "9673",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tube shelter perspective",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05709_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-tube-shelter-perspective-n05709",
+      "id": "9674",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pale shelter scene",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-pale-shelter-scene-n05710",
+      "id": "9675",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shelter scene: bunks and sleepers",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05711_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-shelter-scene-bunks-and-sleepers-n05711",
+      "id": "9676",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shelterers in the tube",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05712_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-shelterers-in-the-tube-n05712",
+      "id": "9677",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pink and green sleepers",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05713_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-pink-and-green-sleepers-n05713",
+      "id": "9678",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "standing nude",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05950_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-standing-nude-n05950",
+      "id": "9679",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "family group",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06004_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-family-group-n06004",
+      "id": "9680",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "girl",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06078_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-girl-n06078",
+      "id": "9681",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figures in settings (trial proof)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01070_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-figures-in-settings-trial-proof-p01070",
+      "id": "9682",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sculptural objects",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01714_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-sculptural-objects-p01714",
+      "id": "9683",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "composition for a poem by herbert read",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02072_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-composition-for-a-poem-by-herbert-read-p02072",
+      "id": "9684",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figures in settings",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02073_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-figures-in-settings-p02073",
+      "id": "9685",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "standing figures",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02074_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-standing-figures-p02074",
+      "id": "9686",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two standing figures with studies on the left",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02075_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-two-standing-figures-with-studies-on-the-left-p02075",
+      "id": "9687",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two seated figures",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02076_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-two-seated-figures-p02076",
+      "id": "9688",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reclining figure",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02077_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-reclining-figure-p02077",
+      "id": "9689",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "square forms",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02078_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-square-forms-p02078",
+      "id": "9690",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "crowd looking at a tied-up object",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02079_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-crowd-looking-at-a-tied-up-object-p02079",
+      "id": "9691",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hommage \u00e0 rodin",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02080_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-hommage-a-rodin-p02080",
+      "id": "9692",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ideas for sculpture",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02081_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-ideas-for-sculpture-p02081",
+      "id": "9693",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "six reclining figures on green ground",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02082_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-six-reclining-figures-on-green-ground-p02082",
+      "id": "9694",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "three reclining figures on pedestals",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02083_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-three-reclining-figures-on-pedestals-p02083",
+      "id": "9695",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two monumental reclining figures",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02084_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-two-monumental-reclining-figures-p02084",
+      "id": "9696",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two upright motives",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02085_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-two-upright-motives-p02085",
+      "id": "9697",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two seated women",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02086_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-two-seated-women-p02086",
+      "id": "9698",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "concerto",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02087_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-concerto-p02087",
+      "id": "9699",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9660",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9661",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9662",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9663",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9664",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9665",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9666",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9667",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9668",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9669",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9670",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9671",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9672",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9673",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9674",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9675",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9676",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9677",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9678",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9679",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9680",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9681",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9682",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9683",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9684",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9685",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9686",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9687",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9688",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9689",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9690",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9691",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9692",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9693",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9694",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9695",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9696",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9697",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9698",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9699",
+      "value": 1
+    }
+  ]
+}

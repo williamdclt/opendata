@@ -1,0 +1,141 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Sandys, Frederick",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/frederick-sandys-473",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "melancholia",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00847_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandys-melancholia-a00847",
+      "id": "13095",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for illustration",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00848_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandys-study-for-illustration-a00848",
+      "id": "13096",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for illustration",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00849_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandys-study-for-illustration-a00849",
+      "id": "13097",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jacob hears the voice of the lord, engraved by the dalziel brothers",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04025_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandys-jacob-hears-the-voice-of-the-lord-engraved-by-the-dalziel-brothers-n04025",
+      "id": "13098",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "life\u2019s journey, engraved by the dalziel brothers",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04125_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandys-lifes-journey-engraved-by-the-dalziel-brothers-n04125",
+      "id": "13099",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the little mourner, engraved by the dalziel brothers",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04126_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandys-the-little-mourner-engraved-by-the-dalziel-brothers-n04126",
+      "id": "13100",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of trees and undergrowth",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00685_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandys-study-of-trees-and-undergrowth-t00685",
+      "id": "13101",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "oriana",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03904_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandys-oriana-t03904",
+      "id": "13102",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "great yarmouth and breydon water",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05717_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandys-great-yarmouth-and-breydon-water-t05717",
+      "id": "18933",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13095",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13096",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13097",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13098",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13099",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13100",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13101",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13102",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18933",
+      "value": 1
+    }
+  ]
+}

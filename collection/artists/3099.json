@@ -1,0 +1,169 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Morris, Sarah",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/sarah-morris-3099",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "big ben",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morris-big-ben-p13281",
+      "id": "122053",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78596_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morris-no-title-p78596",
+      "id": "69937",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78597_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morris-no-title-p78597",
+      "id": "69939",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78598_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morris-no-title-p78598",
+      "id": "69940",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dulles [capital]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78599_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morris-dulles-capital-p78599",
+      "id": "69941",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78600_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morris-no-title-p78600",
+      "id": "69942",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78601_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morris-no-title-p78601",
+      "id": "69943",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78602_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morris-no-title-p78602",
+      "id": "69944",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78603_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morris-no-title-p78603",
+      "id": "69945",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78604_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morris-no-title-p78604",
+      "id": "69946",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rio (with palms) [las vegas]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07891_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morris-rio-with-palms-las-vegas-t07891",
+      "id": "158",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "122053",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "69937",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "69939",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "69940",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "69941",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "69942",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "69943",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "69944",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "69945",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "69946",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "158",
+      "value": 1
+    }
+  ]
+}

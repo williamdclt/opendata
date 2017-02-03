@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Skaer, Lucy",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/lucy-skaer-13391",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "zero table",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/skaer-zero-table-t12993",
+      "id": "108166",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "108166",
+      "value": 1
+    }
+  ]
+}

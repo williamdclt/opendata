@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Moholy, Lucia",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/lucia-moholy-13004",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "bauhaus building, dessau, view from the vestibule window looking toward the workshop wing",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moholy-bauhaus-building-dessau-view-from-the-vestibule-window-looking-toward-the-workshop-p79915",
+      "id": "113954",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bauhaus building, dessau",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moholy-bauhaus-building-dessau-p79916",
+      "id": "113955",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "113954",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "113955",
+      "value": 1
+    }
+  ]
+}

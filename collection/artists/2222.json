@@ -1,0 +1,337 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Chatelain, Jean Baptiste Claude",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/jean-baptiste-claude-chatelain-2222",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "pastoral landscape, with a river",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05472_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chatelain-pastoral-landscape-with-a-river-t05472",
+      "id": "17252",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a view of the wrekin hill from ercall, shropshire",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08125_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chatelain-a-view-of-the-wrekin-hill-from-ercall-shropshire-t08125",
+      "id": "22401",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape with road and mansion",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08744_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chatelain-landscape-with-road-and-mansion-t08744",
+      "id": "22403",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape composition",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08745_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chatelain-landscape-composition-t08745",
+      "id": "22405",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape composition",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08746_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chatelain-landscape-composition-t08746",
+      "id": "22404",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure studies",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08748_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chatelain-figure-studies-t08748",
+      "id": "22402",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape composition with tree, a church on the left",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08754_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chatelain-landscape-composition-with-tree-a-church-on-the-left-t08754",
+      "id": "22394",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view in a park with buildings in the distance",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08820_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chatelain-view-in-a-park-with-buildings-in-the-distance-t08820",
+      "id": "22399",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape composition with a town in the distance",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09528_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chatelain-landscape-composition-with-a-town-in-the-distance-t09528",
+      "id": "22396",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape composition",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09529_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chatelain-landscape-composition-t09529",
+      "id": "22398",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape composition",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09530_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chatelain-landscape-composition-t09530",
+      "id": "22400",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape composition with church on the right",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09531_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chatelain-landscape-composition-with-church-on-the-right-t09531",
+      "id": "22395",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape composition with a lake in the distance. verso: sketch",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09532_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chatelain-landscape-composition-with-a-lake-in-the-distance-verso-sketch-t09532",
+      "id": "22397",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10155_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chatelain-landscape-t10155",
+      "id": "22406",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10156_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chatelain-landscape-t10156",
+      "id": "24672",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10157_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chatelain-landscape-t10157",
+      "id": "24673",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10158_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chatelain-landscape-t10158",
+      "id": "24674",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10159_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chatelain-landscape-t10159",
+      "id": "24675",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10160_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chatelain-landscape-t10160",
+      "id": "24676",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10161_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chatelain-landscape-t10161",
+      "id": "24677",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10162_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chatelain-landscape-t10162",
+      "id": "24678",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape. verso: landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10163_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chatelain-landscape-verso-landscape-t10163",
+      "id": "24679",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10164_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chatelain-landscape-t10164",
+      "id": "24680",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "17252",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22401",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22403",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22405",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22404",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22402",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22394",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22399",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22396",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22398",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22400",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22395",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22397",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22406",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24672",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24673",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24674",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24675",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24676",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24677",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24678",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24679",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24680",
+      "value": 1
+    }
+  ]
+}

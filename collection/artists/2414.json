@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Brandard, Robert",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/robert-brandard-2414",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "continental street scene",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08737_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brandard-continental-street-scene-t08737",
+      "id": "22327",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "22327",
+      "value": 1
+    }
+  ]
+}

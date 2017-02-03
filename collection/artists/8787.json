@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Lamelas, David",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/david-lamelas-8787",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "time",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79205_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lamelas-time-p79205",
+      "id": "88177",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "time",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lamelas-time-t12208",
+      "id": "88176",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "film script (manipulation of meaning)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12978_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lamelas-film-script-manipulation-of-meaning-t12978",
+      "id": "96927",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "88177",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88176",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96927",
+      "value": 1
+    }
+  ]
+}

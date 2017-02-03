@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Newman, Hayley",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/hayley-newman-6294",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "volcano lady",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79368_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/newman-volcano-lady-p79368",
+      "id": "100714",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "100714",
+      "value": 1
+    }
+  ]
+}

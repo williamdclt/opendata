@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Boyce, Martin",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/martin-boyce-7630",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "gate (we don\u2019t meet here. we are always together first.)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11905_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boyce-gate-we-dont-meet-here-we-are-always-together-first-t11905",
+      "id": "84094",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "from \u2018our love is like the flowers, the rain, the sea and the hours\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12132_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boyce-from-our-love-is-like-the-flowers-the-rain-the-sea-and-the-hours-t12132",
+      "id": "88472",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "suspended fall",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boyce-suspended-fall-t13283",
+      "id": "112300",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13284_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boyce-untitled-t13284",
+      "id": "112301",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "84094",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88472",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112300",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112301",
+      "value": 1
+    }
+  ]
+}

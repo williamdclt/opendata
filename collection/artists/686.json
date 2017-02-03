@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Baj, Enrico",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/enrico-baj-686",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03244_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baj-no-title-p03244",
+      "id": "691",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fire! fire!",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01777_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baj-fire-fire-t01777",
+      "id": "692",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "691",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "692",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Van Dyck, Sir Anthony",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-anthony-van-dyck-565",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a lady of the spencer family",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02139_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/van-dyck-a-lady-of-the-spencer-family-t02139",
+      "id": "15694",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of sir william killigrew",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07896_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/van-dyck-portrait-of-sir-william-killigrew-t07896",
+      "id": "25994",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of mary hill, lady killigrew",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07956_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/van-dyck-portrait-of-mary-hill-lady-killigrew-t07956",
+      "id": "76763",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "15694",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25994",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "76763",
+      "value": 1
+    }
+  ]
+}

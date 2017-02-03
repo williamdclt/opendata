@@ -1,0 +1,267 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Milow, Keith",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/keith-milow-1638",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "pr1nt a",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07090_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/milow-pr1nt-a-p07090",
+      "id": "9555",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pr2nt a",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07091_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/milow-pr2nt-a-p07091",
+      "id": "9556",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pr3nt a",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07092_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/milow-pr3nt-a-p07092",
+      "id": "9557",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pr4nt a",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07093_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/milow-pr4nt-a-p07093",
+      "id": "9558",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pr5nt a",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07094_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/milow-pr5nt-a-p07094",
+      "id": "9559",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pr6nt a",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/milow-pr6nt-a-p07095",
+      "id": "9560",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "1 2 3 4 5 6 ... b",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/milow-1-2-3-4-5-6-b-t01213",
+      "id": "9561",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "3nterference",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/milow-3nterference-t01279",
+      "id": "9562",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "eightieth cross",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/milow-eightieth-cross-t04159",
+      "id": "9563",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "89/5/75/d",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05562_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/milow-89575d-t05562",
+      "id": "17404",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "89/10/80/d",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05563_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/milow-891080d-t05563",
+      "id": "17393",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "88/60/d",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05564_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/milow-8860d-t05564",
+      "id": "17405",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "88/18/d",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05565_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/milow-8818d-t05565",
+      "id": "17407",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "88/49/d",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05701_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/milow-8849d-t05701",
+      "id": "18876",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "88/70/d",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05702_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/milow-8870d-t05702",
+      "id": "18877",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cross ii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/milow-cross-ii-t05876",
+      "id": "19507",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cross no. 6",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07876_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/milow-cross-no-6-t07876",
+      "id": "20303",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "river",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11866_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/milow-river-t11866",
+      "id": "83472",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9555",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9556",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9557",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9558",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9559",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9560",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9561",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9562",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9563",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17404",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17393",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17405",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17407",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18876",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18877",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19507",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20303",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83472",
+      "value": 1
+    }
+  ]
+}

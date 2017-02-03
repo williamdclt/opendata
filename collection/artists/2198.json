@@ -1,0 +1,183 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Olitski, Jules",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/jules-olitski-2198",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "magenta-orange i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01243_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/olitski-magenta-orange-i-p01243",
+      "id": "10919",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mauve-blue i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01244_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/olitski-mauve-blue-i-p01244",
+      "id": "10920",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "orange-grey i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01245_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/olitski-orange-grey-i-p01245",
+      "id": "10921",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pink-blue i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01246_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/olitski-pink-blue-i-p01246",
+      "id": "10922",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "yellow-green i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01247_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/olitski-yellow-green-i-p01247",
+      "id": "10923",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "crimson-orange ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01248_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/olitski-crimson-orange-ii-p01248",
+      "id": "10924",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "orange-ochre ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01249_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/olitski-orange-ochre-ii-p01249",
+      "id": "10925",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pale blue ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01250_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/olitski-pale-blue-ii-p01250",
+      "id": "10926",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pink-grey ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01251_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/olitski-pink-grey-ii-p01251",
+      "id": "10927",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pink-yellow ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01252_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/olitski-pink-yellow-ii-p01252",
+      "id": "10928",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "instant loveland",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07244_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/olitski-instant-loveland-t07244",
+      "id": "22047",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "solomon\u2019s mirror no. 2",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07245_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/olitski-solomons-mirror-no-2-t07245",
+      "id": "22046",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "10919",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10920",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10921",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10922",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10923",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10924",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10925",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10926",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10927",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10928",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22047",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22046",
+      "value": 1
+    }
+  ]
+}

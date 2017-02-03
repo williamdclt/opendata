@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Potter, Frank Huddlestone",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/frank-huddlestone-potter-431",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a music lesson",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02108_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/potter-a-music-lesson-n02108",
+      "id": "12172",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "little dormouse",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02214_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/potter-little-dormouse-n02214",
+      "id": "12173",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nothing to do",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03342_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/potter-nothing-to-do-n03342",
+      "id": "12174",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "girl resting at a piano",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04617_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/potter-girl-resting-at-a-piano-n04617",
+      "id": "12175",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a girl reading",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04621_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/potter-a-girl-reading-n04621",
+      "id": "12176",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of a girl",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05081_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/potter-head-of-a-girl-n05081",
+      "id": "12177",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a quiet corner: miss e.a. whelan",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05364_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/potter-a-quiet-corner-miss-ea-whelan-n05364",
+      "id": "12178",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rest",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05446_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/potter-rest-n05446",
+      "id": "12179",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12172",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12173",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12174",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12175",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12176",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12177",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12178",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12179",
+      "value": 1
+    }
+  ]
+}

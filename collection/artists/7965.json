@@ -1,0 +1,14 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Russian School",
+      "url": null,
+      "gender": "",
+      "tatelink": "http://www.tate.org.uk/art/artists/russian-school-7965",
+      "id": "Artist",
+      "size": 30
+    }
+  ],
+  "links": []
+}

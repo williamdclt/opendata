@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Salter, Rebecca",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/rebecca-salter-2343",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "four lines i",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/salter-four-lines-i-p77675",
+      "id": "21021",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "four lines ii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/salter-four-lines-ii-p77676",
+      "id": "21024",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "four lines iii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/salter-four-lines-iii-p77677",
+      "id": "21022",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "four lines iv",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/salter-four-lines-iv-p77678",
+      "id": "21023",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "21021",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21024",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21022",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21023",
+      "value": 1
+    }
+  ]
+}

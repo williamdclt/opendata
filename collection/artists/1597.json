@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Maurer, Dora",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/dora-maurer-1597",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "seven foldings",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77124_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maurer-seven-foldings-p77124",
+      "id": "9403",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "traces of a circle",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maurer-traces-of-a-circle-p77125",
+      "id": "9404",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9403",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9404",
+      "value": 1
+    }
+  ]
+}

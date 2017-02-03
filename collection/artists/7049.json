@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Harrison, Paul",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/paul-harrison-7049",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "twenty-six (drawing and falling things)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/harrison-wood-twenty-six-drawing-and-falling-things-t11853",
+      "id": "81824",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "81824",
+      "value": 1
+    }
+  ]
+}

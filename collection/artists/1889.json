@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Said, Anne",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/anne-said-1889",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "jo\u2019s wild wood",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00533_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/said-jos-wild-wood-t00533",
+      "id": "13061",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13061",
+      "value": 1
+    }
+  ]
+}

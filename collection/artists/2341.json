@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Lucio",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/lucio-lucio-munoz-2341",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "panel 21",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lucio-panel-21-t00476",
+      "id": "10489",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "10489",
+      "value": 1
+    }
+  ]
+}

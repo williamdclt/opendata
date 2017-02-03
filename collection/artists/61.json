@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "British (?) School 19th century",
+      "url": null,
+      "gender": "",
+      "tatelink": "http://www.tate.org.uk/art/artists/british-school-19th-century-61",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "river with rocky banks",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01071_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-river-with-rocky-banks-n01071",
+      "id": "1533",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a painter\u2019s self-portrait",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04483_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-a-painters-self-portrait-n04483",
+      "id": "1534",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1533",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1534",
+      "value": 1
+    }
+  ]
+}

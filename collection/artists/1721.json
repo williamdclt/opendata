@@ -1,0 +1,365 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Opie, Julian",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/julian-opie-1721",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "imagine you are walking",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78310_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/opie-imagine-you-are-walking-p78310",
+      "id": "26602",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "imagine you are driving",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78311_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/opie-imagine-you-are-driving-p78311",
+      "id": "26613",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape?",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78312_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/opie-landscape-p78312",
+      "id": "26614",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cars?",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78313_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/opie-cars-p78313",
+      "id": "26615",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cityscape?",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78314_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/opie-cityscape-p78314",
+      "id": "26616",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gary, popstar",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78315_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/opie-gary-popstar-p78315",
+      "id": "26617",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "distant music water traffic",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78521_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/opie-distant-music-water-traffic-p78521",
+      "id": "282",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "siren radio traffic",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78522_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/opie-siren-radio-traffic-p78522",
+      "id": "89",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cowbells tractor silence",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78523_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/opie-cowbells-tractor-silence-p78523",
+      "id": "91",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rain voices surf",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78524_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/opie-rain-voices-surf-p78524",
+      "id": "92",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "radio wind tyres",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78525_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/opie-radio-wind-tyres-p78525",
+      "id": "93",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rain footsteps siren",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78526_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/opie-rain-footsteps-siren-p78526",
+      "id": "140",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "truck birds wind",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78527_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/opie-truck-birds-wind-p78527",
+      "id": "182",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "voices footsteps telephone",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78528_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/opie-voices-footsteps-telephone-p78528",
+      "id": "183",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "making it",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/opie-making-it-t03783",
+      "id": "10949",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "h",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06556_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/opie-h-t06556",
+      "id": "20363",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "it is believed that some dinosaurs could run faster than a cheetah",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07190_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/opie-it-is-believed-that-some-dinosaurs-could-run-faster-than-a-cheetah-t07190",
+      "id": "21825",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "there are hills in the distance (c)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07191_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/opie-there-are-hills-in-the-distance-c-t07191",
+      "id": "21827",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "you pass an office building. 3",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07192_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/opie-you-pass-an-office-building-3-t07192",
+      "id": "21828",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "your are driving a volvo",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07207_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/opie-your-are-driving-a-volvo-t07207",
+      "id": "21835",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "you see an office building. 2",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07208_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/opie-you-see-an-office-building-2-t07208",
+      "id": "21836",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "you see an office building. 3",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07209_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/opie-you-see-an-office-building-3-t07209",
+      "id": "21837",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "you see an office building. 4",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07210_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/opie-you-see-an-office-building-4-t07210",
+      "id": "21838",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "you see an office building. 5",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07211_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/opie-you-see-an-office-building-5-t07211",
+      "id": "21839",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "escaped animals",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07944_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/opie-escaped-animals-t07944",
+      "id": "76324",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "26602",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26613",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26614",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26615",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26616",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26617",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "282",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "89",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "91",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "92",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "140",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "182",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "183",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10949",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20363",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21825",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21827",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21828",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21835",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21836",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21837",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21838",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21839",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "76324",
+      "value": 1
+    }
+  ]
+}

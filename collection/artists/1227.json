@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Guevara, Meraud",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/meraud-guevara-1227",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "seated woman with small dog",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02331_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guevara-seated-woman-with-small-dog-t02331",
+      "id": "5724",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5724",
+      "value": 1
+    }
+  ]
+}

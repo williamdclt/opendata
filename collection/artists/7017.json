@@ -1,0 +1,14 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Turrell, James",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/james-turrell-7017",
+      "id": "Artist",
+      "size": 30
+    }
+  ],
+  "links": []
+}

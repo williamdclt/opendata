@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Epstein, Mitch",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/mitch-epstein-13597",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "biloxi, mississippi 2005",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20368_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/epstein-biloxi-mississippi-2005-p20368",
+      "id": "113977",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "113977",
+      "value": 1
+    }
+  ]
+}

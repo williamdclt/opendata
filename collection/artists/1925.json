@@ -1,0 +1,141 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Setch, Terry",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/terry-setch-1925",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "wall split",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03094_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/setch-wall-split-p03094",
+      "id": "13319",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "once upon a time there was oil iii, panel i",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03591_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/setch-once-upon-a-time-there-was-oil-iii-panel-i-t03591",
+      "id": "13320",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "once upon a time there was oil iii",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05549_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/setch-once-upon-a-time-there-was-oil-iii-t05549",
+      "id": "17342",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "once upon a time there was oil ii",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05550_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/setch-once-upon-a-time-there-was-oil-ii-t05550",
+      "id": "17341",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "once upon a time there was oil i",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05551_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/setch-once-upon-a-time-there-was-oil-i-t05551",
+      "id": "17340",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "once upon a time there was oil (raft)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05552_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/setch-once-upon-a-time-there-was-oil-raft-t05552",
+      "id": "17339",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "once upon a time there was oil (beach)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05553_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/setch-once-upon-a-time-there-was-oil-beach-t05553",
+      "id": "17338",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "once upon a time there was oil (car on beach ii)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05554_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/setch-once-upon-a-time-there-was-oil-car-on-beach-ii-t05554",
+      "id": "17315",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "once upon a time there was oil (car on beach)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05555_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/setch-once-upon-a-time-there-was-oil-car-on-beach-t05555",
+      "id": "17314",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13319",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13320",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17342",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17341",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17340",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17339",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17338",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17315",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17314",
+      "value": 1
+    }
+  ]
+}

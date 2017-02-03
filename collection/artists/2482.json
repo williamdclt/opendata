@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Boyne, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-boyne-2482",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "landscape, a rocky cove",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09467_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boyne-landscape-a-rocky-cove-t09467",
+      "id": "22323",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "22323",
+      "value": 1
+    }
+  ]
+}

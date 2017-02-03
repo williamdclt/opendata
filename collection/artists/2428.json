@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Geikie, Walter",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/walter-geikie-2428",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "four small views of coquet islands and holyhead castle",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10333_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/geikie-four-small-views-of-coquet-islands-and-holyhead-castle-t10333",
+      "id": "22922",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "little anderson close",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10334_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/geikie-little-anderson-close-t10334",
+      "id": "22921",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure studies. verso: hills by the sea",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10335_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/geikie-figure-studies-verso-hills-by-the-sea-t10335",
+      "id": "22920",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "22922",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22921",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22920",
+      "value": 1
+    }
+  ]
+}

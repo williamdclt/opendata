@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "McKenzie, Lucy",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/lucy-mckenzie-8631",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "side entrance",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13591_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mckenzie-side-entrance-t13591",
+      "id": "122255",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "122255",
+      "value": 1
+    }
+  ]
+}

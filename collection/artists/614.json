@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Wright, John Michael",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-michael-wright-614",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "sir neil o\u2019neill",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00132_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wright-sir-neil-oneill-t00132",
+      "id": "16481",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of mary villiers, duchess of richmond, with her late son esme and her daughter mary",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wright-portrait-of-mary-villiers-duchess-of-richmond-with-her-late-son-esme-and-her-t06455",
+      "id": "19552",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of mrs salesbury with her grandchildren edward and elizabeth bagot",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06750_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wright-portrait-of-mrs-salesbury-with-her-grandchildren-edward-and-elizabeth-bagot-t06750",
+      "id": "20788",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16481",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19552",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20788",
+      "value": 1
+    }
+  ]
+}

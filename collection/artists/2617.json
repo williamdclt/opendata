@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gordon, Douglas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/douglas-gordon-2617",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "10ms-1",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gordon-10ms-1-t07276",
+      "id": "22078",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "d\u00e9j\u00e0-vu",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gordon-deja-vu-t07782",
+      "id": "258",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blind james (white)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11830_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gordon-blind-james-white-t11830",
+      "id": "81823",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "instruction (number 1)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gordon-instruction-number-1-t13213",
+      "id": "110066",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "feature film",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gordon-feature-film-t13851",
+      "id": "122537",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "22078",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "258",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81823",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "110066",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "122537",
+      "value": 1
+    }
+  ]
+}

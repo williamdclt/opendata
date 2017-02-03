@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Schneider, Gerard",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/gerard-schneider-1906",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled from \u2018po\u00e8mes d\u2019eugenio montale\u2019, milan",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08174_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schneider-untitled-from-poemes-deugenio-montale-milan-p08174",
+      "id": "13182",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13182",
+      "value": 1
+    }
+  ]
+}

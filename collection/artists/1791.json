@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Porter, Frederick J.",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/frederick-j-porter-1791",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "winter landscape",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/porter-winter-landscape-n05079",
+      "id": "12166",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12166",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Dion, Mark",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/mark-dion-2789",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "tate thames dig",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07669_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dion-tate-thames-dig-t07669",
+      "id": "27353",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tate thames dig - locker",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07670_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dion-tate-thames-dig-locker-t07670",
+      "id": "27327",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs. herbert fowler, anthropology",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dion-puett-mrs-herbert-fowler-anthropology-t12245",
+      "id": "87242",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "edith huntington, geology",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dion-puett-edith-huntington-geology-t12246",
+      "id": "87243",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "miss mary buckmore, paleontology",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dion-puett-miss-mary-buckmore-paleontology-t12247",
+      "id": "87244",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "miss amelia west, botany",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dion-puett-miss-amelia-west-botany-t12248",
+      "id": "87245",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "arabella bell, conchology",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dion-puett-arabella-bell-conchology-t12249",
+      "id": "87246",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "henrietta swanson, ornithology",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dion-puett-henrietta-swanson-ornithology-t12250",
+      "id": "87247",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs. e. n. todter, lepidoptery",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dion-puett-mrs-e-n-todter-lepidoptery-t12251",
+      "id": "87248",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mr. r. cornelius boggit, porter",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dion-puett-mr-r-cornelius-boggit-porter-t12252",
+      "id": "87249",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tate thames (locker)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12262_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dion-tate-thames-locker-t12262",
+      "id": "89757",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tate thames dig (two banks)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12263_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dion-tate-thames-dig-two-banks-t12263",
+      "id": "89758",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two banks",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12264_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dion-two-banks-t12264",
+      "id": "89759",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the curiosity shop",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dion-the-curiosity-shop-t13603",
+      "id": "117993",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "27353",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27327",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "87242",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "87243",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "87244",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "87245",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "87246",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "87247",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "87248",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "87249",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "89757",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "89758",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "89759",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117993",
+      "value": 1
+    }
+  ]
+}

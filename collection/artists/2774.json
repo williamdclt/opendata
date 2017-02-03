@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Wright, Elizabeth",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/elizabeth-wright-2774",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "snowball",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78407_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wright-snowball-p78407",
+      "id": "27230",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "b.s.a. tour of britain racer enlarged to 135%",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07936_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wright-bsa-tour-of-britain-racer-enlarged-to-135-t07936",
+      "id": "75508",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "27230",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "75508",
+      "value": 1
+    }
+  ]
+}

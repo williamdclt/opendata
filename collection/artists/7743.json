@@ -1,0 +1,379 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Weiner, Lawrence",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/lawrence-weiner-7743",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "straight down to below",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00131_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/weiner-straight-down-to-below-ar00131",
+      "id": "98480",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fire and brimstone set in a hollow formed by hand",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00132_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/weiner-fire-and-brimstone-set-in-a-hollow-formed-by-hand-ar00132",
+      "id": "98482",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "silver threads entwined in threads of gold",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00133_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/weiner-silver-threads-entwined-in-threads-of-gold-ar00133",
+      "id": "98483",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "taken up with",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00134_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/weiner-taken-up-with-ar00134",
+      "id": "98484",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wiped off the face of the earth",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00135_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/weiner-wiped-off-the-face-of-the-earth-ar00135",
+      "id": "98485",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tied up in knots",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00136_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/weiner-tied-up-in-knots-ar00136",
+      "id": "98486",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tucked in at the corners",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00137_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/weiner-tucked-in-at-the-corners-ar00137",
+      "id": "98487",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "roughly ripped apart",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00138_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/weiner-roughly-ripped-apart-ar00138",
+      "id": "98488",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "daubed with muck and mire",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00139_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/weiner-daubed-with-muck-and-mire-ar00139",
+      "id": "98481",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "crushed between cobblestones",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00140_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/weiner-crushed-between-cobblestones-ar00140",
+      "id": "98489",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spheres of influence",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20269_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/weiner-spheres-of-influence-p20269",
+      "id": "84788",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spheres of influence",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20270_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/weiner-spheres-of-influence-p20270",
+      "id": "85346",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hit hard (&) and just on the other side",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/weiner-hit-hard-and-just-on-the-other-side-t12006",
+      "id": "84772",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "crossed over (&) just on the other side",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12007_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/weiner-crossed-over-just-on-the-other-side-t12007",
+      "id": "84774",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ground down (&) and just on the other side",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/weiner-ground-down-and-just-on-the-other-side-t12008",
+      "id": "84775",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "attached to (&) and just on the other side",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/weiner-attached-to-and-just-on-the-other-side-t12009",
+      "id": "84776",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "crossed out (&) and just on the other side",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12010_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/weiner-crossed-out-and-just-on-the-other-side-t12010",
+      "id": "84777",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spheres of influence",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12011_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/weiner-spheres-of-influence-t12011",
+      "id": "84778",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spheres of influence",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12012_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/weiner-spheres-of-influence-t12012",
+      "id": "84779",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spheres of influence",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12013_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/weiner-spheres-of-influence-t12013",
+      "id": "84780",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spheres of influence",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12014_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/weiner-spheres-of-influence-t12014",
+      "id": "84781",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spheres of influence",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12015_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/weiner-spheres-of-influence-t12015",
+      "id": "84782",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spheres of influence",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12016_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/weiner-spheres-of-influence-t12016",
+      "id": "84783",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spheres of influence",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12017_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/weiner-spheres-of-influence-t12017",
+      "id": "84784",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spheres of influence",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12018_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/weiner-spheres-of-influence-t12018",
+      "id": "84785",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "taken to as deep as the sea can be",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12039_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/weiner-taken-to-as-deep-as-the-sea-can-be-t12039",
+      "id": "88031",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "98480",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98482",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98483",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98484",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98485",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98486",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98487",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98488",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98481",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98489",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "84788",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85346",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "84772",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "84774",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "84775",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "84776",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "84777",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "84778",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "84779",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "84780",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "84781",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "84782",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "84783",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "84784",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "84785",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88031",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Smythe, Lionel Percy",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/lionel-percy-smythe-510",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "germinal",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01709_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smythe-germinal-n01709",
+      "id": "13618",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13618",
+      "value": 1
+    }
+  ]
+}

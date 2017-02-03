@@ -1,0 +1,155 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hatoum, Mona",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/mona-hatoum-2365",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "van gogh\u2019s back",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77899_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hatoum-van-goghs-back-p77899",
+      "id": "21823",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "performance still",
+      "url": "http://www.tate.org.uk/art/images/work/P/P80/P80087_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hatoum-gilbert-performance-still-p80087",
+      "id": "121182",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "incommunicado",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06988_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hatoum-incommunicado-t06988",
+      "id": "21323",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "divan bed",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07277_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hatoum-divan-bed-t07277",
+      "id": "22044",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (wheelchair)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07497_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hatoum-untitled-wheelchair-t07497",
+      "id": "26504",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "so much i want to say",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hatoum-so-much-i-want-to-say-t07536",
+      "id": "26673",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "changing parts",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hatoum-changing-parts-t07537",
+      "id": "26674",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "measures of distance",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07538_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hatoum-measures-of-distance-t07538",
+      "id": "26675",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "home",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07918_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hatoum-home-t07918",
+      "id": "70294",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "present tense",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hatoum-present-tense-t13867",
+      "id": "121181",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "21823",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121182",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21323",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22044",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26504",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26673",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26674",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26675",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "70294",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121181",
+      "value": 1
+    }
+  ]
+}

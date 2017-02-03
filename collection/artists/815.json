@@ -1,0 +1,197 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Broodthaers, Marcel",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/marcel-broodthaers-815",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "tractatus logico catalogicus - art or the art of selling",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01810_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/broodthaers-tractatus-logico-catalogicus-art-or-the-art-of-selling-p01810",
+      "id": "1541",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dear little sister",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07208_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/broodthaers-dear-little-sister-p07208",
+      "id": "1542",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a railway robbery",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07209_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/broodthaers-a-railway-robbery-p07209",
+      "id": "1543",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rebus",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07210_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/broodthaers-rebus-p07210",
+      "id": "1544",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "citron-citroen",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07211_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/broodthaers-citron-citroen-p07211",
+      "id": "1545",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "comedy",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07212_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/broodthaers-comedy-p07212",
+      "id": "1546",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "atlas",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07213_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/broodthaers-atlas-p07213",
+      "id": "1547",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "daguerre\u2019s soup",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07214_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/broodthaers-daguerres-soup-p07214",
+      "id": "1548",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the farm animals",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07385_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/broodthaers-the-farm-animals-p07385",
+      "id": "1549",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "casserole and closed mussels",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01976_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/broodthaers-casserole-and-closed-mussels-t01976",
+      "id": "1550",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mademoiselle rivi\u00e8re and monsieur bertin",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01977_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/broodthaers-mademoiselle-riviere-and-monsieur-bertin-t01977",
+      "id": "1551",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "i return to matter, i rediscover the tradition of the primitives, painting with egg, painting with egg",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03089_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/broodthaers-i-return-to-matter-i-rediscover-the-tradition-of-the-primitives-painting-with-t03089",
+      "id": "1552",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "paintings",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03696_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/broodthaers-paintings-t03696",
+      "id": "1553",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1541",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1542",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1543",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1544",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1545",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1546",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1547",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1548",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1549",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1550",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1551",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1552",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1553",
+      "value": 1
+    }
+  ]
+}

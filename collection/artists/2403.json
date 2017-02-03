@@ -1,0 +1,337 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hume, Gary",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/gary-hume-2403",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11435_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hume-no-title-p11435",
+      "id": "21854",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "capital",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hume-capital-p13277",
+      "id": "122049",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "whistler",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78681_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hume-whistler-p78681",
+      "id": "26367",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "angel",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78682_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hume-angel-p78682",
+      "id": "26380",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "young woman",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78683_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hume-young-woman-p78683",
+      "id": "26301",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "yellow hair",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78684_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hume-yellow-hair-p78684",
+      "id": "26379",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "funny girl",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78685_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hume-funny-girl-p78685",
+      "id": "26385",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "poor thing",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78686_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hume-poor-thing-p78686",
+      "id": "26382",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lady parker",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78687_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hume-lady-parker-p78687",
+      "id": "26384",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cerith",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78688_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hume-cerith-p78688",
+      "id": "26383",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "adult",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78689_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hume-adult-p78689",
+      "id": "26381",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "francis bacon",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78690_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hume-francis-bacon-p78690",
+      "id": "26386",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled 01",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79720_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hume-untitled-01-p79720",
+      "id": "97920",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled 06",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79721_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hume-untitled-06-p79721",
+      "id": "97922",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled 02",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79722_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hume-untitled-02-p79722",
+      "id": "103091",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled 03",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79723_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hume-untitled-03-p79723",
+      "id": "103092",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled 04",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79724_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hume-untitled-04-p79724",
+      "id": "103093",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled 05",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79725_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hume-untitled-05-p79725",
+      "id": "103094",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled 07",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79726_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hume-untitled-07-p79726",
+      "id": "103096",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled 08",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79727_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hume-untitled-08-p79727",
+      "id": "103097",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "incubus",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07184_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hume-incubus-t07184",
+      "id": "21806",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "water painting",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07618_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hume-water-painting-t07618",
+      "id": "27090",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "red barn door",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13653_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hume-red-barn-door-t13653",
+      "id": "121415",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "21854",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "122049",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26367",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26380",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26301",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26379",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26385",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26382",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26384",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26383",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26381",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26386",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97920",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97922",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "103091",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "103092",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "103093",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "103094",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "103096",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "103097",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21806",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27090",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121415",
+      "value": 1
+    }
+  ]
+}

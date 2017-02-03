@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Kapoor, Anish",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/anish-kapoor-1384",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11270_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kapoor-untitled-p11270",
+      "id": "18938",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11271_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kapoor-untitled-p11271",
+      "id": "18937",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled 2",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77318_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kapoor-untitled-2-p77318",
+      "id": "17390",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled 5",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77319_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kapoor-untitled-5-p77319",
+      "id": "17389",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled 3",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77320_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kapoor-untitled-3-p77320",
+      "id": "17379",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled i",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kapoor-untitled-i-p77321",
+      "id": "17396",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled ii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kapoor-untitled-ii-p77322",
+      "id": "17397",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled iii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kapoor-untitled-iii-p77323",
+      "id": "17380",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78186_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kapoor-no-title-p78186",
+      "id": "26368",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78187_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kapoor-no-title-p78187",
+      "id": "26377",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78188_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kapoor-no-title-p78188",
+      "id": "26375",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78189_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kapoor-no-title-p78189",
+      "id": "26376",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78190_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kapoor-no-title-p78190",
+      "id": "26374",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78191_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kapoor-no-title-p78191",
+      "id": "26373",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78192_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kapoor-no-title-p78192",
+      "id": "26372",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78193_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kapoor-no-title-p78193",
+      "id": "26371",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78194_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kapoor-no-title-p78194",
+      "id": "26370",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78608_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kapoor-no-title-p78608",
+      "id": "71421",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78609_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kapoor-no-title-p78609",
+      "id": "71423",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78610_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kapoor-no-title-p78610",
+      "id": "71424",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78611_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kapoor-no-title-p78611",
+      "id": "71425",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78612_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kapoor-no-title-p78612",
+      "id": "71426",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78613_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kapoor-no-title-p78613",
+      "id": "71427",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78614_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kapoor-no-title-p78614",
+      "id": "71428",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78615_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kapoor-no-title-p78615",
+      "id": "71429",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78616_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kapoor-no-title-p78616",
+      "id": "71430",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78617_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kapoor-no-title-p78617",
+      "id": "71431",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78618_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kapoor-no-title-p78618",
+      "id": "71432",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78619_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kapoor-no-title-p78619",
+      "id": "71433",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78620_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kapoor-no-title-p78620",
+      "id": "71434",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "as if to celebrate, i discovered a mountain blooming with red flowers",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03675_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kapoor-as-if-to-celebrate-i-discovered-a-mountain-blooming-with-red-flowers-t03675",
+      "id": "7820",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05487_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kapoor-untitled-t05487",
+      "id": "17265",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05488_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kapoor-untitled-t05488",
+      "id": "17266",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05489_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kapoor-untitled-t05489",
+      "id": "17267",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05490_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kapoor-untitled-t05490",
+      "id": "17268",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05491_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kapoor-untitled-t05491",
+      "id": "17269",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "three",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kapoor-three-t05721",
+      "id": "18956",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a wing at the heart of things",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05856_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kapoor-a-wing-at-the-heart-of-things-t05856",
+      "id": "19428",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05863_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kapoor-untitled-t05863",
+      "id": "19443",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05864_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kapoor-untitled-t05864",
+      "id": "19447",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "18938",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18937",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17390",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17389",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17379",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17396",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17397",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17380",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26368",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26377",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26375",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26376",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26374",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26373",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26372",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26371",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26370",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71421",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71423",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71424",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71425",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71426",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71427",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71428",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71429",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71430",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71431",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71432",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71433",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71434",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7820",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17265",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17266",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17267",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17268",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17269",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18956",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19428",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19443",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19447",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hartwell, Charles Leonard",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/charles-leonard-hartwell-1252",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a foul in the giants\u2019 race",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hartwell-a-foul-in-the-giants-race-n02267",
+      "id": "5863",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dawn",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hartwell-dawn-n02975",
+      "id": "5864",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5863",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5864",
+      "value": 1
+    }
+  ]
+}

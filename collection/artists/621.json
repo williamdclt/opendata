@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Zuccarelli, Francesco",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/francesco-zuccarelli-621",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a landscape with the story of cadmus killing the dragon",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04121_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zuccarelli-a-landscape-with-the-story-of-cadmus-killing-the-dragon-t04121",
+      "id": "16532",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16532",
+      "value": 1
+    }
+  ]
+}

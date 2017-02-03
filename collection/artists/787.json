@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Boswell, James",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/james-boswell-787",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "leicester square",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01819_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boswell-leicester-square-p01819",
+      "id": "1351",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the means test",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01820_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boswell-the-means-test-p01820",
+      "id": "1352",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the means test 2",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01821_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boswell-the-means-test-2-p01821",
+      "id": "1353",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "soldier, soldier",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01822_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boswell-soldier-soldier-p01822",
+      "id": "1354",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "empire builders",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01823_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boswell-empire-builders-p01823",
+      "id": "1355",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "quiet evening",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01824_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boswell-quiet-evening-p01824",
+      "id": "1356",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the fall of london: corner house",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11654_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boswell-the-fall-of-london-corner-house-p11654",
+      "id": "26925",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the fall of london: the horseguard",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11655_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boswell-the-fall-of-london-the-horseguard-p11655",
+      "id": "26937",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the fall of london: waterloo",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11656_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boswell-the-fall-of-london-waterloo-p11656",
+      "id": "26938",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the fall of london: museum",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11657_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boswell-the-fall-of-london-museum-p11657",
+      "id": "26939",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the fall of london: through the city",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11658_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boswell-the-fall-of-london-through-the-city-p11658",
+      "id": "26940",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the fall of london: london bridge",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11659_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boswell-the-fall-of-london-london-bridge-p11659",
+      "id": "26941",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the fall of london: the colosseum",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11660_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boswell-the-fall-of-london-the-colosseum-p11660",
+      "id": "26942",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the fall of london: looters",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11661_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boswell-the-fall-of-london-looters-p11661",
+      "id": "26943",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gosfield street murder",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11662_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boswell-gosfield-street-murder-p11662",
+      "id": "26926",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "his majesty\u2019s servants",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11663_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boswell-his-majestys-servants-p11663",
+      "id": "26927",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "parr\u2019s stores",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11664_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boswell-parrs-stores-p11664",
+      "id": "26928",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the theatre",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11665_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boswell-the-theatre-p11665",
+      "id": "26929",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the street",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11666_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boswell-the-street-p11666",
+      "id": "26930",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the station",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11667_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boswell-the-station-p11667",
+      "id": "26931",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the family",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11668_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boswell-the-family-p11668",
+      "id": "26932",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the cinema",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11669_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boswell-the-cinema-p11669",
+      "id": "26936",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "street scene",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02253_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boswell-street-scene-t02253",
+      "id": "1357",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "man in an interior",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02254_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boswell-man-in-an-interior-t02254",
+      "id": "1358",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "camp 17, iraq",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02255_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boswell-camp-17-iraq-t02255",
+      "id": "1359",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "le sphinx",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03459_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boswell-le-sphinx-t03459",
+      "id": "1360",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "le sphinx",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03460_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boswell-le-sphinx-t03460",
+      "id": "1361",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "le sphinx, 4 a.m. verso: three figure drawings",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03461_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boswell-le-sphinx-4-am-verso-three-figure-drawings-t03461",
+      "id": "1362",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "punch and judy",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03462_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boswell-punch-and-judy-t03462",
+      "id": "1363",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "caf\u00e9, kentish town",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03463_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boswell-cafe-kentish-town-t03463",
+      "id": "1364",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "camden girls",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boswell-camden-girls-t07583",
+      "id": "26923",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (iraq)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07584_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boswell-untitled-iraq-t07584",
+      "id": "26924",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (iraq)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07600_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boswell-untitled-iraq-t07600",
+      "id": "27012",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "le sphinx",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boswell-le-sphinx-t12839",
+      "id": "100860",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "grand reunion days",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boswell-grand-reunion-days-t12840",
+      "id": "100440",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "another day",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boswell-another-day-t12841",
+      "id": "100477",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "le sphinx",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boswell-le-sphinx-t12842",
+      "id": "100479",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "le sphinx",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boswell-le-sphinx-t12843",
+      "id": "100480",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "le sphinx",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boswell-le-sphinx-t12844",
+      "id": "100644",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "le sphinx",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boswell-le-sphinx-t12845",
+      "id": "100478",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1351",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1352",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1353",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1354",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1355",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1356",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26925",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26937",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26938",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26939",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26940",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26941",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26942",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26943",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26926",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26927",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26928",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26929",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26930",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26931",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26932",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26936",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1357",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1358",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1359",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1360",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1361",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1362",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1363",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1364",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26923",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26924",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27012",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "100860",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "100440",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "100477",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "100479",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "100480",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "100644",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "100478",
+      "value": 1
+    }
+  ]
+}

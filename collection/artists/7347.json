@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Nashashibi, Rosalind",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/rosalind-nashashibi-7347",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "hreash house",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nashashibi-hreash-house-t12218",
+      "id": "82935",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "82935",
+      "value": 1
+    }
+  ]
+}

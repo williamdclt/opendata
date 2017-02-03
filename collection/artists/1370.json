@@ -1,0 +1,197 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Jones, David",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/david-jones-1370",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the chapel in the park",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05054_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-the-chapel-in-the-park-n05054",
+      "id": "7237",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the terrace",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05128_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-the-terrace-n05128",
+      "id": "7238",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "illustration to the arthurian legend: guenever",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05315_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-illustration-to-the-arthurian-legend-guenever-n05315",
+      "id": "7239",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "illustration to the arthurian legend: the four queens find launcelot sleeping",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05316_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-illustration-to-the-arthurian-legend-the-four-queens-find-launcelot-sleeping-n05316",
+      "id": "7240",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "standing figure",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00582_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-standing-figure-t00582",
+      "id": "7241",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the garden enclosed",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02013_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-the-garden-enclosed-t02013",
+      "id": "7242",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "aphrodite in aulis",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02036_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-aphrodite-in-aulis-t02036",
+      "id": "7243",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for aphrodite in aulis",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02037_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-study-for-aphrodite-in-aulis-t02037",
+      "id": "7244",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chalice with flowers and pepperpot",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02038_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-chalice-with-flowers-and-pepperpot-t02038",
+      "id": "7245",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "exiit edictum",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03192_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-exiit-edictum-t03192",
+      "id": "7246",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sanctus christus de capel-y-ffin",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03677_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-sanctus-christus-de-capel-y-ffin-t03677",
+      "id": "7247",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the queen\u2019s dish",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05503_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-the-queens-dish-t05503",
+      "id": "17289",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view from gatwick house, essex, april",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06667_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-view-from-gatwick-house-essex-april-t06667",
+      "id": "20588",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "7237",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7238",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7239",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7240",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7241",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7242",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7243",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7244",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7245",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7246",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7247",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17289",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20588",
+      "value": 1
+    }
+  ]
+}

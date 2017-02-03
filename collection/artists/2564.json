@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Pollard, Robert",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/robert-pollard-2564",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "death of henry v",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09368_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pollard-death-of-henry-v-t09368",
+      "id": "23395",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "23395",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "British School 20th century",
+      "url": null,
+      "gender": "",
+      "tatelink": "http://www.tate.org.uk/art/artists/british-school-20th-century-2548",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "caricature of a man in profile to left",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11006_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-20th-century-caricature-of-a-man-in-profile-to-left-t11006",
+      "id": "24128",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "24128",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Aylesford, Heneage Finch, Fourth Earl of",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/heneage-finch-fourth-earl-of-aylesford-2480",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "tenby",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08126_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/aylesford-tenby-t08126",
+      "id": "22263",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape with churches on a hill, a valley beyond",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08251_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/aylesford-landscape-with-churches-on-a-hill-a-valley-beyond-t08251",
+      "id": "22260",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a barn by a river, with boats",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08586_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/aylesford-a-barn-by-a-river-with-boats-t08586",
+      "id": "22262",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "part of a classical ruined building under trees",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08589_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/aylesford-part-of-a-classical-ruined-building-under-trees-t08589",
+      "id": "22234",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "part of kenilworth castle",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08592_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/aylesford-part-of-kenilworth-castle-t08592",
+      "id": "22231",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gothic ruins",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08593_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/aylesford-gothic-ruins-t08593",
+      "id": "22230",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a cottage over a marsh",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08594_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/aylesford-a-cottage-over-a-marsh-t08594",
+      "id": "24268",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hercules in the cellar. caricature",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08733_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/aylesford-hercules-in-the-cellar-caricature-t08733",
+      "id": "22259",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the handel celebration in westminster abbey",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09717_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/aylesford-the-handel-celebration-in-westminster-abbey-t09717",
+      "id": "22236",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a house on a tree-covered slope above a river",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09723_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/aylesford-a-house-on-a-tree-covered-slope-above-a-river-t09723",
+      "id": "22249",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a winding stream between clumps of trees",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09724_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/aylesford-a-winding-stream-between-clumps-of-trees-t09724",
+      "id": "22248",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cottage and timber yard",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09725_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/aylesford-cottage-and-timber-yard-t09725",
+      "id": "22251",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "caricature: two versions of the same large head, and a smaller head",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09726_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/aylesford-caricature-two-versions-of-the-same-large-head-and-a-smaller-head-t09726",
+      "id": "22250",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "italian landscape. verso: sketch of a head",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09727_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/aylesford-italian-landscape-verso-sketch-of-a-head-t09727",
+      "id": "22246",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a house in the dutch style, by a church spire",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09728_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/aylesford-a-house-in-the-dutch-style-by-a-church-spire-t09728",
+      "id": "22247",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a castle near a bridge, wooded hills beyond",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09729_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/aylesford-a-castle-near-a-bridge-wooded-hills-beyond-t09729",
+      "id": "22252",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape with bridges, river and cottage",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09730_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/aylesford-landscape-with-bridges-river-and-cottage-t09730",
+      "id": "22253",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "house with barns. verso: a circus",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09819_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/aylesford-house-with-barns-verso-a-circus-t09819",
+      "id": "22254",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a wooden bridge under trees in a park",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09820_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/aylesford-a-wooden-bridge-under-trees-in-a-park-t09820",
+      "id": "22255",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a bare hill top, in wooded country",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09821_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/aylesford-a-bare-hill-top-in-wooded-country-t09821",
+      "id": "22256",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a cottage in a park",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09822_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/aylesford-a-cottage-in-a-park-t09822",
+      "id": "22257",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a cottage in a park. verso: a drawing",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09823_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/aylesford-a-cottage-in-a-park-verso-a-drawing-t09823",
+      "id": "22258",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "an amphitheatre, possibly in sicily",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09824_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/aylesford-an-amphitheatre-possibly-in-sicily-t09824",
+      "id": "22232",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a ruined classical tomb under trees",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09825_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/aylesford-a-ruined-classical-tomb-under-trees-t09825",
+      "id": "22233",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a wooden bridge over a stream among trees. verso: drawing",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09826_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/aylesford-a-wooden-bridge-over-a-stream-among-trees-verso-drawing-t09826",
+      "id": "22235",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shipping on an estuary, a windmill in the distance",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09827_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/aylesford-shipping-on-an-estuary-a-windmill-in-the-distance-t09827",
+      "id": "22237",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two figures: an italian cab driver and an old man",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09828_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/aylesford-two-figures-an-italian-cab-driver-and-an-old-man-t09828",
+      "id": "22238",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a house under a rock face. verso: sketches",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09829_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/aylesford-a-house-under-a-rock-face-verso-sketches-t09829",
+      "id": "22239",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sicilian view",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09830_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/aylesford-sicilian-view-t09830",
+      "id": "22240",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "interior of sta maria degli angeli, rome",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09831_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/aylesford-interior-of-sta-maria-degli-angeli-rome-t09831",
+      "id": "22241",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "interior of st peter\u2019s, rome",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09832_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/aylesford-interior-of-st-peters-rome-t09832",
+      "id": "22242",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "interior of st peter\u2019s, rome",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09833_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/aylesford-interior-of-st-peters-rome-t09833",
+      "id": "22243",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "interior of the pantheon, rome",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09834_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/aylesford-interior-of-the-pantheon-rome-t09834",
+      "id": "22244",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "interior of the pantheon, rome",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09835_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/aylesford-interior-of-the-pantheon-rome-t09835",
+      "id": "22245",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sculptured tomb in a landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09836_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/aylesford-sculptured-tomb-in-a-landscape-t09836",
+      "id": "22264",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "road scene with crucifix in middle distance",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09837_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/aylesford-road-scene-with-crucifix-in-middle-distance-t09837",
+      "id": "22265",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "an italian farmhouse",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09841_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/aylesford-an-italian-farmhouse-t09841",
+      "id": "22261",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a lane between barns",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09842_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/aylesford-a-lane-between-barns-t09842",
+      "id": "22267",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "in wales",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11615_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/aylesford-in-wales-t11615",
+      "id": "25299",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cottage in scotland",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11616_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/aylesford-cottage-in-scotland-t11616",
+      "id": "25300",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "22263",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22260",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22262",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22234",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22231",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22230",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24268",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22259",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22236",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22249",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22248",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22251",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22250",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22246",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22247",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22252",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22253",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22254",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22255",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22256",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22257",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22258",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22232",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22233",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22235",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22237",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22238",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22239",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22240",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22241",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22242",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22243",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22244",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22245",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22264",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22265",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22261",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22267",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25299",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25300",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Wendt, Lionel",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/lionel-wendt-17198",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P80/P80193_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wendt-title-not-known-p80193",
+      "id": "125424",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P80/P80194_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wendt-title-not-known-p80194",
+      "id": "125425",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P80/P80195_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wendt-title-not-known-p80195",
+      "id": "125427",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P80/P80196_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wendt-title-not-known-p80196",
+      "id": "125428",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P80/P80197_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wendt-title-not-known-p80197",
+      "id": "125430",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P80/P80198_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wendt-title-not-known-p80198",
+      "id": "125432",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P80/P80199_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wendt-title-not-known-p80199",
+      "id": "125433",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P80/P80200_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wendt-title-not-known-p80200",
+      "id": "125434",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P80/P80201_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wendt-title-not-known-p80201",
+      "id": "126085",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P80/P80202_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wendt-title-not-known-p80202",
+      "id": "125402",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P80/P80212_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wendt-title-not-known-p80212",
+      "id": "125426",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P80/P80213_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wendt-title-not-known-p80213",
+      "id": "125429",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P80/P80214_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wendt-title-not-known-p80214",
+      "id": "125435",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P80/P80215_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wendt-title-not-known-p80215",
+      "id": "126088",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "125424",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "125425",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "125427",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "125428",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "125430",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "125432",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "125433",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "125434",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "126085",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "125402",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "125426",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "125429",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "125435",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "126088",
+      "value": 1
+    }
+  ]
+}

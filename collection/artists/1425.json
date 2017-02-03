@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Knights, Winifred",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/winifred-knights-1425",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "italian landscape",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03681_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/knights-italian-landscape-n03681",
+      "id": "8167",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the deluge",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05532_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/knights-the-deluge-t05532",
+      "id": "17347",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8167",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17347",
+      "value": 1
+    }
+  ]
+}

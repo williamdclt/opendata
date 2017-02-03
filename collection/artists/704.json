@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Bauer, Marius",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/marius-bauer-704",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "strasbourg cathedral",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04588_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bauer-strasbourg-cathedral-n04588",
+      "id": "767",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "767",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Beard, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-beard-2705",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20178_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beard-no-title-p20178",
+      "id": "26709",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20179_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beard-no-title-p20179",
+      "id": "26713",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20180_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beard-no-title-p20180",
+      "id": "26710",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20181_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beard-no-title-p20181",
+      "id": "26711",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20182_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beard-no-title-p20182",
+      "id": "26712",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20183_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beard-no-title-p20183",
+      "id": "26714",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20184_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beard-no-title-p20184",
+      "id": "26715",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "26709",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26713",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26710",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26711",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26712",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26714",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26715",
+      "value": 1
+    }
+  ]
+}

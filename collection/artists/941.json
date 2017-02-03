@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Copley, William N.",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/william-n-copley-941",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "place de l\u2019op\u00e9ra",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00442_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/copley-place-de-lopera-t00442",
+      "id": "2793",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2793",
+      "value": 1
+    }
+  ]
+}

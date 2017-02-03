@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Maddox, Conroy",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/conroy-maddox-1551",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled drawing (\u2018in paris\u2019)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maddox-untitled-drawing-in-paris-p13082",
+      "id": "103677",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "winter criminal term",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00640_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maddox-winter-criminal-term-t00640",
+      "id": "9152",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the strange country",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01472_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maddox-the-strange-country-t01472",
+      "id": "9153",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "passage de l\u2019op\u00e9ra",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03052_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maddox-passage-de-lopera-t03052",
+      "id": "9154",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "103677",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9152",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9153",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9154",
+      "value": 1
+    }
+  ]
+}

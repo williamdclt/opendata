@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Mackenzie, Alexander",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/alexander-mackenzie-1544",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "drawing, june 1963",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02240_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mackenzie-drawing-june-1963-t02240",
+      "id": "9112",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9112",
+      "value": 1
+    }
+  ]
+}

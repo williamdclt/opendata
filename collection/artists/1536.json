@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Lundquist, Evert",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/evert-lundquist-1536",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "woman in red",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00208_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lundquist-woman-in-red-t00208",
+      "id": "9033",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9033",
+      "value": 1
+    }
+  ]
+}

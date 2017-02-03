@@ -1,0 +1,435 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Guerrilla Girls",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/guerrilla-girls-6858",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78788_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guerrilla-girls-no-title-p78788",
+      "id": "81133",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78789_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guerrilla-girls-no-title-p78789",
+      "id": "81134",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78790_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guerrilla-girls-no-title-p78790",
+      "id": "81135",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78791_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guerrilla-girls-no-title-p78791",
+      "id": "81136",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78792_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guerrilla-girls-no-title-p78792",
+      "id": "81137",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78793_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guerrilla-girls-no-title-p78793",
+      "id": "81138",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78794_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guerrilla-girls-no-title-p78794",
+      "id": "81139",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78795_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guerrilla-girls-no-title-p78795",
+      "id": "81140",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78796_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guerrilla-girls-no-title-p78796",
+      "id": "81141",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78797_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guerrilla-girls-no-title-p78797",
+      "id": "81142",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78798_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guerrilla-girls-no-title-p78798",
+      "id": "81143",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78799_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guerrilla-girls-no-title-p78799",
+      "id": "81144",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78800_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guerrilla-girls-no-title-p78800",
+      "id": "81145",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78801_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guerrilla-girls-no-title-p78801",
+      "id": "81146",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78802_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guerrilla-girls-no-title-p78802",
+      "id": "81147",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78803_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guerrilla-girls-no-title-p78803",
+      "id": "81148",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78804_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guerrilla-girls-no-title-p78804",
+      "id": "81149",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78805_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guerrilla-girls-no-title-p78805",
+      "id": "81150",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78806_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guerrilla-girls-no-title-p78806",
+      "id": "81151",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78807_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guerrilla-girls-no-title-p78807",
+      "id": "81152",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78808_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guerrilla-girls-no-title-p78808",
+      "id": "81153",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78809_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guerrilla-girls-no-title-p78809",
+      "id": "81154",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78810_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guerrilla-girls-no-title-p78810",
+      "id": "81155",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78811_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guerrilla-girls-no-title-p78811",
+      "id": "81156",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78812_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guerrilla-girls-no-title-p78812",
+      "id": "81157",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78813_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guerrilla-girls-no-title-p78813",
+      "id": "81158",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78814_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guerrilla-girls-no-title-p78814",
+      "id": "81159",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78815_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guerrilla-girls-no-title-p78815",
+      "id": "81160",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78816_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guerrilla-girls-no-title-p78816",
+      "id": "81161",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78817_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guerrilla-girls-no-title-p78817",
+      "id": "81162",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "81133",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81134",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81135",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81136",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81137",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81138",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81139",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81140",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81141",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81142",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81143",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81144",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81145",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81146",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81147",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81148",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81149",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81150",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81151",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81152",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81153",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81154",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81155",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81156",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81157",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81158",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81159",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81160",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81161",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81162",
+      "value": 1
+    }
+  ]
+}

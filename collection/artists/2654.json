@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Rubens, Peter Paul",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-peter-paul-rubens-2654",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the apotheosis of james i and other studies: multiple sketch for the banqueting house ceiling, whitehall",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12919_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rubens-the-apotheosis-of-james-i-and-other-studies-multiple-sketch-for-the-banqueting-t12919",
+      "id": "95101",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "95101",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "British (?) School",
+      "url": null,
+      "gender": "",
+      "tatelink": "http://www.tate.org.uk/art/artists/british-school-2638",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "an ornament with serpents",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10318_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-an-ornament-with-serpents-t10318",
+      "id": "24158",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "copy of a heraldic manuscript: a woman, a small dog and a coat of arms with crest",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10320_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-copy-of-a-heraldic-manuscript-a-woman-a-small-dog-and-a-coat-of-arms-with-t10320",
+      "id": "24157",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the cave of calypso",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10443_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-the-cave-of-calypso-t10443",
+      "id": "24381",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10446_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-title-not-known-t10446",
+      "id": "24867",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known] verso: pastoral landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10450_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-title-not-known-verso-pastoral-landscape-t10450",
+      "id": "22800",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10451_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-title-not-known-t10451",
+      "id": "24868",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10452_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-title-not-known-t10452",
+      "id": "24869",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10453_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-title-not-known-t10453",
+      "id": "24870",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10454_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-title-not-known-t10454",
+      "id": "24871",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known] verso: sketches of a windmill and a steepled roof",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10494_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-title-not-known-verso-sketches-of-a-windmill-and-a-steepled-roof-t10494",
+      "id": "22306",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10495_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-title-not-known-t10495",
+      "id": "24872",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known] verso: outline of figure",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10496_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-title-not-known-verso-outline-of-figure-t10496",
+      "id": "24873",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10497_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-title-not-known-t10497",
+      "id": "24874",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10498_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-title-not-known-t10498",
+      "id": "24875",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10499_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-title-not-known-t10499",
+      "id": "24876",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10500_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-title-not-known-t10500",
+      "id": "24877",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10501_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-title-not-known-t10501",
+      "id": "24878",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10502_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-title-not-known-t10502",
+      "id": "24879",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10503_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-title-not-known-t10503",
+      "id": "24880",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known] verso: ?sky study",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10504_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-title-not-known-verso-sky-study-t10504",
+      "id": "24881",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known] verso: sketch of ?trees",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10505_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-title-not-known-verso-sketch-of-trees-t10505",
+      "id": "24882",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10506_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-title-not-known-t10506",
+      "id": "24883",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10507_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-title-not-known-t10507",
+      "id": "24884",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10508_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-title-not-known-t10508",
+      "id": "24885",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10509_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-title-not-known-t10509",
+      "id": "24886",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10510_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-title-not-known-t10510",
+      "id": "24887",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10511_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-title-not-known-t10511",
+      "id": "24888",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10512_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-title-not-known-t10512",
+      "id": "24889",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known] verso: tracing of figure on recto",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10513_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-title-not-known-verso-tracing-of-figure-on-recto-t10513",
+      "id": "24890",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10514_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-title-not-known-t10514",
+      "id": "24891",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10515_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-title-not-known-t10515",
+      "id": "24892",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10516_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-title-not-known-t10516",
+      "id": "24893",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10517_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-title-not-known-t10517",
+      "id": "24894",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10518_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-title-not-known-t10518",
+      "id": "24895",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10519_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-title-not-known-t10519",
+      "id": "24896",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10520_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-title-not-known-t10520",
+      "id": "24897",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10521_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-title-not-known-t10521",
+      "id": "24898",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known] verso: sketches of buildings",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10522_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-title-not-known-verso-sketches-of-buildings-t10522",
+      "id": "24900",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10523_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-title-not-known-t10523",
+      "id": "24901",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10524_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-title-not-known-t10524",
+      "id": "24902",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "24158",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24157",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24381",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24867",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22800",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24868",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24869",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24870",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24871",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22306",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24872",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24873",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24874",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24875",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24876",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24877",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24878",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24879",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24880",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24881",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24882",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24883",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24884",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24885",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24886",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24887",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24888",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24889",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24890",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24891",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24892",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24893",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24894",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24895",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24896",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24897",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24898",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24900",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24901",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24902",
+      "value": 1
+    }
+  ]
+}

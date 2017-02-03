@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Yeats, Jack Butler",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/jack-butler-yeats-2178",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "back from the races",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04076_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yeats-back-from-the-races-n04076",
+      "id": "16507",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the two travellers",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05660_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yeats-the-two-travellers-n05660",
+      "id": "16508",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the death of diarmuid, the last handful of water",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05836_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yeats-the-death-of-diarmuid-the-last-handful-of-water-n05836",
+      "id": "16509",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "morning after rain",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00693_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yeats-morning-after-rain-t00693",
+      "id": "16510",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a rose among many waters",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12918_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yeats-a-rose-among-many-waters-t12918",
+      "id": "91831",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16507",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16508",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16509",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16510",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "91831",
+      "value": 1
+    }
+  ]
+}

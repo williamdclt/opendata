@@ -1,0 +1,169 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Jantjes, Gavin",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/gavin-jantjes-4779",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "whites only",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jantjes-whites-only-p78646",
+      "id": "71599",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "colour this whites only",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jantjes-colour-this-whites-only-p78647",
+      "id": "74141",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "classify this coloured",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jantjes-classify-this-coloured-p78648",
+      "id": "74142",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "colour these blacks white",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jantjes-colour-these-blacks-white-p78649",
+      "id": "74143",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "colour this labour dirt cheap",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jantjes-colour-this-labour-dirt-cheap-p78650",
+      "id": "74144",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "colour these workers sold out",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jantjes-colour-these-workers-sold-out-p78651",
+      "id": "74145",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "colour this slavery golden",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jantjes-colour-this-slavery-golden-p78652",
+      "id": "74146",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gold market",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jantjes-gold-market-p78653",
+      "id": "74147",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the true colours of the state",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jantjes-the-true-colours-of-the-state-p78654",
+      "id": "74148",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "colour these people dead",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jantjes-colour-these-people-dead-p78655",
+      "id": "74149",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dead",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jantjes-dead-p78656",
+      "id": "74150",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "71599",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "74141",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "74142",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "74143",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "74144",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "74145",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "74146",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "74147",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "74148",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "74149",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "74150",
+      "value": 1
+    }
+  ]
+}

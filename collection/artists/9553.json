@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gallagher, Ellen",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/ellen-gallagher-9553",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "paper cup",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00066_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gallagher-paper-cup-ar00066",
+      "id": "95724",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00067_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gallagher-untitled-ar00067",
+      "id": "95725",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "deluxe",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12301_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gallagher-deluxe-t12301",
+      "id": "90148",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bird in hand",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12450_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gallagher-bird-in-hand-t12450",
+      "id": "93191",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "esirn coaler",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12508_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gallagher-esirn-coaler-t12508",
+      "id": "94733",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "murmur",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13713_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gallagher-cleijne-murmur-t13713",
+      "id": "93220",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "95724",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95725",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90148",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93191",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "94733",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93220",
+      "value": 1
+    }
+  ]
+}

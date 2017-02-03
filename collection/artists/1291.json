@@ -1,0 +1,309 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hitchens, Ivon",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/ivon-hitchens-1291",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "winter stage",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04923_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hitchens-winter-stage-n04923",
+      "id": "6486",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "damp autumn",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05255_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hitchens-damp-autumn-n05255",
+      "id": "6488",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view from terrace: ashdown forest",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05368_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hitchens-view-from-terrace-ashdown-forest-n05368",
+      "id": "6487",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03182_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hitchens-untitled-p03182",
+      "id": "6489",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woodland, vertical and horizontal",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00261_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hitchens-woodland-vertical-and-horizontal-t00261",
+      "id": "6490",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "coronation",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00728_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hitchens-coronation-t00728",
+      "id": "6491",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "forest edge no. 2",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00873_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hitchens-forest-edge-no-2-t00873",
+      "id": "6492",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "arno no. 5",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01027_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hitchens-arno-no-5-t01027",
+      "id": "6493",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "october painting, yellow and blue",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01205_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hitchens-october-painting-yellow-and-blue-t01205",
+      "id": "6494",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cartoon drawing for the mural painting at cecil sharp house, london",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hitchens-cartoon-drawing-for-the-mural-painting-at-cecil-sharp-house-london-t02212",
+      "id": "6495",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for the mural painting at cecil sharp house, london",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02213_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hitchens-study-for-the-mural-painting-at-cecil-sharp-house-london-t02213",
+      "id": "6496",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for the mural painting at cecil sharp house, london",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02214_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hitchens-study-for-the-mural-painting-at-cecil-sharp-house-london-t02214",
+      "id": "6497",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "autumn composition, flowers on a table",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02215_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hitchens-autumn-composition-flowers-on-a-table-t02215",
+      "id": "6498",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "divided oak tree, no. 2",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02216_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hitchens-divided-oak-tree-no-2-t02216",
+      "id": "6499",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "balcony at cambridge",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03122_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hitchens-balcony-at-cambridge-t03122",
+      "id": "6500",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "abstract composition",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03123_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hitchens-abstract-composition-t03123",
+      "id": "6501",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "triangle to beyond",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03124_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hitchens-triangle-to-beyond-t03124",
+      "id": "6502",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figures in sunlight",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03125_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hitchens-figures-in-sunlight-t03125",
+      "id": "6503",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "interior, boy in bed",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03126_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hitchens-interior-boy-in-bed-t03126",
+      "id": "6504",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a view from my roof",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03127_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hitchens-a-view-from-my-roof-t03127",
+      "id": "6505",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "interior of a wood",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hitchens-interior-of-a-wood-t07815",
+      "id": "68782",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6486",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6488",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6487",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6489",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6490",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6491",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6492",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6493",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6494",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6495",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6496",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6497",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6498",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6499",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6500",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6501",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6502",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6503",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6504",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6505",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "68782",
+      "value": 1
+    }
+  ]
+}

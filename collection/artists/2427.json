@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Fripp, George Arthur",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/george-arthur-fripp-2427",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "view of clifton gorge",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09573_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fripp-view-of-clifton-gorge-t09573",
+      "id": "22889",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "22889",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Reynolds, Sir Joshua",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-joshua-reynolds-444",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the holy family with the infant st john",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00837_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reynolds-the-holy-family-with-the-infant-st-john-a00837",
+      "id": "12386",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "three ladies adorning a term of hymen",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00079_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reynolds-three-ladies-adorning-a-term-of-hymen-n00079",
+      "id": "12387",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a man\u2019s head",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00106_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reynolds-a-mans-head-n00106",
+      "id": "12388",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the banished lord",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00107_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reynolds-the-banished-lord-n00107",
+      "id": "12389",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lord ligonier",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00143_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reynolds-lord-ligonier-n00143",
+      "id": "12390",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the infant samuel",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00162_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reynolds-the-infant-samuel-n00162",
+      "id": "12391",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a child\u2019s portrait in different views: \u2018angel\u2019s heads\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00182_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reynolds-a-childs-portrait-in-different-views-angels-heads-n00182",
+      "id": "12392",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sir abraham hume",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00305_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reynolds-sir-abraham-hume-n00305",
+      "id": "12393",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00306_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reynolds-self-portrait-n00306",
+      "id": "12394",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the age of innocence",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00307_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reynolds-the-age-of-innocence-n00307",
+      "id": "12395",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mr huddesford and mr bampfylde",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00754_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reynolds-mr-huddesford-and-mr-bampfylde-n00754",
+      "id": "12396",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a nymph and cupid: \u2018the snake in the grass\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00885_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reynolds-a-nymph-and-cupid-the-snake-in-the-grass-n00885",
+      "id": "12397",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "admiral viscount keppel",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00886_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reynolds-admiral-viscount-keppel-n00886",
+      "id": "12398",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "doctor samuel johnson",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00887_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reynolds-doctor-samuel-johnson-n00887",
+      "id": "12399",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait when young",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00889_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reynolds-self-portrait-when-young-n00889",
+      "id": "12400",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "george iv when prince of wales",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00890_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reynolds-george-iv-when-prince-of-wales-n00890",
+      "id": "12401",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs fox",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00891_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reynolds-mrs-fox-n00891",
+      "id": "12423",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "robinetta",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00892_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reynolds-robinetta-n00892",
+      "id": "12402",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait as a figure of horror",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01834_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reynolds-self-portrait-as-a-figure-of-horror-n01834",
+      "id": "12403",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018the 4th duke of marlborough and his family\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01840_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reynolds-sketch-for-the-4th-duke-of-marlborough-and-his-family-n01840",
+      "id": "12404",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs hartley as a nymph with a young bacchus",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01924_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reynolds-mrs-hartley-as-a-nymph-with-a-young-bacchus-n01924",
+      "id": "12405",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lady bampfylde",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03343_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reynolds-lady-bampfylde-n03343",
+      "id": "12406",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sir james hodges",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03545_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reynolds-sir-james-hodges-n03545",
+      "id": "12407",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait as a deaf man",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04505_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reynolds-self-portrait-as-a-deaf-man-n04505",
+      "id": "12408",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "doctor johnson arguing",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04506_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reynolds-doctor-johnson-arguing-n04506",
+      "id": "12420",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the hon. miss monckton",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04694_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reynolds-the-hon-miss-monckton-n04694",
+      "id": "12409",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "admiral sir robert kingsmill",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05023_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reynolds-admiral-sir-robert-kingsmill-n05023",
+      "id": "12410",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "puck or robin goodfellow",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05384_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reynolds-puck-or-robin-goodfellow-n05384",
+      "id": "12421",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of a lady",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05564_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reynolds-portrait-of-a-lady-n05564",
+      "id": "12411",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the thames from richmond hill",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05635_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reynolds-the-thames-from-richmond-hill-n05635",
+      "id": "12412",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lady talbot",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05640_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reynolds-lady-talbot-n05640",
+      "id": "12413",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sir watkin williams-wynn and his mother",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05750_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reynolds-sir-watkin-williams-wynn-and-his-mother-n05750",
+      "id": "12414",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "francis beckford",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05798_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reynolds-francis-beckford-n05798",
+      "id": "12415",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "suzanna beckford",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05799_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reynolds-suzanna-beckford-n05799",
+      "id": "12416",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a young black (?francis barber)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05843_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reynolds-a-young-black-francis-barber-n05843",
+      "id": "12424",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lady sarah bunbury or lady beauchamp",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06159_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reynolds-lady-sarah-bunbury-or-lady-beauchamp-n06159",
+      "id": "12422",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lady anstruther",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06243_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reynolds-lady-anstruther-n06243",
+      "id": "12417",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lord and lady ashburton",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06244_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reynolds-lord-and-lady-ashburton-n06244",
+      "id": "12418",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs richard cumberland",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00066_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reynolds-mrs-richard-cumberland-t00066",
+      "id": "12419",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a young black (?francis barber)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01892_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reynolds-a-young-black-francis-barber-t01892",
+      "id": "12425",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12386",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12387",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12388",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12389",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12390",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12391",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12392",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12393",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12394",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12395",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12396",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12397",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12398",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12399",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12400",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12401",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12423",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12402",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12403",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12404",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12405",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12406",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12407",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12408",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12420",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12409",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12410",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12421",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12411",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12412",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12413",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12414",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12415",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12416",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12424",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12422",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12417",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12418",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12419",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12425",
+      "value": 1
+    }
+  ]
+}

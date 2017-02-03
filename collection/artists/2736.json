@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Curtis, Layla",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/layla-curtis-2736",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "united kingdom",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07596_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/curtis-united-kingdom-t07596",
+      "id": "26956",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "26956",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "John, Gwen",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/gwen-john-1363",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "nude girl",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03173_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-nude-girl-n03173",
+      "id": "7143",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a lady reading",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03174_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-a-lady-reading-n03174",
+      "id": "7144",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chlo\u00eb boughton-leigh",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04088_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-chloe-boughton-leigh-n04088",
+      "id": "7145",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the convalescent",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04861_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-the-convalescent-n04861",
+      "id": "7146",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a child",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05152_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-study-of-a-child-n05152",
+      "id": "7147",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a girl holding a doll",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05153_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-study-of-a-girl-holding-a-doll-n05153",
+      "id": "7148",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cat",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05154_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-cat-n05154",
+      "id": "7149",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cat",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05155_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-cat-n05155",
+      "id": "7150",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the nun",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05162_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-the-nun-n05162",
+      "id": "7151",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05366_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-self-portrait-n05366",
+      "id": "7152",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "young woman holding a black cat",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05744_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-young-woman-holding-a-black-cat-n05744",
+      "id": "7153",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dorelia in a black dress",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05910_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-dorelia-in-a-black-dress-n05910",
+      "id": "7154",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "annabella",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00155_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-annabella-t00155",
+      "id": "7155",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cat",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00156_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-cat-t00156",
+      "id": "7156",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "7143",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7144",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7145",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7146",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7147",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7148",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7149",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7150",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7151",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7152",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7153",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7154",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7155",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7156",
+      "value": 1
+    }
+  ]
+}

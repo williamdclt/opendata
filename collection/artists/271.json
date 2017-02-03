@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Holmes, Sir Richard Rivington",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-richard-rivington-holmes-271",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the monk",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03618_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holmes-the-monk-n03618",
+      "id": "6675",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6675",
+      "value": 1
+    }
+  ]
+}

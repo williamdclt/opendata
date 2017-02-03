@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Eardley, Joan",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/joan-eardley-1049",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "salmon net posts",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04133_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/eardley-salmon-net-posts-t04133",
+      "id": "4072",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4072",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Austin, Robert",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/robert-austin-677",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "palaces, grand canal, venice",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04179_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/austin-palaces-grand-canal-venice-n04179",
+      "id": "648",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the foot bath",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04547_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/austin-the-foot-bath-n04547",
+      "id": "649",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sewing worn parts on cradle legs",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05676_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/austin-sewing-worn-parts-on-cradle-legs-n05676",
+      "id": "650",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman milking goat",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07001_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/austin-woman-milking-goat-p07001",
+      "id": "651",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "648",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "649",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "650",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "651",
+      "value": 1
+    }
+  ]
+}

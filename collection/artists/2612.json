@@ -1,0 +1,225 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Tuymans, Luc",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/luc-tuymans-2612",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tuymans-no-title-p78005",
+      "id": "22036",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tuymans-no-title-p78006",
+      "id": "22039",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tuymans-no-title-p78007",
+      "id": "22043",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tuymans-no-title-p78008",
+      "id": "22038",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tuymans-no-title-p78009",
+      "id": "22041",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tuymans-no-title-p78010",
+      "id": "22040",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tuymans-no-title-p78011",
+      "id": "22037",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tuymans-no-title-p78012",
+      "id": "22042",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "illegitimate iii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tuymans-illegitimate-iii-t07408",
+      "id": "26222",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "illegitimate i",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tuymans-illegitimate-i-t07413",
+      "id": "26209",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tuymans-untitled-t07575",
+      "id": "26856",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tuymans-untitled-t07576",
+      "id": "26855",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tuymans-untitled-t07577",
+      "id": "26857",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tuymans-untitled-t07578",
+      "id": "26858",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tuymans-untitled-t07579",
+      "id": "26859",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "22036",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22039",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22043",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22038",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22041",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22040",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22037",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22042",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26222",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26209",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26856",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26855",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26857",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26858",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26859",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Turnbull, Alison",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/alison-turnbull-11960",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "plant bands and systematic sections",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79373_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turnbull-plant-bands-and-systematic-sections-p79373",
+      "id": "100719",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "100719",
+      "value": 1
+    }
+  ]
+}

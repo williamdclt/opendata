@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Bishop, Henry",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/henry-bishop-755",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a street in carrara",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04225_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bishop-a-street-in-carrara-n04225",
+      "id": "984",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shakespeare\u2019s cliff, dover",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04698_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bishop-shakespeares-cliff-dover-n04698",
+      "id": "985",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sirocco, tetuan",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05006_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bishop-sirocco-tetuan-n05006",
+      "id": "986",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "984",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "985",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "986",
+      "value": 1
+    }
+  ]
+}

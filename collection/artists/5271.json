@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Arbus, Diane",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/diane-arbus-5271",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "identical twins, roselle, n.j. 1967",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arbus-identical-twins-roselle-nj-1967-ar00506",
+      "id": "96887",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "boy with a straw hat waiting to march in pro-war parade, n.y.c. 1967",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arbus-boy-with-a-straw-hat-waiting-to-march-in-pro-war-parade-nyc-1967-ar00507",
+      "id": "97041",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a jewish giant at home with his parents in the bronx, n.y. 1970",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arbus-a-jewish-giant-at-home-with-his-parents-in-the-bronx-ny-1970-ar00508",
+      "id": "97046",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a young man in curlers at home on west 20th street, n.y.c. 1966",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arbus-a-young-man-in-curlers-at-home-on-west-20th-street-nyc-1966-ar00509",
+      "id": "97047",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "retired man and his wife at home in a nudist camp one morning, n.j. 1963",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arbus-retired-man-and-his-wife-at-home-in-a-nudist-camp-one-morning-nj-1963-ar00510",
+      "id": "97048",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mexican dwarf in his hotel room, n.y.c. 1970",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arbus-mexican-dwarf-in-his-hotel-room-nyc-1970-ar00511",
+      "id": "97049",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a young brooklyn family going for a sunday outing, n.y.c. 1966",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arbus-a-young-brooklyn-family-going-for-a-sunday-outing-nyc-1966-ar00512",
+      "id": "97050",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a family on their lawn one sunday in westchester, n.y. 1968",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arbus-a-family-on-their-lawn-one-sunday-in-westchester-ny-1968-ar00513",
+      "id": "97051",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the king and queen of a senior citizen\u2019s dance, n.y.c. 1970",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arbus-the-king-and-queen-of-a-senior-citizens-dance-nyc-1970-ar00514",
+      "id": "97052",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "xmas tree in a living room in levittown 1963",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arbus-xmas-tree-in-a-living-room-in-levittown-1963-ar00515",
+      "id": "97053",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a house on a hill, hollywood, cal. 1962",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arbus-a-house-on-a-hill-hollywood-cal-1962-ar00516",
+      "id": "97123",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fire eater at a carnival, palisades park, n.j.",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arbus-fire-eater-at-a-carnival-palisades-park-nj-ar00517",
+      "id": "97124",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "42nd street movie theatre audience, n.y.c. 1958",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arbus-42nd-street-movie-theatre-audience-nyc-1958-ar00518",
+      "id": "97125",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "siamese twins in a carnival tent, n.j.",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arbus-siamese-twins-in-a-carnival-tent-nj-ar00519",
+      "id": "97126",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nancy bellamy\u2019s bedroom, n.y.c. 1961",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arbus-nancy-bellamys-bedroom-nyc-1961-ar00520",
+      "id": "97127",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two female impersonators backstage, n.y.c. 1961",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arbus-two-female-impersonators-backstage-nyc-1961-ar00521",
+      "id": "97128",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the human pincushion, ronald c. harrison, n.j. 1962",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arbus-the-human-pincushion-ronald-c-harrison-nj-1962-ar00522",
+      "id": "97129",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "three boys at a baseball game in central park, n.y.c.",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arbus-three-boys-at-a-baseball-game-in-central-park-nyc-ar00523",
+      "id": "97130",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "child with a toy hand grenade in central park, n.y.c. 1962",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arbus-child-with-a-toy-hand-grenade-in-central-park-nyc-1962-ar00524",
+      "id": "97131",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "teenage couple on hudson street, n.y.c. 1963",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arbus-teenage-couple-on-hudson-street-nyc-1963-ar00525",
+      "id": "97132",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a young waitress at a nudist camp, n.j. 1963",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arbus-a-young-waitress-at-a-nudist-camp-nj-1963-ar00526",
+      "id": "97133",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a husband and wife in the woods at a nudist camp, n.j. 1963",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arbus-a-husband-and-wife-in-the-woods-at-a-nudist-camp-nj-1963-ar00527",
+      "id": "97134",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "burlesque comedienne in her dressing room, atlantic city, n.j.",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arbus-burlesque-comedienne-in-her-dressing-room-atlantic-city-nj-ar00528",
+      "id": "97135",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "russian midget friends in a living room on 100th street, n.y.c. 1963",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arbus-russian-midget-friends-in-a-living-room-on-100th-street-nyc-1963-ar00529",
+      "id": "97136",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "santas at the santa claus school, albion, n.y. 1964",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arbus-santas-at-the-santa-claus-school-albion-ny-1964-ar00530",
+      "id": "97137",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a flower girl at a wedding, conn. 1964",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arbus-a-flower-girl-at-a-wedding-conn-1964-ar00531",
+      "id": "97138",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lady bartender at home with a souvenir dog, new orleans l.a. 1964",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arbus-lady-bartender-at-home-with-a-souvenir-dog-new-orleans-la-1964-ar00532",
+      "id": "97139",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bishop by the sea, santa barbara, cal. 1964",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arbus-bishop-by-the-sea-santa-barbara-cal-1964-ar00533",
+      "id": "97140",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jewish couple dancing, n.y.c. 1963",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arbus-jewish-couple-dancing-nyc-1963-ar00534",
+      "id": "97141",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs t.charlton henry in an evening gown, philadelphia, pa. 1965",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arbus-mrs-tcharlton-henry-in-an-evening-gown-philadelphia-pa-1965-ar00535",
+      "id": "97142",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "girl in a watch cap, n.y.c. 1965",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arbus-girl-in-a-watch-cap-nyc-1965-ar00536",
+      "id": "97143",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "young man and his pregnant wife in washington square park, n.y.c. 1965",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arbus-young-man-and-his-pregnant-wife-in-washington-square-park-nyc-1965-ar00537",
+      "id": "97144",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman with a locket in washington square park, n.y.c. 1965",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arbus-woman-with-a-locket-in-washington-square-park-nyc-1965-ar00538",
+      "id": "97145",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman in a rose hat, n.y.c. 1966",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arbus-woman-in-a-rose-hat-nyc-1966-ar00539",
+      "id": "97146",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "puerto rican woman with a beauty mark, n.y.c. 1965",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arbus-puerto-rican-woman-with-a-beauty-mark-nyc-1965-ar00540",
+      "id": "97147",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "patriotic young man with a flag, n.y.c. 1967",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arbus-patriotic-young-man-with-a-flag-nyc-1967-ar00541",
+      "id": "97148",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a child crying, n.j. 1967",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arbus-a-child-crying-nj-1967-ar00542",
+      "id": "97149",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "masked man at a ball, n.y.c. 1967",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arbus-masked-man-at-a-ball-nyc-1967-ar00543",
+      "id": "97150",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "superstar at home, n.y.c. 1968",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arbus-superstar-at-home-nyc-1968-ar00544",
+      "id": "97151",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two friends at home, n.y.c. 1965",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arbus-two-friends-at-home-nyc-1965-ar00545",
+      "id": "97152",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "96887",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97041",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97046",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97047",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97048",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97049",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97050",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97051",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97052",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97053",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97123",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97124",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97125",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97126",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97127",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97128",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97129",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97130",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97131",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97132",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97133",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97134",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97135",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97136",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97137",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97138",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97139",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97140",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97141",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97142",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97143",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97144",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97145",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97146",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97147",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97148",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97149",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97150",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97151",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97152",
+      "value": 1
+    }
+  ]
+}

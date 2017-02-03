@@ -1,0 +1,197 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Mara, Tim",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/tim-mara-1573",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "power cuts imminent",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03134_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mara-power-cuts-imminent-p03134",
+      "id": "9243",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the stage and television today",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11532_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mara-the-stage-and-television-today-p11532",
+      "id": "26355",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the launderette",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11533_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mara-the-launderette-p11533",
+      "id": "26356",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hand grip",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11534_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mara-hand-grip-p11534",
+      "id": "26358",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "four heads",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11535_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mara-four-heads-p11535",
+      "id": "26357",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "glass jug",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11536_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mara-glass-jug-p11536",
+      "id": "26359",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "coal and diamonds",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11537_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mara-coal-and-diamonds-p11537",
+      "id": "26360",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "new broom",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11538_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mara-new-broom-p11538",
+      "id": "26361",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hat and squeezer",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11539_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mara-hat-and-squeezer-p11539",
+      "id": "26362",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "can and bowl",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11540_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mara-can-and-bowl-p11540",
+      "id": "26363",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "plastic glove and wire brush",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11541_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mara-plastic-glove-and-wire-brush-p11541",
+      "id": "26364",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lightbulb and book",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11542_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mara-lightbulb-and-book-p11542",
+      "id": "26365",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pin sculpture",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11543_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mara-pin-sculpture-p11543",
+      "id": "26366",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9243",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26355",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26356",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26358",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26357",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26359",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26360",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26361",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26362",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26363",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26364",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26365",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26366",
+      "value": 1
+    }
+  ]
+}

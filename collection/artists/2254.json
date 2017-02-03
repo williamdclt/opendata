@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Pirandello, Fausto",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/fausto-pirandello-2254",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "awakening",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05707_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pirandello-awakening-t05707",
+      "id": "18929",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "18929",
+      "value": 1
+    }
+  ]
+}

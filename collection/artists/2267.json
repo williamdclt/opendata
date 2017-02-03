@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Davenport, Ian",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/ian-davenport-2267",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled (drab)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05841_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davenport-untitled-drab-t05841",
+      "id": "19263",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "poured painting: blue, black, blue",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07837_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davenport-poured-painting-blue-black-blue-t07837",
+      "id": "71013",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "19263",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71013",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Seddon, John Pollard",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-pollard-seddon-482",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "recess with staircase, st sauveur, caen",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02407_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/seddon-recess-with-staircase-st-sauveur-caen-n02407",
+      "id": "13270",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13270",
+      "value": 1
+    }
+  ]
+}

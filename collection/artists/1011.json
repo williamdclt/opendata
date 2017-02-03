@@ -1,0 +1,183 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Disler, Martin",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/martin-disler-1011",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07839_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/disler-no-title-p07839",
+      "id": "3927",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07840_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/disler-no-title-p07840",
+      "id": "3928",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07841_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/disler-no-title-p07841",
+      "id": "3929",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07842_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/disler-no-title-p07842",
+      "id": "3930",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07843_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/disler-no-title-p07843",
+      "id": "3931",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07844_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/disler-no-title-p07844",
+      "id": "3932",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07845_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/disler-no-title-p07845",
+      "id": "3933",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07846_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/disler-no-title-p07846",
+      "id": "3934",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/disler-no-title-p07990",
+      "id": "3926",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/disler-untitled-p77159",
+      "id": "3935",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/disler-untitled-p77269",
+      "id": "3689",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/disler-untitled-t03862",
+      "id": "3936",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "3927",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3928",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3929",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3930",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3931",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3932",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3933",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3934",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3926",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3935",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3689",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3936",
+      "value": 1
+    }
+  ]
+}

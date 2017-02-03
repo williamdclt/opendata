@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Von Motesiczky, Marie-Louise",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/marie-louise-von-motesiczky-1672",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "view from the window, vienna",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04849_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/von-motesiczky-view-from-the-window-vienna-t04849",
+      "id": "10340",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life with sheep",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04850_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/von-motesiczky-still-life-with-sheep-t04850",
+      "id": "10341",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "from night into day",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04851_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/von-motesiczky-from-night-into-day-t04851",
+      "id": "10342",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "10340",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10341",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10342",
+      "value": 1
+    }
+  ]
+}

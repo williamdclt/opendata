@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Severn, Joseph",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/joseph-severn-487",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the infant of the apocalypse saved from the dragon",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03357_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/severn-the-infant-of-the-apocalypse-saved-from-the-dragon-t03357",
+      "id": "13324",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13324",
+      "value": 1
+    }
+  ]
+}

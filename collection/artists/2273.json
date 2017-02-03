@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Allom, Thomas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/thomas-allom-2273",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "south view of lowther castle, the seat of william lowther, earl of lonsdale, engraved by j. thomas",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06384_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/allom-south-view-of-lowther-castle-the-seat-of-william-lowther-earl-of-lonsdale-engraved-t06384",
+      "id": "19562",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "19562",
+      "value": 1
+    }
+  ]
+}

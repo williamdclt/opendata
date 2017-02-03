@@ -1,0 +1,267 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Murray, Elizabeth",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/elizabeth-murray-1683",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/murray-no-title-p11860",
+      "id": "21290",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/murray-no-title-p11861",
+      "id": "21291",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/murray-no-title-p11862",
+      "id": "21292",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/murray-no-title-p11863",
+      "id": "21326",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/murray-no-title-p11864",
+      "id": "21327",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/murray-no-title-p11865",
+      "id": "21328",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/murray-no-title-p11866",
+      "id": "21329",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/murray-no-title-p11867",
+      "id": "21330",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/murray-no-title-p11868",
+      "id": "21332",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/murray-no-title-p11869",
+      "id": "21333",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/murray-no-title-p11870",
+      "id": "21334",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/murray-no-title-p11871",
+      "id": "21335",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/murray-no-title-p11872",
+      "id": "21331",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bird",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/murray-bird-p11873",
+      "id": "21336",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chair",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/murray-chair-p11874",
+      "id": "21337",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shoes",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/murray-shoes-p11875",
+      "id": "21338",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "?",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/murray-p11876",
+      "id": "21339",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (black cup)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/murray-untitled-black-cup-p77126",
+      "id": "10505",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "21290",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21291",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21292",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21326",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21327",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21328",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21329",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21330",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21332",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21333",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21334",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21335",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21331",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21336",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21337",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21338",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21339",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10505",
+      "value": 1
+    }
+  ]
+}

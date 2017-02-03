@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Davis, Lady",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/lady-davis-nee-mary-halford-2285",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "fan: masques and bergamasques",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03004_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-fan-masques-and-bergamasques-n03004",
+      "id": "3662",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "3662",
+      "value": 1
+    }
+  ]
+}

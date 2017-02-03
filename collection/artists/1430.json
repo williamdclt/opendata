@@ -1,0 +1,449 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Kokoschka, Oskar",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/oskar-kokoschka-1430",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "polperro ii",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05251_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kokoschka-polperro-ii-n05251",
+      "id": "8182",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ambassador ivan maisky",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05432_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kokoschka-ambassador-ivan-maisky-n05432",
+      "id": "8183",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P09/P09099_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kokoschka-no-title-p09099",
+      "id": "67793",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P09/P09100_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kokoschka-no-title-p09100",
+      "id": "67795",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P09/P09101_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kokoschka-no-title-p09101",
+      "id": "67796",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P09/P09102_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kokoschka-no-title-p09102",
+      "id": "67797",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P09/P09103_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kokoschka-no-title-p09103",
+      "id": "67798",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P09/P09104_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kokoschka-no-title-p09104",
+      "id": "67799",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P09/P09105_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kokoschka-no-title-p09105",
+      "id": "67800",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P09/P09106_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kokoschka-no-title-p09106",
+      "id": "67801",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P09/P09107_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kokoschka-no-title-p09107",
+      "id": "67802",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P09/P09108_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kokoschka-no-title-p09108",
+      "id": "67803",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P09/P09109_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kokoschka-no-title-p09109",
+      "id": "67804",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of the thames",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01252_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kokoschka-view-of-the-thames-t01252",
+      "id": "8184",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dr fannina w. halle",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02208_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kokoschka-dr-fannina-w-halle-t02208",
+      "id": "8185",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018ambassador ivan maisky\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03829_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kokoschka-study-for-ambassador-ivan-maisky-t03829",
+      "id": "8186",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018ambassador ivan maisky\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03830_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kokoschka-study-for-ambassador-ivan-maisky-t03830",
+      "id": "8187",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the crab",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03834_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kokoschka-the-crab-t03834",
+      "id": "8188",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "time, gentlemen please",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04876_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kokoschka-time-gentlemen-please-t04876",
+      "id": "8190",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "marianne-maquis",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05485_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kokoschka-marianne-maquis-t05485",
+      "id": "8178",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "loreley",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05486_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kokoschka-loreley-t05486",
+      "id": "8176",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "port of london i",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05774_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kokoschka-port-of-london-i-t05774",
+      "id": "19180",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "port of london ii",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05775_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kokoschka-port-of-london-ii-t05775",
+      "id": "19181",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "houses of parliament i",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05776_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kokoschka-houses-of-parliament-i-t05776",
+      "id": "19182",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "houses of parliament ii",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05777_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kokoschka-houses-of-parliament-ii-t05777",
+      "id": "19183",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "houses of parliament iii",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05778_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kokoschka-houses-of-parliament-iii-t05778",
+      "id": "19184",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tower bridge i",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05779_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kokoschka-tower-bridge-i-t05779",
+      "id": "19185",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tower bridge ii",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05780_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kokoschka-tower-bridge-ii-t05780",
+      "id": "19186",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tower bridge iii",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05781_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kokoschka-tower-bridge-iii-t05781",
+      "id": "19187",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "battersea power station (chelsea reach)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05782_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kokoschka-battersea-power-station-chelsea-reach-t05782",
+      "id": "19188",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018time gentlemen please\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05848_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kokoschka-study-for-time-gentlemen-please-t05848",
+      "id": "19389",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8182",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8183",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67793",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67795",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67796",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67797",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67798",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67799",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67800",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67801",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67802",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67803",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67804",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8184",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8185",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8186",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8187",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8188",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8190",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8178",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8176",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19180",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19181",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19182",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19183",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19184",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19185",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19186",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19187",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19188",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19389",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Phillips, Thomas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/thomas-phillips-423",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "sir david wilkie, r.a.",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00183_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-sir-david-wilkie-ra-n00183",
+      "id": "11567",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "11567",
+      "value": 1
+    }
+  ]
+}

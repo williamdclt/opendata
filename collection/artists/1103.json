@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Forain, Jean-Louis",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/jean-louis-forain-1103",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the tribunal",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03288_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/forain-the-tribunal-n03288",
+      "id": "4496",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "counsel and accused",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04789_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/forain-counsel-and-accused-n04789",
+      "id": "4497",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the tub",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05294_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/forain-the-tub-n05294",
+      "id": "4498",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4496",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4497",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4498",
+      "value": 1
+    }
+  ]
+}

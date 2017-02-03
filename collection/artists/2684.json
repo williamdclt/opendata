@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Boty, Pauline",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/pauline-boty-2684",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the only blonde in the world",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07496_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boty-the-only-blonde-in-the-world-t07496",
+      "id": "26506",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "26506",
+      "value": 1
+    }
+  ]
+}

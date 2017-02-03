@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Doyle, Richard",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/richard-doyle-2424",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "jane shore: theatrical caricature",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08873_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doyle-jane-shore-theatrical-caricature-t08873",
+      "id": "22838",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "22838",
+      "value": 1
+    }
+  ]
+}

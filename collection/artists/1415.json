@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Kirk, Eve",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/eve-kirk-1415",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "avignon",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05041_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kirk-avignon-n05041",
+      "id": "7968",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "7968",
+      "value": 1
+    }
+  ]
+}

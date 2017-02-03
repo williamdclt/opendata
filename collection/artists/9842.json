@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Olley, Jonathan",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/jonathan-olley-9842",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "british army firing range, magilligan point, lough foyle, co. londonderry",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/olley-british-army-firing-range-magilligan-point-lough-foyle-co-londonderry-p13228",
+      "id": "122493",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "golf five zero watchtower (known to the british army as \u2018borucki sanger\u2019). crossmaglen security force base, south armagh",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/olley-golf-five-zero-watchtower-known-to-the-british-army-as-borucki-sanger-crossmaglen-p13229",
+      "id": "122495",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "grosvenor road ruc police station, grosvenor road, central belfast",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/olley-grosvenor-road-ruc-police-station-grosvenor-road-central-belfast-p13230",
+      "id": "122496",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ruc police station and british army patrol base, strabane, co.tyrone",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/olley-ruc-police-station-and-british-army-patrol-base-strabane-cotyrone-p13231",
+      "id": "122497",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "springfield road ruc police station, belfast, co.down",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/olley-springfield-road-ruc-police-station-belfast-codown-p80172",
+      "id": "122498",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mountpottinger road ruc station, belfast",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/olley-mountpottinger-road-ruc-station-belfast-p80173",
+      "id": "122499",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "122493",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "122495",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "122496",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "122497",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "122498",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "122499",
+      "value": 1
+    }
+  ]
+}

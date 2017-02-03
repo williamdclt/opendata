@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Cipriani, Giovanni Battista",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/giovanni-battista-cipriani-2485",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "design for the illumination for the king\u2019s birthday",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08124_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cipriani-design-for-the-illumination-for-the-kings-birthday-t08124",
+      "id": "22411",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "studies of a recumbent male figure, said to be for a picture of the deluge",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08230_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cipriani-studies-of-a-recumbent-male-figure-said-to-be-for-a-picture-of-the-deluge-t08230",
+      "id": "22409",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sleeping nymph and putti",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09511_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cipriani-sleeping-nymph-and-putti-t09511",
+      "id": "22410",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "22411",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22409",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22410",
+      "value": 1
+    }
+  ]
+}

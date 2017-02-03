@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "H\u00e9lion, Jean",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/jean-helion-1264",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "ile de france",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00766_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/helion-ile-de-france-t00766",
+      "id": "5940",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nude with loaves",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05497_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/helion-nude-with-loaves-t05497",
+      "id": "17274",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "abstract composition",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07921_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/helion-abstract-composition-t07921",
+      "id": "74195",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5940",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17274",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "74195",
+      "value": 1
+    }
+  ]
+}

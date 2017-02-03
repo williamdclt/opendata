@@ -1,0 +1,365 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Lanceley, Colin",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/colin-lanceley-1462",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "morning and melancholia",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01432_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanceley-morning-and-melancholia-p01432",
+      "id": "8289",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the empire builder",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03265_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanceley-the-empire-builder-p03265",
+      "id": "8290",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two in the bush",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03266_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanceley-two-in-the-bush-p03266",
+      "id": "8291",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "1. arrival of the mandarin",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04551_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanceley-1-arrival-of-the-mandarin-p04551",
+      "id": "8292",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "2. chase",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04552_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanceley-2-chase-p04552",
+      "id": "8293",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "3. entrance of the things",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04553_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanceley-3-entrance-of-the-things-p04553",
+      "id": "8294",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "4. embrace",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04554_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanceley-4-embrace-p04554",
+      "id": "8295",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "5. strong motion",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04555_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanceley-5-strong-motion-p04555",
+      "id": "8296",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "6. liebestod",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04556_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanceley-6-liebestod-p04556",
+      "id": "8297",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bluebeard\u2019s castle",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04557_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanceley-bluebeards-castle-p04557",
+      "id": "8298",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "some are more equal than others",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04558_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanceley-some-are-more-equal-than-others-p04558",
+      "id": "8299",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pan twardowski",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04559_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanceley-pan-twardowski-p04559",
+      "id": "8300",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "popiel",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04560_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanceley-popiel-p04560",
+      "id": "8301",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "an adventure with some windmills",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04561_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanceley-an-adventure-with-some-windmills-p04561",
+      "id": "8302",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a battle with some wine skins",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04562_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanceley-a-battle-with-some-wine-skins-p04562",
+      "id": "8303",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "don quixote confined and confused",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04563_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanceley-don-quixote-confined-and-confused-p04563",
+      "id": "8304",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the don, the virgin and the penitents",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04564_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanceley-the-don-the-virgin-and-the-penitents-p04564",
+      "id": "8305",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the knight\u2019s penance in the sierra morena",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04565_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanceley-the-knights-penance-in-the-sierra-morena-p04565",
+      "id": "8306",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the liberation of the galley slaves",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04566_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanceley-the-liberation-of-the-galley-slaves-p04566",
+      "id": "8307",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "some adventures of don quixote de la mancha",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04567_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanceley-some-adventures-of-don-quixote-de-la-mancha-p04567",
+      "id": "8308",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the burial of the dead",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05372_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanceley-the-burial-of-the-dead-p05372",
+      "id": "8309",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a game of chess",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05373_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanceley-a-game-of-chess-p05373",
+      "id": "8310",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the final sermon",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05374_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanceley-the-final-sermon-p05374",
+      "id": "8311",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "death by water",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05375_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanceley-death-by-water-p05375",
+      "id": "8312",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "what the thunder said",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05376_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanceley-what-the-thunder-said-p05376",
+      "id": "8313",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8289",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8290",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8291",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8292",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8293",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8294",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8295",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8296",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8297",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8298",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8299",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8300",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8301",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8302",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8303",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8304",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8305",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8306",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8307",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8308",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8309",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8310",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8311",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8312",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8313",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Lhote, Andr\u00e9",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/andre-lhote-1506",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018homage to watteau\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05073_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lhote-study-for-homage-to-watteau-n05073",
+      "id": "8767",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8767",
+      "value": 1
+    }
+  ]
+}

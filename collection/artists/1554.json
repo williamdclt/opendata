@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Mahoney, Charles",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/charles-mahoney-1554",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "outhouses",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05227_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mahoney-outhouses-n05227",
+      "id": "9163",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "adam and eve in the garden of eden",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05323_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mahoney-adam-and-eve-in-the-garden-of-eden-n05323",
+      "id": "9164",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018adam and eve\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02091_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mahoney-study-for-adam-and-eve-t02091",
+      "id": "9165",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wrotham place from the garden",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mahoney-wrotham-place-from-the-garden-t06728",
+      "id": "20642",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9163",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9164",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9165",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20642",
+      "value": 1
+    }
+  ]
+}

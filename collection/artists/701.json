@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Bateman, James",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/james-bateman-701",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "pastoral",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04471_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bateman-pastoral-n04471",
+      "id": "758",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "commotion in the cattle ring",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04834_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bateman-commotion-in-the-cattle-ring-n04834",
+      "id": "759",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cattle market",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04958_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bateman-cattle-market-n04958",
+      "id": "760",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "758",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "759",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "760",
+      "value": 1
+    }
+  ]
+}

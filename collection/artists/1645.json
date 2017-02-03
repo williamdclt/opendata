@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Mirea, Joan",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/joan-mirea-1645",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "moldavian nude",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mirea-moldavian-nude-p06360",
+      "id": "9575",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "transylvanian nude",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mirea-transylvanian-nude-p06361",
+      "id": "9576",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9575",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9576",
+      "value": 1
+    }
+  ]
+}

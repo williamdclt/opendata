@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Fussell, Michael",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/michael-fussell-1135",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "skywards",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00477_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fussell-skywards-t00477",
+      "id": "4764",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4764",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Wellington, Hubert L.",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/hubert-l-wellington-2129",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the big barn, frampton mansell",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00448_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wellington-the-big-barn-frampton-mansell-t00448",
+      "id": "16071",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16071",
+      "value": 1
+    }
+  ]
+}

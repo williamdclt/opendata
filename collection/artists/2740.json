@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Boitard, Louis Philippe",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/louis-philippe-boitard-2740",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "an exact representation of the game of cricket",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05853_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boitard-an-exact-representation-of-the-game-of-cricket-n05853",
+      "id": "1215",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1215",
+      "value": 1
+    }
+  ]
+}

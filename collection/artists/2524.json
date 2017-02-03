@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Porter, Sir Robert Ker",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-robert-ker-porter-2524",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "an ancient castle",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08532_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/porter-an-ancient-castle-t08532",
+      "id": "23399",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rocks at matlock",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09138_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/porter-rocks-at-matlock-t09138",
+      "id": "23396",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure of an oriental",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09150_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/porter-figure-of-an-oriental-t09150",
+      "id": "23397",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "an oriental girl at a spring",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09151_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/porter-an-oriental-girl-at-a-spring-t09151",
+      "id": "23398",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "23399",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23396",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23397",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23398",
+      "value": 1
+    }
+  ]
+}

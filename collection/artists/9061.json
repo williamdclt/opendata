@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Fowler, Luke",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/luke-fowler-9061",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "what you see is where you\u2019re at",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fowler-what-you-see-is-where-youre-at-t13298",
+      "id": "106340",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "106340",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Buchheister, Carl",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/carl-buchheister-2276",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "composition kewo",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20041_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/buchheister-composition-kewo-p20041",
+      "id": "20156",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "composition har",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06449_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/buchheister-composition-har-t06449",
+      "id": "20151",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "composition gowa",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06450_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/buchheister-composition-gowa-t06450",
+      "id": "20152",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "composition juviem",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06451_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/buchheister-composition-juviem-t06451",
+      "id": "20153",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "composition kolvil",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06452_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/buchheister-composition-kolvil-t06452",
+      "id": "20154",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "composition ursiem",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06453_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/buchheister-composition-ursiem-t06453",
+      "id": "20155",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "20156",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20151",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20152",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20153",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20154",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20155",
+      "value": 1
+    }
+  ]
+}

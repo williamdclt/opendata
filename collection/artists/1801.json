@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Procter, Dod",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/dod-procter-1801",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "morning",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04270_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/procter-morning-n04270",
+      "id": "12241",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kitchen at myrtle cottage",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04817_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/procter-kitchen-at-myrtle-cottage-n04817",
+      "id": "12242",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the orchard",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05325_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/procter-the-orchard-n05325",
+      "id": "12243",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12241",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12242",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12243",
+      "value": 1
+    }
+  ]
+}

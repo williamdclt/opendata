@@ -1,0 +1,141 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hearne, Thomas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/thomas-hearne-247",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "edinburgh castle from arthur\u2019s seat",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05792_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hearne-edinburgh-castle-from-arthurs-seat-n05792",
+      "id": "5930",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "derwentwater",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00999_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hearne-derwentwater-t00999",
+      "id": "5931",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "appleby",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01000_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hearne-appleby-t01000",
+      "id": "5932",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a vine-clad cottage",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01001_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hearne-a-vine-clad-cottage-t01001",
+      "id": "5933",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "three trees on a hill",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07879_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hearne-three-trees-on-a-hill-t07879",
+      "id": "71348",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "linlithgow castle",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08171_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hearne-linlithgow-castle-t08171",
+      "id": "22993",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the moat in kent, the seat of lord romney",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08942_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hearne-the-moat-in-kent-the-seat-of-lord-romney-t08942",
+      "id": "22994",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hills, ships and river",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08943_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hearne-hills-ships-and-river-t08943",
+      "id": "22991",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape with road and castle",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08944_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hearne-landscape-with-road-and-castle-t08944",
+      "id": "22992",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5930",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5931",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5932",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5933",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71348",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22993",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22994",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22991",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22992",
+      "value": 1
+    }
+  ]
+}

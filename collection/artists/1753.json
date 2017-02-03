@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Penck, A.R.",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/ar-penck-ralf-winkler-1753",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "communication",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/penck-communication-p77019",
+      "id": "11499",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "concept",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/penck-concept-p77020",
+      "id": "11500",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "snow in jerusalem",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/penck-snow-in-jerusalem-p77021",
+      "id": "11501",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "thoughts in a kibbutz",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/penck-thoughts-in-a-kibbutz-p77022",
+      "id": "11502",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "munich after the rain",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/penck-munich-after-the-rain-p77199",
+      "id": "11503",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "west",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/penck-west-t03303",
+      "id": "11504",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "east",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/penck-east-t03304",
+      "id": "11505",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "11499",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11500",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11501",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11502",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11503",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11504",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11505",
+      "value": 1
+    }
+  ]
+}

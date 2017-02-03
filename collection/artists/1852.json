@@ -1,0 +1,477 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Rivers, Larry",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/larry-rivers-1852",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "map with fraser",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05084_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rivers-map-with-fraser-p05084",
+      "id": "12619",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "underground with two frasers",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05085_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rivers-underground-with-two-frasers-p05085",
+      "id": "12620",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fraser",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05086_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rivers-fraser-p05086",
+      "id": "12621",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "underground with fraser",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05087_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rivers-underground-with-fraser-p05087",
+      "id": "12622",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[cover]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05088_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rivers-cover-p05088",
+      "id": "12623",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "boston harbor and shooting",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05089_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rivers-boston-harbor-and-shooting-p05089",
+      "id": "12624",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "some (visual) afterthoughts on the boston massacre",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05090_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rivers-some-visual-afterthoughts-on-the-boston-massacre-p05090",
+      "id": "12625",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "enlisted man and officer",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05091_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rivers-enlisted-man-and-officer-p05091",
+      "id": "12626",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "40th regiment",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05092_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rivers-40th-regiment-p05092",
+      "id": "12627",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ready-aim",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05093_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rivers-ready-aim-p05093",
+      "id": "12628",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ready-aim and two hands",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05094_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rivers-ready-aim-and-two-hands-p05094",
+      "id": "12629",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black revue",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05095_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rivers-black-revue-p05095",
+      "id": "12630",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "victims",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05096_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rivers-victims-p05096",
+      "id": "12631",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "those who fire, those who run",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05097_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rivers-those-who-fire-those-who-run-p05097",
+      "id": "12632",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "observation",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05098_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rivers-observation-p05098",
+      "id": "12633",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "redcoats - mist",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05099_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rivers-redcoats-mist-p05099",
+      "id": "12634",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "redcoats (fold-out)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05100_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rivers-redcoats-fold-out-p05100",
+      "id": "12635",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "confederate soldier",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05101_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rivers-confederate-soldier-p05101",
+      "id": "12636",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "girlie",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05102_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rivers-girlie-p05102",
+      "id": "12637",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title page]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rivers-ohara-title-page-p77305",
+      "id": "17313",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "1",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rivers-ohara-1-p77306",
+      "id": "17360",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "2",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rivers-ohara-2-p77307",
+      "id": "17361",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "3",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rivers-ohara-3-p77308",
+      "id": "17362",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "4",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rivers-ohara-4-p77309",
+      "id": "17363",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "5",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rivers-ohara-5-p77310",
+      "id": "17364",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "6",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rivers-ohara-6-p77311",
+      "id": "17365",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "7",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rivers-ohara-7-p77312",
+      "id": "17366",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "8",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rivers-ohara-8-p77313",
+      "id": "17368",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "9",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rivers-ohara-9-p77314",
+      "id": "17367",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "10",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rivers-ohara-10-p77315",
+      "id": "17369",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "11",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rivers-ohara-11-p77316",
+      "id": "17370",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "12",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rivers-ohara-12-p77317",
+      "id": "17371",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "parts of the face: french vocabulary lesson",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00522_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rivers-parts-of-the-face-french-vocabulary-lesson-t00522",
+      "id": "12638",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12619",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12620",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12621",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12622",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12623",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12624",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12625",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12626",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12627",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12628",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12629",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12630",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12631",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12632",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12633",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12634",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12635",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12636",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12637",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17313",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17360",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17361",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17362",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17363",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17364",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17365",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17366",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17368",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17367",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17369",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17370",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17371",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12638",
+      "value": 1
+    }
+  ]
+}

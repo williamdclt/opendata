@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Cooper, Austin",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/austin-cooper-939",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "abstraction 199/62",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00572_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cooper-abstraction-19962-t00572",
+      "id": "2778",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "abstraction 200/62",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00573_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cooper-abstraction-20062-t00573",
+      "id": "2779",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "congeries b/4/7",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00574_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cooper-congeries-b47-t00574",
+      "id": "2780",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2778",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2779",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2780",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Churchyard, Thomas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/thomas-churchyard-93",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "view on the deben",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01682_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/churchyard-view-on-the-deben-t01682",
+      "id": "2220",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "windmills",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03618_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/churchyard-windmills-t03618",
+      "id": "2221",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a house by a river",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03619_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/churchyard-a-house-by-a-river-t03619",
+      "id": "2222",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the garden tent",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03620_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/churchyard-the-garden-tent-t03620",
+      "id": "2223",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "aldeburgh beach",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03621_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/churchyard-aldeburgh-beach-t03621",
+      "id": "2224",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2220",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2221",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2222",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2223",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2224",
+      "value": 1
+    }
+  ]
+}

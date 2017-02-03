@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Maccari, Mino",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/mino-maccari-1538",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "giorgio morandi",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08034_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maccari-giorgio-morandi-p08034",
+      "id": "9044",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9044",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Kher, Bharti",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/bharti-kher-14889",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "confess",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kher-confess-t13271",
+      "id": "114124",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "114124",
+      "value": 1
+    }
+  ]
+}

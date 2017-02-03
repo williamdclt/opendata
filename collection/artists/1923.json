@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Serra, Richard",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/richard-serra-1923",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "leo",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/serra-leo-p13306",
+      "id": "66897",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "weight and measure",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20144_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/serra-weight-and-measure-p20144",
+      "id": "21042",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "patience",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77174_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/serra-patience-p77174",
+      "id": "13315",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "screech",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77985_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/serra-screech-p77985",
+      "id": "21914",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "allee",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77986_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/serra-allee-p77986",
+      "id": "21915",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shovel plate prop",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01728_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/serra-shovel-plate-prop-t01728",
+      "id": "13316",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "2-2-1: to dickie and tina",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07340_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/serra-2-2-1-to-dickie-and-tina-t07340",
+      "id": "25974",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "trip hammer",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07350_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/serra-trip-hammer-t07350",
+      "id": "26006",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "66897",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21042",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13315",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21914",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21915",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13316",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25974",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26006",
+      "value": 1
+    }
+  ]
+}

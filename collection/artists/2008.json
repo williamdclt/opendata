@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Studd, Arthur",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/arthur-studd-2008",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a venetian lyric",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03275_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/studd-a-venetian-lyric-n03275",
+      "id": "14002",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "breton woman and child",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/studd-breton-woman-and-child-n03276",
+      "id": "14003",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pacific island subject",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/studd-pacific-island-subject-n03277",
+      "id": "14004",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the mauve hat (?)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03644_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/studd-the-mauve-hat-t03644",
+      "id": "14005",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "venetian lyric (san giorgio)(?)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03645_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/studd-venetian-lyric-san-giorgio-t03645",
+      "id": "14006",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "venetian lyric (santa maria della salute)(?)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03646_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/studd-venetian-lyric-santa-maria-della-salute-t03646",
+      "id": "14007",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "14002",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14003",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14004",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14005",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14006",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14007",
+      "value": 1
+    }
+  ]
+}

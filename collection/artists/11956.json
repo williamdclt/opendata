@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Osbaldeston, David",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/david-osbaldeston-11956",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a trade double",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79369_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/osbaldeston-a-trade-double-p79369",
+      "id": "100715",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "100715",
+      "value": 1
+    }
+  ]
+}

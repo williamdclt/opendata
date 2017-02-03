@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Rossell, Daniela",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/daniela-rossell-6237",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossell-untitled-p11972",
+      "id": "78731",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossell-untitled-p11973",
+      "id": "78733",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossell-untitled-p11974",
+      "id": "78734",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossell-untitled-p11975",
+      "id": "78735",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "78731",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78733",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78734",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78735",
+      "value": 1
+    }
+  ]
+}

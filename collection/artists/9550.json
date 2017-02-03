@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Abts, Tomma",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/tomma-abts-9550",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "noeme",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12275_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abts-noeme-t12275",
+      "id": "90135",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled # 1",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abts-untitled-1-t12759",
+      "id": "98114",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled no. 6",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13041_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abts-untitled-no-6-t13041",
+      "id": "109295",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled no. 8",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abts-untitled-no-8-t13042",
+      "id": "109296",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled no. 10",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abts-untitled-no-10-t13043",
+      "id": "109297",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "zebe",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13592_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abts-zebe-t13592",
+      "id": "114324",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "90135",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98114",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "109295",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "109296",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "109297",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114324",
+      "value": 1
+    }
+  ]
+}

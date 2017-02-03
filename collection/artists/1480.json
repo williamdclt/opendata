@@ -1,0 +1,169 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Le Brocquy, Louis",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/louis-le-brocquy-1480",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "cuchulainn",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01744_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/le-brocquy-cuchulainn-p01744",
+      "id": "8485",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head and handprint",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01745_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/le-brocquy-head-and-handprint-p01745",
+      "id": "8486",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "image in darkness",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01746_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/le-brocquy-image-in-darkness-p01746",
+      "id": "8487",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lemon",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01747_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/le-brocquy-lemon-p01747",
+      "id": "8488",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mycenean gold mask",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01748_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/le-brocquy-mycenean-gold-mask-p01748",
+      "id": "8489",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "no lemon",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01749_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/le-brocquy-no-lemon-p01749",
+      "id": "8490",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head on a red ground",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01750_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/le-brocquy-head-on-a-red-ground-p01750",
+      "id": "8491",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tinkers resting",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00224_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/le-brocquy-tinkers-resting-t00224",
+      "id": "8492",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00316_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/le-brocquy-woman-t00316",
+      "id": "8493",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study towards an image of james joyce",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02335_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/le-brocquy-study-towards-an-image-of-james-joyce-t02335",
+      "id": "8494",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "image of james joyce",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05708_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/le-brocquy-image-of-james-joyce-t05708",
+      "id": "18928",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8485",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8486",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8487",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8488",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8489",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8490",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8491",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8492",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8493",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8494",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18928",
+      "value": 1
+    }
+  ]
+}

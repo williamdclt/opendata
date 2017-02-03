@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Paolozzi, Sir Eduardo",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-eduardo-paolozzi-1738",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "maahantai",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01811_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/paolozzi-maahantai-p01811",
+      "id": "11058",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "omaggio a michelangelo",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01812_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/paolozzi-omaggio-a-michelangelo-p01812",
+      "id": "11059",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: proof]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01813_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/paolozzi-no-title-proof-p01813",
+      "id": "11060",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: proof]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01814_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/paolozzi-no-title-proof-p01814",
+      "id": "11061",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "for the four [colour variant of p03144]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01815_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/paolozzi-for-the-four-colour-variant-of-p03144-p01815",
+      "id": "11062",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "for the four [colour variant of p03144]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01816_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/paolozzi-for-the-four-colour-variant-of-p03144-p01816",
+      "id": "11063",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: proof]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01817_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/paolozzi-no-title-proof-p01817",
+      "id": "11064",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "aranjeux",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01825_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/paolozzi-aranjeux-p01825",
+      "id": "11065",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ci boure",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01826_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/paolozzi-ci-boure-p01826",
+      "id": "11066",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "die versunkene glocke",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01827_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/paolozzi-die-versunkene-glocke-p01827",
+      "id": "11067",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jeux d\u2019eau",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01828_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/paolozzi-jeux-deau-p01828",
+      "id": "11068",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "olympia",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01829_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/paolozzi-olympia-p01829",
+      "id": "11069",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "zaspiak-blat",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01830_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/paolozzi-zaspiak-blat-p01830",
+      "id": "11070",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "girot and plaza",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01951_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/paolozzi-girot-and-plaza-p01951",
+      "id": "11071",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tafel 16",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01952_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/paolozzi-tafel-16-p01952",
+      "id": "11072",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: trial proof for as is when]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01953_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/paolozzi-no-title-trial-proof-for-as-is-when-p01953",
+      "id": "11073",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: trial proof for moonstrips empire news]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/paolozzi-no-title-trial-proof-for-moonstrips-empire-news-p01954",
+      "id": "11074",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "833. whipped cream, a taste of honey, peanuts, lemon tree, others",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01955_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/paolozzi-833-whipped-cream-a-taste-of-honey-peanuts-lemon-tree-others-p01955",
+      "id": "11075",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a formula that can shatter into a million glass bullets",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01956_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/paolozzi-a-formula-that-can-shatter-into-a-million-glass-bullets-p01956",
+      "id": "11076",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "7 pyramide in form einer achtel skugel",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01957_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/paolozzi-7-pyramide-in-form-einer-achtel-skugel-p01957",
+      "id": "11077",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "multi-channel prototype",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01958_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/paolozzi-multi-channel-prototype-p01958",
+      "id": "11078",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "signs of death and decay in the sky",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01959_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/paolozzi-signs-of-death-and-decay-in-the-sky-p01959",
+      "id": "11079",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "6228 plus: cry on my shoulder, no sad songs etc. (from zero energy experimental pile series)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01960_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/paolozzi-6228-plus-cry-on-my-shoulder-no-sad-songs-etc-from-zero-energy-experimental-pile-p01960",
+      "id": "11080",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "secrets of life - the human machine and how it works: perception through impression",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01961_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/paolozzi-secrets-of-life-the-human-machine-and-how-it-works-perception-through-impression-p01961",
+      "id": "11081",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "secrets of life - the human machine and how it works: bird",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01962_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/paolozzi-secrets-of-life-the-human-machine-and-how-it-works-bird-p01962",
+      "id": "11082",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "secrets of life - the human machine and how it works: hazardous journey",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01963_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/paolozzi-secrets-of-life-the-human-machine-and-how-it-works-hazardous-journey-p01963",
+      "id": "11083",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "secrets of life - the human machine and how it works: reproduction",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01964_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/paolozzi-secrets-of-life-the-human-machine-and-how-it-works-reproduction-p01964",
+      "id": "11084",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "secrets of life - the human machine and how it works: the moment of conception",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01965_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/paolozzi-secrets-of-life-the-human-machine-and-how-it-works-the-moment-of-conception-p01965",
+      "id": "11085",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "secrets of life - the human machine and how it works: inside the brain",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01966_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/paolozzi-secrets-of-life-the-human-machine-and-how-it-works-inside-the-brain-p01966",
+      "id": "11086",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "manikins for destruction: untitled (m.i.r.a. pair)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01967_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/paolozzi-manikins-for-destruction-untitled-mira-pair-p01967",
+      "id": "11087",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "manikins for destruction: untitled (monkey no. 9)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01968_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/paolozzi-manikins-for-destruction-untitled-monkey-no-9-p01968",
+      "id": "11088",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "manikins for destruction: untitled (u 14322)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01969_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/paolozzi-manikins-for-destruction-untitled-u-14322-p01969",
+      "id": "11089",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "manikins for destruction: untitled (school bus)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01970_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/paolozzi-manikins-for-destruction-untitled-school-bus-p01970",
+      "id": "11090",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "manikins for destruction: untitled (broken open dummy skeleton)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01971_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/paolozzi-manikins-for-destruction-untitled-broken-open-dummy-skeleton-p01971",
+      "id": "11091",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "manikins for destruction: untitled (v.w. dummy)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01972_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/paolozzi-manikins-for-destruction-untitled-vw-dummy-p01972",
+      "id": "11092",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pages from the aerospace medical library: untitled (baboon on sled)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01973_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/paolozzi-pages-from-the-aerospace-medical-library-untitled-baboon-on-sled-p01973",
+      "id": "11093",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pages from the aerospace medical library: electrodes etc., arm support etc.",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01974_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/paolozzi-pages-from-the-aerospace-medical-library-electrodes-etc-arm-support-etc-p01974",
+      "id": "11094",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pages from the aerospace medical library: geometry relations in electron irradiation of a mouse, 11.47pm, 11.53pm, 12.06am",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01975_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/paolozzi-pages-from-the-aerospace-medical-library-geometry-relations-in-electron-p01975",
+      "id": "11096",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pages from the aerospace medical library: untitled (decompression pair)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01976_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/paolozzi-pages-from-the-aerospace-medical-library-untitled-decompression-pair-p01976",
+      "id": "11097",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pages from the aerospace medical library: untitled (tape dummy)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01977_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/paolozzi-pages-from-the-aerospace-medical-library-untitled-tape-dummy-p01977",
+      "id": "11098",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "11058",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11059",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11060",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11061",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11062",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11063",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11064",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11065",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11066",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11067",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11068",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11069",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11070",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11071",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11072",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11073",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11074",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11075",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11076",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11077",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11078",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11079",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11080",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11081",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11082",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11083",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11084",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11085",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11086",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11087",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11088",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11089",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11090",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11091",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11092",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11093",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11094",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11096",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11097",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11098",
+      "value": 1
+    }
+  ]
+}

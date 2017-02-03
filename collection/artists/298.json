@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Johnson, Charles Edward",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/charles-edward-johnson-298",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the swineherd: gurth, son of beowulph",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01606_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/johnson-the-swineherd-gurth-son-of-beowulph-n01606",
+      "id": "7170",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "7170",
+      "value": 1
+    }
+  ]
+}

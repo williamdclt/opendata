@@ -1,0 +1,365 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Kiefer, Anselm",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/anselm-kiefer-1406",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "urd werdande skuld (the norns)",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00036_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kiefer-urd-werdande-skuld-the-norns-ar00036",
+      "id": "98194",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "man under a pyramid",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00037_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kiefer-man-under-a-pyramid-ar00037",
+      "id": "98195",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "palm sunday",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00038_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kiefer-palm-sunday-ar00038",
+      "id": "98196",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cette obscure clart\u00e9 qui tombe des \u00e9toiles",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00041_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kiefer-cette-obscure-clarte-qui-tombe-des-etoiles-ar00041",
+      "id": "97343",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "palette",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00613_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kiefer-palette-ar00613",
+      "id": "98193",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "heroic symbols",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR01162_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kiefer-heroic-symbols-ar01162",
+      "id": "116890",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "heroic symbols",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR01163_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kiefer-heroic-symbols-ar01163",
+      "id": "116891",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the starry heavens above us, and the moral law within",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR01164_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kiefer-the-starry-heavens-above-us-and-the-moral-law-within-ar01164",
+      "id": "116892",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the moral law within us, the starry heavens above us",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR01165_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kiefer-the-moral-law-within-us-the-starry-heavens-above-us-ar01165",
+      "id": "116893",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "falling stars",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR01166_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kiefer-falling-stars-ar01166",
+      "id": "116894",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR01167_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kiefer-untitled-ar01167",
+      "id": "116895",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "johannisnacht gefallene bilder. the secret life of plants",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR01168_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kiefer-johannisnacht-gefallene-bilder-the-secret-life-of-plants-ar01168",
+      "id": "116896",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR01169_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kiefer-untitled-ar01169",
+      "id": "116898",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st john\u2019s lodge",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR01170_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kiefer-st-johns-lodge-ar01170",
+      "id": "116900",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "heroic symbols",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR01171_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kiefer-heroic-symbols-ar01171",
+      "id": "116883",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "heroic symbols",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR01172_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kiefer-heroic-symbols-ar01172",
+      "id": "116887",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "heroic symbols",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR01173_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kiefer-heroic-symbols-ar01173",
+      "id": "116888",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "heroic symbols",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR01174_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kiefer-heroic-symbols-ar01174",
+      "id": "116889",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hortus philosophorum",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR01175_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kiefer-hortus-philosophorum-ar01175",
+      "id": "116903",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "parsifal i",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03403_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kiefer-parsifal-i-t03403",
+      "id": "7935",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "parsifal ii",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03404_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kiefer-parsifal-ii-t03404",
+      "id": "7936",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "parsifal iii",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03405_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kiefer-parsifal-iii-t03405",
+      "id": "7937",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the rhine",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04128_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kiefer-the-rhine-t04128",
+      "id": "7938",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lilith",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05742_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kiefer-lilith-t05742",
+      "id": "18999",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "let a thousand flowers bloom",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07841_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kiefer-let-a-thousand-flowers-bloom-t07841",
+      "id": "66688",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "98194",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98195",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98196",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97343",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98193",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "116890",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "116891",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "116892",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "116893",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "116894",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "116895",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "116896",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "116898",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "116900",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "116883",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "116887",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "116888",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "116889",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "116903",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7935",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7936",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7937",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7938",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18999",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66688",
+      "value": 1
+    }
+  ]
+}

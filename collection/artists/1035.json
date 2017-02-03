@@ -1,0 +1,281 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Dubuffet, Jean",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/jean-dubuffet-1035",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "man in a cap",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dubuffet-man-in-a-cap-p07781",
+      "id": "4012",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fern in the hat",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77031_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dubuffet-fern-in-the-hat-p77031",
+      "id": "4013",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gold and shadow [from \u2018land registry\u2019]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77118_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dubuffet-gold-and-shadow-from-land-registry-p77118",
+      "id": "4014",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "typist [from \u2018matter and memory\u2019]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77137_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dubuffet-typist-from-matter-and-memory-p77137",
+      "id": "4015",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "peopling of the lands",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77160_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dubuffet-peopling-of-the-lands-p77160",
+      "id": "4016",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "leaves with bird",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77184_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dubuffet-leaves-with-bird-p77184",
+      "id": "4017",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "inhabited landscape",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77185_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dubuffet-inhabited-landscape-p77185",
+      "id": "4018",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "man with a hod",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00243_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dubuffet-man-with-a-hod-t00243",
+      "id": "4019",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spinning round",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00801_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dubuffet-spinning-round-t00801",
+      "id": "4020",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the busy life",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00867_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dubuffet-the-busy-life-t00867",
+      "id": "4021",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the exemplary life of the soil (texturology lxiii)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00868_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dubuffet-the-exemplary-life-of-the-soil-texturology-lxiii-t00868",
+      "id": "4022",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nimble free hand to the rescue",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00869_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dubuffet-nimble-free-hand-to-the-rescue-t00869",
+      "id": "4023",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "site inhabited by objects",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00870_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dubuffet-site-inhabited-by-objects-t00870",
+      "id": "4024",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hopes and options",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01575_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dubuffet-hopes-and-options-t01575",
+      "id": "4025",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "monsieur plume with creases in his trousers (portrait of henri michaux)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03080_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dubuffet-monsieur-plume-with-creases-in-his-trousers-portrait-of-henri-michaux-t03080",
+      "id": "4026",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vicissitudes",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03679_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dubuffet-vicissitudes-t03679",
+      "id": "4027",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "large black landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07109_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dubuffet-large-black-landscape-t07109",
+      "id": "21643",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the tree of fluids",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07110_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dubuffet-the-tree-of-fluids-t07110",
+      "id": "21642",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hairnet 7",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dubuffet-hairnet-7-t13289",
+      "id": "112159",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4012",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4013",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4014",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4015",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4016",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4017",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4018",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4019",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4020",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4021",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4022",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4023",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4024",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4025",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4026",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4027",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21643",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21642",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112159",
+      "value": 1
+    }
+  ]
+}

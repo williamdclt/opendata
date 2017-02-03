@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Collins, Elisabeth",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/elisabeth-collins-2405",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "another world",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07194_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-another-world-t07194",
+      "id": "21814",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the prophecy",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07195_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-the-prophecy-t07195",
+      "id": "21815",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the prince of aquitaine",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07196_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-the-prince-of-aquitaine-t07196",
+      "id": "21816",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "listening woman",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-listening-woman-t07197",
+      "id": "21811",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "21814",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21815",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21816",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21811",
+      "value": 1
+    }
+  ]
+}

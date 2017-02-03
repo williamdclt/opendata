@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Burney, Edward Francis",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/edward-francis-burney-2334",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "amateurs of tye-wig music (\u2018musicians of the old school\u2019)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07278_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burney-amateurs-of-tye-wig-music-musicians-of-the-old-school-t07278",
+      "id": "22020",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "girls at a tea urn",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08725_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burney-girls-at-a-tea-urn-t08725",
+      "id": "22373",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tragedy actress",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08728_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burney-tragedy-actress-t08728",
+      "id": "22374",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the widower: vignette",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08729_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burney-the-widower-vignette-t08729",
+      "id": "22378",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "love, an allegory. vignette",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08730_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burney-love-an-allegory-vignette-t08730",
+      "id": "22376",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dance of death: vignette",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08731_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burney-dance-of-death-vignette-t08731",
+      "id": "22375",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "22020",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22373",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22374",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22378",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22376",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22375",
+      "value": 1
+    }
+  ]
+}

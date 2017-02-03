@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Lanteri, Edouard",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/edouard-lanteri-326",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "paysan",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01905_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanteri-paysan-n01905",
+      "id": "8366",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bust of alfred stevens",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanteri-bust-of-alfred-stevens-n02853",
+      "id": "8367",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the sacristan",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03219_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanteri-the-sacristan-n03219",
+      "id": "8368",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8366",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8367",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8368",
+      "value": 1
+    }
+  ]
+}

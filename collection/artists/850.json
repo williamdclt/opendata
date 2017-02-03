@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Camargo, Sergio de",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sergio-de-camargo-850",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "large split relief no.34/4/74",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00797_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/camargo-large-split-relief-no34474-t00797",
+      "id": "1960",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1960",
+      "value": 1
+    }
+  ]
+}

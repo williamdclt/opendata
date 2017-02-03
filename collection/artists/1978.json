@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Spender, John Humphrey",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-humphrey-spender-1978",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "gravel pit",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06570_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spender-gravel-pit-p06570",
+      "id": "13728",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cornish tin mines",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06571_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spender-cornish-tin-mines-p06571",
+      "id": "13729",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "donegal coastscape",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06572_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spender-donegal-coastscape-p06572",
+      "id": "13730",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "donegal landscape",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06573_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spender-donegal-landscape-p06573",
+      "id": "13731",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reedy pool, essex",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06574_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spender-reedy-pool-essex-p06574",
+      "id": "13732",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "walled landscape, kerry",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06575_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spender-walled-landscape-kerry-p06575",
+      "id": "13733",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cornish tin mines",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06576_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spender-cornish-tin-mines-p06576",
+      "id": "13734",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13728",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13729",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13730",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13731",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13732",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13733",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13734",
+      "value": 1
+    }
+  ]
+}

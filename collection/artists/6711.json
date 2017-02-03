@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Kippenberger, Martin",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/martin-kippenberger-6711",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "event poster s.o. 36",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79068_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kippenberger-event-poster-so-36-p79068",
+      "id": "82868",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "event poster s.o. 36",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79069_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kippenberger-event-poster-so-36-p79069",
+      "id": "83162",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "this band is playing on luxus",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79070_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kippenberger-this-band-is-playing-on-luxus-p79070",
+      "id": "83163",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "this fellow is playing on luxus",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79071_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kippenberger-this-fellow-is-playing-on-luxus-p79071",
+      "id": "83164",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "this guy is playing on luxus",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79072_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kippenberger-this-guy-is-playing-on-luxus-p79072",
+      "id": "83165",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "this woman is playing on luxus",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79073_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kippenberger-this-woman-is-playing-on-luxus-p79073",
+      "id": "83166",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "this man is playing on luxus",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79074_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kippenberger-this-man-is-playing-on-luxus-p79074",
+      "id": "83167",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "event poster s.o. 36",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79075_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kippenberger-event-poster-so-36-p79075",
+      "id": "83168",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a quarter of a century. kippenberger as one of you, among you, with you",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79076_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kippenberger-a-quarter-of-a-century-kippenberger-as-one-of-you-among-you-with-you-p79076",
+      "id": "83169",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "first extraordinary event in pictures and sound on the theme of the age: misery",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79077_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kippenberger-first-extraordinary-event-in-pictures-and-sound-on-the-theme-of-the-age-p79077",
+      "id": "83170",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "second extraordinary event in pictures and sound - action piss-crutch - secret service on your neighbour",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79078_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kippenberger-second-extraordinary-event-in-pictures-and-sound-action-piss-crutch-secret-p79078",
+      "id": "83171",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the kippenberger - the sahara and the anti-sahara programme 81/82",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79079_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kippenberger-the-kippenberger-the-sahara-and-the-anti-sahara-programme-8182-p79079",
+      "id": "83172",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kippenberger on the theme of fucking, boozing and selling",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79080_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kippenberger-kippenberger-on-the-theme-of-fucking-boozing-and-selling-p79080",
+      "id": "83173",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sign of the innocent one",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79081_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kippenberger-sign-of-the-innocent-one-p79081",
+      "id": "83174",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "i like it - eternal young wild one",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79082_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kippenberger-i-like-it-eternal-young-wild-one-p79082",
+      "id": "83175",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the alma band",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79083_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kippenberger-the-alma-band-p79083",
+      "id": "83176",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "farewell to the youth bonus ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79084_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kippenberger-farewell-to-the-youth-bonus-ii-p79084",
+      "id": "83177",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "if you need one, you have to bring one with you",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79085_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kippenberger-if-you-need-one-you-have-to-bring-one-with-you-p79085",
+      "id": "83178",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "how do i manage in wartime with a broken leg and futurism",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79086_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kippenberger-how-do-i-manage-in-wartime-with-a-broken-leg-and-futurism-p79086",
+      "id": "83179",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "selling america and buying el salvador",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79087_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kippenberger-selling-america-and-buying-el-salvador-p79087",
+      "id": "83180",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "architecture",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79088_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kippenberger-architecture-p79088",
+      "id": "83181",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "helmut newton for the poor",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79089_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kippenberger-helmut-newton-for-the-poor-p79089",
+      "id": "83182",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "i could lend you something, but i would not be doing you any favours",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79090_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kippenberger-i-could-lend-you-something-but-i-would-not-be-doing-you-any-favours-p79090",
+      "id": "83183",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "washing line the wrong way round",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79091_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kippenberger-washing-line-the-wrong-way-round-p79091",
+      "id": "83184",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hunger family",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79092_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kippenberger-hunger-family-p79092",
+      "id": "83185",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nine profit peaks - three designs for rest centres for mothers",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79093_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kippenberger-nine-profit-peaks-three-designs-for-rest-centres-for-mothers-p79093",
+      "id": "83186",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "which is your favourite minority.  who do you envy the most",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79094_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kippenberger-which-is-your-favourite-minority-who-do-you-envy-the-most-p79094",
+      "id": "83187",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the alma band live in rio",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79095_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kippenberger-the-alma-band-live-in-rio-p79095",
+      "id": "83188",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fear only women who wear velvet",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79096_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kippenberger-fear-only-women-who-wear-velvet-p79096",
+      "id": "83189",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "revolution in cologne",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79097_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kippenberger-revolution-in-cologne-p79097",
+      "id": "83190",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the revolution in cologne had to be postponed",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79098_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kippenberger-the-revolution-in-cologne-had-to-be-postponed-p79098",
+      "id": "83191",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the revolution in cologne had to be postponed",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79099_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kippenberger-the-revolution-in-cologne-had-to-be-postponed-p79099",
+      "id": "85524",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "23 four-colour suggestions for the improvement of the backstroke swimmer",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79100_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kippenberger-23-four-colour-suggestions-for-the-improvement-of-the-backstroke-swimmer-p79100",
+      "id": "83192",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rent electricity gas",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79101_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kippenberger-rent-electricity-gas-p79101",
+      "id": "83193",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sand in the vaseline",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79102_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kippenberger-sand-in-the-vaseline-p79102",
+      "id": "83194",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "struggle against the bedsores",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79103_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kippenberger-struggle-against-the-bedsores-p79103",
+      "id": "83195",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the anti-apartheid drinking congress with kippenberger",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79104_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kippenberger-the-anti-apartheid-drinking-congress-with-kippenberger-p79104",
+      "id": "83196",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "grazzmania lecture on photography",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79105_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kippenberger-grazzmania-lecture-on-photography-p79105",
+      "id": "83197",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the no problem pictures",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79106_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kippenberger-the-no-problem-pictures-p79106",
+      "id": "83198",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "address to the brainless part ii: bankruptcies",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79107_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kippenberger-address-to-the-brainless-part-ii-bankruptcies-p79107",
+      "id": "83199",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "82868",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83162",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83163",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83164",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83165",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83166",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83167",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83168",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83169",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83170",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83171",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83172",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83173",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83174",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83175",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83176",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83177",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83178",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83179",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83180",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83181",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83182",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83183",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83184",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83185",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83186",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83187",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83188",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83189",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83190",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83191",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85524",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83192",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83193",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83194",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83195",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83196",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83197",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83198",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83199",
+      "value": 1
+    }
+  ]
+}

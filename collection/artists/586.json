@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Watts, George Frederic",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/george-frederic-watts-586",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "self-portrait",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01561_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/watts-self-portrait-n01561",
+      "id": "15996",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "psyche",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01585_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/watts-psyche-n01585",
+      "id": "15997",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mammon",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01630_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/watts-mammon-n01630",
+      "id": "15998",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the dweller in the innermost",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01631_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/watts-the-dweller-in-the-innermost-n01631",
+      "id": "15999",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018for he had great possessions\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01632_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/watts-for-he-had-great-possessions-n01632",
+      "id": "16000",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dray horses",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/watts-dray-horses-n01633",
+      "id": "16001",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the minotaur",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01634_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/watts-the-minotaur-n01634",
+      "id": "16002",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "death crowning innocence",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01635_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/watts-death-crowning-innocence-n01635",
+      "id": "16003",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jonah",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01636_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/watts-jonah-n01636",
+      "id": "16004",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the spirit of christianity",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01637_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/watts-the-spirit-of-christianity-n01637",
+      "id": "16005",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sic transit",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01638_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/watts-sic-transit-n01638",
+      "id": "16006",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "faith",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01639_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/watts-faith-n01639",
+      "id": "16007",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hope",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01640_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/watts-hope-n01640",
+      "id": "16034",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "love and life",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01641_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/watts-love-and-life-n01641",
+      "id": "16008",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018she shall be called woman\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01642_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/watts-she-shall-be-called-woman-n01642",
+      "id": "16009",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "eve tempted",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01643_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/watts-eve-tempted-n01643",
+      "id": "16010",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "eve repentant",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01644_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/watts-eve-repentant-n01644",
+      "id": "16011",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "love and death",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01645_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/watts-love-and-death-n01645",
+      "id": "16012",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the messenger",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01646_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/watts-the-messenger-n01646",
+      "id": "16013",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chaos",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01647_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/watts-chaos-n01647",
+      "id": "16035",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "russell gurney",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01654_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/watts-russell-gurney-n01654",
+      "id": "16014",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the all-pervading",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01687_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/watts-the-all-pervading-n01687",
+      "id": "16015",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "love triumphant",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/watts-love-triumphant-n01692",
+      "id": "16016",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "time, death and judgement",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01693_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/watts-time-death-and-judgement-n01693",
+      "id": "16017",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "clytie",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01768_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/watts-clytie-n01768",
+      "id": "16018",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the court of death",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01894_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/watts-the-court-of-death-n01894",
+      "id": "16036",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a story from boccaccio",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01913_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/watts-a-story-from-boccaccio-n01913",
+      "id": "16019",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "life\u2019s illusions",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01920_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/watts-lifes-illusions-n01920",
+      "id": "16020",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "echo",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/watts-echo-n01983",
+      "id": "16021",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "eustace smith",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02682_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/watts-eustace-smith-n02682",
+      "id": "16022",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dorothy tennant, later lady stanley",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04223_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/watts-dorothy-tennant-later-lady-stanley-n04223",
+      "id": "16023",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs arthur sassoon",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04449_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/watts-mrs-arthur-sassoon-n04449",
+      "id": "16024",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ruth and boaz",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04555_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/watts-ruth-and-boaz-n04555",
+      "id": "16025",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the golden age",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04556_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/watts-the-golden-age-n04556",
+      "id": "16026",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nymphs and satyrs",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04557_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/watts-nymphs-and-satyrs-n04557",
+      "id": "16027",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "eveleen tennant, later mrs f.w.h. myers",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05116_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/watts-eveleen-tennant-later-mrs-fwh-myers-n05116",
+      "id": "16028",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs george augustus frederick cavendish-bentinck and her children",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05806_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/watts-mrs-george-augustus-frederick-cavendish-bentinck-and-her-children-n05806",
+      "id": "16029",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of clouds",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06026_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/watts-study-of-clouds-n06026",
+      "id": "16030",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "augusta, lady castletown",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06083_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/watts-augusta-lady-castletown-n06083",
+      "id": "16031",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "miss mary kirkpatrick brunton",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06084_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/watts-miss-mary-kirkpatrick-brunton-n06084",
+      "id": "16032",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "15996",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15997",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15998",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15999",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16000",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16001",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16002",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16003",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16004",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16005",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16006",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16007",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16034",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16008",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16009",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16010",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16011",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16012",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16013",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16035",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16014",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16015",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16016",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16017",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16018",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16036",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16019",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16020",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16021",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16022",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16023",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16024",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16025",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16026",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16027",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16028",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16029",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16030",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16031",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16032",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Moon, Jeremy",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/jeremy-moon-1656",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "blue rose",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01033_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moon-blue-rose-t01033",
+      "id": "9644",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "trellis",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01841_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moon-trellis-t01841",
+      "id": "9645",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "no. 5/73",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01842_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moon-no-573-t01842",
+      "id": "9646",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled 2/72",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02052_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moon-untitled-272-t02052",
+      "id": "9647",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing [\u201867]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12222_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moon-drawing-67-t12222",
+      "id": "89903",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing [\u201868]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12223_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moon-drawing-68-t12223",
+      "id": "89904",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing [1968]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12224_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moon-drawing-1968-t12224",
+      "id": "89905",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing [1969]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12225_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moon-drawing-1969-t12225",
+      "id": "89906",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing [1970]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12226_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moon-drawing-1970-t12226",
+      "id": "89907",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing [4/6/71]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12227_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moon-drawing-4671-t12227",
+      "id": "89908",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing [15/11/71]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12228_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moon-drawing-151171-t12228",
+      "id": "89909",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing [19/11/71]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12229_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moon-drawing-191171-t12229",
+      "id": "89910",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing [13/10/71]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12230_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moon-drawing-131071-t12230",
+      "id": "89913",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing [18/7/71]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12231_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moon-drawing-18771-t12231",
+      "id": "89914",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing [13/12/71]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12232_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moon-drawing-131271-t12232",
+      "id": "89915",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing [25/5/73]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12233_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moon-drawing-25573-t12233",
+      "id": "89916",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing [24/6/74]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12234_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moon-drawing-24674-t12234",
+      "id": "89917",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing [19/2/73]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12235_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moon-drawing-19273-t12235",
+      "id": "89918",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled [\u201872]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12239_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moon-untitled-72-t12239",
+      "id": "89861",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hoop-la",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12240_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moon-hoop-la-t12240",
+      "id": "89856",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "arabian night [3/67]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12241_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moon-arabian-night-367-t12241",
+      "id": "89857",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled [9/68]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12242_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moon-untitled-968-t12242",
+      "id": "89859",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled [8/71]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12243_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moon-untitled-871-t12243",
+      "id": "89860",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9644",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9645",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9646",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9647",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "89903",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "89904",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "89905",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "89906",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "89907",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "89908",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "89909",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "89910",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "89913",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "89914",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "89915",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "89916",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "89917",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "89918",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "89861",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "89856",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "89857",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "89859",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "89860",
+      "value": 1
+    }
+  ]
+}

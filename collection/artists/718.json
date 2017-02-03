@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Becher, Prof. Bernd",
+      "url": null,
+      "gender": "",
+      "tatelink": "http://www.tate.org.uk/art/artists/bernd-becher-and-hilla-becher-718",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "pitheads",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01922_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/becher-pitheads-t01922",
+      "id": "834",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "coal bunkers",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01923_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/becher-coal-bunkers-t01923",
+      "id": "835",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "834",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "835",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "British School 19th century",
+      "url": null,
+      "gender": "",
+      "tatelink": "http://www.tate.org.uk/art/artists/british-school-19th-century-60",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "cheyne walk",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01719_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-cheyne-walk-n01719",
+      "id": "1529",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "silhouette portrait of j.m.w. turner",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-silhouette-portrait-of-jmw-turner-n02730",
+      "id": "1530",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a black model",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05386_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-a-black-model-n05386",
+      "id": "1531",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "country girl with downcast eyes",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00031_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-country-girl-with-downcast-eyes-t00031",
+      "id": "1532",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "turner\u2019s last home, chelsea",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06383_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-turners-last-home-chelsea-t06383",
+      "id": "19561",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of a country town",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08227_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-view-of-a-country-town-t08227",
+      "id": "24155",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape with trees, two figures on the left",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08576_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-landscape-with-trees-two-figures-on-the-left-t08576",
+      "id": "24129",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nude male figure seen from the rear",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08584_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-nude-male-figure-seen-from-the-rear-t08584",
+      "id": "24113",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a bridge, a cottage and cows: bethgelert",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08611_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-a-bridge-a-cottage-and-cows-bethgelert-t08611",
+      "id": "24151",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a watermill: near machynlleth",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08612_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-a-watermill-near-machynlleth-t08612",
+      "id": "24152",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a ruined tower: leaning tower, caerphilly",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08613_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-a-ruined-tower-leaning-tower-caerphilly-t08613",
+      "id": "24153",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chepstow castle",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08951_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-chepstow-castle-t08951",
+      "id": "24138",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "charmettes, chamb\u00e9ry",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09214_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-charmettes-chambery-t09214",
+      "id": "24131",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hotel du lion d\u2019or, modane",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09215_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-hotel-du-lion-dor-modane-t09215",
+      "id": "24132",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a pool among rocks",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09359_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-a-pool-among-rocks-t09359",
+      "id": "24134",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "semi-caricature of three beggars",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09469_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-semi-caricature-of-three-beggars-t09469",
+      "id": "24118",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "saint and dragon",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09481_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-saint-and-dragon-t09481",
+      "id": "24116",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "athens, view of the propylaea",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09482_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-athens-view-of-the-propylaea-t09482",
+      "id": "24135",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of louvain",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09490_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-view-of-louvain-t09490",
+      "id": "24154",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of louvain",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09491_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-view-of-louvain-t09491",
+      "id": "24463",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of louvain",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09492_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-view-of-louvain-t09492",
+      "id": "24464",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "naples, view of a tower",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09571_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-naples-view-of-a-tower-t09571",
+      "id": "24150",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lovers meeting by moonlight in a garden",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09600_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-lovers-meeting-by-moonlight-in-a-garden-t09600",
+      "id": "24125",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jane shore doing penance through the streets of london between two monks",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09700_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-jane-shore-doing-penance-through-the-streets-of-london-between-t09700",
+      "id": "24119",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a shipwreck incident",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09852_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-a-shipwreck-incident-t09852",
+      "id": "24156",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lord william and the ghost of his nephew",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09855_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-lord-william-and-the-ghost-of-his-nephew-t09855",
+      "id": "24117",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "caricature, three heads",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10107_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-caricature-three-heads-t10107",
+      "id": "24120",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "caricature on the birth of the princess royal",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10124_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-caricature-on-the-birth-of-the-princess-royal-t10124",
+      "id": "24122",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "design for a stained glass window, the last supper and the resurrection",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10133_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-design-for-a-stained-glass-window-the-last-supper-and-the-t10133",
+      "id": "24126",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "street in falaise. verso: figure, seascape and caf\u00e9 sketches",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10138_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-street-in-falaise-verso-figure-seascape-and-cafe-sketches-t10138",
+      "id": "24148",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a house. verso: small sailing ship",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10139_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-a-house-verso-small-sailing-ship-t10139",
+      "id": "24149",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "distant view of a town in hilly country, two fir trees in the foreground",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10147_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-distant-view-of-a-town-in-hilly-country-two-fir-trees-in-the-t10147",
+      "id": "24133",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view in italy. houses on cliffs",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10243_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-view-in-italy-houses-on-cliffs-t10243",
+      "id": "24139",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "broughton church, near brigg, lincolnshire",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10256_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-broughton-church-near-brigg-lincolnshire-t10256",
+      "id": "24145",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view on the meuse or moselle",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10259_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-view-on-the-meuse-or-moselle-t10259",
+      "id": "24144",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "haughton conquest: the ruined house",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10260_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-haughton-conquest-the-ruined-house-t10260",
+      "id": "24136",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "haughton conquest: the ruined house",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10261_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-haughton-conquest-the-ruined-house-t10261",
+      "id": "24137",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a moorish mosque or fort",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10325_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-a-moorish-mosque-or-fort-t10325",
+      "id": "24146",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a college crypt",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10328_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-a-college-crypt-t10328",
+      "id": "24147",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a french church with square tower",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10336_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-19th-century-a-french-church-with-square-tower-t10336",
+      "id": "24141",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1529",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1530",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1531",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1532",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19561",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24155",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24129",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24113",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24151",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24152",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24153",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24138",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24131",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24132",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24134",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24118",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24116",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24135",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24154",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24463",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24464",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24150",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24125",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24119",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24156",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24117",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24120",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24122",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24126",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24148",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24149",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24133",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24139",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24145",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24144",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24136",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24137",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24146",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24147",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24141",
+      "value": 1
+    }
+  ]
+}

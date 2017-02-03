@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Wykeham Archer, J.",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/j-wykeham-archer-2547",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the crypt of gerrard\u2019s or gisors hall, basing lane. verso: goods being unloaded from vans",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09609_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wykeham-archer-the-crypt-of-gerrards-or-gisors-hall-basing-lane-verso-goods-being-unloaded-t09609",
+      "id": "24051",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "24051",
+      "value": 1
+    }
+  ]
+}

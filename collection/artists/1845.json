@@ -1,0 +1,449 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Riley, Bridget",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/bridget-riley-1845",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "elongated triangles 5",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01576_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riley-elongated-triangles-5-p01576",
+      "id": "12583",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "coloured greys iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01577_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riley-coloured-greys-iii-p01577",
+      "id": "12584",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "coloured greys ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01578_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riley-coloured-greys-ii-p01578",
+      "id": "12585",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "coloured greys iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01579_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riley-coloured-greys-iii-p01579",
+      "id": "12586",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05082_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riley-untitled-p05082",
+      "id": "12587",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blaze",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05083_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riley-blaze-p05083",
+      "id": "12588",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fragment 1/7",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07104_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riley-fragment-17-p07104",
+      "id": "12589",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fragment 2/10",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07105_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riley-fragment-210-p07105",
+      "id": "12590",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fragment 3/11",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07106_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riley-fragment-311-p07106",
+      "id": "12591",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fragment 4/6",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07107_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riley-fragment-46-p07107",
+      "id": "12592",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fragment 5/8",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07108_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riley-fragment-58-p07108",
+      "id": "12593",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fragment 6/9",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07109_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riley-fragment-69-p07109",
+      "id": "12594",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fragment 7/5",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07110_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riley-fragment-75-p07110",
+      "id": "12595",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "c",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07111_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riley-c-p07111",
+      "id": "12596",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "d",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07112_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riley-d-p07112",
+      "id": "12597",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "b",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07113_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riley-b-p07113",
+      "id": "12598",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07114_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riley-a-p07114",
+      "id": "12599",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ra 2",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11563_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riley-ra-2-p11563",
+      "id": "26478",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "silvered 2",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11564_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riley-silvered-2-p11564",
+      "id": "26479",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rose rose",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riley-rose-rose-p13271",
+      "id": "122043",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "f\u00eate",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78333_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riley-fete-p78333",
+      "id": "26854",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blue and pink",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78593_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riley-blue-and-pink-p78593",
+      "id": "71007",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fall",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00616_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riley-fall-t00616",
+      "id": "12600",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "late morning",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01032_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riley-late-morning-t01032",
+      "id": "12601",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cantus firmus",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01868_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riley-cantus-firmus-t01868",
+      "id": "12602",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "deny ii",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02030_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riley-deny-ii-t02030",
+      "id": "12603",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "to a summer\u2019s day",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03375_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riley-to-a-summers-day-t03375",
+      "id": "12604",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ach\u00e6an",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03816_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riley-achan-t03816",
+      "id": "12605",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hesitate",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04132_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riley-hesitate-t04132",
+      "id": "12606",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nataraja",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06859_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riley-nataraja-t06859",
+      "id": "20978",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "evo\u00eb 3",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11753_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riley-evoe-3-t11753",
+      "id": "79119",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12583",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12584",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12585",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12586",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12587",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12588",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12589",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12590",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12591",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12592",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12593",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12594",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12595",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12596",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12597",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12598",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12599",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26478",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26479",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "122043",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26854",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71007",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12600",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12601",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12602",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12603",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12604",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12605",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12606",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20978",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79119",
+      "value": 1
+    }
+  ]
+}

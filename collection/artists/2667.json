@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Davies, Peter",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/peter-davies-2667",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "small touching squares painting",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07426_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davies-small-touching-squares-painting-t07426",
+      "id": "26234",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "26234",
+      "value": 1
+    }
+  ]
+}

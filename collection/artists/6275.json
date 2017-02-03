@@ -1,0 +1,211 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Baynard, Ed",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/ed-baynard-6275",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "my egypt",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baynard-my-egypt-p11984",
+      "id": "78809",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "little sister",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baynard-little-sister-p11985",
+      "id": "78810",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mount kisco arabesque",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baynard-mount-kisco-arabesque-p11986",
+      "id": "78811",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sunday morning",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baynard-sunday-morning-p11987",
+      "id": "78812",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "manhattan at dusk",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baynard-manhattan-at-dusk-p11988",
+      "id": "78813",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cool moon",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baynard-cool-moon-p11989",
+      "id": "78814",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "venice looking east",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baynard-venice-looking-east-p11990",
+      "id": "78815",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "downtown jubilee",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baynard-downtown-jubilee-p11991",
+      "id": "78816",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "westbourne grove",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baynard-westbourne-grove-p11992",
+      "id": "78817",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pembridge gardens",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baynard-pembridge-gardens-p11993",
+      "id": "80029",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "notting hill gate",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baynard-notting-hill-gate-p11994",
+      "id": "80030",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the tulip pitcher",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baynard-the-tulip-pitcher-p11995",
+      "id": "78818",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "monotype (b-2)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baynard-monotype-b-2-p11997",
+      "id": "80031",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a dark pot with roses",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baynard-a-dark-pot-with-roses-p12996",
+      "id": "78819",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "78809",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78810",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78811",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78812",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78813",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78814",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78815",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78816",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78817",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80029",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80030",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78818",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80031",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78819",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Arman",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/arman-armand-fernandez-662",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "bluebeard\u2019s wife",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03380_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arman-bluebeards-wife-t03380",
+      "id": "569",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "condition of woman i",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03381_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arman-condition-of-woman-i-t03381",
+      "id": "570",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "569",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "570",
+      "value": 1
+    }
+  ]
+}

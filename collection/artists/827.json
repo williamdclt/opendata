@@ -1,0 +1,309 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Brus, G\u00fcnter",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/gunter-brus-827",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "great fear of the earth i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07991_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brus-great-fear-of-the-earth-i-p07991",
+      "id": "1631",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "great fear of the earth ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07992_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brus-great-fear-of-the-earth-ii-p07992",
+      "id": "1632",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "great fear of the earth iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07993_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brus-great-fear-of-the-earth-iii-p07993",
+      "id": "1633",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77001_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brus-no-title-p77001",
+      "id": "1634",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77002_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brus-no-title-p77002",
+      "id": "1635",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77003_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brus-no-title-p77003",
+      "id": "1636",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77004_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brus-no-title-p77004",
+      "id": "1637",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77005_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brus-no-title-p77005",
+      "id": "1638",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77006_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brus-no-title-p77006",
+      "id": "1639",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77007_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brus-no-title-p77007",
+      "id": "1640",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77008_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brus-no-title-p77008",
+      "id": "1641",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77235_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brus-rainer-no-title-p77235",
+      "id": "1645",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77236_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brus-rainer-no-title-p77236",
+      "id": "1646",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77237_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brus-rainer-no-title-p77237",
+      "id": "1647",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77238_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brus-rainer-no-title-p77238",
+      "id": "1648",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77239_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brus-rainer-no-title-p77239",
+      "id": "1649",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "run-through of an action",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03695_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brus-run-through-of-an-action-t03695",
+      "id": "1642",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "crystals of standstill",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03861_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brus-crystals-of-standstill-t03861",
+      "id": "1643",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04927_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brus-untitled-t04927",
+      "id": "1644",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "no, daphne, no!",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05212_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brus-rainer-no-daphne-no-t05212",
+      "id": "16988",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "charm - flower - ring",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05213_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brus-rainer-charm-flower-ring-t05213",
+      "id": "16989",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1631",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1632",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1633",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1634",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1635",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1636",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1637",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1638",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1639",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1640",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1641",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1645",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1646",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1647",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1648",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1649",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1642",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1643",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1644",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16988",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16989",
+      "value": 1
+    }
+  ]
+}

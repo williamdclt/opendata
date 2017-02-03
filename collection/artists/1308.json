@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hone, Evie",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/evie-hone-1308",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the crucifixion and last supper",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hone-the-crucifixion-and-last-supper-t00204",
+      "id": "6692",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of christ",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hone-head-of-christ-t00205",
+      "id": "6693",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the crucifixion",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hone-the-crucifixion-t03238",
+      "id": "6694",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6692",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6693",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6694",
+      "value": 1
+    }
+  ]
+}

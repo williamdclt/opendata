@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Simmons, Laurie",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/laurie-simmons-6376",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "woman watching tv",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/simmons-woman-watching-tv-p79889",
+      "id": "108191",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blonde/ red dress/ kitchen/ milk",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/simmons-blonde-red-dress-kitchen-milk-p79890",
+      "id": "108192",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "new bathroom/ woman standing/ sunlight",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/simmons-new-bathroom-woman-standing-sunlight-p79891",
+      "id": "108193",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "108191",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "108192",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "108193",
+      "value": 1
+    }
+  ]
+}

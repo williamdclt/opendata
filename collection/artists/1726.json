@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Orr, Chris",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/chris-orr-1726",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "farm",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orr-farm-p03133",
+      "id": "10983",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "10983",
+      "value": 1
+    }
+  ]
+}

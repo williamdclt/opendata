@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Boys, Thomas Shotter",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/thomas-shotter-boys-49",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the seine and palace of the tuileries",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00966_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boys-the-seine-and-palace-of-the-tuileries-t00966",
+      "id": "1399",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1399",
+      "value": 1
+    }
+  ]
+}

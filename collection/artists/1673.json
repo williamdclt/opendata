@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Motherwell, Robert",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/robert-motherwell-1673",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "poet (1)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01797_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/motherwell-poet-1-p01797",
+      "id": "10343",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "no. 13",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04613_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/motherwell-no-13-p04613",
+      "id": "10344",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "no. 5",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04614_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/motherwell-no-5-p04614",
+      "id": "10345",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "africa 1",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04615_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/motherwell-africa-1-p04615",
+      "id": "10346",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "africa 6",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04616_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/motherwell-africa-6-p04616",
+      "id": "10347",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "africa 5",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04617_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/motherwell-africa-5-p04617",
+      "id": "10348",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "africa 7",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04618_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/motherwell-africa-7-p04618",
+      "id": "10349",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "africa 2",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04619_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/motherwell-africa-2-p04619",
+      "id": "10350",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "africa 3",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04620_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/motherwell-africa-3-p04620",
+      "id": "10351",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "africa 8",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04621_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/motherwell-africa-8-p04621",
+      "id": "10352",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "africa 10",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04622_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/motherwell-africa-10-p04622",
+      "id": "10353",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "africa 4",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04623_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/motherwell-africa-4-p04623",
+      "id": "10354",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "africa 9",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04624_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/motherwell-africa-9-p04624",
+      "id": "10355",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "no. 7",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04625_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/motherwell-no-7-p04625",
+      "id": "10356",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled c",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04626_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/motherwell-untitled-c-p04626",
+      "id": "10357",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "no. 3",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04627_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/motherwell-no-3-p04627",
+      "id": "10358",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "no. 4",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04628_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/motherwell-no-4-p04628",
+      "id": "10359",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "no. 13",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04629_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/motherwell-no-13-p04629",
+      "id": "10360",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled a",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04630_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/motherwell-untitled-a-p04630",
+      "id": "10361",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "no. 12",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04631_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/motherwell-no-12-p04631",
+      "id": "10362",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled b",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04632_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/motherwell-untitled-b-p04632",
+      "id": "10363",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "no. 8",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04633_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/motherwell-no-8-p04633",
+      "id": "10364",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled d",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04634_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/motherwell-untitled-d-p04634",
+      "id": "10365",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "game of chance",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12161_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/motherwell-game-of-chance-p12161",
+      "id": "80063",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vivo (sepia)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/motherwell-vivo-sepia-p12162",
+      "id": "80064",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black rumble",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/motherwell-black-rumble-p12163",
+      "id": "80065",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "america-la france variations ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12164_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/motherwell-america-la-france-variations-ii-p12164",
+      "id": "80067",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "america-la france variations iii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/motherwell-america-la-france-variations-iii-p12165",
+      "id": "80069",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "america-la france variations iv",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/motherwell-america-la-france-variations-iv-p12166",
+      "id": "80070",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "america-la france variations v",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/motherwell-america-la-france-variations-v-p12167",
+      "id": "80071",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "america-la france variations vi",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/motherwell-america-la-france-variations-vi-p12168",
+      "id": "80072",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "america-la france variations vii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/motherwell-america-la-france-variations-vii-p12169",
+      "id": "80073",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "america-la france variations ix",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/motherwell-america-la-france-variations-ix-p12170",
+      "id": "80074",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "negro",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/motherwell-negro-p12171",
+      "id": "80111",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mourning",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/motherwell-mourning-p12172",
+      "id": "80112",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "night arrived",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/motherwell-night-arrived-p12173",
+      "id": "80113",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "elegy black black",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/motherwell-elegy-black-black-p12174",
+      "id": "80114",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black banners",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/motherwell-black-banners-p12175",
+      "id": "80115",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black of the echo",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/motherwell-black-of-the-echo-p12176",
+      "id": "80116",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "eternal black",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/motherwell-eternal-black-p12177",
+      "id": "80117",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "10343",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10344",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10345",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10346",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10347",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10348",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10349",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10350",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10351",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10352",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10353",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10354",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10355",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10356",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10357",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10358",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10359",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10360",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10361",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10362",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10363",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10364",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10365",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80063",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80064",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80065",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80067",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80069",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80070",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80071",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80072",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80073",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80074",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80111",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80112",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80113",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80114",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80115",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80116",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80117",
+      "value": 1
+    }
+  ]
+}

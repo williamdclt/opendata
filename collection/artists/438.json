@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Ramsay, Allan",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/allan-ramsay-438",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "portrait of a man",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ramsay-portrait-of-a-man-n04083",
+      "id": "12303",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lady hall of dunglass",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06066_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ramsay-lady-hall-of-dunglass-n06066",
+      "id": "12304",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "alexander boswell, lord auchinleck",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01049_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ramsay-alexander-boswell-lord-auchinleck-t01049",
+      "id": "12305",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "miss ramsay in a red dress",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01893_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ramsay-miss-ramsay-in-a-red-dress-t01893",
+      "id": "12306",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "janet carmichael, later countess of hyndford",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ramsay-janet-carmichael-later-countess-of-hyndford-t03852",
+      "id": "12307",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "thomas, 2nd baron mansel of margam with his blackwood half-brothers and sister",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05494_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ramsay-thomas-2nd-baron-mansel-of-margam-with-his-blackwood-half-brothers-and-sister-t05494",
+      "id": "17282",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of martha baker",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06535_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ramsay-portrait-of-martha-baker-t06535",
+      "id": "20323",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12303",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12304",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12305",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12306",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12307",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17282",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20323",
+      "value": 1
+    }
+  ]
+}

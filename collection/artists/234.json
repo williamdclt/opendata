@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hamilton, Gavin",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/gavin-hamilton-234",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "priam pleading with achilles for the body of hector",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00864_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-priam-pleading-with-achilles-for-the-body-of-hector-t00864",
+      "id": "5768",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "agrippina landing at brindisium with the ashes of germanicus",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03365_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-agrippina-landing-at-brindisium-with-the-ashes-of-germanicus-t03365",
+      "id": "5769",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5768",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5769",
+      "value": 1
+    }
+  ]
+}

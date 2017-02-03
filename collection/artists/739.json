@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Benois, Nadia",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/nadia-benois-739",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "near la garde freinet",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04855_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/benois-near-la-garde-freinet-n04855",
+      "id": "933",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "933",
+      "value": 1
+    }
+  ]
+}

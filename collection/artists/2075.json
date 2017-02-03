@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Turnbull, William",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/william-turnbull-2075",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "black leaf form",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01352_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turnbull-black-leaf-form-p01352",
+      "id": "14540",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "leaves, blue",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01353_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turnbull-leaves-blue-p01353",
+      "id": "14541",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "leaves, red",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01354_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turnbull-leaves-red-p01354",
+      "id": "14542",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "yellow leaf form",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01355_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turnbull-yellow-leaf-form-p01355",
+      "id": "14543",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01818_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turnbull-untitled-p01818",
+      "id": "14544",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sitting figure - etching xiv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02339_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turnbull-sitting-figure-etching-xiv-p02339",
+      "id": "14545",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "leaves - drypoint i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02340_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turnbull-leaves-drypoint-i-p02340",
+      "id": "14546",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "leaves - drypoint ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02341_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turnbull-leaves-drypoint-ii-p02341",
+      "id": "14547",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "leaves - drypoint iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02342_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turnbull-leaves-drypoint-iii-p02342",
+      "id": "14548",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "leaves - drypoint iv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02343_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turnbull-leaves-drypoint-iv-p02343",
+      "id": "14549",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "leaves - drypoint v",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02344_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turnbull-leaves-drypoint-v-p02344",
+      "id": "14550",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "leaves - drypoint vi",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02345_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turnbull-leaves-drypoint-vi-p02345",
+      "id": "14551",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "leaves - drypoint vii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02346_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turnbull-leaves-drypoint-vii-p02346",
+      "id": "14552",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "leaves - drypoint viii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02347_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turnbull-leaves-drypoint-viii-p02347",
+      "id": "14553",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "leaves - drypoint xv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02348_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turnbull-leaves-drypoint-xv-p02348",
+      "id": "14554",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "standing figure - drypoint ix",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02349_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turnbull-standing-figure-drypoint-ix-p02349",
+      "id": "14555",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "standing figure - drypoint x",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02350_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turnbull-standing-figure-drypoint-x-p02350",
+      "id": "14556",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "standing figure - drypoint xi",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02351_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turnbull-standing-figure-drypoint-xi-p02351",
+      "id": "14557",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "standing figure - drypoint xii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02352_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turnbull-standing-figure-drypoint-xii-p02352",
+      "id": "14558",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05248_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turnbull-untitled-p05248",
+      "id": "14559",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "1",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05249_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turnbull-1-p05249",
+      "id": "14560",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "2",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05250_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turnbull-2-p05250",
+      "id": "14561",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "3",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05251_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turnbull-3-p05251",
+      "id": "14562",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "4",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05252_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turnbull-4-p05252",
+      "id": "14563",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "5",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05253_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turnbull-5-p05253",
+      "id": "14564",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "6",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05254_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turnbull-6-p05254",
+      "id": "14565",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "7",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05255_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turnbull-7-p05255",
+      "id": "14566",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "8",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05256_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turnbull-8-p05256",
+      "id": "14567",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "9",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05257_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turnbull-9-p05257",
+      "id": "14568",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head black/white",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07205_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turnbull-head-blackwhite-p07205",
+      "id": "14569",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head (proofs)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07206_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turnbull-head-proofs-p07206",
+      "id": "14570",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head blue/yellow",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07207_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turnbull-head-blueyellow-p07207",
+      "id": "14571",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sea forms",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77465_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turnbull-sea-forms-p77465",
+      "id": "19196",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77466_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turnbull-head-p77466",
+      "id": "19197",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "acrobat and female",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77467_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turnbull-acrobat-and-female-p77467",
+      "id": "19198",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figures and signs",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77468_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turnbull-figures-and-signs-p77468",
+      "id": "19199",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "signs",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77469_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turnbull-signs-p77469",
+      "id": "19200",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "marching figures",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77470_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turnbull-marching-figures-p77470",
+      "id": "19195",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00424_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turnbull-head-t00424",
+      "id": "14572",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "no. 1",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00515_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turnbull-no-1-t00515",
+      "id": "14573",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "14540",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14541",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14542",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14543",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14544",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14545",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14546",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14547",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14548",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14549",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14550",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14551",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14552",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14553",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14554",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14555",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14556",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14557",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14558",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14559",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14560",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14561",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14562",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14563",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14564",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14565",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14566",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14567",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14568",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14569",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14570",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14571",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19196",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19197",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19198",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19199",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19200",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19195",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14572",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14573",
+      "value": 1
+    }
+  ]
+}

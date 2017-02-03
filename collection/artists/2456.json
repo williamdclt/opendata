@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Shelley, Samuel",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/samuel-shelley-2456",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a woman pointing to a child leading a horse. verso: study of a male figure",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10327_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shelley-a-woman-pointing-to-a-child-leading-a-horse-verso-study-of-a-male-figure-t10327",
+      "id": "23529",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "23529",
+      "value": 1
+    }
+  ]
+}

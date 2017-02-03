@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Tremlett, David",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/david-tremlett-2064",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the spring recordings",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01742_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tremlett-the-spring-recordings-t01742",
+      "id": "14420",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "green",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tremlett-green-t01743",
+      "id": "14421",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the cards",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tremlett-the-cards-t03689",
+      "id": "14422",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "africa no. 6",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tremlett-africa-no-6-t03860",
+      "id": "14423",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "14420",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14421",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14422",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14423",
+      "value": 1
+    }
+  ]
+}

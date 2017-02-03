@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Permeke, Constant",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/constant-permeke-1759",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "harvest",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00218_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/permeke-harvest-t00218",
+      "id": "11522",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "11522",
+      "value": 1
+    }
+  ]
+}

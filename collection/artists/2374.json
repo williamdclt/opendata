@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Sch\u00fctte, Thomas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/thomas-schutte-2374",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77752_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schutte-no-title-p77752",
+      "id": "21443",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77753_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schutte-no-title-p77753",
+      "id": "21441",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77754_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schutte-no-title-p77754",
+      "id": "21451",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77755_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schutte-no-title-p77755",
+      "id": "21450",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77756_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schutte-no-title-p77756",
+      "id": "21449",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77757_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schutte-no-title-p77757",
+      "id": "21445",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77758_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schutte-no-title-p77758",
+      "id": "21447",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77759_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schutte-no-title-p77759",
+      "id": "21448",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77760_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schutte-no-title-p77760",
+      "id": "21446",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77761_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schutte-no-title-p77761",
+      "id": "21444",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schutte-no-title-p78921",
+      "id": "83622",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schutte-no-title-p78922",
+      "id": "83623",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schutte-no-title-p78923",
+      "id": "83624",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schutte-no-title-p78924",
+      "id": "83625",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schutte-no-title-p78925",
+      "id": "83626",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schutte-no-title-p78926",
+      "id": "83627",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schutte-no-title-p78927",
+      "id": "83628",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schutte-no-title-p78928",
+      "id": "83629",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schutte-no-title-p78929",
+      "id": "83630",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schutte-no-title-p78930",
+      "id": "83631",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schutte-no-title-p78931",
+      "id": "83632",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schutte-no-title-p78932",
+      "id": "83633",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schutte-no-title-p78933",
+      "id": "83634",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schutte-no-title-p78934",
+      "id": "83635",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schutte-no-title-p78935",
+      "id": "83636",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schutte-no-title-p78936",
+      "id": "83637",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schutte-no-title-p78937",
+      "id": "83638",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schutte-no-title-p78938",
+      "id": "83639",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schutte-no-title-p78939",
+      "id": "83640",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schutte-no-title-p78940",
+      "id": "83641",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schutte-no-title-p78941",
+      "id": "83642",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schutte-no-title-p78942",
+      "id": "83643",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schutte-no-title-p78943",
+      "id": "83644",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schutte-no-title-p78944",
+      "id": "83645",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schutte-no-title-p78945",
+      "id": "83646",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schutte-no-title-p78946",
+      "id": "83647",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schutte-no-title-p78947",
+      "id": "83648",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schutte-no-title-p78948",
+      "id": "83649",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schutte-no-title-p78949",
+      "id": "83650",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schutte-no-title-p78950",
+      "id": "83651",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "21443",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21441",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21451",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21450",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21449",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21445",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21447",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21448",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21446",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21444",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83622",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83623",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83624",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83625",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83626",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83627",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83628",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83629",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83630",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83631",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83632",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83633",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83634",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83635",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83636",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83637",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83638",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83639",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83640",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83641",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83642",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83643",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83644",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83645",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83646",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83647",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83648",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83649",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83650",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83651",
+      "value": 1
+    }
+  ]
+}

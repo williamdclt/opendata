@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Martin, Mary",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/mary-martin-1586",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "spiral movement",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00586_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-spiral-movement-t00586",
+      "id": "9348",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spiral",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-spiral-t00645",
+      "id": "9349",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "inversions",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01198_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-inversions-t01198",
+      "id": "9350",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black relief",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05026_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-black-relief-t05026",
+      "id": "9351",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "perspex group on orange (b)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12028_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-perspex-group-on-orange-b-t12028",
+      "id": "85565",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "perspex group",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12401_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-perspex-group-t12401",
+      "id": "220",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "expanding form",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13322_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-expanding-form-t13322",
+      "id": "114508",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9348",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9349",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9350",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9351",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85565",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "220",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114508",
+      "value": 1
+    }
+  ]
+}

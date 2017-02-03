@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gillray, James",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/james-gillray-2739",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "shipwreck. verso: rough sketch of a similar scene",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08932_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gillray-shipwreck-verso-rough-sketch-of-a-similar-scene-t08932",
+      "id": "22924",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "22924",
+      "value": 1
+    }
+  ]
+}

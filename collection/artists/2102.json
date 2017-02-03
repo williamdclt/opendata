@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Verlon, Andr\u00e9",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/andre-verlon-2102",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "roads to eternity",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03156_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/verlon-roads-to-eternity-t03156",
+      "id": "15728",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "15728",
+      "value": 1
+    }
+  ]
+}

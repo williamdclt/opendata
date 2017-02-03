@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Spencer, Thomas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/thomas-spencer-516",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a bay hunter held by a groom, with a stag-hunt in the background",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02373_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-a-bay-hunter-held-by-a-groom-with-a-stag-hunt-in-the-background-t02373",
+      "id": "13727",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13727",
+      "value": 1
+    }
+  ]
+}

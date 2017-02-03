@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Roth, Dieter",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/dieter-roth-1870",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "when g dug into the toys he struck terrible shit",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01833_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roth-when-g-dug-into-the-toys-he-struck-terrible-shit-p01833",
+      "id": "12820",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "calm life",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01834_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roth-calm-life-p01834",
+      "id": "12821",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cologne",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01835_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roth-cologne-p01835",
+      "id": "12822",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "berlin 1",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01836_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roth-berlin-1-p01836",
+      "id": "12823",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "berlin 2",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01837_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roth-berlin-2-p01837",
+      "id": "12824",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "d\u00fcsseldorf",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01838_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roth-dusseldorf-p01838",
+      "id": "12825",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "heidelberg",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01839_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roth-heidelberg-p01839",
+      "id": "12826",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "small theatre",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01840_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roth-small-theatre-p01840",
+      "id": "12827",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "3 knights",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01841_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roth-3-knights-p01841",
+      "id": "12828",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of the emme",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01842_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roth-view-of-the-emme-p01842",
+      "id": "12829",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hemdenstein",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01843_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roth-hemdenstein-p01843",
+      "id": "12830",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "quartet",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01844_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roth-quartet-p01844",
+      "id": "12831",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seminar (in collaboration with richard hamilton)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01845_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roth-seminar-in-collaboration-with-richard-hamilton-p01845",
+      "id": "12832",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "3 cakes on swivel chairs",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01846_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roth-3-cakes-on-swivel-chairs-p01846",
+      "id": "12833",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "3",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01847_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roth-3-p01847",
+      "id": "12834",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "messing",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01848_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roth-messing-p01848",
+      "id": "12835",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "by the sea from behind",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01849_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roth-by-the-sea-from-behind-p01849",
+      "id": "12836",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "big tardt for richard",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01850_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roth-big-tardt-for-richard-p01850",
+      "id": "12837",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait as pile of dog dirt",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01851_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roth-self-portrait-as-pile-of-dog-dirt-p01851",
+      "id": "12838",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait as jealous tiger",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01852_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roth-self-portrait-as-jealous-tiger-p01852",
+      "id": "12839",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait as jealous tiger",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01853_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roth-self-portrait-as-jealous-tiger-p01853",
+      "id": "12840",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "my eye is a mouth",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01854_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roth-my-eye-is-a-mouth-p01854",
+      "id": "12841",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "by the sea",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02491_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roth-by-the-sea-p02491",
+      "id": "12842",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "double quartet",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02492_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roth-double-quartet-p02492",
+      "id": "12843",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[cover]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02493_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roth-cover-p02493",
+      "id": "12844",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a feminine thought i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02494_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roth-a-feminine-thought-i-p02494",
+      "id": "12845",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a feminine thought ii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roth-a-feminine-thought-ii-p02495",
+      "id": "12846",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hemdenstein",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02496_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roth-hemdenstein-p02496",
+      "id": "12847",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "scrabble",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02497_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roth-scrabble-p02497",
+      "id": "12848",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "scrapple",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02498_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roth-scrapple-p02498",
+      "id": "12849",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[cover]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02499_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roth-cover-p02499",
+      "id": "12851",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02500_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roth-no-title-p02500",
+      "id": "12852",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02501_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roth-no-title-p02501",
+      "id": "12853",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02502_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roth-no-title-p02502",
+      "id": "12854",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02503_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roth-no-title-p02503",
+      "id": "12855",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait as a flower pot",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02504_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roth-self-portrait-as-a-flower-pot-p02504",
+      "id": "12856",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two persons",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02505_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roth-two-persons-p02505",
+      "id": "12857",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[cover]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02506_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roth-cover-p02506",
+      "id": "12858",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02507_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roth-no-title-p02507",
+      "id": "12859",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02508_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roth-no-title-p02508",
+      "id": "12860",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12820",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12821",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12822",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12823",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12824",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12825",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12826",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12827",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12828",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12829",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12830",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12831",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12832",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12833",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12834",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12835",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12836",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12837",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12838",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12839",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12840",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12841",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12842",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12843",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12844",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12845",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12846",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12847",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12848",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12849",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12851",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12852",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12853",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12854",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12855",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12856",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12857",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12858",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12859",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12860",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Colton, William Robert",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/william-robert-colton-933",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the girdle",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01766_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/colton-the-girdle-n01766",
+      "id": "2540",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the springtide of life",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01928_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/colton-the-springtide-of-life-n01928",
+      "id": "2541",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2540",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2541",
+      "value": 1
+    }
+  ]
+}

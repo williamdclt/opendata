@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Beeton, Alan",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/alan-beeton-723",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "decomposing",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04668_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beeton-decomposing-n04668",
+      "id": "878",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "878",
+      "value": 1
+    }
+  ]
+}

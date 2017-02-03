@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Richards, Albert",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/albert-richards-1835",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the landing: h hour minus 6. in the distance glow of the lancasters bombing battery to be attacked",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05726_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-the-landing-h-hour-minus-6-in-the-distance-glow-of-the-lancasters-bombing-battery-n05726",
+      "id": "12430",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "withdrawing from the battery after the battery\u2019s guns had been destroyed.",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05727_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-withdrawing-from-the-battery-after-the-batterys-guns-had-been-destroyed-n05727",
+      "id": "12431",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "paratroops outside breville",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05728_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richards-paratroops-outside-breville-n05728",
+      "id": "12432",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12430",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12431",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12432",
+      "value": 1
+    }
+  ]
+}

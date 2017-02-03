@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hoare, Prince",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/prince-hoare-2559",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08958_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoare-title-not-known-t08958",
+      "id": "23001",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08959_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoare-title-not-known-t08959",
+      "id": "24389",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08960_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoare-title-not-known-t08960",
+      "id": "24390",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08961_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoare-title-not-known-t08961",
+      "id": "24391",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08962_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoare-title-not-known-t08962",
+      "id": "24392",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08963_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoare-title-not-known-t08963",
+      "id": "24393",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08964_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoare-title-not-known-t08964",
+      "id": "24394",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08965_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoare-title-not-known-t08965",
+      "id": "24395",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08966_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoare-title-not-known-t08966",
+      "id": "24396",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known] verso: sketch",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08967_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoare-title-not-known-verso-sketch-t08967",
+      "id": "24397",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08968_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoare-title-not-known-t08968",
+      "id": "24399",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08969_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoare-title-not-known-t08969",
+      "id": "24398",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08970_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoare-title-not-known-t08970",
+      "id": "24400",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08971_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoare-title-not-known-t08971",
+      "id": "24401",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08972_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoare-title-not-known-t08972",
+      "id": "24402",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08973_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoare-title-not-known-t08973",
+      "id": "24403",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08974_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoare-title-not-known-t08974",
+      "id": "24404",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08975_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoare-title-not-known-t08975",
+      "id": "24405",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08976_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoare-title-not-known-t08976",
+      "id": "24406",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08977_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoare-title-not-known-t08977",
+      "id": "24407",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08978_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoare-title-not-known-t08978",
+      "id": "24408",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08979_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoare-title-not-known-t08979",
+      "id": "24409",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08980_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoare-title-not-known-t08980",
+      "id": "24410",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08981_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoare-title-not-known-t08981",
+      "id": "24411",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08982_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoare-title-not-known-t08982",
+      "id": "24412",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08983_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoare-title-not-known-t08983",
+      "id": "24413",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08984_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoare-title-not-known-t08984",
+      "id": "24415",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08985_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoare-title-not-known-t08985",
+      "id": "24414",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08986_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoare-title-not-known-t08986",
+      "id": "24416",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08987_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoare-title-not-known-t08987",
+      "id": "24417",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08988_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoare-title-not-known-t08988",
+      "id": "24418",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08989_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoare-title-not-known-t08989",
+      "id": "24419",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08990_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoare-title-not-known-t08990",
+      "id": "24420",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08991_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoare-title-not-known-t08991",
+      "id": "24421",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known] verso: sketch",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08992_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoare-title-not-known-verso-sketch-t08992",
+      "id": "24422",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08993_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoare-title-not-known-t08993",
+      "id": "24423",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08994_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoare-title-not-known-t08994",
+      "id": "24425",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08995_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoare-title-not-known-t08995",
+      "id": "24424",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08996_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoare-title-not-known-t08996",
+      "id": "24426",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08997_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoare-title-not-known-t08997",
+      "id": "24427",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "23001",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24389",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24390",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24391",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24392",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24393",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24394",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24395",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24396",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24397",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24399",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24398",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24400",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24401",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24402",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24403",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24404",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24405",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24406",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24407",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24408",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24409",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24410",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24411",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24412",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24413",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24415",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24414",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24416",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24417",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24418",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24419",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24420",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24421",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24422",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24423",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24425",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24424",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24426",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24427",
+      "value": 1
+    }
+  ]
+}

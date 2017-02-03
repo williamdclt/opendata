@@ -1,0 +1,155 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Dumas, Marlene",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/marlene-dumas-2407",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "magdalena 1",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07201_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dumas-magdalena-1-t07201",
+      "id": "21829",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "magdalena 2",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07202_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dumas-magdalena-2-t07202",
+      "id": "21830",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "magdalena 3",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07203_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dumas-magdalena-3-t07203",
+      "id": "21831",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "magdalena 4",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07204_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dumas-magdalena-4-t07204",
+      "id": "21832",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "magdalena 5",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07205_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dumas-magdalena-5-t07205",
+      "id": "21833",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "magdalena 6",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07206_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dumas-magdalena-6-t07206",
+      "id": "21834",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lead white",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07458_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dumas-lead-white-t07458",
+      "id": "26406",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ivory black",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07459_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dumas-ivory-black-t07459",
+      "id": "26405",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stern",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12312_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dumas-stern-t12312",
+      "id": "88006",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lucy",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12313_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dumas-lucy-t12313",
+      "id": "87991",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "21829",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21830",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21831",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21832",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21833",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21834",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26406",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26405",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88006",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "87991",
+      "value": 1
+    }
+  ]
+}

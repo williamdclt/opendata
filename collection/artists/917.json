@@ -1,0 +1,281 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Clemente, Francesco",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/francesco-clemente-917",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clemente-no-title-p07830",
+      "id": "2289",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clemente-no-title-p07831",
+      "id": "2290",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clemente-no-title-p07832",
+      "id": "2291",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clemente-no-title-p07833",
+      "id": "2292",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clemente-no-title-p07834",
+      "id": "2293",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clemente-no-title-p07835",
+      "id": "2294",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clemente-no-title-p07836",
+      "id": "2295",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clemente-no-title-p07837",
+      "id": "2296",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clemente-no-title-p07838",
+      "id": "2297",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clemente-no-title-p07848",
+      "id": "2298",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seascape",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clemente-seascape-p07904",
+      "id": "2299",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait no. 6 (stoplight)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clemente-self-portrait-no-6-stoplight-p07905",
+      "id": "2300",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "semen",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clemente-semen-p11276",
+      "id": "18971",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled b",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clemente-untitled-b-p77180",
+      "id": "2301",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fathers",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clemente-fathers-p77506",
+      "id": "20214",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "midnight sun ii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clemente-midnight-sun-ii-t03551",
+      "id": "2302",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "eternity\u2019s smell",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clemente-eternitys-smell-t05566",
+      "id": "17399",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "confused recollection",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clemente-confused-recollection-t05567",
+      "id": "17401",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vestito/vestitia",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clemente-vestitovestitia-t07175",
+      "id": "21797",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2289",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2290",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2291",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2292",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2293",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2294",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2295",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2296",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2297",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2298",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2299",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2300",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18971",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2301",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20214",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2302",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17399",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17401",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21797",
+      "value": 1
+    }
+  ]
+}

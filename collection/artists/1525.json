@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Long, Richard",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/richard-long-1525",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a line made by walking",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00142_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-a-line-made-by-walking-ar00142",
+      "id": "98268",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "in the cloud",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00143_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-in-the-cloud-ar00143",
+      "id": "99136",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "river avon book",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00144_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-river-avon-book-ar00144",
+      "id": "98285",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nile (papers of river muds)",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00599_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-nile-papers-of-river-muds-ar00599",
+      "id": "98286",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "somerset willow line",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-somerset-willow-line-ar00615",
+      "id": "98256",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "river avon mud drawings, ten mud-dipped papers",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00616_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-river-avon-mud-drawings-ten-mud-dipped-papers-ar00616",
+      "id": "98275",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cornish slate ellipse",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00703_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-cornish-slate-ellipse-ar00703",
+      "id": "98259",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "roisin dubh - a slow air",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03132_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-roisin-dubh-a-slow-air-p03132",
+      "id": "8968",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dartmoor walks",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07082_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-dartmoor-walks-p07082",
+      "id": "8969",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "turf circle",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07148_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-turf-circle-p07148",
+      "id": "8970",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a line made by walking",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07149_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-a-line-made-by-walking-p07149",
+      "id": "8971",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "turf sculpture",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07150_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-turf-sculpture-p07150",
+      "id": "8972",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "england",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07151_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-england-p07151",
+      "id": "8973",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "waterlines",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-waterlines-p11266",
+      "id": "18892",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "africa footprints",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77189_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-africa-footprints-p77189",
+      "id": "8974",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77828_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-no-title-p77828",
+      "id": "21618",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77829_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-no-title-p77829",
+      "id": "21619",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77830_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-no-title-p77830",
+      "id": "21620",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "slate drawing one",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78717_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-slate-drawing-one-p78717",
+      "id": "76951",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "slate drawing two",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78718_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-slate-drawing-two-p78718",
+      "id": "76953",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "limestone drawing one",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78719_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-limestone-drawing-one-p78719",
+      "id": "76954",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "limestone drawing two",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78720_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-limestone-drawing-two-p78720",
+      "id": "76955",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a hundred mile walk",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01720_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-a-hundred-mile-walk-t01720",
+      "id": "8975",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "circle of sticks",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-circle-of-sticks-t01783",
+      "id": "8976",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02065_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-untitled-t02065",
+      "id": "8977",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cerne abbas walk",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02066_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-cerne-abbas-walk-t02066",
+      "id": "8978",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "119 stones",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02067_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-119-stones-t02067",
+      "id": "8979",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "river avon driftwood",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-river-avon-driftwood-t02068",
+      "id": "8980",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "slate circle",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03027_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-slate-circle-t03027",
+      "id": "8981",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two straight twelve mile walks on dartmoor, england 1980",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03161_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-two-straight-twelve-mile-walks-on-dartmoor-england-1980-t03161",
+      "id": "8982",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a line in bolivia - kicked stones (2 versions)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03298_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-a-line-in-bolivia-kicked-stones-2-versions-t03298",
+      "id": "8983",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a sculpture in bristol",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03808_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-a-sculpture-in-bristol-t03808",
+      "id": "8984",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ten days walking and sleeping on natural ground",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05033_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-ten-days-walking-and-sleeping-on-natural-ground-t05033",
+      "id": "16604",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a square of ground",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06469_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-a-square-of-ground-t06469",
+      "id": "20165",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the crossing place of road and river. a walk of the same length as the river avon: an 84 mile northward walk along the foss way roman road",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06470_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-the-crossing-place-of-road-and-river-a-walk-of-the-same-length-as-the-river-avon-an-t06470",
+      "id": "20166",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sound circle",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-sound-circle-t06471",
+      "id": "20163",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "silence circle big bend texas",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06472_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-silence-circle-big-bend-texas-t06472",
+      "id": "20164",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "norfolk flint circle",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-norfolk-flint-circle-t06483",
+      "id": "20200",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06555_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-untitled-t06555",
+      "id": "20451",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "circle in africa",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06890_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-circle-in-africa-t06890",
+      "id": "21117",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "98268",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99136",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98285",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98286",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98256",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98275",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98259",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8968",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8969",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8970",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8971",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8972",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8973",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18892",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8974",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21618",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21619",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21620",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "76951",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "76953",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "76954",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "76955",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8975",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8976",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8977",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8978",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8979",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8980",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8981",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8982",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8983",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8984",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16604",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20165",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20166",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20163",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20164",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20200",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20451",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21117",
+      "value": 1
+    }
+  ]
+}

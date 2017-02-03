@@ -1,0 +1,309 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Law, Bob",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/bob-law-1476",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "double cross",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78908_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/law-double-cross-p78908",
+      "id": "81049",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cross for me - kiss for you",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78909_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/law-cross-for-me-kiss-for-you-p78909",
+      "id": "81050",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kiss for me - cross for you",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78910_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/law-kiss-for-me-cross-for-you-p78910",
+      "id": "81051",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "double kissers",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78911_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/law-double-kissers-p78911",
+      "id": "81052",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a cross to bare",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78912_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/law-a-cross-to-bare-p78912",
+      "id": "81053",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cross & broken double cross",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78913_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/law-cross-broken-double-cross-p78913",
+      "id": "81054",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "double double crosses",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78914_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/law-double-double-crosses-p78914",
+      "id": "81055",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two crosses",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78915_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/law-two-crosses-p78915",
+      "id": "81056",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing 24.4.60",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01774_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/law-drawing-24460-t01774",
+      "id": "8421",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing 25.4.60",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01775_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/law-drawing-25460-t01775",
+      "id": "8422",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing 4.6.71",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/law-drawing-4671-t01806",
+      "id": "8423",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "no. 62 (black/blue/violet/blue)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02092_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/law-no-62-blackbluevioletblue-t02092",
+      "id": "8424",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled 29.8.87",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05041_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/law-untitled-29887-t05041",
+      "id": "16589",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nothing to be afraid of iv 15.08.1969",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12144_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/law-nothing-to-be-afraid-of-iv-15081969-t12144",
+      "id": "88793",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mr paranoia vii 20.10.72 (no. 106) 1972",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12145_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/law-mr-paranoia-vii-201072-no-106-1972-t12145",
+      "id": "88799",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "twentieth century ikon series 8.8.67",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12177_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/law-twentieth-century-ikon-series-8867-t12177",
+      "id": "88802",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "is a mind a prison",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12178_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/law-is-a-mind-a-prison-t12178",
+      "id": "88800",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tall obelisk with two holes and a notch",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12179_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/law-tall-obelisk-with-two-holes-and-a-notch-t12179",
+      "id": "88797",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "castle cccxxxiii 15.7.01",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13317_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/law-castle-cccxxxiii-15701-t13317",
+      "id": "111811",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape viii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/law-landscape-viii-t13318",
+      "id": "111812",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled 1.5.87",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/law-untitled-1587-t13439",
+      "id": "121437",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "81049",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81050",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81051",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81052",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81053",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81054",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81055",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81056",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8421",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8422",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8423",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8424",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16589",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88793",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88799",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88802",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88800",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88797",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "111811",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "111812",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121437",
+      "value": 1
+    }
+  ]
+}

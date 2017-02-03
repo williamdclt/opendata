@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "McTaggart, William",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/william-mctaggart-366",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the emigrants",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04610_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mctaggart-the-emigrants-n04610",
+      "id": "9139",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the harvest moon",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04701_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mctaggart-the-harvest-moon-n04701",
+      "id": "9140",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "summer sundown - tir-nan-og",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06044_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mctaggart-summer-sundown-tir-nan-og-n06044",
+      "id": "9141",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9139",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9140",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9141",
+      "value": 1
+    }
+  ]
+}

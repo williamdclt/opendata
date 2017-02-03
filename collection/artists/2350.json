@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Downton, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-downton-2350",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the nurse and child",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/downton-the-nurse-and-child-t07389",
+      "id": "26098",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the nurse and child: a study",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/downton-the-nurse-and-child-a-study-t07390",
+      "id": "26099",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of a girl",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/downton-portrait-of-a-girl-t07393",
+      "id": "26100",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "26098",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26099",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26100",
+      "value": 1
+    }
+  ]
+}

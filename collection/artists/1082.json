@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Fazzini, Pericle",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/pericle-fazzini-1082",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "seated woman",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00373_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fazzini-seated-woman-t00373",
+      "id": "4242",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4242",
+      "value": 1
+    }
+  ]
+}

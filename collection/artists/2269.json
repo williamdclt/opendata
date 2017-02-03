@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Horn, Rebecca",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/rebecca-horn-2269",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "ballet of the woodpeckers",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06551_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/horn-ballet-of-the-woodpeckers-t06551",
+      "id": "20357",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "orlando",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06553_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/horn-orlando-t06553",
+      "id": "20356",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "concert for anarchy",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07517_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/horn-concert-for-anarchy-t07517",
+      "id": "26592",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "performances i",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/horn-performances-i-t07622",
+      "id": "27093",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "performances ii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/horn-performances-ii-t07623",
+      "id": "27094",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the gigolo",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/horn-the-gigolo-t07624",
+      "id": "27095",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "berlin exercises: dreaming under water",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/horn-berlin-exercises-dreaming-under-water-t07625",
+      "id": "27096",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the ravens half moon",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/horn-the-ravens-half-moon-t07741",
+      "id": "66603",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "unicorn",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07842_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/horn-unicorn-t07842",
+      "id": "22",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "overflowing blood machine",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07843_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/horn-overflowing-blood-machine-t07843",
+      "id": "23",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "white body fan",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/horn-white-body-fan-t07844",
+      "id": "24",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "finger gloves",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07845_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/horn-finger-gloves-t07845",
+      "id": "25",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "scratching both walls at once",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07846_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/horn-scratching-both-walls-at-once-t07846",
+      "id": "26",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pencil mask",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07847_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/horn-pencil-mask-t07847",
+      "id": "27",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "feather instrument",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/horn-feather-instrument-t07848",
+      "id": "28",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cockfeather mask",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07849_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/horn-cockfeather-mask-t07849",
+      "id": "29",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cockatoo mask",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07850_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/horn-cockatoo-mask-t07850",
+      "id": "30",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mechanical body fan",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07851_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/horn-mechanical-body-fan-t07851",
+      "id": "31",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "feathers dancing on shoulders",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/horn-feathers-dancing-on-shoulders-t07852",
+      "id": "32",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "keeping those legs from touching each other",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07853_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/horn-keeping-those-legs-from-touching-each-other-t07853",
+      "id": "33",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rooms encountering each other",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/horn-rooms-encountering-each-other-t07854",
+      "id": "34",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "trunk",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/horn-trunk-t07855",
+      "id": "35",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "in the triangle",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/horn-in-the-triangle-t07856",
+      "id": "36",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "arm extensions",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07857_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/horn-arm-extensions-t07857",
+      "id": "37",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cornucopia",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/horn-cornucopia-t07858",
+      "id": "38",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black cockfeathers",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07859_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/horn-black-cockfeathers-t07859",
+      "id": "39",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "moveable shoulder extensions",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07860_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/horn-moveable-shoulder-extensions-t07860",
+      "id": "40",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head extension",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/horn-head-extension-t07861",
+      "id": "41",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "paradise widow",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/horn-paradise-widow-t11849",
+      "id": "81110",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "la ferdinanda: sonata for a medici villa",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/horn-la-ferdinanda-sonata-for-a-medici-villa-t11850",
+      "id": "81111",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "buster\u2019s bedroom",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/horn-busters-bedroom-t11851",
+      "id": "81112",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "unicorn",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12783_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/horn-unicorn-t12783",
+      "id": "99902",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12784_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/horn-untitled-t12784",
+      "id": "99903",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12785_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/horn-untitled-t12785",
+      "id": "99904",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12786_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/horn-untitled-t12786",
+      "id": "99905",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (breast extension)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12787_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/horn-untitled-breast-extension-t12787",
+      "id": "99906",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12788_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/horn-untitled-t12788",
+      "id": "99907",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fan",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12789_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/horn-fan-t12789",
+      "id": "99908",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (head extension)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12790_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/horn-untitled-head-extension-t12790",
+      "id": "99909",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12791_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/horn-untitled-t12791",
+      "id": "99910",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "20357",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20356",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26592",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27093",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27094",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27095",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27096",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66603",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "28",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "29",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "30",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "31",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "32",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "33",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "34",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "35",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "36",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "37",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "38",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "39",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "40",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "41",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81110",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81111",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81112",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99902",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99903",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99904",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99905",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99906",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99907",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99908",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99909",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99910",
+      "value": 1
+    }
+  ]
+}

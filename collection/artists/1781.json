@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Plumb, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-plumb-1781",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "bermuda",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05060_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/plumb-bermuda-p05060",
+      "id": "12132",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "edgehill",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00509_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/plumb-edgehill-t00509",
+      "id": "12133",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled august 1969",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01156_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/plumb-untitled-august-1969-t01156",
+      "id": "12134",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hydrastructure - what it is",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07472_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/plumb-hydrastructure-what-it-is-t07472",
+      "id": "26454",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12132",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12133",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12134",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26454",
+      "value": 1
+    }
+  ]
+}

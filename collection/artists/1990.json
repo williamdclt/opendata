@@ -1,0 +1,547 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Steer, Philip Wilson",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/philip-wilson-steer-1990",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "chepstow castle",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02473_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steer-chepstow-castle-n02473",
+      "id": "13773",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the music room",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02872_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steer-the-music-room-n02872",
+      "id": "13774",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chepstow",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03019_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steer-chepstow-n03019",
+      "id": "13775",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "richmond castle",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03193_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steer-richmond-castle-n03193",
+      "id": "13776",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "yorkshire moorland",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03321_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steer-yorkshire-moorland-n03321",
+      "id": "13777",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "farmyard",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03508_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steer-farmyard-n03508",
+      "id": "13778",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a procession of yachts",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03668_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steer-a-procession-of-yachts-n03668",
+      "id": "13779",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "elm trees",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03715_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steer-elm-trees-n03715",
+      "id": "13780",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs raynes",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03803_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steer-mrs-raynes-n03803",
+      "id": "13781",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "painswick beacon",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03884_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steer-painswick-beacon-n03884",
+      "id": "13782",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sleep",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04264_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steer-sleep-n04264",
+      "id": "13783",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the toilet of venus",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steer-the-toilet-of-venus-n04272",
+      "id": "13784",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs cyprian williams and her two little girls",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04422_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steer-mrs-cyprian-williams-and-her-two-little-girls-n04422",
+      "id": "13785",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bathsheba",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04462_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steer-bathsheba-n04462",
+      "id": "13786",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stroud: an upland landscape",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04463_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steer-stroud-an-upland-landscape-n04463",
+      "id": "13787",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "paddlers",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04546_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steer-paddlers-n04546",
+      "id": "13788",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "david croal thomson",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04561_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steer-david-croal-thomson-n04561",
+      "id": "13789",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bird-nesting, ludlow",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04955_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steer-bird-nesting-ludlow-n04955",
+      "id": "13790",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the bridge",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05256_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steer-the-bridge-n05256",
+      "id": "13791",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seated nude: the black hat",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05261_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steer-seated-nude-the-black-hat-n05261",
+      "id": "13792",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nutting",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05290_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steer-nutting-n05290",
+      "id": "13793",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "girl in a blue dress",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05295_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steer-girl-in-a-blue-dress-n05295",
+      "id": "13794",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the beach at walberswick",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05351_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steer-the-beach-at-walberswick-n05351",
+      "id": "13795",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "southwold",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05374_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steer-southwold-n05374",
+      "id": "13796",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the swiss alps at the earl\u2019s court exhibition",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05375_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steer-the-swiss-alps-at-the-earls-court-exhibition-n05375",
+      "id": "13797",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "boulogne sands",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05439_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steer-boulogne-sands-n05439",
+      "id": "13798",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "what of the war?",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05618_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steer-what-of-the-war-n05618",
+      "id": "13799",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figures on the beach, walberswick",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05766_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steer-figures-on-the-beach-walberswick-n05766",
+      "id": "13800",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "on the river blackwater, maldon",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05890_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steer-on-the-river-blackwater-maldon-n05890",
+      "id": "13801",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the landing stage, greenhithe",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05891_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steer-the-landing-stage-greenhithe-n05891",
+      "id": "13802",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "girls running, walberswick pier",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06008_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steer-girls-running-walberswick-pier-n06008",
+      "id": "13803",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the church at montreuil",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06141_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steer-the-church-at-montreuil-n06141",
+      "id": "13804",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the outskirts of montreuil",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06184_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steer-the-outskirts-of-montreuil-n06184",
+      "id": "13805",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the white yacht",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06185_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steer-the-white-yacht-n06185",
+      "id": "13806",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the river, ironbridge",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06186_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steer-the-river-ironbridge-n06186",
+      "id": "13807",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "morning, ironbridge",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06187_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steer-morning-ironbridge-n06187",
+      "id": "13808",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "low tide, greenhithe",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00126_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steer-low-tide-greenhithe-t00126",
+      "id": "13809",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "model seated before a mirror",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11973_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steer-model-seated-before-a-mirror-t11973",
+      "id": "77955",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13773",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13774",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13775",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13776",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13777",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13778",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13779",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13780",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13781",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13782",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13783",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13784",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13785",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13786",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13787",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13788",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13789",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13790",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13791",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13792",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13793",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13794",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13795",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13796",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13797",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13798",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13799",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13800",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13801",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13802",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13803",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13804",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13805",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13806",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13807",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13808",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13809",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "77955",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Macartney, Carlile Henry Hayes",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/carlile-henry-hayes-macartney-2440",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "moorland landscape with cottages",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08609_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/macartney-moorland-landscape-with-cottages-t08609",
+      "id": "23185",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "23185",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hein, Jeppe",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/jeppe-hein-7275",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "invisible moving wall",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hein-invisible-moving-wall-t12757",
+      "id": "94867",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "94867",
+      "value": 1
+    }
+  ]
+}

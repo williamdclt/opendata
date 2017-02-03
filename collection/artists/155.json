@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Doughty, William",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/william-doughty-155",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "caricature group",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05598_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/doughty-caricature-group-n05598",
+      "id": "3989",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "3989",
+      "value": 1
+    }
+  ]
+}

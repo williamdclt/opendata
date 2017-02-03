@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Lipchitz, Jacques",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/jacques-lipchitz-1518",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "head",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00310_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lipchitz-head-t00310",
+      "id": "8878",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reclining woman with guitar",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lipchitz-reclining-woman-with-guitar-t00311",
+      "id": "8879",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for monument to \u2018the spirit of enterprise\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lipchitz-study-for-monument-to-the-spirit-of-enterprise-t00320",
+      "id": "8880",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018prometheus\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01755_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lipchitz-study-for-prometheus-t01755",
+      "id": "8881",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sculpture",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03397_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lipchitz-sculpture-t03397",
+      "id": "8882",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of gertrude stein",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lipchitz-portrait-of-gertrude-stein-t03479",
+      "id": "8883",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018bellerophon taming pegasus\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03480_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lipchitz-sketch-for-bellerophon-taming-pegasus-t03480",
+      "id": "8884",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018government of the people\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03481_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lipchitz-sketch-for-government-of-the-people-t03481",
+      "id": "8885",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pregnant woman",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03482_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lipchitz-pregnant-woman-t03482",
+      "id": "8886",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the rape of europa",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03483_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lipchitz-the-rape-of-europa-t03483",
+      "id": "8887",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the joy of orpheus ii",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03484_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lipchitz-the-joy-of-orpheus-ii-t03484",
+      "id": "8888",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spanish servant girl",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lipchitz-spanish-servant-girl-t03485",
+      "id": "8889",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bather iii",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03486_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lipchitz-bather-iii-t03486",
+      "id": "8890",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "toreador",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03487_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lipchitz-toreador-t03487",
+      "id": "8891",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seated man with clarinet i",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03488_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lipchitz-seated-man-with-clarinet-i-t03488",
+      "id": "8892",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "song of songs",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03489_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lipchitz-song-of-songs-t03489",
+      "id": "8893",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "picador, bas relief",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03490_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lipchitz-picador-bas-relief-t03490",
+      "id": "8894",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018our tree of life\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03491_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lipchitz-sketch-for-our-tree-of-life-t03491",
+      "id": "8895",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sculpture",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03492_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lipchitz-sculpture-t03492",
+      "id": "8896",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for enterprise",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03493_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lipchitz-sketch-for-enterprise-t03493",
+      "id": "8897",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "g\u00e9ricault",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lipchitz-gericault-t03494",
+      "id": "8898",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "david and goliath, on a column",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03495_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lipchitz-david-and-goliath-on-a-column-t03495",
+      "id": "8899",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head and hand",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lipchitz-head-and-hand-t03496",
+      "id": "8900",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018prometheus\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lipchitz-study-for-prometheus-t03497",
+      "id": "8901",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head, bust and arms",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lipchitz-head-bust-and-arms-t03498",
+      "id": "8902",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seated bather",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03499_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lipchitz-seated-bather-t03499",
+      "id": "8903",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for prometheus",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03500_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lipchitz-study-for-prometheus-t03500",
+      "id": "8904",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03501_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lipchitz-figure-t03501",
+      "id": "8905",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "first study for pastoral",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03502_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lipchitz-first-study-for-pastoral-t03502",
+      "id": "8906",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reclining figure",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lipchitz-reclining-figure-t03503",
+      "id": "8907",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bust of a woman",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lipchitz-bust-of-a-woman-t03504",
+      "id": "8908",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for a figure",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lipchitz-sketch-for-a-figure-t03505",
+      "id": "8909",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the snuffer",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03506_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lipchitz-the-snuffer-t03506",
+      "id": "8910",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lipchitz-head-t03507",
+      "id": "8911",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of a woman",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03508_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lipchitz-head-of-a-woman-t03508",
+      "id": "8912",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "musical instruments, bas relief",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03509_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lipchitz-musical-instruments-bas-relief-t03509",
+      "id": "8913",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "meditation",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03510_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lipchitz-meditation-t03510",
+      "id": "8914",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman with hair",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03511_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lipchitz-woman-with-hair-t03511",
+      "id": "8915",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "first study for \u2018toward a new world\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03512_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lipchitz-first-study-for-toward-a-new-world-t03512",
+      "id": "8916",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bull and condor",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03513_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lipchitz-bull-and-condor-t03513",
+      "id": "8917",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8878",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8879",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8880",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8881",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8882",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8883",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8884",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8885",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8886",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8887",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8888",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8889",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8890",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8891",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8892",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8893",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8894",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8895",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8896",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8897",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8898",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8899",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8900",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8901",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8902",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8903",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8904",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8905",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8906",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8907",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8908",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8909",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8910",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8911",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8912",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8913",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8914",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8915",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8916",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8917",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Bhimji, Zarina",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/zarina-bhimji-5469",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "out of blue",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bhimji-out-of-blue-t11843",
+      "id": "76423",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "76423",
+      "value": 1
+    }
+  ]
+}

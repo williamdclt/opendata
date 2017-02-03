@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Cottingham, Robert",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/robert-cottingham-947",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "carl\u2019s",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07641_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cottingham-carls-p07641",
+      "id": "2831",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black girl",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07642_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cottingham-black-girl-p07642",
+      "id": "2832",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "frankfurters",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07643_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cottingham-frankfurters-p07643",
+      "id": "2833",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2831",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2832",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2833",
+      "value": 1
+    }
+  ]
+}

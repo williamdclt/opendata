@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Simon, Taryn",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/taryn-simon-11458",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "white tiger (kenny), selective inbreeding turpentine creek wildlife refuge and foundation eureka springs, arkansas",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/simon-white-tiger-kenny-selective-inbreeding-turpentine-creek-wildlife-refuge-and-p13237",
+      "id": "97573",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "forensic anthropology research facility, decomposing corpse university of tennessee knoxville, tennessee",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/simon-forensic-anthropology-research-facility-decomposing-corpse-university-of-tennessee-p13238",
+      "id": "97574",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nuclear waste encapsulation and storage facility, cherenkov radiation hanford site, u.s. department of energy southeastern washington state",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/simon-nuclear-waste-encapsulation-and-storage-facility-cherenkov-radiation-hanford-site-us-p79735",
+      "id": "97452",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the central intelligence agency, art cia original headquarters building langley, virginia",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/simon-the-central-intelligence-agency-art-cia-original-headquarters-building-langley-p79736",
+      "id": "97453",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "transatlantic sub-marine cables reaching land vsnl international avon, new jersey",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/simon-transatlantic-sub-marine-cables-reaching-land-vsnl-international-avon-new-jersey-p79737",
+      "id": "97454",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "u.s. customs and border protection, contraband room john f. kennedy international airport queens, new york",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/simon-us-customs-and-border-protection-contraband-room-john-f-kennedy-international-p79738",
+      "id": "97455",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jury simulation, deliberation room with two-way mirror doar litigation consulting lynbrook, new york",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/simon-jury-simulation-deliberation-room-with-two-way-mirror-doar-litigation-consulting-p79739",
+      "id": "97456",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the ten commandments, buried \u201ccity of the pharaoh\u201d film set nipomo sand dunes guadalupe, california",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/simon-the-ten-commandments-buried-city-of-the-pharaoh-film-set-nipomo-sand-dunes-guadalupe-p79740",
+      "id": "97457",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "97573",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97574",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97452",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97453",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97454",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97455",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97456",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97457",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "EXPORT, VALIE",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/valie-export-6411",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "identity transfer 1",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79178_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/export-identity-transfer-1-p79178",
+      "id": "88979",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "identity transfer 2",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79179_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/export-identity-transfer-2-p79179",
+      "id": "88980",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "identity transfer 3",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79180_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/export-identity-transfer-3-p79180",
+      "id": "88981",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "action pants: genital panic",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79233_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/export-action-pants-genital-panic-p79233",
+      "id": "90775",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "88979",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88980",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88981",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90775",
+      "value": 1
+    }
+  ]
+}

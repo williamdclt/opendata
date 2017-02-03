@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Alken, Samuel, Senior",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/samuel-alken-senior-2471",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "landscape with trees and a low house",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09606_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/alken-landscape-with-trees-and-a-low-house-t09606",
+      "id": "22221",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a ruined castle on a hill. ?corfe castle",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09607_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/alken-a-ruined-castle-on-a-hill-corfe-castle-t09607",
+      "id": "22222",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a gothic ?abbey with four towers, two of them octagonal",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09608_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/alken-a-gothic-abbey-with-four-towers-two-of-them-octagonal-t09608",
+      "id": "22223",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "22221",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22222",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22223",
+      "value": 1
+    }
+  ]
+}

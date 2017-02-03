@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Whishaw, Anthony",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/anthony-whishaw-2139",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "drawing (landscape)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/whishaw-drawing-landscape-t03926",
+      "id": "16119",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16119",
+      "value": 1
+    }
+  ]
+}

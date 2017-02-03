@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Somerscales, Thomas J.",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/thomas-j-somerscales-514",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "off valparaiso",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01773_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/somerscales-off-valparaiso-n01773",
+      "id": "13638",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13638",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Butler, Elizabeth",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/elizabeth-butler-lady-butler-71",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the remnants of an army",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01553_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/butler-the-remnants-of-an-army-n01553",
+      "id": "1868",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1868",
+      "value": 1
+    }
+  ]
+}

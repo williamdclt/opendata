@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Posenenske, Charlotte",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/charlotte-posenenske-11040",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "square tubes [series d]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12772_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/posenenske-square-tubes-series-d-t12772",
+      "id": "95382",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "prototype for revolving vane",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12773_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/posenenske-prototype-for-revolving-vane-t12773",
+      "id": "95387",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "square tubes [series d]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12774_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/posenenske-square-tubes-series-d-t12774",
+      "id": "95393",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "square tubes [series d]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12775_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/posenenske-square-tubes-series-d-t12775",
+      "id": "96092",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sprayed picture",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12776_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/posenenske-sprayed-picture-t12776",
+      "id": "96932",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "square tubes [series d]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12777_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/posenenske-square-tubes-series-d-t12777",
+      "id": "96933",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "square tubes [series d]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12778_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/posenenske-square-tubes-series-d-t12778",
+      "id": "96934",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "95382",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95387",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95393",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96092",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96932",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96933",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96934",
+      "value": 1
+    }
+  ]
+}

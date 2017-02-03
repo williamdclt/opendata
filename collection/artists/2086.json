@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Ulreich, Edward Buk",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/edward-buk-ulreich-2086",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "arizona cowboys",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ulreich-arizona-cowboys-p01727",
+      "id": "15665",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "15665",
+      "value": 1
+    }
+  ]
+}

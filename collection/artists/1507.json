@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Liberman, Alexander",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/alexander-liberman-1507",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "andromeda",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00650_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/liberman-andromeda-t00650",
+      "id": "8768",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8768",
+      "value": 1
+    }
+  ]
+}

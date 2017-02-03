@@ -1,0 +1,365 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Davie, Alan",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/alan-davie-979",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "sleep my angel",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06101_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davie-sleep-my-angel-p06101",
+      "id": "3633",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bird noises",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06102_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davie-bird-noises-p06102",
+      "id": "3634",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "celtic dreamboat i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06103_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davie-celtic-dreamboat-i-p06103",
+      "id": "3635",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "celtic dreamboat ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06104_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davie-celtic-dreamboat-ii-p06104",
+      "id": "3636",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "celtic dreamboat iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06105_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davie-celtic-dreamboat-iii-p06105",
+      "id": "3637",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "for the hens (trial proof)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06106_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davie-for-the-hens-trial-proof-p06106",
+      "id": "3638",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "italian image",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06107_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davie-italian-image-p06107",
+      "id": "3639",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bird through wall",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06108_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davie-bird-through-wall-p06108",
+      "id": "3640",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "for the hens",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06706_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davie-for-the-hens-p06706",
+      "id": "3641",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "magic picture no. 1",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06774_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davie-magic-picture-no-1-p06774",
+      "id": "3642",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two insects, yellow",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11352_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davie-two-insects-yellow-p11352",
+      "id": "20183",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a great sound in the heavens",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davie-a-great-sound-in-the-heavens-p77276",
+      "id": "4495",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "night sky on a holiday",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77277_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davie-night-sky-on-a-holiday-p77277",
+      "id": "4878",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "interested sperm around an egg",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77278_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davie-interested-sperm-around-an-egg-p77278",
+      "id": "4879",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spirit over the landscape",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77279_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davie-spirit-over-the-landscape-p77279",
+      "id": "4880",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "obscure biological function surrounded by nerve impulses",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77280_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davie-obscure-biological-function-surrounded-by-nerve-impulses-p77280",
+      "id": "4881",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "birth of venus",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00203_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davie-birth-of-venus-t00203",
+      "id": "3643",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00267_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davie-head-t00267",
+      "id": "3644",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "entrance for a red temple no. 1",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00417_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davie-entrance-for-a-red-temple-no-1-t00417",
+      "id": "3645",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sacrifice",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00633_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davie-sacrifice-t00633",
+      "id": "3646",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "entrance to a paradise",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01526_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davie-entrance-to-a-paradise-t01526",
+      "id": "3647",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fairy tree no. 5",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01584_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davie-fairy-tree-no-5-t01584",
+      "id": "3648",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "image of the fish god",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01748_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davie-image-of-the-fish-god-t01748",
+      "id": "3649",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black mirror",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01749_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davie-black-mirror-t01749",
+      "id": "3650",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "village myths no. 36",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03815_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davie-village-myths-no-36-t03815",
+      "id": "3651",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "3633",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3634",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3635",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3636",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3637",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3638",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3639",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3640",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3641",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3642",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20183",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4495",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4878",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4879",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4880",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4881",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3643",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3644",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3645",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3646",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3647",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3648",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3649",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3650",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3651",
+      "value": 1
+    }
+  ]
+}

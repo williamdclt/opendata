@@ -1,0 +1,421 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Meireles, Cildo",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/cildo-meireles-6633",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "insertions into ideological circuits: coca-cola project",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12328_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meireles-insertions-into-ideological-circuits-coca-cola-project-t12328",
+      "id": "84302",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "insertions into ideological circuits 2: banknote project",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12512_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meireles-insertions-into-ideological-circuits-2-banknote-project-t12512",
+      "id": "99490",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "insertions into ideological circuits 2: banknote project",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12513_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meireles-insertions-into-ideological-circuits-2-banknote-project-t12513",
+      "id": "99491",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "insertions into ideological circuits 2: banknote project",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12514_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meireles-insertions-into-ideological-circuits-2-banknote-project-t12514",
+      "id": "99492",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "insertions into ideological circuits 2: banknote project",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12515_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meireles-insertions-into-ideological-circuits-2-banknote-project-t12515",
+      "id": "99493",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "insertions into ideological circuits 2: banknote project",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12516_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meireles-insertions-into-ideological-circuits-2-banknote-project-t12516",
+      "id": "99494",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "insertions into ideological circuits 2: banknote project",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12517_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meireles-insertions-into-ideological-circuits-2-banknote-project-t12517",
+      "id": "99495",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "insertions into ideological circuits 2: banknote project",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12518_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meireles-insertions-into-ideological-circuits-2-banknote-project-t12518",
+      "id": "99496",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "insertions into ideological circuits 2: banknote project",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12519_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meireles-insertions-into-ideological-circuits-2-banknote-project-t12519",
+      "id": "99497",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "insertions into ideological circuits 2: banknote project",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12520_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meireles-insertions-into-ideological-circuits-2-banknote-project-t12520",
+      "id": "99498",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "insertions into ideological circuits 2: banknote project",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12521_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meireles-insertions-into-ideological-circuits-2-banknote-project-t12521",
+      "id": "99499",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "insertions into ideological circuits 2: banknote project",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12522_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meireles-insertions-into-ideological-circuits-2-banknote-project-t12522",
+      "id": "99500",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "insertions into ideological circuits 2: banknote project",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12523_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meireles-insertions-into-ideological-circuits-2-banknote-project-t12523",
+      "id": "99501",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "insertions into ideological circuits 2: banknote project",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12524_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meireles-insertions-into-ideological-circuits-2-banknote-project-t12524",
+      "id": "99502",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "insertions into ideological circuits 2: banknote project",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12525_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meireles-insertions-into-ideological-circuits-2-banknote-project-t12525",
+      "id": "99503",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "insertions into ideological circuits 2: banknote project",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12526_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meireles-insertions-into-ideological-circuits-2-banknote-project-t12526",
+      "id": "99504",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "insertions into ideological circuits 2: banknote project",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12527_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meireles-insertions-into-ideological-circuits-2-banknote-project-t12527",
+      "id": "99505",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "insertions into ideological circuits 2: banknote project",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12528_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meireles-insertions-into-ideological-circuits-2-banknote-project-t12528",
+      "id": "99506",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "insertions into ideological circuits 2: banknote project",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12529_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meireles-insertions-into-ideological-circuits-2-banknote-project-t12529",
+      "id": "99507",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "insertions into ideological circuits 2: banknote project",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12530_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meireles-insertions-into-ideological-circuits-2-banknote-project-t12530",
+      "id": "99508",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "insertions into ideological circuits 2: banknote project",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12531_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meireles-insertions-into-ideological-circuits-2-banknote-project-t12531",
+      "id": "99509",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "insertions into ideological circuits 2: banknote project",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12532_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meireles-insertions-into-ideological-circuits-2-banknote-project-t12532",
+      "id": "99510",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "insertions into ideological circuits 2: banknote project",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12533_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meireles-insertions-into-ideological-circuits-2-banknote-project-t12533",
+      "id": "99511",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "insertions into ideological circuits 2: banknote project",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12534_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meireles-insertions-into-ideological-circuits-2-banknote-project-t12534",
+      "id": "99512",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "insertions into ideological circuits 2: banknote project",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12535_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meireles-insertions-into-ideological-circuits-2-banknote-project-t12535",
+      "id": "99513",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "insertions into ideological circuits 2: banknote project",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12536_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meireles-insertions-into-ideological-circuits-2-banknote-project-t12536",
+      "id": "99514",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "insertions into ideological circuits 2: banknote project",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12537_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meireles-insertions-into-ideological-circuits-2-banknote-project-t12537",
+      "id": "99515",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "insertions into ideological circuits 2: banknote project",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12538_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meireles-insertions-into-ideological-circuits-2-banknote-project-t12538",
+      "id": "84942",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "eureka/blindhotland",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12605_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meireles-eurekablindhotland-t12605",
+      "id": "80303",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "84302",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99490",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99491",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99492",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99493",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99494",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99495",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99496",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99497",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99498",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99499",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99500",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99501",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99502",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99503",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99504",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99505",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99506",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99507",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99508",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99509",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99510",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99511",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99512",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99513",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99514",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99515",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "84942",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80303",
+      "value": 1
+    }
+  ]
+}

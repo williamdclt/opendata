@@ -1,0 +1,183 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Barth, Uta",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/uta-barth-2678",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled (00.1)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11676_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barth-untitled-001-p11676",
+      "id": "27102",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78217_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barth-no-title-p78217",
+      "id": "26439",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78218_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barth-no-title-p78218",
+      "id": "26430",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78219_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barth-no-title-p78219",
+      "id": "26432",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78220_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barth-no-title-p78220",
+      "id": "26433",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78221_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barth-no-title-p78221",
+      "id": "26436",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78222_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barth-no-title-p78222",
+      "id": "26434",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78223_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barth-no-title-p78223",
+      "id": "26431",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78224_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barth-no-title-p78224",
+      "id": "26435",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78225_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barth-no-title-p78225",
+      "id": "26437",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78226_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barth-no-title-p78226",
+      "id": "26438",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "field #20",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07627_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barth-field-20-t07627",
+      "id": "27077",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "27102",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26439",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26430",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26432",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26433",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26436",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26434",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26431",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26435",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26437",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26438",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27077",
+      "value": 1
+    }
+  ]
+}

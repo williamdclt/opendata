@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Manet, Edouard",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/edouard-manet-1567",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "woman with a cat",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03295_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/manet-woman-with-a-cat-n03295",
+      "id": "9219",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9219",
+      "value": 1
+    }
+  ]
+}

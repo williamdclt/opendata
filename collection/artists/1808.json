@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Pulham, Peter Rose",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/peter-rose-pulham-1808",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "l\u2019h\u00f4tel sully, courtyard with figures",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pulham-lhotel-sully-courtyard-with-figures-t00560",
+      "id": "12264",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12264",
+      "value": 1
+    }
+  ]
+}

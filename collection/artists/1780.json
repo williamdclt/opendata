@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Plowman, Chris",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/chris-plowman-1780",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "clues",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/plowman-clues-p07260",
+      "id": "12131",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12131",
+      "value": 1
+    }
+  ]
+}

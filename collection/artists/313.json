@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Knight, John Baverstock",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-baverstock-knight-313",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "axbridge vale",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02733_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/knight-axbridge-vale-n02733",
+      "id": "8158",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tievebulliagh from knocknacarry",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02734_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/knight-tievebulliagh-from-knocknacarry-n02734",
+      "id": "8159",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "staffa",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09576_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/knight-staffa-t09576",
+      "id": "23108",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8158",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8159",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23108",
+      "value": 1
+    }
+  ]
+}

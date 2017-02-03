@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Southall, Derek",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/derek-southall-1969",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "2 hwp 2 al\u2019entrada del temps clar",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01562_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/southall-2-hwp-2-alentrada-del-temps-clar-t01562",
+      "id": "13654",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13654",
+      "value": 1
+    }
+  ]
+}

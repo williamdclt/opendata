@@ -1,0 +1,267 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Cruzvillegas, Abraham",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/abraham-cruzvillegas-13142",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "ac1",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13765_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cruzvillegas-ac1-t13765",
+      "id": "106713",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ac2",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13766_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cruzvillegas-ac2-t13766",
+      "id": "106714",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ac3",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13767_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cruzvillegas-ac3-t13767",
+      "id": "106715",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ac4",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13768_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cruzvillegas-ac4-t13768",
+      "id": "106716",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ac5",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13769_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cruzvillegas-ac5-t13769",
+      "id": "106717",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ac6",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13770_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cruzvillegas-ac6-t13770",
+      "id": "106718",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ac8",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13771_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cruzvillegas-ac8-t13771",
+      "id": "106719",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ac9",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13772_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cruzvillegas-ac9-t13772",
+      "id": "106720",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ac11",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13773_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cruzvillegas-ac11-t13773",
+      "id": "106721",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ac: shit models",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13774_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cruzvillegas-ac-shit-models-t13774",
+      "id": "106722",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ac: the museum of ac",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13775_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cruzvillegas-ac-the-museum-of-ac-t13775",
+      "id": "106723",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ac: blind dates 1",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cruzvillegas-ac-blind-dates-1-t13776",
+      "id": "106724",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ac: blind dates 2",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cruzvillegas-ac-blind-dates-2-t13777",
+      "id": "106725",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ac: blind dates 4",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cruzvillegas-ac-blind-dates-4-t13778",
+      "id": "106727",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ac: blind self portrait: glasgow-cove park",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13779_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cruzvillegas-ac-blind-self-portrait-glasgow-cove-park-t13779",
+      "id": "106728",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ac7",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13780_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cruzvillegas-ac7-t13780",
+      "id": "106943",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ac10",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13781_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cruzvillegas-ac10-t13781",
+      "id": "106944",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ac: blind dates 3",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cruzvillegas-ac-blind-dates-3-t13782",
+      "id": "106726",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "106713",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106714",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106715",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106716",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106717",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106718",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106719",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106720",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106721",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106722",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106723",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106724",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106725",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106727",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106728",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106943",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106944",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106726",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hore, Somnath",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/somnath-hore-17201",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "unnumbered",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hore-unnumbered-p80262",
+      "id": "125929",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wounds - 41",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hore-wounds-41-p80263",
+      "id": "125930",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wounds - 37",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hore-wounds-37-p80264",
+      "id": "125932",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wounds - 42",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hore-wounds-42-p80265",
+      "id": "125933",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "125929",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "125930",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "125932",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "125933",
+      "value": 1
+    }
+  ]
+}

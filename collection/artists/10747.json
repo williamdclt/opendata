@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Irvine, Jaki",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/jaki-irvine-10747",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "star",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/irvine-star-t13306",
+      "id": "94188",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sweet tooth",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/irvine-sweet-tooth-t13307",
+      "id": "94189",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "94188",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "94189",
+      "value": 1
+    }
+  ]
+}

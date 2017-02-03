@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Saint Phalle, Niki de",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/niki-de-saint-phalle-1890",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "shooting picture",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03824_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/saint-phalle-shooting-picture-t03824",
+      "id": "13063",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13063",
+      "value": 1
+    }
+  ]
+}

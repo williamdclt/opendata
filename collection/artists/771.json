@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Boccioni, Umberto",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/umberto-boccioni-771",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "unique forms of continuity in space",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01589_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boccioni-unique-forms-of-continuity-in-space-t01589",
+      "id": "1208",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1208",
+      "value": 1
+    }
+  ]
+}

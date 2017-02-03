@@ -1,0 +1,211 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Michell, Keith",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/keith-michell-1629",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "henry viii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/michell-henry-viii-p04590",
+      "id": "9468",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "i \u2018what is your substance, whereof are you made\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/michell-i-what-is-your-substance-whereof-are-you-made-p06664",
+      "id": "9469",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ii \u2018not marble, nor the gilded monuments\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/michell-ii-not-marble-nor-the-gilded-monuments-p06665",
+      "id": "9470",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "iii \u2018when i consider everything that grows\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/michell-iii-when-i-consider-everything-that-grows-p06666",
+      "id": "9471",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "iv \u2018mine eye hath play\u2019d the painter and hath ...\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/michell-iv-mine-eye-hath-playd-the-painter-and-hath-p06667",
+      "id": "9472",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "v \u2018when in disgrace with fortune and men\u2019s eyes\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/michell-v-when-in-disgrace-with-fortune-and-mens-eyes-p06668",
+      "id": "9473",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vi \u2018how heavy do i journey on the way\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/michell-vi-how-heavy-do-i-journey-on-the-way-p06669",
+      "id": "9474",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vii \u2018since i have left you, mine eye is in my mind\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/michell-vii-since-i-have-left-you-mine-eye-is-in-my-mind-p06670",
+      "id": "9475",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "viii \u2018shall i compare thee to a summer\u2019s day\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/michell-viii-shall-i-compare-thee-to-a-summers-day-p06671",
+      "id": "9476",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ix \u2018look in thy glass and tell the face thou knewest\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/michell-ix-look-in-thy-glass-and-tell-the-face-thou-knewest-p06672",
+      "id": "9477",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "x \u2018my mistress\u2019s eyes are nothing like the sun\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/michell-x-my-mistresss-eyes-are-nothing-like-the-sun-p06673",
+      "id": "9478",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "xi \u2018two loves i have, of comfort and despair\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/michell-xi-two-loves-i-have-of-comfort-and-despair-p06674",
+      "id": "9479",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "xii \u2018poor soul, the centre of my sinful earth\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/michell-xii-poor-soul-the-centre-of-my-sinful-earth-p06675",
+      "id": "9480",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "metamorphosis",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/michell-metamorphosis-p06739",
+      "id": "9481",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9468",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9469",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9470",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9471",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9472",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9473",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9474",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9475",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9476",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9477",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9478",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9479",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9480",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9481",
+      "value": 1
+    }
+  ]
+}

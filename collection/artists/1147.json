@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Geden, Dennis",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/dennis-geden-1147",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "1. star juggler",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/geden-1-star-juggler-p06634",
+      "id": "5058",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "5. thumb tiddler",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/geden-5-thumb-tiddler-p06635",
+      "id": "5059",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "3. crow messenger",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/geden-3-crow-messenger-p06727",
+      "id": "5060",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "2. still life and 3. quiet horse",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/geden-2-still-life-and-3-quiet-horse-p06728",
+      "id": "5061",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5058",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5059",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5060",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5061",
+      "value": 1
+    }
+  ]
+}

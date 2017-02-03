@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Stael, Nicolas de",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/nicolas-de-stael-1982",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "marathon",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00136_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stael-marathon-t00136",
+      "id": "13742",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape study",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00607_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stael-landscape-study-t00607",
+      "id": "13743",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "composition 1950",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03084_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stael-composition-1950-t03084",
+      "id": "13744",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13742",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13743",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13744",
+      "value": 1
+    }
+  ]
+}

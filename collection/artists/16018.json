@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Ojeikere, J.D. Okhai",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/jd-okhai-ojeikere-16018",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled (roundabout)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ojeikere-untitled-roundabout-p80250",
+      "id": "120558",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (suku sinero/kiko)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ojeikere-untitled-suku-sinerokiko-p80251",
+      "id": "120562",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (onile gogoro or akaba)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ojeikere-untitled-onile-gogoro-or-akaba-p80252",
+      "id": "120563",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (star koroba)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ojeikere-untitled-star-koroba-p80253",
+      "id": "120565",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (udoji)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ojeikere-untitled-udoji-p80254",
+      "id": "120566",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (mkpuk eba)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ojeikere-untitled-mkpuk-eba-p80255",
+      "id": "120567",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (abebe)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ojeikere-untitled-abebe-p80256",
+      "id": "120568",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (agaracha)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ojeikere-untitled-agaracha-p80257",
+      "id": "120569",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "120558",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "120562",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "120563",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "120565",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "120566",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "120567",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "120568",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "120569",
+      "value": 1
+    }
+  ]
+}

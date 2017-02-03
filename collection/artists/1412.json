@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "King, Ronald",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/ronald-king-1412",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "iii the squire [from the book \u2018the prologue\u2019]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/king-iii-the-squire-from-the-book-the-prologue-p08177",
+      "id": "7964",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "7964",
+      "value": 1
+    }
+  ]
+}

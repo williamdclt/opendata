@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Bloch, Martin",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/martin-bloch-769",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the mississippi at minneapolis",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06235_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bloch-the-mississippi-at-minneapolis-n06235",
+      "id": "1202",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "casa rigo, lake garda ii",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00435_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bloch-casa-rigo-lake-garda-ii-t00435",
+      "id": "1203",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sleeping nude - torso",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00455_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bloch-sleeping-nude-torso-t00455",
+      "id": "1204",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "afternoon in bangor",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00883_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bloch-afternoon-in-bangor-t00883",
+      "id": "1205",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1202",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1203",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1204",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1205",
+      "value": 1
+    }
+  ]
+}

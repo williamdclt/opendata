@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Self, Colin",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/colin-self-1922",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "power and beauty no. 7",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07744_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/self-power-and-beauty-no-7-p07744",
+      "id": "13290",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "power and beauty no. 6",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07745_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/self-power-and-beauty-no-6-p07745",
+      "id": "13291",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "power and beauty no. 3",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/self-power-and-beauty-no-3-p07746",
+      "id": "13292",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bomber no. 1",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07747_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/self-bomber-no-1-p07747",
+      "id": "13293",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lonewolf",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07748_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/self-lonewolf-p07748",
+      "id": "13294",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "margaret in a chair",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07941_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/self-margaret-in-a-chair-p07941",
+      "id": "13295",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "monument",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07942_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/self-monument-p07942",
+      "id": "13296",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pluto",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07943_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/self-pluto-p07943",
+      "id": "13297",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "out of focus objects and flowers",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07944_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/self-out-of-focus-objects-and-flowers-p07944",
+      "id": "13298",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "picasso\u2019s guernica and the nazis",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07945_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/self-picassos-guernica-and-the-nazis-p07945",
+      "id": "13299",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a letter to christopher logue",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07946_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/self-a-letter-to-christopher-logue-p07946",
+      "id": "13300",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "christmas day",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20154_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/self-christmas-day-p20154",
+      "id": "21269",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "changing hands",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20164_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/self-changing-hands-p20164",
+      "id": "21536",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "big heart",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/self-big-heart-p20216",
+      "id": "66760",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dollar",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/self-dollar-p20217",
+      "id": "66761",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "euro",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/self-euro-p20218",
+      "id": "66762",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nuclear bomber",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20219_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/self-nuclear-bomber-p20219",
+      "id": "66763",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stealth bomber",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/self-stealth-bomber-p20220",
+      "id": "66764",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "norwich being bombed, 1942",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20228_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/self-norwich-being-bombed-1942-p20228",
+      "id": "70999",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "prelude",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77696_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/self-prelude-p77696",
+      "id": "21160",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "power and beauty no. 1",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77697_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/self-power-and-beauty-no-1-p77697",
+      "id": "21161",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "power and beauty no. 2",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77698_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/self-power-and-beauty-no-2-p77698",
+      "id": "21162",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "power and beauty no. 4",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77699_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/self-power-and-beauty-no-4-p77699",
+      "id": "21163",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "power and beauty no. 5",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77700_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/self-power-and-beauty-no-5-p77700",
+      "id": "21164",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "power and beauty no. 6",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77701_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/self-power-and-beauty-no-6-p77701",
+      "id": "21165",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "power and beauty no. 9",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77702_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/self-power-and-beauty-no-9-p77702",
+      "id": "21166",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "goodbye 1980s",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77726_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/self-goodbye-1980s-p77726",
+      "id": "21204",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blackbird i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78236_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/self-blackbird-i-p78236",
+      "id": "26502",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blackbird ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78237_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/self-blackbird-ii-p78237",
+      "id": "26513",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shoe trees",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78238_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/self-shoe-trees-p78238",
+      "id": "26514",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spaghetti",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78239_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/self-spaghetti-p78239",
+      "id": "26515",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "willow",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78240_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/self-willow-p78240",
+      "id": "26516",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sand",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78241_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/self-sand-p78241",
+      "id": "26517",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nude",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78242_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/self-nude-p78242",
+      "id": "26518",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nude triptych",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/self-nude-triptych-p78243",
+      "id": "26519",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "grain",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78244_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/self-grain-p78244",
+      "id": "26520",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "galloway days",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/self-galloway-days-p78558",
+      "id": "66765",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the ploughman",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/self-the-ploughman-p78559",
+      "id": "66766",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "corvette engine and model",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/self-corvette-engine-and-model-t01580",
+      "id": "13301",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "guard dog on a missile base, no. 1",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01850_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/self-guard-dog-on-a-missile-base-no-1-t01850",
+      "id": "13302",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13290",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13291",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13292",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13293",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13294",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13295",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13296",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13297",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13298",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13299",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13300",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21269",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21536",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66760",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66761",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66762",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66763",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66764",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "70999",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21160",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21161",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21162",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21163",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21164",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21165",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21166",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21204",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26502",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26513",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26514",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26515",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26516",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26517",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26518",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26519",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26520",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66765",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66766",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13301",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13302",
+      "value": 1
+    }
+  ]
+}

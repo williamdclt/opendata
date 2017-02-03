@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Acconci, Vito",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/vito-acconci-623",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "3 flags for 1 space and 6 regions",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07639_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/acconci-3-flags-for-1-space-and-6-regions-p07639",
+      "id": "427",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "room situation",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11775_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/acconci-room-situation-p11775",
+      "id": "27383",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "overall show",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/acconci-overall-show-t13175",
+      "id": "103780",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seedbed",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/acconci-seedbed-t13176",
+      "id": "103781",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "supply room",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/acconci-supply-room-t13177",
+      "id": "103782",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "transference zone",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/acconci-transference-zone-t13178",
+      "id": "103783",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "427",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27383",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "103780",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "103781",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "103782",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "103783",
+      "value": 1
+    }
+  ]
+}

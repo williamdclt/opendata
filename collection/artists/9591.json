@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Pascali, Pino",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/pino-pascali-9591",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "trap",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pascali-trap-t12982",
+      "id": "90257",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "90257",
+      "value": 1
+    }
+  ]
+}

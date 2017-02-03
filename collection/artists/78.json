@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Callcott, Sir Augustus Wall",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-augustus-wall-callcott-78",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "returning from market",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00340_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callcott-returning-from-market-n00340",
+      "id": "1903",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dutch coast scene",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00341_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callcott-dutch-coast-scene-n00341",
+      "id": "1904",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dutch landscape with cattle",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00342_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callcott-dutch-landscape-with-cattle-n00342",
+      "id": "1905",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wooden bridge",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00343_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callcott-wooden-bridge-n00343",
+      "id": "1906",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018the benighted traveller\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00344_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callcott-sketch-for-the-benighted-traveller-n00344",
+      "id": "1907",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "littlehampton pier",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00345_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callcott-littlehampton-pier-n00345",
+      "id": "1908",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "entrance to pisa from leghorn",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00346_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callcott-entrance-to-pisa-from-leghorn-n00346",
+      "id": "1909",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dutch peasants waiting the return of the passage boat",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00347_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callcott-dutch-peasants-waiting-the-return-of-the-passage-boat-n00347",
+      "id": "1910",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the shore at scheveningen (after willem van de velde)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00348_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callcott-the-shore-at-scheveningen-after-willem-van-de-velde-n00348",
+      "id": "1911",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sheerness and the isle of sheppey (after j.m.w. turner)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00813_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callcott-sheerness-and-the-isle-of-sheppey-after-jmw-turner-n00813",
+      "id": "1912",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fishing on the mere",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callcott-fishing-on-the-mere-n01841",
+      "id": "1913",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a road leading to a village",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05470_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callcott-a-road-leading-to-a-village-t05470",
+      "id": "17250",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "italian landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08747_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callcott-italian-landscape-t08747",
+      "id": "22379",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figures on a quay, in france",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08752_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callcott-figures-on-a-quay-in-france-t08752",
+      "id": "22380",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "group of figures on a river bank",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08753_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callcott-group-of-figures-on-a-river-bank-t08753",
+      "id": "22381",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "staines",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08835_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callcott-staines-t08835",
+      "id": "22384",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape: a man under a tree by a stream",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09551_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callcott-landscape-a-man-under-a-tree-by-a-stream-t09551",
+      "id": "22383",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vezzano: mules embarking on a ferry boat",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09552_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callcott-vezzano-mules-embarking-on-a-ferry-boat-t09552",
+      "id": "22385",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape with trees and hill",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09553_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callcott-landscape-with-trees-and-hill-t09553",
+      "id": "22386",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09626_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callcott-title-not-known-t09626",
+      "id": "22382",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09627_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callcott-title-not-known-t09627",
+      "id": "24471",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09628_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callcott-title-not-known-t09628",
+      "id": "24472",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09629_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callcott-title-not-known-t09629",
+      "id": "24473",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09630_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callcott-title-not-known-t09630",
+      "id": "24474",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09631_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callcott-title-not-known-t09631",
+      "id": "24475",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09632_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callcott-title-not-known-t09632",
+      "id": "24476",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09633_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callcott-title-not-known-t09633",
+      "id": "24477",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09634_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callcott-title-not-known-t09634",
+      "id": "24478",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09635_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callcott-title-not-known-t09635",
+      "id": "24479",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09636_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callcott-title-not-known-t09636",
+      "id": "24480",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09637_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callcott-title-not-known-t09637",
+      "id": "24481",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09638_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callcott-title-not-known-t09638",
+      "id": "24482",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09639_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callcott-title-not-known-t09639",
+      "id": "24483",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known] verso: tracing of image on recto",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09640_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callcott-title-not-known-verso-tracing-of-image-on-recto-t09640",
+      "id": "24484",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09641_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callcott-title-not-known-t09641",
+      "id": "24485",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09642_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callcott-title-not-known-t09642",
+      "id": "24486",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09643_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callcott-title-not-known-t09643",
+      "id": "24487",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09644_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callcott-title-not-known-t09644",
+      "id": "24488",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09645_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callcott-title-not-known-t09645",
+      "id": "24489",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09646_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/callcott-title-not-known-t09646",
+      "id": "24490",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1903",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1904",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1905",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1906",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1907",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1908",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1909",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1910",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1911",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1912",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1913",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17250",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22379",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22380",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22381",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22384",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22383",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22385",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22386",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22382",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24471",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24472",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24473",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24474",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24475",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24476",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24477",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24478",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24479",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24480",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24481",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24482",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24483",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24484",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24485",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24486",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24487",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24488",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24489",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24490",
+      "value": 1
+    }
+  ]
+}

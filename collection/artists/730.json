@@ -1,0 +1,225 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Bell, Trevor",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/trevor-bell-730",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "five stages",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06032_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bell-five-stages-p06032",
+      "id": "897",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "overcast",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00479_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bell-overcast-t00479",
+      "id": "898",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "forces",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bell-forces-t13393",
+      "id": "118629",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the one from many",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13394_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bell-the-one-from-many-t13394",
+      "id": "118515",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "extreme values",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13395_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bell-extreme-values-t13395",
+      "id": "118517",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "calshot",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13396_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bell-calshot-t13396",
+      "id": "118519",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dust image",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13397_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bell-dust-image-t13397",
+      "id": "118529",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "erosion with a corner",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13398_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bell-erosion-with-a-corner-t13398",
+      "id": "118533",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tall seven",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bell-tall-seven-t13399",
+      "id": "118528",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "place",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13400_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bell-place-t13400",
+      "id": "118532",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "image",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13401_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bell-image-t13401",
+      "id": "118534",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "folded strata",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13402_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bell-folded-strata-t13402",
+      "id": "118561",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "looking",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13403_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bell-looking-t13403",
+      "id": "118562",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "centre",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13404_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bell-centre-t13404",
+      "id": "118563",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "beached",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13405_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bell-beached-t13405",
+      "id": "118564",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "897",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "898",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118629",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118515",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118517",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118519",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118529",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118533",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118528",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118532",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118534",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118561",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118562",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118563",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118564",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Leonard, Zoe",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/zoe-leonard-4828",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled (for barb)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79206_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leonard-untitled-for-barb-p79206",
+      "id": "88178",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "detail (tree + fence)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79207_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leonard-detail-tree-fence-p79207",
+      "id": "88179",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tree + fence, 6th st. (close-up)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79208_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leonard-tree-fence-6th-st-close-up-p79208",
+      "id": "88180",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wax anatomical model (shot crooked from above)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79209_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leonard-wax-anatomical-model-shot-crooked-from-above-p79209",
+      "id": "88181",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "carnivores",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79210_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leonard-carnivores-p79210",
+      "id": "88182",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "88178",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88179",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88180",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88181",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88182",
+      "value": 1
+    }
+  ]
+}

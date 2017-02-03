@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Cohen, Harold",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/harold-cohen-925",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02283_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-no-title-p02283",
+      "id": "2383",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02284_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-no-title-p02284",
+      "id": "2384",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02285_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-no-title-p02285",
+      "id": "2385",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02286_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-no-title-p02286",
+      "id": "2386",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02287_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-no-title-p02287",
+      "id": "2387",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02288_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-no-title-p02288",
+      "id": "2388",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02289_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-no-title-p02289",
+      "id": "2389",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02290_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-no-title-p02290",
+      "id": "2390",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02291_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-no-title-p02291",
+      "id": "2391",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02292_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-untitled-p02292",
+      "id": "2392",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02293_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-untitled-p02293",
+      "id": "2393",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02294_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-untitled-p02294",
+      "id": "2394",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02295_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-untitled-p02295",
+      "id": "2395",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04125_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-untitled-p04125",
+      "id": "2396",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "first folio a",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04126_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-first-folio-a-p04126",
+      "id": "2397",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "first folio b",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04127_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-first-folio-b-p04127",
+      "id": "2398",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "first folio c",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04128_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-first-folio-c-p04128",
+      "id": "2399",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "first folio d",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04129_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-first-folio-d-p04129",
+      "id": "2400",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "first folio e",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04130_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-first-folio-e-p04130",
+      "id": "2401",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "first folio f",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04131_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-first-folio-f-p04131",
+      "id": "2402",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "first folio g",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04132_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-first-folio-g-p04132",
+      "id": "2403",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "derrynan i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04133_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-derrynan-i-p04133",
+      "id": "2404",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "derrynan ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04134_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-derrynan-ii-p04134",
+      "id": "2405",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "derrynan iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04135_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-derrynan-iii-p04135",
+      "id": "2406",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "derrynan iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04136_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-derrynan-iii-p04136",
+      "id": "2407",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "derrynan iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04137_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-derrynan-iii-p04137",
+      "id": "2408",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "derrynan iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04138_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-derrynan-iii-p04138",
+      "id": "2409",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "derrynan iv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04139_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-derrynan-iv-p04139",
+      "id": "2410",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "derrynan iv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04140_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-derrynan-iv-p04140",
+      "id": "2411",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "derrynan iv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04141_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-derrynan-iv-p04141",
+      "id": "2412",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "derrynan v",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04142_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-derrynan-v-p04142",
+      "id": "2413",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "richard h",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04143_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-richard-h-p04143",
+      "id": "2414",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "richard i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04144_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-richard-i-p04144",
+      "id": "2415",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "richard ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04145_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-richard-ii-p04145",
+      "id": "2416",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "richard iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04146_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-richard-iii-p04146",
+      "id": "2417",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "richard iv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04147_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-richard-iv-p04147",
+      "id": "2418",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "richard v",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04148_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-richard-v-p04148",
+      "id": "2419",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "richard vi",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04149_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-richard-vi-p04149",
+      "id": "2420",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "richard vii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04150_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-richard-vii-p04150",
+      "id": "2421",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04151_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cohen-untitled-p04151",
+      "id": "2422",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2383",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2384",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2385",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2386",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2387",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2388",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2389",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2390",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2391",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2392",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2393",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2394",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2395",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2396",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2397",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2398",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2399",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2400",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2401",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2402",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2403",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2404",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2405",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2406",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2407",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2408",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2409",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2410",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2411",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2412",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2413",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2414",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2415",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2416",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2417",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2418",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2419",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2420",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2421",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2422",
+      "value": 1
+    }
+  ]
+}

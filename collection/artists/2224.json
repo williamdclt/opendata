@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Evans, Sebastian",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sebastian-evans-2224",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "allegorical subject: the unfaithful poet",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05475_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/evans-allegorical-subject-the-unfaithful-poet-t05475",
+      "id": "17255",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "17255",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Takamatsu, Jiro",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/jiro-takamatsu-15501",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "photograph of photograph",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/takamatsu-photograph-of-photograph-p80216",
+      "id": "117232",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "photograph of photograph",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/takamatsu-photograph-of-photograph-p80217",
+      "id": "117233",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "photograph of photograph",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/takamatsu-photograph-of-photograph-p80218",
+      "id": "117235",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "photograph of photograph",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/takamatsu-photograph-of-photograph-p80219",
+      "id": "117236",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "photograph of photograph",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/takamatsu-photograph-of-photograph-p80220",
+      "id": "117237",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "photograph of photograph",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/takamatsu-photograph-of-photograph-p80221",
+      "id": "117238",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "photograph of photograph",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/takamatsu-photograph-of-photograph-p80222",
+      "id": "117239",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "photograph of photograph",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/takamatsu-photograph-of-photograph-p80223",
+      "id": "117240",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "photograph of photograph",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/takamatsu-photograph-of-photograph-p80224",
+      "id": "117241",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "photograph of photograph",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/takamatsu-photograph-of-photograph-p80266",
+      "id": "117234",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "oneness of cedar",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/takamatsu-oneness-of-cedar-t13498",
+      "id": "117229",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "oneness of concrete",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13499_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/takamatsu-oneness-of-concrete-t13499",
+      "id": "117230",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shadow",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/takamatsu-shadow-t13500",
+      "id": "117815",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shadow",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/takamatsu-shadow-t13501",
+      "id": "117816",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shadow",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/takamatsu-shadow-t13502",
+      "id": "117817",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shadow",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/takamatsu-shadow-t13503",
+      "id": "117818",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shadow",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/takamatsu-shadow-t13504",
+      "id": "117820",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shadow",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/takamatsu-shadow-t13505",
+      "id": "117821",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "perspective",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/takamatsu-perspective-t13506",
+      "id": "117822",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "perspective",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/takamatsu-perspective-t13507",
+      "id": "117823",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "perspective",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/takamatsu-perspective-t13508",
+      "id": "117824",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "perspective",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/takamatsu-perspective-t13509",
+      "id": "117825",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "oneness of wood",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/takamatsu-oneness-of-wood-t13510",
+      "id": "117826",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "oneness of wood",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/takamatsu-oneness-of-wood-t13511",
+      "id": "117827",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "oneness of wood",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/takamatsu-oneness-of-wood-t13512",
+      "id": "117828",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "oneness of wood",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/takamatsu-oneness-of-wood-t13513",
+      "id": "117829",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "oneness of postcard",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/takamatsu-oneness-of-postcard-t13514",
+      "id": "117830",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "oneness of paper",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/takamatsu-oneness-of-paper-t13515",
+      "id": "117833",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "eraser",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/takamatsu-eraser-t13516",
+      "id": "117834",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rubbing",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/takamatsu-rubbing-t13517",
+      "id": "117835",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "in the form of square",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/takamatsu-in-the-form-of-square-t13518",
+      "id": "117836",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "in the form of square",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/takamatsu-in-the-form-of-square-t13519",
+      "id": "117837",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "in the form of square",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/takamatsu-in-the-form-of-square-t13520",
+      "id": "117838",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "book designs \u201cink\u201d",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/takamatsu-book-designs-ink-t13521",
+      "id": "117839",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "book designs \u201cink\u201d",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/takamatsu-book-designs-ink-t13522",
+      "id": "117840",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "scribbling out...",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/takamatsu-scribbling-out-t13523",
+      "id": "117841",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "scribbling out...",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/takamatsu-scribbling-out-t13524",
+      "id": "117842",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "book designs \u201cscribbled drawing\u201d",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/takamatsu-book-designs-scribbled-drawing-t13525",
+      "id": "117843",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "book designs \u201cscribbled drawing\u201d",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/takamatsu-book-designs-scribbled-drawing-t13526",
+      "id": "117844",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "book designs \u201cscribbled drawing\u201d",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/takamatsu-book-designs-scribbled-drawing-t13527",
+      "id": "117845",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "117232",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117233",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117235",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117236",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117237",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117238",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117239",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117240",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117241",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117234",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117229",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117230",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117815",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117816",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117817",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117818",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117820",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117821",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117822",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117823",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117824",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117825",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117826",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117827",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117828",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117829",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117830",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117833",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117834",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117835",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117836",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117837",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117838",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117839",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117840",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117841",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117842",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117843",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117844",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117845",
+      "value": 1
+    }
+  ]
+}

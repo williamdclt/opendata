@@ -1,0 +1,337 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "British School 17th century",
+      "url": null,
+      "gender": "",
+      "tatelink": "http://www.tate.org.uk/art/artists/british-school-17th-century-57",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a lady of the horton family",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02878_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-17th-century-a-lady-of-the-horton-family-n02878",
+      "id": "1499",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of a man",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03546_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-17th-century-portrait-of-a-man-n03546",
+      "id": "819",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the cholmondeley ladies",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00069_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-17th-century-the-cholmondeley-ladies-t00069",
+      "id": "1500",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of william style of langley",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02308_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-17th-century-portrait-of-william-style-of-langley-t02308",
+      "id": "1501",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of sir thomas pope, later 3rd earl of downe",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03029_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-17th-century-portrait-of-sir-thomas-pope-later-3rd-earl-of-downe-t03029",
+      "id": "1502",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gertrude sadler, lady aston",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03030_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-17th-century-gertrude-sadler-lady-aston-t03030",
+      "id": "5138",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of a lady, called elizabeth, lady tanfield",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03031_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-17th-century-portrait-of-a-lady-called-elizabeth-lady-tanfield-t03031",
+      "id": "1503",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of anne wortley, later lady morton",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03033_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-17th-century-portrait-of-anne-wortley-later-lady-morton-t03033",
+      "id": "15697",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of richard colman",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07113_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-17th-century-greenhill-portrait-of-richard-colman-t07113",
+      "id": "21683",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of robert colman",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07240_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-17th-century-beale-portrait-of-robert-colman-t07240",
+      "id": "22049",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of a lady, head and shoulders, facing three quarters to left",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08260_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-17th-century-portrait-of-a-lady-head-and-shoulders-facing-three-quarters-to-t08260",
+      "id": "24053",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "title page vignette: the comedies of plautus",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09479_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-17th-century-title-page-vignette-the-comedies-of-plautus-t09479",
+      "id": "24062",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a sea port",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09488_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-17th-century-a-sea-port-t09488",
+      "id": "24064",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a pump",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10150_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-17th-century-study-of-a-pump-t10150",
+      "id": "24055",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hounds killing a fox",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10151_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-17th-century-hounds-killing-a-fox-t10151",
+      "id": "24057",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a man seated at a long desk or easel, another standing",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10152_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-17th-century-a-man-seated-at-a-long-desk-or-easel-another-standing-t10152",
+      "id": "24059",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape with a church",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10153_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-17th-century-landscape-with-a-church-t10153",
+      "id": "24060",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a man at a window; a child; another figure",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10154_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-17th-century-a-man-at-a-window-a-child-another-figure-t10154",
+      "id": "24061",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "studies of men smoking",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10262_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-17th-century-studies-of-men-smoking-t10262",
+      "id": "24056",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a rider, a woman and child",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10263_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-17th-century-a-rider-a-woman-and-child-t10263",
+      "id": "24058",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "decapitation of st john",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10326_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-17th-century-decapitation-of-st-john-t10326",
+      "id": "24054",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a ruin",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10340_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-17th-century-a-ruin-t10340",
+      "id": "24065",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "branches and foliage",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10361_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/british-school-17th-century-branches-and-foliage-t10361",
+      "id": "24063",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1499",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "819",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1500",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1501",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1502",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5138",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1503",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15697",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21683",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22049",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24053",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24062",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24064",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24055",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24057",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24059",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24060",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24061",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24056",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24058",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24054",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24065",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24063",
+      "value": 1
+    }
+  ]
+}

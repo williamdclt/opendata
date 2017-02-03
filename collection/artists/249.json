@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Henderson, Charles Cooper",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/charles-cooper-henderson-249",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "changing horses to a post-chaise outside the \u2018george\u2019 posting-house",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02360_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/henderson-changing-horses-to-a-post-chaise-outside-the-george-posting-house-t02360",
+      "id": "5946",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sportsmen in scottish dress driving to the moors",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03428_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/henderson-sportsmen-in-scottish-dress-driving-to-the-moors-t03428",
+      "id": "5947",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mail coach in a snowstorm",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03429_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/henderson-mail-coach-in-a-snowstorm-t03429",
+      "id": "5948",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5946",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5947",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5948",
+      "value": 1
+    }
+  ]
+}

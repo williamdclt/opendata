@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Vasarely, Victor",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/victor-vasarely-2095",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08220_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/vasarely-untitled-p08220",
+      "id": "17243",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08221_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/vasarely-untitled-p08221",
+      "id": "17244",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nives ii",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00461_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/vasarely-nives-ii-t00461",
+      "id": "15710",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "supernovae",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00676_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/vasarely-supernovae-t00676",
+      "id": "15711",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "banya",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00753_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/vasarely-banya-t00753",
+      "id": "15712",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "17243",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17244",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15710",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15711",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15712",
+      "value": 1
+    }
+  ]
+}

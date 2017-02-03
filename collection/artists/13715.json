@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Moore, Gareth",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/gareth-moore-13715",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "neither here nor there",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-neither-here-nor-there-t13150",
+      "id": "109158",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "109158",
+      "value": 1
+    }
+  ]
+}

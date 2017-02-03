@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Varley, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-varley-569",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "dunstanborough castle",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01737_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/varley-dunstanborough-castle-n01737",
+      "id": "15709",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sea-piece with fishing boats in a calm",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01738_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/varley-sea-piece-with-fishing-boats-in-a-calm-n01738",
+      "id": "15705",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "near duncombe park, yorkshire",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04316_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/varley-near-duncombe-park-yorkshire-n04316",
+      "id": "15706",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "holy island castle",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04317_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/varley-holy-island-castle-n04317",
+      "id": "15707",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of bodenham and the malvern hills, herefordshire",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01024_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/varley-view-of-bodenham-and-the-malvern-hills-herefordshire-t01024",
+      "id": "15708",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "classical landscape composition",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05483_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/varley-classical-landscape-composition-t05483",
+      "id": "17263",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "suburbs of an ancient city",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05764_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/varley-suburbs-of-an-ancient-city-t05764",
+      "id": "19106",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "interior of a vaulted chamber, kirkstall abbey, engraved by j. greig",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06445_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/varley-interior-of-a-vaulted-chamber-kirkstall-abbey-engraved-by-j-greig-t06445",
+      "id": "20117",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "preliminary sketch for plate 3 of \u2018treatise on zodiacal physiognomy\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06494_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/varley-preliminary-sketch-for-plate-3-of-treatise-on-zodiacal-physiognomy-t06494",
+      "id": "20253",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "preliminary sketch for plate 4 of \u2018treatise on zodiacal physiognomy\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06495_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/varley-preliminary-sketch-for-plate-4-of-treatise-on-zodiacal-physiognomy-t06495",
+      "id": "20269",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018treatise on zodiacal physiognomy\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07246_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/varley-sketch-for-treatise-on-zodiacal-physiognomy-t07246",
+      "id": "22052",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018treatise on zodiacal physiognomy\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07247_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/varley-sketch-for-treatise-on-zodiacal-physiognomy-t07247",
+      "id": "22076",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018treatise on zodiacal physiognomy\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07248_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/varley-sketch-for-treatise-on-zodiacal-physiognomy-t07248",
+      "id": "22075",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018treatise on zodiacal physiognomy\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07249_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/varley-sketch-for-treatise-on-zodiacal-physiognomy-t07249",
+      "id": "22074",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018treatise on zodiacal physiognomy\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07250_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/varley-sketch-for-treatise-on-zodiacal-physiognomy-t07250",
+      "id": "22073",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018treatise on zodiacal physiognomy\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07251_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/varley-sketch-for-treatise-on-zodiacal-physiognomy-t07251",
+      "id": "22072",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018treatise on zodiacal physiognomy\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07252_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/varley-sketch-for-treatise-on-zodiacal-physiognomy-t07252",
+      "id": "22071",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018treatise on zodiacal physiognomy\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07253_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/varley-sketch-for-treatise-on-zodiacal-physiognomy-t07253",
+      "id": "22070",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018treatise on zodiacal physiognomy\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07254_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/varley-sketch-for-treatise-on-zodiacal-physiognomy-t07254",
+      "id": "22069",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018treatise on zodiacal physiognomy\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07255_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/varley-sketch-for-treatise-on-zodiacal-physiognomy-t07255",
+      "id": "22068",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018treatise on zodiacal physiognomy\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07256_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/varley-sketch-for-treatise-on-zodiacal-physiognomy-t07256",
+      "id": "22067",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018treatise on zodiacal physiognomy\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/varley-sketch-for-treatise-on-zodiacal-physiognomy-t07257",
+      "id": "22066",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018treatise on zodiacal physiognomy\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07258_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/varley-sketch-for-treatise-on-zodiacal-physiognomy-t07258",
+      "id": "22065",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018treatise on zodiacal physiognomy\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07259_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/varley-sketch-for-treatise-on-zodiacal-physiognomy-t07259",
+      "id": "22064",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018treatise on zodiacal physiognomy\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07260_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/varley-sketch-for-treatise-on-zodiacal-physiognomy-t07260",
+      "id": "22063",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018treatise on zodiacal physiognomy\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07261_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/varley-sketch-for-treatise-on-zodiacal-physiognomy-t07261",
+      "id": "22062",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018treatise on zodiacal physiognomy\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07262_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/varley-sketch-for-treatise-on-zodiacal-physiognomy-t07262",
+      "id": "22061",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018treatise on zodiacal physiognomy\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07263_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/varley-sketch-for-treatise-on-zodiacal-physiognomy-t07263",
+      "id": "22060",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018treatise on zodiacal physiognomy\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07264_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/varley-sketch-for-treatise-on-zodiacal-physiognomy-t07264",
+      "id": "22059",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018treatise on zodiacal physiognomy\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07265_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/varley-sketch-for-treatise-on-zodiacal-physiognomy-t07265",
+      "id": "22058",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018treatise on zodiacal physiognomy\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07266_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/varley-sketch-for-treatise-on-zodiacal-physiognomy-t07266",
+      "id": "22057",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018treatise on zodiacal physiognomy\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07267_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/varley-sketch-for-treatise-on-zodiacal-physiognomy-t07267",
+      "id": "22056",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018treatise on zodiacal physiognomy\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07268_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/varley-sketch-for-treatise-on-zodiacal-physiognomy-t07268",
+      "id": "22055",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018treatise on zodiacal physiognomy\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07269_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/varley-sketch-for-treatise-on-zodiacal-physiognomy-t07269",
+      "id": "22054",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018treatise on zodiacal physiognomy\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07270_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/varley-sketch-for-treatise-on-zodiacal-physiognomy-t07270",
+      "id": "22053",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018treatise on zodiacal physiognomy\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07387_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/varley-sketch-for-treatise-on-zodiacal-physiognomy-t07387",
+      "id": "26102",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018treatise on zodiacal physiognomy\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07388_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/varley-sketch-for-treatise-on-zodiacal-physiognomy-t07388",
+      "id": "26103",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "composition: wide landscape with castle and distant hills",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08261_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/varley-composition-wide-landscape-with-castle-and-distant-hills-t08261",
+      "id": "23897",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "studies of peasant women, and a horseman. verso: similar studies",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08681_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/varley-studies-of-peasant-women-and-a-horseman-verso-similar-studies-t08681",
+      "id": "23907",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a woman, seated",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08682_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/varley-a-woman-seated-t08682",
+      "id": "23908",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "15709",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15705",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15706",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15707",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15708",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17263",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19106",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20117",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20253",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20269",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22052",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22076",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22075",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22074",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22073",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22072",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22071",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22070",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22069",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22068",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22067",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22066",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22065",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22064",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22063",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22062",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22061",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22060",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22059",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22058",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22057",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22056",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22055",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22054",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22053",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26102",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26103",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23897",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23907",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23908",
+      "value": 1
+    }
+  ]
+}

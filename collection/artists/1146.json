@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gear, William",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/william-gear-1146",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "trellis",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77163_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gear-trellis-p77163",
+      "id": "5047",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black tree",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77260_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gear-black-tree-p77260",
+      "id": "5860",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "interior",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00405_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gear-interior-t00405",
+      "id": "5048",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "feature in landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00406_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gear-feature-in-landscape-t00406",
+      "id": "5049",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape structure",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00469_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gear-landscape-structure-t00469",
+      "id": "5050",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "danse macabre",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gear-danse-macabre-t04995",
+      "id": "5051",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "composition",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05850_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gear-composition-t05850",
+      "id": "19384",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the sculptor",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05851_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gear-the-sculptor-t05851",
+      "id": "19385",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5047",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5860",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5048",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5049",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5050",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5051",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19384",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19385",
+      "value": 1
+    }
+  ]
+}

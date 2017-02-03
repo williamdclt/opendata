@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Clarke, Brian",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/brian-clarke-911",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the two cultures",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11062_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clarke-the-two-cultures-p11062",
+      "id": "2232",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "saturated system",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11063_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clarke-saturated-system-p11063",
+      "id": "2233",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "time lag zero",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11064_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clarke-time-lag-zero-p11064",
+      "id": "2234",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "boys ",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11065_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clarke-boys-p11065",
+      "id": "2235",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "buildings ",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11066_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clarke-buildings-p11066",
+      "id": "2236",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "beauties",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11067_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clarke-beauties-p11067",
+      "id": "2237",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pray for josquin ",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11068_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clarke-pray-for-josquin-p11068",
+      "id": "2238",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a la recherche",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11069_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clarke-a-la-recherche-p11069",
+      "id": "2239",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2232",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2233",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2234",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2235",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2236",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2237",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2238",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2239",
+      "value": 1
+    }
+  ]
+}

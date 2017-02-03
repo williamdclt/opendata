@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Turner, William, of Oxford",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/william-turner-of-oxford-559",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a water mill",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02977_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-a-water-mill-n02977",
+      "id": "15561",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "skating",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02978_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-skating-n02978",
+      "id": "15562",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "peasants outside an inn",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02979_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-peasants-outside-an-inn-n02979",
+      "id": "15563",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "classical landscape composition with two figures. sketching club",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10667_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/turner-classical-landscape-composition-with-two-figures-sketching-club-t10667",
+      "id": "23872",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "15561",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15562",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15563",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23872",
+      "value": 1
+    }
+  ]
+}

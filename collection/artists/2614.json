@@ -1,0 +1,365 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Chapman, Jake",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/jake-chapman-2614",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "double deathshead",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78079_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chapman-double-deathshead-p78079",
+      "id": "26115",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "exquisite corpse",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78455_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chapman-exquisite-corpse-p78455",
+      "id": "94",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "exquisite corpse",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78456_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chapman-exquisite-corpse-p78456",
+      "id": "95",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "exquisite corpse",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78457_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chapman-exquisite-corpse-p78457",
+      "id": "161",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "exquisite corpse",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78458_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chapman-exquisite-corpse-p78458",
+      "id": "166",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "exquisite corpse",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78459_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chapman-exquisite-corpse-p78459",
+      "id": "167",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "exquisite corpse",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78460_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chapman-exquisite-corpse-p78460",
+      "id": "168",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "exquisite corpse",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78461_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chapman-exquisite-corpse-p78461",
+      "id": "169",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "exquisite corpse",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78462_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chapman-exquisite-corpse-p78462",
+      "id": "170",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "exquisite corpse",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78463_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chapman-exquisite-corpse-p78463",
+      "id": "174",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "exquisite corpse",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78464_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chapman-exquisite-corpse-p78464",
+      "id": "175",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "exquisite corpse",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78465_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chapman-exquisite-corpse-p78465",
+      "id": "176",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "exquisite corpse",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78466_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chapman-exquisite-corpse-p78466",
+      "id": "177",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "exquisite corpse",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78467_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chapman-exquisite-corpse-p78467",
+      "id": "178",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "exquisite corpse",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78468_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chapman-exquisite-corpse-p78468",
+      "id": "179",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "exquisite corpse",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78469_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chapman-exquisite-corpse-p78469",
+      "id": "180",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "exquisite corpse",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78470_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chapman-exquisite-corpse-p78470",
+      "id": "181",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "exquisite corpse",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78471_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chapman-exquisite-corpse-p78471",
+      "id": "184",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "exquisite corpse",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78472_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chapman-exquisite-corpse-p78472",
+      "id": "185",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "exquisite corpse",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chapman-exquisite-corpse-p78473",
+      "id": "186",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "exquisite corpse",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chapman-exquisite-corpse-p78474",
+      "id": "187",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "little death machine (castrated)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07272_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chapman-little-death-machine-castrated-t07272",
+      "id": "22035",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "disasters of war",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07454_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chapman-disasters-of-war-t07454",
+      "id": "26398",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the chapman family collection",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12755_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chapman-the-chapman-family-collection-t12755",
+      "id": "89202",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bring me the head of",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chapman-bring-me-the-head-of-t13788",
+      "id": "27124",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "26115",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "94",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "161",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "166",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "167",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "168",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "169",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "170",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "174",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "175",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "176",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "177",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "178",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "179",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "180",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "181",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "184",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "185",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "186",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "187",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22035",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26398",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "89202",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27124",
+      "value": 1
+    }
+  ]
+}

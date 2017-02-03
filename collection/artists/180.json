@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Ferneley, John, I",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-ferneley-i-180",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the bay horse",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05429_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferneley-the-bay-horse-n05429",
+      "id": "4264",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "john burgess of clipstone, nottinghamshire, on a favourite horse, with his harriers",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03423_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferneley-john-burgess-of-clipstone-nottinghamshire-on-a-favourite-horse-with-his-harriers-t03423",
+      "id": "4265",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sir robert leighton after coursing, with a groom and a couple of greyhounds",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03424_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferneley-sir-robert-leighton-after-coursing-with-a-groom-and-a-couple-of-greyhounds-t03424",
+      "id": "4266",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mr powell and his son, with norton, a grey hunter",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03425_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferneley-mr-powell-and-his-son-with-norton-a-grey-hunter-t03425",
+      "id": "4267",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "defiance, a brood mare, with reveller, a foal",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03426_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferneley-defiance-a-brood-mare-with-reveller-a-foal-t03426",
+      "id": "4268",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "major healey, wearing raby hunt uniform, riding with the sedgefield hunt",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03439_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferneley-major-healey-wearing-raby-hunt-uniform-riding-with-the-sedgefield-hunt-t03439",
+      "id": "4269",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4264",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4265",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4266",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4267",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4268",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4269",
+      "value": 1
+    }
+  ]
+}

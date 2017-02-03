@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Cantor, Ellen",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/ellen-cantor-12113",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "share it with me",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cantor-share-it-with-me-p79383",
+      "id": "101514",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "101514",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Ledger, Janet",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/janet-ledger-1484",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "factory gate",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06793_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ledger-factory-gate-p06793",
+      "id": "8506",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "play street",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06794_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ledger-play-street-p06794",
+      "id": "8507",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8506",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8507",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hughes, Patrick",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/patrick-hughes-1322",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "infinity",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01808_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hughes-infinity-p01808",
+      "id": "6963",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "over the moon",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01867_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hughes-over-the-moon-p01867",
+      "id": "6964",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "brick door",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04378_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hughes-brick-door-p04378",
+      "id": "6965",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "collected works (part two)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01512_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hughes-collected-works-part-two-t01512",
+      "id": "6966",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6963",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6964",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6965",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6966",
+      "value": 1
+    }
+  ]
+}

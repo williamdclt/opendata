@@ -1,0 +1,421 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Clough, Prunella",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/prunella-clough-921",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "electrical area",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06074_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clough-electrical-area-p06074",
+      "id": "2309",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tideline",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06075_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clough-tideline-p06075",
+      "id": "2310",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wall and scrap",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06076_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clough-wall-and-scrap-p06076",
+      "id": "2311",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "geological landscape",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07906_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clough-geological-landscape-p07906",
+      "id": "2312",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "can and basket",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07907_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clough-can-and-basket-p07907",
+      "id": "2313",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jelly fish",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07908_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clough-jelly-fish-p07908",
+      "id": "2314",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "float",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07909_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clough-float-p07909",
+      "id": "2315",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cranes",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07910_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clough-cranes-p07910",
+      "id": "2316",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kippers",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07911_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clough-kippers-p07911",
+      "id": "2317",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "marsh plants",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07912_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clough-marsh-plants-p07912",
+      "id": "2318",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pimentoes",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07913_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clough-pimentoes-p07913",
+      "id": "2319",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "skull and pomegranate",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07914_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clough-skull-and-pomegranate-p07914",
+      "id": "2320",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "corrugated fence",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07915_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clough-corrugated-fence-p07915",
+      "id": "2321",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "off the tracks",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07916_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clough-off-the-tracks-p07916",
+      "id": "2322",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fence/climbing plant",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07917_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clough-fenceclimbing-plant-p07917",
+      "id": "2323",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gate detail",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07918_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clough-gate-detail-p07918",
+      "id": "2324",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gate",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07919_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clough-gate-p07919",
+      "id": "2325",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07920_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clough-untitled-p07920",
+      "id": "2326",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled monotype no. 3",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77157_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clough-untitled-monotype-no-3-p77157",
+      "id": "2327",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cooling tower ii",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00376_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clough-cooling-tower-ii-t00376",
+      "id": "2328",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rockery, 1963",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00691_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clough-rockery-1963-t00691",
+      "id": "2329",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "by the canal",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02093_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clough-by-the-canal-t02093",
+      "id": "2330",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "yellow mesh",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03450_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clough-yellow-mesh-t03450",
+      "id": "2331",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wire and demolition",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03451_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clough-wire-and-demolition-t03451",
+      "id": "2332",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the white root",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03810_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clough-the-white-root-t03810",
+      "id": "2333",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "man hosing metal fish boxes",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06673_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clough-man-hosing-metal-fish-boxes-t06673",
+      "id": "20640",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "false flower",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07116_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clough-false-flower-t07116",
+      "id": "21686",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "broken gates",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07318_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clough-broken-gates-t07318",
+      "id": "25948",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stack",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13200_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clough-stack-t13200",
+      "id": "90120",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2309",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2310",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2311",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2312",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2313",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2314",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2315",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2316",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2317",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2318",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2319",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2320",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2321",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2322",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2323",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2324",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2325",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2326",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2327",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2328",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2329",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2330",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2331",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2332",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2333",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20640",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21686",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25948",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90120",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Dine, Jim",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/jim-dine-1009",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "throat",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01790_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dine-throat-p01790",
+      "id": "3890",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blue haircut",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02528_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dine-blue-haircut-p02528",
+      "id": "3891",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "big red wrench in a landscape",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02529_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dine-big-red-wrench-in-a-landscape-p02529",
+      "id": "3892",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nutcracker",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02530_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dine-nutcracker-p02530",
+      "id": "3893",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02531_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dine-no-title-p02531",
+      "id": "3894",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02532_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dine-no-title-p02532",
+      "id": "3895",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02533_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dine-no-title-p02533",
+      "id": "3896",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02534_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dine-no-title-p02534",
+      "id": "3897",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02535_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dine-no-title-p02535",
+      "id": "3898",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02536_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dine-no-title-p02536",
+      "id": "3899",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02537_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dine-no-title-p02537",
+      "id": "3900",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02538_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dine-no-title-p02538",
+      "id": "3901",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02539_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dine-no-title-p02539",
+      "id": "3902",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02540_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dine-no-title-p02540",
+      "id": "3903",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tinsnip",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02541_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dine-tinsnip-p02541",
+      "id": "3904",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "picabia i (cheer)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02542_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dine-picabia-i-cheer-p02542",
+      "id": "3905",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "picabia ii (forgot)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02543_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dine-picabia-ii-forgot-p02543",
+      "id": "3906",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "picabia iii (groans)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02544_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dine-picabia-iii-groans-p02544",
+      "id": "3907",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tool box 1",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04216_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dine-tool-box-1-p04216",
+      "id": "3908",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tool box 2",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04217_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dine-tool-box-2-p04217",
+      "id": "3909",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tool box 3",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04218_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dine-tool-box-3-p04218",
+      "id": "3910",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tool box 4",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04219_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dine-tool-box-4-p04219",
+      "id": "3911",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tool box 5",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04220_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dine-tool-box-5-p04220",
+      "id": "3912",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tool box 6",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04221_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dine-tool-box-6-p04221",
+      "id": "3913",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tool box 7",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04222_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dine-tool-box-7-p04222",
+      "id": "3914",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tool box 8",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04223_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dine-tool-box-8-p04223",
+      "id": "3915",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tool box 9",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04224_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dine-tool-box-9-p04224",
+      "id": "3916",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tool box 10",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04225_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dine-tool-box-10-p04225",
+      "id": "3917",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "four hearts",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04226_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dine-four-hearts-p04226",
+      "id": "3918",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "palette ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04227_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dine-palette-ii-p04227",
+      "id": "3919",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two hearts in a forest",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07757_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dine-two-hearts-in-a-forest-p07757",
+      "id": "3920",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "welcome home rare birds",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08151_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dine-welcome-home-rare-birds-p08151",
+      "id": "3921",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the crash #1",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dine-the-crash-1-p77413",
+      "id": "19011",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the crash #2",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77414_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dine-the-crash-2-p77414",
+      "id": "19012",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the crash #3",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77415_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dine-the-crash-3-p77415",
+      "id": "19013",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the crash #4",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dine-the-crash-4-p77416",
+      "id": "19015",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the crash #5",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77417_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dine-the-crash-5-p77417",
+      "id": "19014",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the end of the crash",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77418_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dine-the-end-of-the-crash-p77418",
+      "id": "19016",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drag - johnson and mao",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77436_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dine-drag-johnson-and-mao-p77436",
+      "id": "19104",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hiroshima clock, first version",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79807_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dine-hiroshima-clock-first-version-p79807",
+      "id": "105299",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "3890",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3891",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3892",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3893",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3894",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3895",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3896",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3897",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3898",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3899",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3900",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3901",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3902",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3903",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3904",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3905",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3906",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3907",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3908",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3909",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3910",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3911",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3912",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3913",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3914",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3915",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3916",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3917",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3918",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3919",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3920",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3921",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19011",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19012",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19013",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19015",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19014",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19016",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19104",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "105299",
+      "value": 1
+    }
+  ]
+}

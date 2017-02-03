@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Yuon, Konstantin",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/konstantin-yuon-2181",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the monastery at zagorsk",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00653_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yuon-the-monastery-at-zagorsk-t00653",
+      "id": "16513",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16513",
+      "value": 1
+    }
+  ]
+}

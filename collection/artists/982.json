@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Davis, Ron",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/ron-davis-982",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "vector",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01068_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-vector-t01068",
+      "id": "3663",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "3663",
+      "value": 1
+    }
+  ]
+}

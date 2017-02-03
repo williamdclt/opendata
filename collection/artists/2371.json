@@ -1,0 +1,309 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Bevan, Tony",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/tony-bevan-2371",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "horizon",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bevan-horizon-p13299",
+      "id": "27109",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blackwater",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77851_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bevan-blackwater-p77851",
+      "id": "21663",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "girlfriends",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bevan-girlfriends-p77852",
+      "id": "21664",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77853_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bevan-head-p77853",
+      "id": "21665",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "boy in white shirt",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77854_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bevan-boy-in-white-shirt-p77854",
+      "id": "21669",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "boy in check shirt",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77855_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bevan-boy-in-check-shirt-p77855",
+      "id": "21699",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "man in check shirt",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77856_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bevan-man-in-check-shirt-p77856",
+      "id": "21697",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "man in white shirt",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77857_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bevan-man-in-white-shirt-p77857",
+      "id": "21698",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "man with surrounding black",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77858_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bevan-man-with-surrounding-black-p77858",
+      "id": "21696",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "man with surrounding grey",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77859_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bevan-man-with-surrounding-grey-p77859",
+      "id": "21695",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "man and two boys",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77860_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bevan-man-and-two-boys-p77860",
+      "id": "21694",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "three men with shadows",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77861_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bevan-three-men-with-shadows-p77861",
+      "id": "21690",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "four men in white",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77862_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bevan-four-men-in-white-p77862",
+      "id": "21691",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "group with dark background",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77863_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bevan-group-with-dark-background-p77863",
+      "id": "21692",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "large group with shadows",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77864_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bevan-large-group-with-shadows-p77864",
+      "id": "21693",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait head and neck",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77865_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bevan-portrait-head-and-neck-p77865",
+      "id": "21666",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77866_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bevan-head-p77866",
+      "id": "21668",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait man",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77867_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bevan-portrait-man-p77867",
+      "id": "21667",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07002_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bevan-head-t07002",
+      "id": "21409",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bevan-untitled-t07534",
+      "id": "26702",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait boy",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bevan-portrait-boy-t13793",
+      "id": "27110",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "27109",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21663",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21664",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21665",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21669",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21699",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21697",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21698",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21696",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21695",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21694",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21690",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21691",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21692",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21693",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21666",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21668",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21667",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21409",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26702",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27110",
+      "value": 1
+    }
+  ]
+}

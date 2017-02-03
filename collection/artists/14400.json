@@ -1,0 +1,155 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Yamawaki, Iwao",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/iwao-yamawaki-14400",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "set of bowls",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yamawaki-set-of-bowls-p13184",
+      "id": "122464",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (building in moscow)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yamawaki-untitled-building-in-moscow-p79892",
+      "id": "112405",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (modernist architecture)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yamawaki-untitled-modernist-architecture-p79893",
+      "id": "112406",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cafeteria after lunch, bauhaus, dessau",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yamawaki-cafeteria-after-lunch-bauhaus-dessau-p79894",
+      "id": "112408",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (interior, bauhaus, dessau)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yamawaki-untitled-interior-bauhaus-dessau-p79895",
+      "id": "112409",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "in dessau (modernist architecture)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yamawaki-in-dessau-modernist-architecture-p79896",
+      "id": "112411",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (composition with eggs and string, bauhaus)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yamawaki-untitled-composition-with-eggs-and-string-bauhaus-p79897",
+      "id": "112412",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (composition with bricks, bauhaus)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yamawaki-untitled-composition-with-bricks-bauhaus-p79898",
+      "id": "112413",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bauhaus student",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yamawaki-bauhaus-student-p79899",
+      "id": "112414",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (portrait of yamawaki with paul oud)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yamawaki-untitled-portrait-of-yamawaki-with-paul-oud-p79914",
+      "id": "112404",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "122464",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112405",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112406",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112408",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112409",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112411",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112412",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112413",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112414",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112404",
+      "value": 1
+    }
+  ]
+}

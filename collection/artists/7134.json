@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Haworth, Jann",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/jann-haworth-7134",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "beads and background",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/haworth-beads-and-background-t13643",
+      "id": "121429",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mae west, shirley temple & w. c. fields",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/haworth-mae-west-shirley-temple-w-c-fields-t13644",
+      "id": "121431",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "121429",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121431",
+      "value": 1
+    }
+  ]
+}

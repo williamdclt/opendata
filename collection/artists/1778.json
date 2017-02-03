@@ -1,0 +1,141 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Pitchforth, Roland Vivian",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/roland-vivian-pitchforth-1778",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "floods",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04933_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pitchforth-floods-n04933",
+      "id": "12121",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "night transport",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05173_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pitchforth-night-transport-n05173",
+      "id": "12122",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gibraltar harbour with escort groups going to sea",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05721_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pitchforth-gibraltar-harbour-with-escort-groups-going-to-sea-n05721",
+      "id": "12123",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "floods, madoc valley, north wales",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pitchforth-floods-madoc-valley-north-wales-t00037",
+      "id": "12124",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "loch awe",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03160_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pitchforth-loch-awe-t03160",
+      "id": "12125",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seated model",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03661_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pitchforth-seated-model-t03661",
+      "id": "12126",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "model seen from the back",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03662_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pitchforth-model-seen-from-the-back-t03662",
+      "id": "12127",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of harbour - folkestone",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03663_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pitchforth-view-of-harbour-folkestone-t03663",
+      "id": "12128",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wet windscreen, ramsgate harbour",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03664_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pitchforth-wet-windscreen-ramsgate-harbour-t03664",
+      "id": "12129",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12121",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12122",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12123",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12124",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12125",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12126",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12127",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12128",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12129",
+      "value": 1
+    }
+  ]
+}

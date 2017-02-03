@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Boyce, George Price",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/george-price-boyce-48",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "night sketch of the thames near hungerford bridge",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05000_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boyce-night-sketch-of-the-thames-near-hungerford-bridge-n05000",
+      "id": "1379",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape at wotton, surrey: autumn",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05250_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boyce-landscape-at-wotton-surrey-autumn-n05250",
+      "id": "1380",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a girl by a beech tree in a landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01587_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boyce-a-girl-by-a-beech-tree-in-a-landscape-t01587",
+      "id": "1381",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "on the west lyn, north devon",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boyce-on-the-west-lyn-north-devon-t04943",
+      "id": "1382",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blackfriars bridge: moonlight sketch",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05011_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boyce-blackfriars-bridge-moonlight-sketch-t05011",
+      "id": "1383",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a girl\u2019s portrait",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05018_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boyce-a-girls-portrait-t05018",
+      "id": "1384",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "after botticelli: copy of the simonetta",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09476_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boyce-after-botticelli-copy-of-the-simonetta-t09476",
+      "id": "22322",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1379",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1380",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1381",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1382",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1383",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1384",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22322",
+      "value": 1
+    }
+  ]
+}

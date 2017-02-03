@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Skeaf, D.",
+      "url": null,
+      "gender": "",
+      "tatelink": "http://www.tate.org.uk/art/artists/d-skeaf-2457",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "high force, or hardrow",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09217_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/skeaf-high-force-or-hardrow-t09217",
+      "id": "23536",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "23536",
+      "value": 1
+    }
+  ]
+}

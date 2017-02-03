@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Bliss, Douglas Percy",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/douglas-percy-bliss-768",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "gunhills, windley",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03203_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bliss-gunhills-windley-t03203",
+      "id": "1201",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1201",
+      "value": 1
+    }
+  ]
+}

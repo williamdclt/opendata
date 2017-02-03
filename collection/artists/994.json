@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Delvaux, Paul",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/paul-delvaux-994",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "sleeping venus",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00134_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/delvaux-sleeping-venus-t00134",
+      "id": "3724",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "leda",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03361_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/delvaux-leda-t03361",
+      "id": "3725",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "3724",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3725",
+      "value": 1
+    }
+  ]
+}

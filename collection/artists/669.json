@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Artschwager, Richard",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/richard-artschwager-669",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "interior i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77154_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/artschwager-interior-i-p77154",
+      "id": "607",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "interior ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77155_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/artschwager-interior-ii-p77155",
+      "id": "608",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "interior",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77580_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/artschwager-interior-p77580",
+      "id": "20618",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "table and chair",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03793_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/artschwager-table-and-chair-t03793",
+      "id": "609",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tower ii",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07140_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/artschwager-tower-ii-t07140",
+      "id": "21762",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "door/door ii",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07141_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/artschwager-doordoor-ii-t07141",
+      "id": "21763",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "607",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "608",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20618",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "609",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21762",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21763",
+      "value": 1
+    }
+  ]
+}

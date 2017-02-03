@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Oursler, Tony",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/tony-oursler-2366",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the most beautiful thing i\u2019ve never seen",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/oursler-the-most-beautiful-thing-ive-never-seen-t06989",
+      "id": "21317",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "autochthonous aaaahhhh",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/oursler-autochthonous-aaaahhhh-t07056",
+      "id": "21520",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the influence machine",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/oursler-the-influence-machine-t13860",
+      "id": "120549",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "21317",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21520",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "120549",
+      "value": 1
+    }
+  ]
+}

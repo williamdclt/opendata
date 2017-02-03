@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Macchi, Jorge",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/jorge-macchi-6024",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "musical box",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/macchi-musical-box-t11942",
+      "id": "83815",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "incidental music",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11945_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/macchi-incidental-music-t11945",
+      "id": "83814",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "83815",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83814",
+      "value": 1
+    }
+  ]
+}

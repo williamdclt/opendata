@@ -1,0 +1,281 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Leslie, Charles Robert",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/charles-robert-leslie-346",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "falstaff personating the king",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00739_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leslie-falstaff-personating-the-king-a00739",
+      "id": "8607",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of falstaff",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00740_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leslie-head-of-falstaff-a00740",
+      "id": "8608",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of prince hal",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00741_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leslie-head-of-prince-hal-a00741",
+      "id": "8609",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sancho panza in the apartment of the duchess",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00402_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leslie-sancho-panza-in-the-apartment-of-the-duchess-n00402",
+      "id": "8610",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a scene from tristram shandy (\u2018uncle toby and the widow wadman\u2019)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00403_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leslie-a-scene-from-tristram-shandy-uncle-toby-and-the-widow-wadman-n00403",
+      "id": "8611",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "uncle toby and the widow wadman",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00613_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leslie-uncle-toby-and-the-widow-wadman-n00613",
+      "id": "8612",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a scene from milton\u2019s \u2018comus\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01182_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leslie-a-scene-from-miltons-comus-n01182",
+      "id": "8613",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lady jane grey prevailed on to accept the crown",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01790_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leslie-lady-jane-grey-prevailed-on-to-accept-the-crown-n01790",
+      "id": "8614",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018the duke and duchess reading \u201cdon quixote\u201d\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01792_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leslie-sketch-for-the-duke-and-duchess-reading-don-quixote-n01792",
+      "id": "8615",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018christ rebuking his disciples by calling the little child\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01793_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leslie-sketch-for-christ-rebuking-his-disciples-by-calling-the-little-child-n01793",
+      "id": "8616",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018sancho panza in the apartment of the duchess\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01796_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leslie-sketch-for-sancho-panza-in-the-apartment-of-the-duchess-n01796",
+      "id": "8617",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018slender courting anne page\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01798_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leslie-slender-courting-anne-page-n01798",
+      "id": "8618",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018charles ii and lady bellenden\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01799_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leslie-sketch-for-charles-ii-and-lady-bellenden-n01799",
+      "id": "8619",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "viola and olivia",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leslie-viola-and-olivia-n01801",
+      "id": "8620",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018the rape of the lock\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01804_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leslie-sketch-for-the-rape-of-the-lock-n01804",
+      "id": "8621",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018twelfth night\u2019, act i, scene 3",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01805_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leslie-sketch-for-twelfth-night-act-i-scene-3-n01805",
+      "id": "8622",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the carved room, petworth house, sussex (c1856). verso: sketch of a seated male figure in van dyck costume (1844)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03789_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leslie-the-carved-room-petworth-house-sussex-c1856-verso-sketch-of-a-seated-male-figure-in-t03789",
+      "id": "8623",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lionel constable",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04152_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leslie-lionel-constable-t04152",
+      "id": "8624",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the welshman",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10099_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leslie-the-welshman-t10099",
+      "id": "23158",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8607",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8608",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8609",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8610",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8611",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8612",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8613",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8614",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8615",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8616",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8617",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8618",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8619",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8620",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8621",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8622",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8623",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8624",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23158",
+      "value": 1
+    }
+  ]
+}

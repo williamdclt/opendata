@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Flanagan, Barry",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/barry-flanagan-1100",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "grate",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01401_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/flanagan-grate-p01401",
+      "id": "4347",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "joke ink blot",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01402_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/flanagan-joke-ink-blot-p01402",
+      "id": "4348",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "60\u2019s dish",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01403_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/flanagan-60s-dish-p01403",
+      "id": "4349",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "when attitude offend form",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01404_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/flanagan-when-attitude-offend-form-p01404",
+      "id": "4350",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "what can the poor apache do",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01405_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/flanagan-what-can-the-poor-apache-do-p01405",
+      "id": "4351",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "colours up (induction)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02723_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/flanagan-colours-up-induction-p02723",
+      "id": "4352",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "foolsproof",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02724_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/flanagan-foolsproof-p02724",
+      "id": "4353",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "think of courage (without fear not)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02725_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/flanagan-think-of-courage-without-fear-not-p02725",
+      "id": "4354",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "left hand by right hand",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02726_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/flanagan-left-hand-by-right-hand-p02726",
+      "id": "4355",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "o\u2019rembrandt",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02727_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/flanagan-orembrandt-p02727",
+      "id": "4356",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "to draw fire",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02728_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/flanagan-to-draw-fire-p02728",
+      "id": "4357",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "withdrawal from stone wall street",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02729_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/flanagan-withdrawal-from-stone-wall-street-p02729",
+      "id": "4358",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "left hand by left hand",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02730_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/flanagan-left-hand-by-left-hand-p02730",
+      "id": "4359",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "left hand by right hand",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02731_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/flanagan-left-hand-by-right-hand-p02731",
+      "id": "4360",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dedicated to vincent price",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02732_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/flanagan-dedicated-to-vincent-price-p02732",
+      "id": "4361",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "abstract",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02733_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/flanagan-abstract-p02733",
+      "id": "4362",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "abstract",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02734_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/flanagan-abstract-p02734",
+      "id": "4363",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "abstract",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02735_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/flanagan-abstract-p02735",
+      "id": "4364",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "alan sekers",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02736_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/flanagan-alan-sekers-p02736",
+      "id": "4365",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the anesthesiologist",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02737_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/flanagan-the-anesthesiologist-p02737",
+      "id": "4366",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "appointment book",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02738_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/flanagan-appointment-book-p02738",
+      "id": "4367",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "at the goslings",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02739_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/flanagan-at-the-goslings-p02739",
+      "id": "4368",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black dog",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02740_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/flanagan-black-dog-p02740",
+      "id": "4369",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "boo",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02741_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/flanagan-boo-p02741",
+      "id": "4370",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bubblegum",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02742_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/flanagan-bubblegum-p02742",
+      "id": "4372",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bungo the elephant by tara",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02743_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/flanagan-bungo-the-elephant-by-tara-p02743",
+      "id": "4373",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the cat\u2019s whiskers",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02744_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/flanagan-the-cats-whiskers-p02744",
+      "id": "4374",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dancing dog",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02745_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/flanagan-dancing-dog-p02745",
+      "id": "4375",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "david king",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02746_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/flanagan-david-king-p02746",
+      "id": "4376",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "david sylvester",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02747_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/flanagan-david-sylvester-p02747",
+      "id": "4377",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "studies",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02748_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/flanagan-studies-p02748",
+      "id": "4378",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "diagram of a conversation, george melly",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02749_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/flanagan-diagram-of-a-conversation-george-melly-p02749",
+      "id": "4379",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "four kings",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02750_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/flanagan-four-kings-p02750",
+      "id": "4380",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "george",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02751_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/flanagan-george-p02751",
+      "id": "4381",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "george melly",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02752_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/flanagan-george-melly-p02752",
+      "id": "4382",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "george melly",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02753_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/flanagan-george-melly-p02753",
+      "id": "4383",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gilbert",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02754_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/flanagan-gilbert-p02754",
+      "id": "4384",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gilbert and george",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02755_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/flanagan-gilbert-and-george-p02755",
+      "id": "4385",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "grown upstalking",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02756_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/flanagan-grown-upstalking-p02756",
+      "id": "4386",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "himself",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02757_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/flanagan-himself-p02757",
+      "id": "4387",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4347",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4348",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4349",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4350",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4351",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4352",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4353",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4354",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4355",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4356",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4357",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4358",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4359",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4360",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4361",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4362",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4363",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4364",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4365",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4366",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4367",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4368",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4369",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4370",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4372",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4373",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4374",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4375",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4376",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4377",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4378",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4379",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4380",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4381",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4382",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4383",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4384",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4385",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4386",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4387",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Ehrlich, Georg",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/georg-ehrlich-1051",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "italian boy",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ehrlich-italian-boy-n05394",
+      "id": "4095",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of a horse",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ehrlich-head-of-a-horse-t00369",
+      "id": "4096",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4095",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4096",
+      "value": 1
+    }
+  ]
+}

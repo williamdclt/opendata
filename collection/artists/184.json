@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Fisher, Mark",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/mark-fisher-184",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a vision of the sea",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03028_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fisher-a-vision-of-the-sea-n03028",
+      "id": "4334",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "feeding the fowls",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03553_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fisher-feeding-the-fowls-n03553",
+      "id": "4335",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cows in the orchard",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03835_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fisher-cows-in-the-orchard-n03835",
+      "id": "4336",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "road through clover",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03871_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fisher-road-through-clover-n03871",
+      "id": "4337",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "snow scene",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05396_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fisher-snow-scene-n05396",
+      "id": "4338",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4334",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4335",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4336",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4337",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4338",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Yhap, Laetitia",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/laetitia-yhap-2179",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "michael balling up old net",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03930_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yhap-michael-balling-up-old-net-t03930",
+      "id": "16511",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16511",
+      "value": 1
+    }
+  ]
+}

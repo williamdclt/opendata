@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hodges, Jim",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/jim-hodges-7335",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "everything we know",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodges-everything-we-know-t11894",
+      "id": "82856",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "82856",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,421 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Leverett, David",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/david-leverett-1499",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "colour structure 1 (trial proof)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01436_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leverett-colour-structure-1-trial-proof-p01436",
+      "id": "8635",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "colour structure 2 (trial proof)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01437_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leverett-colour-structure-2-trial-proof-p01437",
+      "id": "8636",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "equinox (trial proof)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01438_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leverett-equinox-trial-proof-p01438",
+      "id": "8637",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "equinox (trial proof)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01439_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leverett-equinox-trial-proof-p01439",
+      "id": "8638",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "summer (trial proof)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01440_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leverett-summer-trial-proof-p01440",
+      "id": "8639",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "autumn (trial proof)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01441_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leverett-autumn-trial-proof-p01441",
+      "id": "8640",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "winter (trial proof)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01442_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leverett-winter-trial-proof-p01442",
+      "id": "8641",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "winter (trial proof)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01443_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leverett-winter-trial-proof-p01443",
+      "id": "8642",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "equinox (trial proof)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01444_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leverett-equinox-trial-proof-p01444",
+      "id": "8643",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "state of change",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01445_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leverett-state-of-change-p01445",
+      "id": "8644",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01884_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leverett-no-title-p01884",
+      "id": "8645",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01885_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leverett-no-title-p01885",
+      "id": "8646",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01886_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leverett-no-title-p01886",
+      "id": "8647",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shift open",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02460_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leverett-shift-open-p02460",
+      "id": "8648",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shift closed",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02461_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leverett-shift-closed-p02461",
+      "id": "8649",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "colour satin",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02462_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leverett-colour-satin-p02462",
+      "id": "8650",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "trace elements",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02463_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leverett-trace-elements-p02463",
+      "id": "8651",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "laminations",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02464_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leverett-laminations-p02464",
+      "id": "8652",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "historical utopias (revisited)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02465_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leverett-historical-utopias-revisited-p02465",
+      "id": "8653",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lost horizons",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02466_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leverett-lost-horizons-p02466",
+      "id": "8654",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "past times",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02467_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leverett-past-times-p02467",
+      "id": "8655",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spring",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02484_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leverett-spring-p02484",
+      "id": "8656",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "summer",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02485_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leverett-summer-p02485",
+      "id": "8657",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "autumn",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02486_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leverett-autumn-p02486",
+      "id": "8658",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "winter",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02487_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leverett-winter-p02487",
+      "id": "8659",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lost messages",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02553_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leverett-lost-messages-p02553",
+      "id": "8660",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "salient features",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02554_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leverett-salient-features-p02554",
+      "id": "8661",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "song for africa",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02555_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leverett-song-for-africa-p02555",
+      "id": "8662",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two faces of a place",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02556_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leverett-two-faces-of-a-place-p02556",
+      "id": "8663",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8635",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8636",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8637",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8638",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8639",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8640",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8641",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8642",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8643",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8644",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8645",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8646",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8647",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8648",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8649",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8650",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8651",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8652",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8653",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8654",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8655",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8656",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8657",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8658",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8659",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8660",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8661",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8662",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8663",
+      "value": 1
+    }
+  ]
+}

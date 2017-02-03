@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "De Wint, Peter",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/peter-de-wint-148",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "knaresborough castle",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03477_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-wint-knaresborough-castle-n03477",
+      "id": "3838",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view near oxford",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03478_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-wint-view-near-oxford-n03478",
+      "id": "3839",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lincoln cathedral, from the castle moat",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03479_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-wint-lincoln-cathedral-from-the-castle-moat-n03479",
+      "id": "3840",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "roman canal, lincolnshire",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03480_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-wint-roman-canal-lincolnshire-n03480",
+      "id": "3841",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kenilworth castle",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03481_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-wint-kenilworth-castle-n03481",
+      "id": "3842",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bray on thames, sketch for n03487",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03482_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-wint-bray-on-thames-sketch-for-n03487-n03482",
+      "id": "3843",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cornfield, ivinghoe, buckinghamshire",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03483_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-wint-cornfield-ivinghoe-buckinghamshire-n03483",
+      "id": "3844",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a road in yorkshire",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03484_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-wint-a-road-in-yorkshire-n03484",
+      "id": "3845",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "harvest time, lancashire",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03485_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-wint-harvest-time-lancashire-n03485",
+      "id": "3846",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cottage and harvesters",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03486_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-wint-cottage-and-harvesters-n03486",
+      "id": "3847",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bray on thames from the towing path",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03487_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-wint-bray-on-thames-from-the-towing-path-n03487",
+      "id": "3848",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "burning weeds",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03488_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-wint-burning-weeds-n03488",
+      "id": "3849",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a warwickshire lane",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03489_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-wint-a-warwickshire-lane-n03489",
+      "id": "3850",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the trent near burton",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03490_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-wint-the-trent-near-burton-n03490",
+      "id": "3851",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of tours",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03491_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-wint-view-of-tours-n03491",
+      "id": "3852",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bridge over a branch of the wytham, lincolnshire",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03492_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-wint-bridge-over-a-branch-of-the-wytham-lincolnshire-n03492",
+      "id": "3853",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "on the eden, cumberland",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03493_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-wint-on-the-eden-cumberland-n03493",
+      "id": "3854",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "distant view of nottingham",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03494_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-wint-distant-view-of-nottingham-n03494",
+      "id": "3855",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a hayfield in yorkshire",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03495_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-wint-a-hayfield-in-yorkshire-n03495",
+      "id": "3856",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "westmorland hills, bordering the ken",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03496_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-wint-westmorland-hills-bordering-the-ken-n03496",
+      "id": "3857",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ruins of the bishop\u2019s palace, lincoln",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03497_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-wint-ruins-of-the-bishops-palace-lincoln-n03497",
+      "id": "3858",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a cornfield",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03498_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-wint-a-cornfield-n03498",
+      "id": "3859",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of london from greenwich park",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03499_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-wint-view-of-london-from-greenwich-park-n03499",
+      "id": "3860",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view on the thames",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03809_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-wint-view-on-the-thames-n03809",
+      "id": "3861",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape with horses grazing",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03823_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-wint-landscape-with-horses-grazing-n03823",
+      "id": "3862",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "harvesting",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04879_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-wint-harvesting-n04879",
+      "id": "3863",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the falls of ogwen",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00987_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-wint-the-falls-of-ogwen-t00987",
+      "id": "3864",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of burdock and other plants",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03669_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-wint-study-of-burdock-and-other-plants-t03669",
+      "id": "3865",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hythe, kent",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05267_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-wint-hythe-kent-t05267",
+      "id": "17044",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hythe, kent",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05268_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-wint-hythe-kent-t05268",
+      "id": "17045",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bognor",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05300_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-wint-bognor-t05300",
+      "id": "17077",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bognor",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05301_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-wint-bognor-t05301",
+      "id": "17078",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "scene on the beach at ventnor",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05307_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-wint-scene-on-the-beach-at-ventnor-t05307",
+      "id": "17084",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "scene on the beach at ventnor",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05308_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-wint-scene-on-the-beach-at-ventnor-t05308",
+      "id": "17085",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "undercliff, isle of wight, hampshire",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05310_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-wint-undercliff-isle-of-wight-hampshire-t05310",
+      "id": "17087",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "undercliff, isle of wight, hampshire",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05311_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-wint-undercliff-isle-of-wight-hampshire-t05311",
+      "id": "17088",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black gang chine, isle of wight, hampshire",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05312_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-wint-black-gang-chine-isle-of-wight-hampshire-t05312",
+      "id": "17089",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black gang chine, isle of wight, hampshire",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05313_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-wint-black-gang-chine-isle-of-wight-hampshire-t05313",
+      "id": "17090",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cowes castle, isle of wight",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05318_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-wint-cowes-castle-isle-of-wight-t05318",
+      "id": "17095",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cowes castle, isle of wight",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05319_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-wint-cowes-castle-isle-of-wight-t05319",
+      "id": "17096",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "3838",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3839",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3840",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3841",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3842",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3843",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3844",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3845",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3846",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3847",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3848",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3849",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3850",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3851",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3852",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3853",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3854",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3855",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3856",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3857",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3858",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3859",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3860",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3861",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3862",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3863",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3864",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3865",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17044",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17045",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17077",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17078",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17084",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17085",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17087",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17088",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17089",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17090",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17095",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17096",
+      "value": 1
+    }
+  ]
+}

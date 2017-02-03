@@ -1,0 +1,505 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Blake, Peter",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/peter-blake-763",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "j.a.",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01072_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-ja-p01072",
+      "id": "1002",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "leo 79",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01073_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-leo-79-p01073",
+      "id": "1003",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "leo 139",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01074_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-leo-139-p01074",
+      "id": "1004",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "leo 153",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01075_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-leo-153-p01075",
+      "id": "1005",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "serie 83",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01076_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-serie-83-p01076",
+      "id": "1006",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "3765",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01077_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-3765-p01077",
+      "id": "1007",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "girl in a poppy field",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01078_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-girl-in-a-poppy-field-p01078",
+      "id": "1008",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "studio tack-board",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01729_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-studio-tack-board-p01729",
+      "id": "1009",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "liberty as a \u2018suffolk child by john constable r.a.\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03180_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-liberty-as-a-suffolk-child-by-john-constable-ra-p03180",
+      "id": "1010",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "beach boys",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04038_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-beach-boys-p04038",
+      "id": "1011",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018and to show you i\u2019m not proud, you may shake hands with me!\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04039_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-and-to-show-you-im-not-proud-you-may-shake-hands-with-me-p04039",
+      "id": "1012",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018and the two knights sat and looked at each other without speaking\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04040_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-and-the-two-knights-sat-and-looked-at-each-other-without-speaking-p04040",
+      "id": "1013",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018but isn\u2019t it old!\u2019 tweedledum cried",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04041_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-but-isnt-it-old-tweedledum-cried-p04041",
+      "id": "1014",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018it isn\u2019t manners for us to begin, you know\u2019, said the rose",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04042_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-it-isnt-manners-for-us-to-begin-you-know-said-the-rose-p04042",
+      "id": "1015",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018for instance now, now there\u2019s the king\u2019s messenger\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04043_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-for-instance-now-now-theres-the-kings-messenger-p04043",
+      "id": "1016",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "just at this moment, somehow or other, they began to run",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04044_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-just-at-this-moment-somehow-or-other-they-began-to-run-p04044",
+      "id": "1017",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "so alice picked him up very gently",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04045_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-so-alice-picked-him-up-very-gently-p04045",
+      "id": "1018",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018well, this is grand!\u2019 said alice",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04046_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-well-this-is-grand-said-alice-p04046",
+      "id": "1019",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "costume life drawing",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04047_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-costume-life-drawing-p04047",
+      "id": "1020",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ebony tarzan",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04048_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-ebony-tarzan-p04048",
+      "id": "1021",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "penny black",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04049_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-penny-black-p04049",
+      "id": "1022",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pretty boy michaelangelo",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04050_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-pretty-boy-michaelangelo-p04050",
+      "id": "1023",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "red power",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04051_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-red-power-p04051",
+      "id": "1024",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the tuareg",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04052_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-the-tuareg-p04052",
+      "id": "1025",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "illustration to the cover of \u2018face dances\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11031_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-illustration-to-the-cover-of-face-dances-p11031",
+      "id": "1026",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "i may not be a ruralist anymore, but this morning i saw a fairy in my garden in chiswick",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79380_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-i-may-not-be-a-ruralist-anymore-but-this-morning-i-saw-a-fairy-in-my-garden-in-p79380",
+      "id": "101511",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "on the balcony",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00566_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-on-the-balcony-t00566",
+      "id": "1027",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the fine art bit",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01174_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-the-fine-art-bit-t01174",
+      "id": "1028",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the toy shop",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01175_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-the-toy-shop-t01175",
+      "id": "1029",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the masked zebra kid",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01877_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-the-masked-zebra-kid-t01877",
+      "id": "1030",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tuesday",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01934_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-tuesday-t01934",
+      "id": "1031",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait with badges",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02406_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-self-portrait-with-badges-t02406",
+      "id": "1032",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the first real target",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03419_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-the-first-real-target-t03419",
+      "id": "1033",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018the meeting\u2019 or \u2018have a nice day, mr hockney\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03790_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-the-meeting-or-have-a-nice-day-mr-hockney-t03790",
+      "id": "1034",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of david hockney in a hollywood spanish interior",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07900_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-portrait-of-david-hockney-in-a-hollywood-spanish-interior-t07900",
+      "id": "71536",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1002",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1003",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1004",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1005",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1006",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1007",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1008",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1009",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1010",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1011",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1012",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1013",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1014",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1015",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1016",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1017",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1018",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1019",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1020",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1021",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1022",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1023",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1024",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1025",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1026",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101511",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1027",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1028",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1029",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1030",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1031",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1032",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1033",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1034",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71536",
+      "value": 1
+    }
+  ]
+}

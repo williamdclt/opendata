@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Brett, The Hon. Dorothy",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/the-hon-dorothy-brett-809",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "ceremonial indian dance: the matachinas",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00284_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brett-ceremonial-indian-dance-the-matachinas-t00284",
+      "id": "1479",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "massacre in the canyon of death: vision of the sun god",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00285_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brett-massacre-in-the-canyon-of-death-vision-of-the-sun-god-t00285",
+      "id": "1480",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pond at garsington",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brett-pond-at-garsington-t13665",
+      "id": "122776",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1479",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1480",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "122776",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Dilworth, Norman",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/norman-dilworth-1006",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "rational concepts",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07424_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dilworth-rational-concepts-p07424",
+      "id": "3882",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "source",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dilworth-source-t07925",
+      "id": "74756",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "source",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dilworth-source-t07926",
+      "id": "74758",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ninefold",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07927_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dilworth-ninefold-t07927",
+      "id": "74759",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "3882",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "74756",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "74758",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "74759",
+      "value": 1
+    }
+  ]
+}

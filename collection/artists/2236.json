@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Sutton, Trevor",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/trevor-sutton-2236",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11214_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutton-untitled-p11214",
+      "id": "2571",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gt/ts 9-90 a6",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20143_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutton-gtts-9-90-a6-p20143",
+      "id": "20976",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2571",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20976",
+      "value": 1
+    }
+  ]
+}

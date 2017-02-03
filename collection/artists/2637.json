@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gordon, Sir Harry Percy, 2nd Bt",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-harry-percy-gordon-2nd-bt-2637",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "north court",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10554_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gordon-north-court-t10554",
+      "id": "23370",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11640_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gordon-title-not-known-t11640",
+      "id": "22950",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11641_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gordon-title-not-known-t11641",
+      "id": "22949",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11642_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gordon-title-not-known-t11642",
+      "id": "25881",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11643_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gordon-title-not-known-t11643",
+      "id": "25882",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "23370",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22950",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22949",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25881",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25882",
+      "value": 1
+    }
+  ]
+}

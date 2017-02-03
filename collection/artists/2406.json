@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Khakhar, Bhupen",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/bhupen-khakhar-2406",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "you can\u2019t please all",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07200_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/khakhar-you-cant-please-all-t07200",
+      "id": "21821",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "21821",
+      "value": 1
+    }
+  ]
+}

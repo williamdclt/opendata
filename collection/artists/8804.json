@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Braden, Norah",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/norah-braden-8804",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "deep bowl on high foot",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/braden-deep-bowl-on-high-foot-t12121",
+      "id": "88250",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "88250",
+      "value": 1
+    }
+  ]
+}

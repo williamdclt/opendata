@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Sutton, Philip",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/philip-sutton-2015",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "great australian bight",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06582_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutton-great-australian-bight-p06582",
+      "id": "14068",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hawaii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06583_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutton-hawaii-p06583",
+      "id": "14069",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pacific",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06584_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutton-pacific-p06584",
+      "id": "14070",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "samoa",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06585_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutton-samoa-p06585",
+      "id": "14071",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "san francisco",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06586_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutton-san-francisco-p06586",
+      "id": "14072",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vancouver",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06587_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutton-vancouver-p06587",
+      "id": "14073",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "autumn flowers",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00112_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutton-autumn-flowers-t00112",
+      "id": "14074",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the tree",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00330_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sutton-the-tree-t00330",
+      "id": "14075",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "14068",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14069",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14070",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14071",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14072",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14073",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14074",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14075",
+      "value": 1
+    }
+  ]
+}

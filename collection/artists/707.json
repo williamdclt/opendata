@@ -1,0 +1,337 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Bawden, Edward",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/edward-bawden-707",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the bell inn",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05156_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bawden-the-bell-inn-n05156",
+      "id": "770",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cairo, the citadel: mohammed ali mosque",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05677_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bawden-cairo-the-citadel-mohammed-ali-mosque-n05677",
+      "id": "771",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cairo, the citadel: on the roof of the officers\u2019 mess",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05678_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bawden-cairo-the-citadel-on-the-roof-of-the-officers-mess-n05678",
+      "id": "772",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gallabat: guns firing on metemma",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05679_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bawden-gallabat-guns-firing-on-metemma-n05679",
+      "id": "773",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gubba: panorama of the town",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05680_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bawden-gubba-panorama-of-the-town-n05680",
+      "id": "774",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "burnt tukl at gubba",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05681_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bawden-burnt-tukl-at-gubba-n05681",
+      "id": "775",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view from the enemy h.q. at gubba",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05682_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bawden-view-from-the-enemy-hq-at-gubba-n05682",
+      "id": "776",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the catholic church, addis ababa",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05683_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bawden-the-catholic-church-addis-ababa-n05683",
+      "id": "777",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tobruk: the harbour",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05684_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bawden-tobruk-the-harbour-n05684",
+      "id": "778",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "zghorta, syria: panorama of the camp of the 8th, 10th and 12th indian mule corps; in the distance lebanon",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bawden-zghorta-syria-panorama-of-the-camp-of-the-8th-10th-and-12th-indian-mule-corps-in-n05685",
+      "id": "779",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the canmore mountain range",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06012_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bawden-the-canmore-mountain-range-n06012",
+      "id": "780",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "audley end house",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bawden-audley-end-house-p01358",
+      "id": "781",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "billingsgate market",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bawden-billingsgate-market-p06019",
+      "id": "782",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "borough market",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bawden-borough-market-p06020",
+      "id": "783",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "covent garden flower market",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bawden-covent-garden-flower-market-p06021",
+      "id": "784",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "covent garden fruit market",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bawden-covent-garden-fruit-market-p06022",
+      "id": "785",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "leadenhall market",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bawden-leadenhall-market-p06023",
+      "id": "786",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "smithfield market",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bawden-smithfield-market-p06024",
+      "id": "787",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the church wall",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00036_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bawden-the-church-wall-t00036",
+      "id": "788",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "houses at ironbridge",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bawden-houses-at-ironbridge-t00206",
+      "id": "789",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "caradon",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00281_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bawden-caradon-t00281",
+      "id": "790",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "roses and rue",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bawden-roses-and-rue-t04919",
+      "id": "791",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "emma nelson by the fire",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bawden-emma-nelson-by-the-fire-t04920",
+      "id": "792",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "770",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "771",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "772",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "773",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "774",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "775",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "776",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "777",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "778",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "779",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "780",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "781",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "782",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "783",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "784",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "785",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "786",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "787",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "788",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "789",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "790",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "791",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "792",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Lowinsky, Thomas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/thomas-lowinsky-1531",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the dawn of venus",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05226_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lowinsky-the-dawn-of-venus-n05226",
+      "id": "8999",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the breeze at morn",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05322_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lowinsky-the-breeze-at-morn-n05322",
+      "id": "9000",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs james mackie",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05329_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lowinsky-mrs-james-mackie-n05329",
+      "id": "9001",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8999",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9000",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9001",
+      "value": 1
+    }
+  ]
+}

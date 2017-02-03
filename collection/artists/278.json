@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Houghton, Arthur Boyd",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/arthur-boyd-houghton-278",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00197_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houghton-title-not-known-a00197",
+      "id": "6722",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houghton-title-not-known-a00198",
+      "id": "6723",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houghton-title-not-known-a00199",
+      "id": "6724",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houghton-title-not-known-a00200",
+      "id": "6725",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00201_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houghton-title-not-known-a00201",
+      "id": "6726",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00202_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houghton-title-not-known-a00202",
+      "id": "6727",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00203_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houghton-title-not-known-a00203",
+      "id": "6728",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00204_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houghton-title-not-known-a00204",
+      "id": "6729",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00205_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houghton-title-not-known-a00205",
+      "id": "6730",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00206_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houghton-title-not-known-a00206",
+      "id": "6731",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00207_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houghton-title-not-known-a00207",
+      "id": "6732",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00208_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houghton-title-not-known-a00208",
+      "id": "6733",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00209_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houghton-title-not-known-a00209",
+      "id": "6734",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00210_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houghton-title-not-known-a00210",
+      "id": "6735",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "punch and judy",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03620_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houghton-punch-and-judy-n03620",
+      "id": "6736",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ramsgate sands",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03907_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houghton-ramsgate-sands-n03907",
+      "id": "6737",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "child among the rocks, engraved by the dalziel brothers",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04019_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houghton-child-among-the-rocks-engraved-by-the-dalziel-brothers-n04019",
+      "id": "6738",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "princess parizade, engraved by the dalziel brothers",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04020_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houghton-princess-parizade-engraved-by-the-dalziel-brothers-n04020",
+      "id": "6739",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jew and gentile, for engraving",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04044_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houghton-jew-and-gentile-for-engraving-n04044",
+      "id": "6740",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "scotch scene, for engraving",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04045_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houghton-scotch-scene-for-engraving-n04045",
+      "id": "6741",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the envious man pulling hairs out of the cat\u2019s tail, engraved by the dalziel brothers",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04053_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houghton-the-envious-man-pulling-hairs-out-of-the-cats-tail-engraved-by-the-dalziel-n04053",
+      "id": "6742",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the chronicles being read to the king, engraved by the dalziel brothers",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04122_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houghton-the-chronicles-being-read-to-the-king-engraved-by-the-dalziel-brothers-n04122",
+      "id": "6743",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "birth of camaralzaman",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04123_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houghton-birth-of-camaralzaman-n04123",
+      "id": "6744",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mother and children reading",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04151_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houghton-mother-and-children-reading-n04151",
+      "id": "6745",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lady with a book",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04152_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houghton-lady-with-a-book-n04152",
+      "id": "6746",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the african magician offers new lamps for old, for engraving",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houghton-the-african-magician-offers-new-lamps-for-old-for-engraving-n04153",
+      "id": "6747",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the indian prostrates himself before the king of persia, for engraving",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houghton-the-indian-prostrates-himself-before-the-king-of-persia-for-engraving-n04154",
+      "id": "6748",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "scene from \u2018the arabian nights\u2019, for engraving",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houghton-scene-from-the-arabian-nights-for-engraving-n04155",
+      "id": "6749",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "scene from \u2018the arabian nights\u2019, for engraving",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houghton-scene-from-the-arabian-nights-for-engraving-n04156",
+      "id": "6750",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "old woman seated in a chair, for engraving",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04157_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houghton-old-woman-seated-in-a-chair-for-engraving-n04157",
+      "id": "6751",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "london scene, for engraving",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04158_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houghton-london-scene-for-engraving-n04158",
+      "id": "6752",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "facing the camera, for engraving",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04159_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houghton-facing-the-camera-for-engraving-n04159",
+      "id": "6753",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "scene from \u2018don quixote\u2019, for engraving",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houghton-scene-from-don-quixote-for-engraving-n04160",
+      "id": "6754",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "my treasure: mrs a.b. houghton and two children, engraved by the dalziel brothers",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04161_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houghton-my-treasure-mrs-ab-houghton-and-two-children-engraved-by-the-dalziel-brothers-n04161",
+      "id": "6755",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "volunteers",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04207_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houghton-volunteers-n04207",
+      "id": "6756",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the don on the island",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04366_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houghton-the-don-on-the-island-n04366",
+      "id": "6757",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of a child",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04397_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houghton-head-of-a-child-n04397",
+      "id": "6758",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a woman",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04402_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houghton-study-of-a-woman-n04402",
+      "id": "6759",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of a woman and child",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04403_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houghton-head-of-a-woman-and-child-n04403",
+      "id": "6760",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "uncle john with the young folk: \u2018all prizes and no blanks!\u2019 engraved by the dalziel brothers",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01948_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houghton-uncle-john-with-the-young-folk-all-prizes-and-no-blanks-engraved-by-the-dalziel-t01948",
+      "id": "6761",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6722",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6723",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6724",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6725",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6726",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6727",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6728",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6729",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6730",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6731",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6732",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6733",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6734",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6735",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6736",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6737",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6738",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6739",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6740",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6741",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6742",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6743",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6744",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6745",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6746",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6747",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6748",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6749",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6750",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6751",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6752",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6753",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6754",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6755",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6756",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6757",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6758",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6759",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6760",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6761",
+      "value": 1
+    }
+  ]
+}

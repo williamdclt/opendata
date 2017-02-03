@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Ferneley, John, II",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-ferneley-ii-181",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "hunt scurry",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03427_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferneley-hunt-scurry-t03427",
+      "id": "4270",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4270",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Tyson, Keith",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/keith-tyson-4918",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "studio wall drawing: 5th june 2006 - high resolution - \u201clarge field array\u201d (14x14x3 pixels) ..... (300)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12554_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-studio-wall-drawing-5th-june-2006-high-resolution-large-field-array-14x14x3-pixels-t12554",
+      "id": "93045",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "93045",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Reysschoot, Peter John van",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/peter-john-van-reysschoot-2394",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a jacobite group in st james park",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07092_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reysschoot-a-jacobite-group-in-st-james-park-t07092",
+      "id": "21579",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "21579",
+      "value": 1
+    }
+  ]
+}

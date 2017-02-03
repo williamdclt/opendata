@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gordine, Dora",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/dora-gordine-1189",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "mongolian head",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04419_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gordine-mongolian-head-n04419",
+      "id": "5512",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "javanese head",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04695_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gordine-javanese-head-n04695",
+      "id": "5513",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "malay head",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04860_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gordine-malay-head-n04860",
+      "id": "5514",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "guadaloupe head/negress",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03746_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gordine-guadaloupe-headnegress-t03746",
+      "id": "5515",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5512",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5513",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5514",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5515",
+      "value": 1
+    }
+  ]
+}

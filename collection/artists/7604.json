@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Wermers, Nicole",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/nicole-wermers-7604",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "french junkies # 9",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wermers-french-junkies-9-t13338",
+      "id": "112274",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "112274",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Tudor, Thomas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/thomas-tudor-2227",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "evening landscape, with a view over a bay",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05481_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tudor-evening-landscape-with-a-view-over-a-bay-t05481",
+      "id": "17261",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "17261",
+      "value": 1
+    }
+  ]
+}

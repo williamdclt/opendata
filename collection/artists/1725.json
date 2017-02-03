@@ -1,0 +1,421 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Orpen, Sir William",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-william-orpen-1725",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the mirror",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02940_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orpen-the-mirror-n02940",
+      "id": "10977",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the angler",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02997_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orpen-the-angler-n02997",
+      "id": "10978",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the model",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03530_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orpen-the-model-n03530",
+      "id": "10979",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lady orpen",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03549_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orpen-lady-orpen-n03549",
+      "id": "10980",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sir william mccormick",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03628_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orpen-sir-william-mccormick-n03628",
+      "id": "10981",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dame madge kendal",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04400_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orpen-dame-madge-kendal-n04400",
+      "id": "10982",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anita",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07136_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orpen-anita-t07136",
+      "id": "21735",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "zonnebeke",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07694_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orpen-zonnebeke-t07694",
+      "id": "27378",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for a picture, a spanish serenade",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11009_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orpen-study-for-a-picture-a-spanish-serenade-t11009",
+      "id": "23332",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anatomical study, hanging man",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orpen-anatomical-study-hanging-man-t13361",
+      "id": "106108",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anatomical study, turning man after michelangelo",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13362_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orpen-anatomical-study-turning-man-after-michelangelo-t13362",
+      "id": "106111",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anatomical study, turning man",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orpen-anatomical-study-turning-man-t13363",
+      "id": "106113",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anatomical study after michelangelo",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orpen-anatomical-study-after-michelangelo-t13364",
+      "id": "106114",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anatomical study, male torso",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13365_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orpen-anatomical-study-male-torso-t13365",
+      "id": "106115",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anatomical study after \u2018a woman\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orpen-anatomical-study-after-a-woman-t13366",
+      "id": "106116",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anatomical study, torso",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orpen-anatomical-study-torso-t13367",
+      "id": "106117",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anatomical study, bending man",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orpen-anatomical-study-bending-man-t13368",
+      "id": "106118",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anatomical study, skulls",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orpen-anatomical-study-skulls-t13369",
+      "id": "106119",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anatomical study, arm",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orpen-anatomical-study-arm-t13370",
+      "id": "106120",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anatomical study, pectineus",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orpen-anatomical-study-pectineus-t13371",
+      "id": "106121",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anatomical study, leg in action",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orpen-anatomical-study-leg-in-action-t13372",
+      "id": "106123",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anatomical study, leg",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orpen-anatomical-study-leg-t13373",
+      "id": "106124",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anatomical study, neck muscles",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orpen-anatomical-study-neck-muscles-t13374",
+      "id": "106125",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anatomical study, thigh muscles",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orpen-anatomical-study-thigh-muscles-t13375",
+      "id": "106126",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anatomical study, arm muscles",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orpen-anatomical-study-arm-muscles-t13376",
+      "id": "106129",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anatomical study, elbow muscles",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orpen-anatomical-study-elbow-muscles-t13377",
+      "id": "106130",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anatomical study, calf muscles",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orpen-anatomical-study-calf-muscles-t13378",
+      "id": "106131",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anatomical study, thigh muscles",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orpen-anatomical-study-thigh-muscles-t13379",
+      "id": "106132",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anatomical study, skull",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orpen-anatomical-study-skull-t13380",
+      "id": "106133",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "10977",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10978",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10979",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10980",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10981",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10982",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21735",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27378",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23332",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106108",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106111",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106113",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106114",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106115",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106116",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106117",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106118",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106119",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106120",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106121",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106123",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106124",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106125",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106126",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106129",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106130",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106131",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106132",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106133",
+      "value": 1
+    }
+  ]
+}

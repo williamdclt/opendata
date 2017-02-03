@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Trevelyan, Julian",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/julian-trevelyan-2065",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "during the night",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01304_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/trevelyan-during-the-night-p01304",
+      "id": "14424",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the bat",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01305_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/trevelyan-the-bat-p01305",
+      "id": "14425",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dream scaffold",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01306_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/trevelyan-dream-scaffold-p01306",
+      "id": "14426",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hungry people",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01307_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/trevelyan-hungry-people-p01307",
+      "id": "14427",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seaside",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01308_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/trevelyan-seaside-p01308",
+      "id": "14428",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spain",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01309_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/trevelyan-spain-p01309",
+      "id": "14429",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "valentine",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01310_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/trevelyan-valentine-p01310",
+      "id": "14430",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bicycle shop",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01311_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/trevelyan-bicycle-shop-p01311",
+      "id": "14431",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figures",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01312_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/trevelyan-figures-p01312",
+      "id": "14432",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "somnambulist i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01313_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/trevelyan-somnambulist-i-p01313",
+      "id": "14433",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "somnambulist ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01314_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/trevelyan-somnambulist-ii-p01314",
+      "id": "14434",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "green oxen",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01315_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/trevelyan-green-oxen-p01315",
+      "id": "14435",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "activated sludge",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01316_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/trevelyan-activated-sludge-p01316",
+      "id": "14436",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chiswick eyot",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01317_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/trevelyan-chiswick-eyot-p01317",
+      "id": "14437",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "durham wharf",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01318_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/trevelyan-durham-wharf-p01318",
+      "id": "14438",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "home waters",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01319_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/trevelyan-home-waters-p01319",
+      "id": "14439",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "aix-en-provence",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01320_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/trevelyan-aix-en-provence-p01320",
+      "id": "14440",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "arles",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01321_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/trevelyan-arles-p01321",
+      "id": "14441",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "avignon",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01322_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/trevelyan-avignon-p01322",
+      "id": "14442",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "camels",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01323_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/trevelyan-camels-p01323",
+      "id": "14443",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fontaine de vaucluse",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01324_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/trevelyan-fontaine-de-vaucluse-p01324",
+      "id": "14444",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hammersmith bridge",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01325_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/trevelyan-hammersmith-bridge-p01325",
+      "id": "14445",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hay-cart",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01326_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/trevelyan-hay-cart-p01326",
+      "id": "14446",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nimes",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01327_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/trevelyan-nimes-p01327",
+      "id": "14447",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rowers",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01328_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/trevelyan-rowers-p01328",
+      "id": "14448",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "souk",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01329_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/trevelyan-souk-p01329",
+      "id": "14449",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spinnakers",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01330_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/trevelyan-spinnakers-p01330",
+      "id": "14450",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "airport",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01331_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/trevelyan-airport-p01331",
+      "id": "14451",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "athletes",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01332_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/trevelyan-athletes-p01332",
+      "id": "14452",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bulldozer",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01333_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/trevelyan-bulldozer-p01333",
+      "id": "14453",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the etching class",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01334_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/trevelyan-the-etching-class-p01334",
+      "id": "14454",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hangars",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01335_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/trevelyan-hangars-p01335",
+      "id": "14455",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "heathrow",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01336_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/trevelyan-heathrow-p01336",
+      "id": "14456",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "islam",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01337_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/trevelyan-islam-p01337",
+      "id": "14457",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kasbah",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01338_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/trevelyan-kasbah-p01338",
+      "id": "14458",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "la turbie",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01339_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/trevelyan-la-turbie-p01339",
+      "id": "14459",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "marakesh",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01340_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/trevelyan-marakesh-p01340",
+      "id": "14460",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "near miss",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01341_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/trevelyan-near-miss-p01341",
+      "id": "14461",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sahara",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01342_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/trevelyan-sahara-p01342",
+      "id": "14462",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sleeping tom",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01343_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/trevelyan-sleeping-tom-p01343",
+      "id": "14463",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "14424",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14425",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14426",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14427",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14428",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14429",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14430",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14431",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14432",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14433",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14434",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14435",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14436",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14437",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14438",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14439",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14440",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14441",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14442",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14443",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14444",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14445",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14446",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14447",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14448",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14449",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14450",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14451",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14452",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14453",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14454",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14455",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14456",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14457",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14458",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14459",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14460",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14461",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14462",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14463",
+      "value": 1
+    }
+  ]
+}

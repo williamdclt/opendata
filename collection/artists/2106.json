@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Villard, Antoine",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/antoine-villard-2106",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "circuit railway at grenelle",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03830_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/villard-circuit-railway-at-grenelle-n03830",
+      "id": "15747",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "15747",
+      "value": 1
+    }
+  ]
+}

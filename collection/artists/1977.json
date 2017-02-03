@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Spencer, Sir Stanley",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-stanley-spencer-1977",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "christ carrying the cross",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04117_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-christ-carrying-the-cross-n04117",
+      "id": "13674",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the resurrection, cookham",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04239_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-the-resurrection-cookham-n04239",
+      "id": "13675",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "camouflaged grenadier. verso: two composition studies for burghclere chapel",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04245_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-camouflaged-grenadier-verso-two-composition-studies-for-burghclere-chapel-n04245",
+      "id": "13676",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "terry\u2019s lane, cookham",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04678_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-terrys-lane-cookham-n04678",
+      "id": "13677",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "turkeys",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04800_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-turkeys-n04800",
+      "id": "13678",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the robing of christ",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04925_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-the-robing-of-christ-n04925",
+      "id": "13679",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the disrobing of christ",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04926_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-the-disrobing-of-christ-n04926",
+      "id": "13680",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rickett\u2019s farm, cookham dene",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04942_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-ricketts-farm-cookham-dene-n04942",
+      "id": "13681",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "daphne",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05148_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-daphne-n05148",
+      "id": "13682",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the sword of the lord and of gideon",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05321_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-the-sword-of-the-lord-and-of-gideon-n05321",
+      "id": "13683",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the bridge",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05393_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-the-bridge-n05393",
+      "id": "13684",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the roundabout",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05556_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-the-roundabout-n05556",
+      "id": "13685",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "p.j. spencer",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05607_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-pj-spencer-n05607",
+      "id": "13686",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018man goeth to his long home\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05608_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-man-goeth-to-his-long-home-n05608",
+      "id": "13687",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "apple gatherers",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05663_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-apple-gatherers-n05663",
+      "id": "13688",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mr joe buchanan, charge hand blacksmith",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-mr-joe-buchanan-charge-hand-blacksmith-n05732",
+      "id": "13689",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "william mcbrearty, sawyer",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05733_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-william-mcbrearty-sawyer-n05733",
+      "id": "13690",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018the bridge\u2019 and other works",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05775_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-study-for-the-bridge-and-other-works-n05775",
+      "id": "13691",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the resurrection: port glasgow",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05961_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-the-resurrection-port-glasgow-n05961",
+      "id": "13692",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tree and chicken coops, wangford",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06150_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-tree-and-chicken-coops-wangford-n06150",
+      "id": "13693",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06188_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-self-portrait-n06188",
+      "id": "13694",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018apple gatherers\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06233_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-study-for-apple-gatherers-n06233",
+      "id": "13695",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "retrieving a ball",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11032_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-retrieving-a-ball-p11032",
+      "id": "13696",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018joachim among the shepherds\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00048_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-study-for-joachim-among-the-shepherds-t00048",
+      "id": "13697",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dinner on the hotel lawn",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00141_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-dinner-on-the-hotel-lawn-t00141",
+      "id": "13698",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the centurion\u2019s servant",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00359_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-the-centurions-servant-t00359",
+      "id": "13699",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "swan upping at cookham",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00525_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-swan-upping-at-cookham-t00525",
+      "id": "13700",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mending cowls, cookham",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00530_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-mending-cowls-cookham-t00530",
+      "id": "13701",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st francis and the birds",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00961_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-st-francis-and-the-birds-t00961",
+      "id": "13702",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "turk\u2019s boatyard cookham",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01207_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-turks-boatyard-cookham-t01207",
+      "id": "13703",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jacob and esau",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01769_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-jacob-and-esau-t01769",
+      "id": "13704",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "double nude portrait: the artist and his second wife",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-double-nude-portrait-the-artist-and-his-second-wife-t01863",
+      "id": "13705",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "early sketch for \u2018resurrection: rejoicing\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03035_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-early-sketch-for-resurrection-rejoicing-t03035",
+      "id": "13706",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for the left panel of \u2018resurrection: rejoicing\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03036_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-drawing-for-the-left-panel-of-resurrection-rejoicing-t03036",
+      "id": "13707",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for centre panel of \u2018resurrection: rejoicing\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03037_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-drawing-for-centre-panel-of-resurrection-rejoicing-t03037",
+      "id": "13708",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for right panel of \u2018resurrection: rejoicing\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03038_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-drawing-for-right-panel-of-resurrection-rejoicing-t03038",
+      "id": "13709",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for the right hand section of \u2018resurrection: port glasgow\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03039_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-drawing-for-the-right-hand-section-of-resurrection-port-glasgow-t03039",
+      "id": "13710",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for left section of \u2018resurrection: port glasgow\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03040_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-drawing-for-left-section-of-resurrection-port-glasgow-t03040",
+      "id": "13711",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for centre section of \u2018resurrection: port glasgow\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03041_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-drawing-for-centre-section-of-resurrection-port-glasgow-t03041",
+      "id": "13712",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for right section of \u2018resurrection: port glasgow\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03042_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/spencer-drawing-for-right-section-of-resurrection-port-glasgow-t03042",
+      "id": "13713",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13674",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13675",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13676",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13677",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13678",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13679",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13680",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13681",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13682",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13683",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13684",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13685",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13686",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13687",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13688",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13689",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13690",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13691",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13692",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13693",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13694",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13695",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13696",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13697",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13698",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13699",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13700",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13701",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13702",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13703",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13704",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13705",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13706",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13707",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13708",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13709",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13710",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13711",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13712",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13713",
+      "value": 1
+    }
+  ]
+}

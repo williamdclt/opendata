@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Maitin, Sam",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sam-maitin-1558",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "after california",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06350_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maitin-after-california-p06350",
+      "id": "9176",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "again and now",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06351_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maitin-again-and-now-p06351",
+      "id": "9177",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "couplets",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06352_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maitin-couplets-p06352",
+      "id": "9178",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "for ollie",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06353_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maitin-for-ollie-p06353",
+      "id": "9179",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "go and be gay",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06354_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maitin-go-and-be-gay-p06354",
+      "id": "9180",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "i have found it",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06355_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maitin-i-have-found-it-p06355",
+      "id": "9181",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "thus have the starlings",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06356_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maitin-thus-have-the-starlings-p06356",
+      "id": "9182",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9176",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9177",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9178",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9179",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9180",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9181",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9182",
+      "value": 1
+    }
+  ]
+}

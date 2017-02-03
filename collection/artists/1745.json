@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Pasmore, Wendy",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/wendy-pasmore-1745",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "oval motif in grey and ochre",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00490_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pasmore-oval-motif-in-grey-and-ochre-t00490",
+      "id": "11478",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "11478",
+      "value": 1
+    }
+  ]
+}

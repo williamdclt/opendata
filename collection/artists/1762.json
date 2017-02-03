@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Phillips, Maurice",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/maurice-phillips-1762",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "two heads",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-two-heads-p06420",
+      "id": "11535",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "11535",
+      "value": 1
+    }
+  ]
+}

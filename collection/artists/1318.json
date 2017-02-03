@@ -1,0 +1,561 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hoyland, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-hoyland-1318",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "brown-beige-pink",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01206_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoyland-brown-beige-pink-p01206",
+      "id": "6900",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "green, orange, pink",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01207_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoyland-green-orange-pink-p01207",
+      "id": "6901",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "yellow and pink",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01208_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoyland-yellow-and-pink-p01208",
+      "id": "6902",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "grey / blue",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01209_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoyland-grey-blue-p01209",
+      "id": "6903",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pale yellow, pink and brown",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01210_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoyland-pale-yellow-pink-and-brown-p01210",
+      "id": "6904",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "red black on grey",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01211_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoyland-red-black-on-grey-p01211",
+      "id": "6905",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "red black on pink",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01212_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoyland-red-black-on-pink-p01212",
+      "id": "6906",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "brown black on pink",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01213_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoyland-brown-black-on-pink-p01213",
+      "id": "6907",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "grey / blue on pink",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01214_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoyland-grey-blue-on-pink-p01214",
+      "id": "6908",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "grey / blue on green",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01215_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoyland-grey-blue-on-green-p01215",
+      "id": "6909",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "orange, pink",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01216_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoyland-orange-pink-p01216",
+      "id": "6910",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "orange-pink-green",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01217_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoyland-orange-pink-green-p01217",
+      "id": "6911",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01218_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoyland-untitled-i-p01218",
+      "id": "6912",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01219_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoyland-untitled-ii-p01219",
+      "id": "6913",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01220_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoyland-untitled-iii-p01220",
+      "id": "6914",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoyland-untitled-p03185",
+      "id": "6915",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blues, greens",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04373_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoyland-blues-greens-p04373",
+      "id": "6916",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blues, reds",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04374_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoyland-blues-reds-p04374",
+      "id": "6917",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "red, blue",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04375_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoyland-red-blue-p04375",
+      "id": "6918",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reds, greens",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04376_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoyland-reds-greens-p04376",
+      "id": "6919",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "yellows",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04377_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoyland-yellows-p04377",
+      "id": "6920",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "splay",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05510_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoyland-splay-p05510",
+      "id": "6921",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "trace",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05511_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoyland-trace-p05511",
+      "id": "6922",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "trickster",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05512_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoyland-trickster-p05512",
+      "id": "6923",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05513_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoyland-view-p05513",
+      "id": "6924",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memphis",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05549_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoyland-memphis-p05549",
+      "id": "6925",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rankin",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05550_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoyland-rankin-p05550",
+      "id": "6926",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tembi",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05551_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoyland-tembi-p05551",
+      "id": "6927",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vigil",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05567_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoyland-vigil-p05567",
+      "id": "6928",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anking",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07513_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoyland-anking-p07513",
+      "id": "6929",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dido",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07514_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoyland-dido-p07514",
+      "id": "6930",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "no. 22, 20. 2. 62",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00710_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoyland-no-22-20-2-62-t00710",
+      "id": "6931",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "28. 5. 66",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00886_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoyland-28-5-66-t00886",
+      "id": "6932",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "25. 4. 69",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01129_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoyland-25-4-69-t01129",
+      "id": "6933",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "17. 3. 69",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01130_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoyland-17-3-69-t01130",
+      "id": "6934",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "saracen",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02402_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoyland-saracen-t02402",
+      "id": "6935",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "north sound",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02403_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoyland-north-sound-t02403",
+      "id": "6936",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "april 1961",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03701_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoyland-april-1961-t03701",
+      "id": "6937",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gadal 10.11.86",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04924_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hoyland-gadal-101186-t04924",
+      "id": "6938",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6900",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6901",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6902",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6903",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6904",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6905",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6906",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6907",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6908",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6909",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6910",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6911",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6912",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6913",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6914",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6915",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6916",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6917",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6918",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6919",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6920",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6921",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6922",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6923",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6924",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6925",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6926",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6927",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6928",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6929",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6930",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6931",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6932",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6933",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6934",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6935",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6936",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6937",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6938",
+      "value": 1
+    }
+  ]
+}

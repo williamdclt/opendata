@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Ernest, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-ernest-1064",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "mosaic relief no. 4",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ernest-mosaic-relief-no-4-t00872",
+      "id": "4130",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "triangulated relief",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ernest-triangulated-relief-t03723",
+      "id": "4131",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "moebius strip",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ernest-moebius-strip-t11762",
+      "id": "80248",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4130",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4131",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80248",
+      "value": 1
+    }
+  ]
+}

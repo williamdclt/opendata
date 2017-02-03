@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Chia, Sandro",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sandro-chia-899",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the artifice",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07632_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chia-the-artifice-p07632",
+      "id": "2189",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "to the tower",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07633_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chia-to-the-tower-p07633",
+      "id": "2190",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "about the unseizable",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07634_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chia-about-the-unseizable-p07634",
+      "id": "2191",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a good soul",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07635_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chia-a-good-soul-p07635",
+      "id": "2192",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "and the heroes at the window",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07636_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chia-and-the-heroes-at-the-window-p07636",
+      "id": "2193",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "running boy with strange fingers",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07637_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chia-running-boy-with-strange-fingers-p07637",
+      "id": "2195",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the butcher",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07638_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chia-the-butcher-p07638",
+      "id": "2196",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "water bearer",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03469_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chia-water-bearer-t03469",
+      "id": "2197",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2189",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2190",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2191",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2192",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2193",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2195",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2196",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2197",
+      "value": 1
+    }
+  ]
+}

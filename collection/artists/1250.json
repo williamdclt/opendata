@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hartrick, Archibald Standish",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/archibald-standish-hartrick-1250",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the penitents\u2019 bench",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hartrick-the-penitents-bench-n04752",
+      "id": "5849",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "toulouse-lautrec",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hartrick-toulouse-lautrec-n05973",
+      "id": "5850",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "women\u2019s work: on the land - ploughing",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03031_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hartrick-womens-work-on-the-land-ploughing-p03031",
+      "id": "5851",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "women\u2019s work: on the railway - engine and carriage cleaners",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03032_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hartrick-womens-work-on-the-railway-engine-and-carriage-cleaners-p03032",
+      "id": "5852",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "women\u2019s work: in the towns - a bus conductress",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03033_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hartrick-womens-work-in-the-towns-a-bus-conductress-p03033",
+      "id": "5853",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "women\u2019s work: on munitions - skilled work",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03034_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hartrick-womens-work-on-munitions-skilled-work-p03034",
+      "id": "5854",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "women\u2019s work: on munitions - dangerous work (packing t.n.t.)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03035_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hartrick-womens-work-on-munitions-dangerous-work-packing-tnt-p03035",
+      "id": "5855",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "women\u2019s work: on munitions - heavy work (drilling and casting)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03036_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hartrick-womens-work-on-munitions-heavy-work-drilling-and-casting-p03036",
+      "id": "5856",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5849",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5850",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5851",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5852",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5853",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5854",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5855",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5856",
+      "value": 1
+    }
+  ]
+}

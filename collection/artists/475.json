@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Sargent, John Singer",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-singer-sargent-475",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "dorothy barnard",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00850_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sargent-dorothy-barnard-a00850",
+      "id": "13107",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "polly barnard",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00851_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sargent-polly-barnard-a00851",
+      "id": "13108",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "carnation, lily, lily, rose",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01615_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sargent-carnation-lily-lily-rose-n01615",
+      "id": "13109",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ellen terry as lady macbeth",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02053_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sargent-ellen-terry-as-lady-macbeth-n02053",
+      "id": "13110",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "professor ingram bywater",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03012_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sargent-professor-ingram-bywater-n03012",
+      "id": "13111",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fountain, with girl sketching",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03405_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sargent-fountain-with-girl-sketching-n03405",
+      "id": "13113",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "riva degli schiavoni, venice",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03406_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sargent-riva-degli-schiavoni-venice-n03406",
+      "id": "13114",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "venetian fishing boats",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03407_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sargent-venetian-fishing-boats-n03407",
+      "id": "13115",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the piazzetta, venice",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03408_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sargent-the-piazzetta-venice-n03408",
+      "id": "13116",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "preliminary relief of crucifixion",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03412_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sargent-preliminary-relief-of-crucifixion-n03412",
+      "id": "13117",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "san vigilio, lago di garda",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03559_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sargent-san-vigilio-lago-di-garda-n03559",
+      "id": "13118",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "oxen, carrara",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03560_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sargent-oxen-carrara-n03560",
+      "id": "13119",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "miss eliza wedgwood and miss sargent sketching",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03658_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sargent-miss-eliza-wedgwood-and-miss-sargent-sketching-n03658",
+      "id": "13120",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "asher wertheimer",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03705_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sargent-asher-wertheimer-n03705",
+      "id": "13121",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs wertheimer",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03706_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sargent-mrs-wertheimer-n03706",
+      "id": "13122",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hylda, daughter of asher and mrs wertheimer",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03707_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sargent-hylda-daughter-of-asher-and-mrs-wertheimer-n03707",
+      "id": "13123",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ena and betty, daughters of asher and mrs wertheimer",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03708_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sargent-ena-and-betty-daughters-of-asher-and-mrs-wertheimer-n03708",
+      "id": "13124",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "alfred, son of asher wertheimer",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03709_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sargent-alfred-son-of-asher-wertheimer-n03709",
+      "id": "13125",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "edward, son of asher wertheimer",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03710_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sargent-edward-son-of-asher-wertheimer-n03710",
+      "id": "13126",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "essie, ruby and ferdinand, children of asher wertheimer",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03711_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sargent-essie-ruby-and-ferdinand-children-of-asher-wertheimer-n03711",
+      "id": "13127",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hylda, almina and conway, children of asher wertheimer",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03712_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sargent-hylda-almina-and-conway-children-of-asher-wertheimer-n03712",
+      "id": "13128",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "almina, daughter of asher wertheimer",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03713_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sargent-almina-daughter-of-asher-wertheimer-n03713",
+      "id": "13129",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of mme gautreau",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04102_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sargent-study-of-mme-gautreau-n04102",
+      "id": "13130",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "claude monet painting by the edge of a wood",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04103_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sargent-claude-monet-painting-by-the-edge-of-a-wood-n04103",
+      "id": "13131",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the misses hunter",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04180_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sargent-the-misses-hunter-n04180",
+      "id": "13132",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "miss priestley",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04465_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sargent-miss-priestley-n04465",
+      "id": "13133",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lady fishing - mrs ormond",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04466_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sargent-lady-fishing-mrs-ormond-n04466",
+      "id": "13134",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs charles hunter",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04469_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sargent-mrs-charles-hunter-n04469",
+      "id": "13135",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the black brook",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04783_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sargent-the-black-brook-n04783",
+      "id": "13136",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vernon lee",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04787_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sargent-vernon-lee-n04787",
+      "id": "13137",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "val d\u2019aosta",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04791_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sargent-val-daosta-n04791",
+      "id": "13138",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sir philip sassoon",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05052_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sargent-sir-philip-sassoon-n05052",
+      "id": "13139",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "w. graham robertson",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05066_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sargent-w-graham-robertson-n05066",
+      "id": "13140",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "colonel ian hamilton, cb, dso",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05246_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sargent-colonel-ian-hamilton-cb-dso-n05246",
+      "id": "13141",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jean, wife of colonel ian hamilton",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05247_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sargent-jean-wife-of-colonel-ian-hamilton-n05247",
+      "id": "13142",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs frederick barnard",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05901_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sargent-mrs-frederick-barnard-n05901",
+      "id": "13143",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the mountains of moab",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00124_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sargent-the-mountains-of-moab-t00124",
+      "id": "13144",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the plains of esdraelon",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00125_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sargent-the-plains-of-esdraelon-t00125",
+      "id": "13145",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs philip leslie agnew",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00158_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sargent-mrs-philip-leslie-agnew-t00158",
+      "id": "13146",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a nude boy on a beach",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03927_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sargent-a-nude-boy-on-a-beach-t03927",
+      "id": "13147",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13107",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13108",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13109",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13110",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13111",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13113",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13114",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13115",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13116",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13117",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13118",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13119",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13120",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13121",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13122",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13123",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13124",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13125",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13126",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13127",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13128",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13129",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13130",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13131",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13132",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13133",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13134",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13135",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13136",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13137",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13138",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13139",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13140",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13141",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13142",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13143",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13144",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13145",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13146",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13147",
+      "value": 1
+    }
+  ]
+}

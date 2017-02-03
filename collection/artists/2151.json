@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Willson, Terry",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/terry-willson-2151",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "afternoon tea party",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/willson-afternoon-tea-party-p01668",
+      "id": "16220",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16220",
+      "value": 1
+    }
+  ]
+}

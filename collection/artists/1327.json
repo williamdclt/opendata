@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hunter, Leslie",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/leslie-hunter-1327",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "kitchen utensils",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04795_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hunter-kitchen-utensils-n04795",
+      "id": "7001",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "7001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Wootton, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-wootton-613",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "george henry lee, 3rd earl of litchfield, and his uncle the hon. robert lee, subsequently 4th earl of litchfield, shooting in \u2018true blue\u2019 frock coats",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04679_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wootton-george-henry-lee-3rd-earl-of-litchfield-and-his-uncle-the-hon-robert-lee-n04679",
+      "id": "16475",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lady mary churchill at the death of the hare",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02378_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wootton-lady-mary-churchill-at-the-death-of-the-hare-t02378",
+      "id": "16476",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "muff, a black and white dog",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02379_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wootton-muff-a-black-and-white-dog-t02379",
+      "id": "16477",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "viscount weymouth\u2019s hunt: a groom holding a saddled grey hunter with hounds and terriers",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11834_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wootton-viscount-weymouths-hunt-a-groom-holding-a-saddled-grey-hunter-with-hounds-and-t11834",
+      "id": "76031",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "viscount weymouth\u2019s hunt: thomas, 2nd viscount weymouth, with a black page and other huntsmen at the kill",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11835_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wootton-viscount-weymouths-hunt-thomas-2nd-viscount-weymouth-with-a-black-page-and-other-t11835",
+      "id": "76281",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "viscount weymouth\u2019s hunt: mr jackson, the hon. henry villiers and the hon. thomas villiers, with hunters and hounds",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11836_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wootton-viscount-weymouths-hunt-mr-jackson-the-hon-henry-villiers-and-the-hon-thomas-t11836",
+      "id": "76282",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "viscount weymouth\u2019s hunt: the hon. john spencer beside a hunter held by a young boy",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11837_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wootton-viscount-weymouths-hunt-the-hon-john-spencer-beside-a-hunter-held-by-a-young-boy-t11837",
+      "id": "76283",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "viscount weymouth\u2019s hunt: two hunt servants on hunters beside a cottage",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11838_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wootton-viscount-weymouths-hunt-two-hunt-servants-on-hunters-beside-a-cottage-t11838",
+      "id": "76284",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two stallions fighting",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wootton-two-stallions-fighting-t11839",
+      "id": "76285",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "digging out the fox",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wootton-digging-out-the-fox-t11840",
+      "id": "76286",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "life-size horse with huntsman blowing a horn",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12608_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wootton-life-size-horse-with-huntsman-blowing-a-horn-t12608",
+      "id": "102",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16475",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16476",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16477",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "76031",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "76281",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "76282",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "76283",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "76284",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "76285",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "76286",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "102",
+      "value": 1
+    }
+  ]
+}

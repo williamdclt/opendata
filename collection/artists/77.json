@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Calderon, Philip Hermogenes",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/philip-hermogenes-calderon-77",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "st elizabeth of hungary\u2019s great act of renunciation",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01573_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/calderon-st-elizabeth-of-hungarys-great-act-of-renunciation-n01573",
+      "id": "1899",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "by the waters of babylon",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03677_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/calderon-by-the-waters-of-babylon-n03677",
+      "id": "1900",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "half hours with the best authors (\u2018the siesta\u2019)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04211_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/calderon-half-hours-with-the-best-authors-the-siesta-n04211",
+      "id": "1901",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "broken vows",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05780_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/calderon-broken-vows-n05780",
+      "id": "1902",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1899",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1900",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1901",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1902",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Neshat, Shirin",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/shirin-neshat-5459",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "soliloquy",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07970_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/neshat-soliloquy-t07970",
+      "id": "76323",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "76323",
+      "value": 1
+    }
+  ]
+}

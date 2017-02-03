@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Mytens, Daniel, the Elder",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/daniel-mytens-the-elder-396",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "portrait of james hamilton, earl of arran, later 3rd marquis and 1st duke of hamilton, aged 17",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03474_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mytens-portrait-of-james-hamilton-earl-of-arran-later-3rd-marquis-and-1st-duke-of-hamilton-n03474",
+      "id": "10510",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "10510",
+      "value": 1
+    }
+  ]
+}

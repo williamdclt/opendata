@@ -1,0 +1,197 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Wright, Joseph, of Derby",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/joseph-wright-of-derby-615",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "sir brooke boothby",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04132_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wright-sir-brooke-boothby-n04132",
+      "id": "16483",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a moonlight with a lighthouse, coast of tuscany",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05882_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wright-a-moonlight-with-a-lighthouse-coast-of-tuscany-n05882",
+      "id": "16484",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "thomas staniforth of darnall, co. york",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00794_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wright-thomas-staniforth-of-darnall-co-york-t00794",
+      "id": "16485",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a view of catania with mount etna in the distance",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01278_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wright-a-view-of-catania-with-mount-etna-in-the-distance-t01278",
+      "id": "16486",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vesuvius in eruption, with a view over the islands in the bay of naples",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05846_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wright-vesuvius-in-eruption-with-a-view-over-the-islands-in-the-bay-of-naples-t05846",
+      "id": "19383",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "an iron forge",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06670_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wright-an-iron-forge-t06670",
+      "id": "20593",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of an unknown man",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08244_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wright-study-of-an-unknown-man-t08244",
+      "id": "24052",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nice. a tower on a hill. verso: the same ruined castle",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08253_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wright-nice-a-tower-on-a-hill-verso-the-same-ruined-castle-t08253",
+      "id": "24044",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "inside the arcade of the colosseum",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08590_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wright-inside-the-arcade-of-the-colosseum-t08590",
+      "id": "24043",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lake of keswick and skiddaw",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08625_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wright-lake-of-keswick-and-skiddaw-t08625",
+      "id": "24045",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "from heversham",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08626_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wright-from-heversham-t08626",
+      "id": "24046",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lower end of winandermere. verso: drawing",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08627_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wright-lower-end-of-winandermere-verso-drawing-t08627",
+      "id": "24047",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landgollen",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08628_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wright-landgollen-t08628",
+      "id": "24048",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16483",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16484",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16485",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16486",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19383",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20593",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24052",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24044",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24043",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24045",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24046",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24047",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24048",
+      "value": 1
+    }
+  ]
+}

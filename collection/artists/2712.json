@@ -1,0 +1,14 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Freedman, Carl",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/carl-freedman-2712",
+      "id": "Artist",
+      "size": 30
+    }
+  ],
+  "links": []
+}

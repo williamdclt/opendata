@@ -1,0 +1,183 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Wallis, Alfred",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/alfred-wallis-577",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "schooner under the moon",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00219_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wallis-schooner-under-the-moon-t00219",
+      "id": "15896",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "voyage to labrador",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00220_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wallis-voyage-to-labrador-t00220",
+      "id": "15897",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "houses at st ives, cornwall",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00239_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wallis-houses-at-st-ives-cornwall-t00239",
+      "id": "15898",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the blue ship",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00291_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wallis-the-blue-ship-t00291",
+      "id": "15899",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st ives",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00881_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wallis-st-ives-t00881",
+      "id": "15900",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018the hold house port mear square island port mear beach\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01087_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wallis-the-hold-house-port-mear-square-island-port-mear-beach-t01087",
+      "id": "15901",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two-masted ship",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01967_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wallis-two-masted-ship-t01967",
+      "id": "15902",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "string of boats",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01968_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wallis-string-of-boats-t01968",
+      "id": "15903",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "p.z. 11",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01969_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wallis-pz-11-t01969",
+      "id": "15904",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two boats",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01970_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wallis-two-boats-t01970",
+      "id": "15905",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wreck of the alba",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06871_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wallis-wreck-of-the-alba-t06871",
+      "id": "21044",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "boats at rest in mount\u2019s bay",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07924_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wallis-boats-at-rest-in-mounts-bay-t07924",
+      "id": "75479",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "15896",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15897",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15898",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15899",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15900",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15901",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15902",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15903",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15904",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15905",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21044",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "75479",
+      "value": 1
+    }
+  ]
+}

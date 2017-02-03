@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Merritt, Anna Lea",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/anna-lea-merritt-378",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "love locked out",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01578_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/merritt-love-locked-out-n01578",
+      "id": "9450",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9450",
+      "value": 1
+    }
+  ]
+}

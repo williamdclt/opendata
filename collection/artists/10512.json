@@ -1,0 +1,267 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Woodman, Francesca",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/francesca-woodman-10512",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00347_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodman-untitled-ar00347",
+      "id": "93173",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "eel series, roma, may 1977 - august 1978",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00348_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodman-eel-series-roma-may-1977-august-1978-ar00348",
+      "id": "93174",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "space\u00b2, providence, rhode island, 1975-1978",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00349_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodman-space2-providence-rhode-island-1975-1978-ar00349",
+      "id": "93175",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "space\u00b2, providence, rhode island, 1975-1978",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00350_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodman-space2-providence-rhode-island-1975-1978-ar00350",
+      "id": "93176",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00351_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodman-untitled-ar00351",
+      "id": "93177",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "providence, rhode island, 1976",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00352_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodman-providence-rhode-island-1976-ar00352",
+      "id": "93178",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "italy, may 1977 - august 1978",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00353_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodman-italy-may-1977-august-1978-ar00353",
+      "id": "93179",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "from angel series, roma, september 1977",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00354_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodman-from-angel-series-roma-september-1977-ar00354",
+      "id": "93180",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00355_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodman-untitled-ar00355",
+      "id": "93181",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00356_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodman-untitled-ar00356",
+      "id": "93182",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00357_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodman-untitled-ar00357",
+      "id": "93183",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00358_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodman-untitled-ar00358",
+      "id": "93184",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00359_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodman-untitled-ar00359",
+      "id": "93185",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00360_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodman-untitled-ar00360",
+      "id": "93186",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00361_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodman-untitled-ar00361",
+      "id": "93187",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00362_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodman-untitled-ar00362",
+      "id": "93188",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00363_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodman-untitled-ar00363",
+      "id": "93189",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (fw crouching behind umbrella)",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00364_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodman-untitled-fw-crouching-behind-umbrella-ar00364",
+      "id": "93190",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "93173",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93174",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93175",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93176",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93177",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93178",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93179",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93180",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93181",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93182",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93183",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93184",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93185",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93186",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93187",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93188",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93189",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93190",
+      "value": 1
+    }
+  ]
+}

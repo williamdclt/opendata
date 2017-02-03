@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Van Aken, Joseph",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/joseph-van-aken-562",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "an english family at tea",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04500_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/van-aken-an-english-family-at-tea-n04500",
+      "id": "15689",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "15689",
+      "value": 1
+    }
+  ]
+}

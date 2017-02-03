@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Lee, Catherine",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/catherine-lee-2246",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "unica 39",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11225_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lee-unica-39-p11225",
+      "id": "17345",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "17345",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Smith, John `Warwick'",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-warwick-smith-508",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "st peter\u2019s from the villa milleni near rome",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01018_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-st-peters-from-the-villa-milleni-near-rome-t01018",
+      "id": "13505",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the temple of sibyl at tivoli",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08207_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-the-temple-of-sibyl-at-tivoli-t08207",
+      "id": "23553",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ariccia, palazzo chigi",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08484_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-ariccia-palazzo-chigi-t08484",
+      "id": "23579",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tivoli",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08485_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-tivoli-t08485",
+      "id": "23578",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "outside porta pia, rome",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08486_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-outside-porta-pia-rome-t08486",
+      "id": "23582",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mendrisio",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08487_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-mendrisio-t08487",
+      "id": "23583",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "1. tombs in the campo elisio",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08488_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-1-tombs-in-the-campo-elisio-t08488",
+      "id": "23554",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "2. tombs in the campo elisio",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08489_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-2-tombs-in-the-campo-elisio-t08489",
+      "id": "23555",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "3. the arco felice",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08490_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-3-the-arco-felice-t08490",
+      "id": "23556",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "4. from pausilipo",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08491_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-4-from-pausilipo-t08491",
+      "id": "23557",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "5. grotto of pausilippo",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08492_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-5-grotto-of-pausilippo-t08492",
+      "id": "23558",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "6. near castel \u00e0 mare",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08493_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-6-near-castel-a-mare-t08493",
+      "id": "23559",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "7. near sorento",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08494_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-7-near-sorento-t08494",
+      "id": "23560",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "8. near sorento",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08495_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-8-near-sorento-t08495",
+      "id": "23561",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "9. landing of capraea",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08496_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-9-landing-of-capraea-t08496",
+      "id": "23562",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "10. ruins of tiberius\u2019 palace, capraea",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08497_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-10-ruins-of-tiberius-palace-capraea-t08497",
+      "id": "23563",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "11. capraea",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08498_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-11-capraea-t08498",
+      "id": "23564",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "12. coast of sorrento",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08499_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-12-coast-of-sorrento-t08499",
+      "id": "23565",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[13] port of vietri",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08500_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-13-port-of-vietri-t08500",
+      "id": "23566",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[14] view near vietri",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08501_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-14-view-near-vietri-t08501",
+      "id": "23567",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[15] [bridge near vietri]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08502_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-15-bridge-near-vietri-t08502",
+      "id": "23568",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[16] paper mills at vietri",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08503_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-16-paper-mills-at-vietri-t08503",
+      "id": "23569",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[17] [near la cava]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08504_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-17-near-la-cava-t08504",
+      "id": "23570",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[18] view of vietri",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08505_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-18-view-of-vietri-t08505",
+      "id": "23571",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "19. covent of la trinit\u00e0 near la cava",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08506_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-19-covent-of-la-trinita-near-la-cava-t08506",
+      "id": "23572",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "20. otrano, bay of salerno",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08507_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-20-otrano-bay-of-salerno-t08507",
+      "id": "23573",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "21. near amalfi",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08508_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-21-near-amalfi-t08508",
+      "id": "23574",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "22. city of naples form mont vesuvius",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08509_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-22-city-of-naples-form-mont-vesuvius-t08509",
+      "id": "23575",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[23] palace of portici and view",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08510_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-23-palace-of-portici-and-view-t08510",
+      "id": "23576",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[24] crater [of vesuvius]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08511_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-24-crater-of-vesuvius-t08511",
+      "id": "23577",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "an italian hill town",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08622_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-an-italian-hill-town-t08622",
+      "id": "23584",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "perugia",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08623_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-perugia-t08623",
+      "id": "23580",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view in switzerland",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08624_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-view-in-switzerland-t08624",
+      "id": "23581",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chestnut trees, morning. frascati",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08633_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-chestnut-trees-morning-frascati-t08633",
+      "id": "23548",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chestnut trees, morning. frascati",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08634_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-chestnut-trees-morning-frascati-t08634",
+      "id": "23549",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "monte cassino",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09261_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-monte-cassino-t09261",
+      "id": "23552",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "otrano, bay of salerno",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09266_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-otrano-bay-of-salerno-t09266",
+      "id": "23551",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a convent at surrentum",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09271_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-a-convent-at-surrentum-t09271",
+      "id": "23550",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13505",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23553",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23579",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23578",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23582",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23583",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23554",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23555",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23556",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23557",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23558",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23559",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23560",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23561",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23562",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23563",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23564",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23565",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23566",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23567",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23568",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23569",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23570",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23571",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23572",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23573",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23574",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23575",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23576",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23577",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23584",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23580",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23581",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23548",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23549",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23552",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23551",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23550",
+      "value": 1
+    }
+  ]
+}

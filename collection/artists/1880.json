@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Roy, Pierre",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/pierre-roy-1880",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a naturalist\u2019s study",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01182_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roy-a-naturalists-study-t01182",
+      "id": "13006",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "boris anrep in his studio, 65 boulevard arago",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03537_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roy-boris-anrep-in-his-studio-65-boulevard-arago-t03537",
+      "id": "13007",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13006",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13007",
+      "value": 1
+    }
+  ]
+}

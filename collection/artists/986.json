@@ -1,0 +1,505 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Deacon, Richard",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/richard-deacon-986",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a curious potato",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11441_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deacon-a-curious-potato-p11441",
+      "id": "22128",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a curious carrot",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11442_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deacon-a-curious-carrot-p11442",
+      "id": "22137",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a curious apple",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11443_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deacon-a-curious-apple-p11443",
+      "id": "22138",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "another curious potato",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11444_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deacon-another-curious-potato-p11444",
+      "id": "22139",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "another curious carrot",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11445_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deacon-another-curious-carrot-p11445",
+      "id": "22140",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "muzot #1",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77252_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deacon-muzot-1-p77252",
+      "id": "3672",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "muzot #2",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77253_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deacon-muzot-2-p77253",
+      "id": "3673",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "muzot #3",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77254_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deacon-muzot-3-p77254",
+      "id": "3674",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "muzot #4",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77255_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deacon-muzot-4-p77255",
+      "id": "3675",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77993_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deacon-no-title-p77993",
+      "id": "22021",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77994_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deacon-no-title-p77994",
+      "id": "22032",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77995_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deacon-no-title-p77995",
+      "id": "22031",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77996_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deacon-no-title-p77996",
+      "id": "22030",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77997_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deacon-no-title-p77997",
+      "id": "22029",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77998_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deacon-no-title-p77998",
+      "id": "22028",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77999_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deacon-no-title-p77999",
+      "id": "22027",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78000_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deacon-no-title-p78000",
+      "id": "22026",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78001_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deacon-no-title-p78001",
+      "id": "22025",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78002_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deacon-no-title-p78002",
+      "id": "22024",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78003_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deacon-no-title-p78003",
+      "id": "22023",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78004_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deacon-no-title-p78004",
+      "id": "22022",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "for those who have ears #2",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03958_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deacon-for-those-who-have-ears-2-t03958",
+      "id": "3676",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "it\u2019s orpheus when there\u2019s singing #7",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04859_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deacon-its-orpheus-when-theres-singing-7-t04859",
+      "id": "3677",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled drawing",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05208_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deacon-untitled-drawing-t05208",
+      "id": "8755",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled drawing",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05209_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deacon-untitled-drawing-t05209",
+      "id": "11329",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "struck dumb",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05558_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deacon-struck-dumb-t05558",
+      "id": "17410",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "this, that and the other",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06529_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deacon-this-that-and-the-other-t06529",
+      "id": "20347",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "if the shoe fits",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07321_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deacon-if-the-shoe-fits-t07321",
+      "id": "25952",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "after",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07867_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deacon-after-t07867",
+      "id": "223",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "art for other people #24",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deacon-art-for-other-people-24-t12238",
+      "id": "87250",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tomorrow, and tomorrow, and tomorrow (k)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deacon-tomorrow-and-tomorrow-and-tomorrow-k-t12266",
+      "id": "75925",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "art for other people #14",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deacon-art-for-other-people-14-t12306",
+      "id": "90155",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "art for other people #12",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13211_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deacon-art-for-other-people-12-t13211",
+      "id": "110116",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "art for other people #6",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13212_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deacon-art-for-other-people-6-t13212",
+      "id": "110117",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "restless",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deacon-restless-t13426",
+      "id": "112234",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "22128",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22137",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22138",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22139",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22140",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3672",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3673",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3674",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3675",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22021",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22032",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22031",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22030",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22029",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22028",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22027",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22026",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22025",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22024",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22023",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22022",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3676",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3677",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8755",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11329",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17410",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20347",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25952",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "223",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "87250",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "75925",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90155",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "110116",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "110117",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112234",
+      "value": 1
+    }
+  ]
+}

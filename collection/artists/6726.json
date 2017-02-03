@@ -1,0 +1,141 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Sultan, Donald",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/donald-sultan-6726",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "four red flowers may 17 1999",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sultan-four-red-flowers-may-17-1999-p12374",
+      "id": "80739",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blue flowers may 19 1999",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sultan-blue-flowers-may-19-1999-p12375",
+      "id": "80740",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black flowers sept 26 1999",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sultan-black-flowers-sept-26-1999-p12376",
+      "id": "80741",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "six red flowers oct 28 1999",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sultan-six-red-flowers-oct-28-1999-p12377",
+      "id": "80742",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black eggs and roses may 22 2000",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12378_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sultan-black-eggs-and-roses-may-22-2000-p12378",
+      "id": "80743",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "eight ball feb 14 1996",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sultan-eight-ball-feb-14-1996-p12379",
+      "id": "80744",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "orange feb 27 1996",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12380_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sultan-orange-feb-27-1996-p12380",
+      "id": "80745",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "button march 1 1996",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12381_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sultan-button-march-1-1996-p12381",
+      "id": "80746",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "butterfly feb 26 1996",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sultan-butterfly-feb-26-1996-p12382",
+      "id": "80747",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "80739",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80740",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80741",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80742",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80743",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80744",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80745",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80746",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80747",
+      "value": 1
+    }
+  ]
+}

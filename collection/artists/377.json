@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Mercier, Philip",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/philip-mercier-377",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a girl sewing",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00759_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mercier-a-girl-sewing-t00759",
+      "id": "9447",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a music party",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00922_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mercier-a-music-party-t00922",
+      "id": "9448",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the schutz family and their friends on a terrace",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03065_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mercier-the-schutz-family-and-their-friends-on-a-terrace-t03065",
+      "id": "9449",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9447",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9448",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9449",
+      "value": 1
+    }
+  ]
+}

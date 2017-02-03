@@ -1,0 +1,505 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Lichtenstein, Roy",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/roy-lichtenstein-1508",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "moonscape",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01795_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lichtenstein-moonscape-p01795",
+      "id": "8769",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "explosion",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01796_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lichtenstein-explosion-p01796",
+      "id": "8770",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (paper plate)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01831_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lichtenstein-untitled-paper-plate-p01831",
+      "id": "8771",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "brushstroke",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07354_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lichtenstein-brushstroke-p07354",
+      "id": "8772",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "haystacks #1",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07407_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lichtenstein-haystacks-1-p07407",
+      "id": "8773",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "haystacks #2",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07408_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lichtenstein-haystacks-2-p07408",
+      "id": "8774",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "haystacks #3",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07409_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lichtenstein-haystacks-3-p07409",
+      "id": "8775",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "haystacks #4",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07410_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lichtenstein-haystacks-4-p07410",
+      "id": "8776",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "haystacks #5",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07411_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lichtenstein-haystacks-5-p07411",
+      "id": "8777",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "haystacks #6",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07412_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lichtenstein-haystacks-6-p07412",
+      "id": "8778",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "haystacks #7",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07413_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lichtenstein-haystacks-7-p07413",
+      "id": "8779",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bull i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11482_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lichtenstein-bull-i-p11482",
+      "id": "22122",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bull ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11483_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lichtenstein-bull-ii-p11483",
+      "id": "22192",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bull iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11484_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lichtenstein-bull-iii-p11484",
+      "id": "22191",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bull iv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11485_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lichtenstein-bull-iv-p11485",
+      "id": "22190",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bull v",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11486_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lichtenstein-bull-v-p11486",
+      "id": "22189",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bull vi",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11487_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lichtenstein-bull-vi-p11487",
+      "id": "22188",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reflections on hair",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lichtenstein-reflections-on-hair-p12127",
+      "id": "79502",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reflections on brushstrokes",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12128_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lichtenstein-reflections-on-brushstrokes-p12128",
+      "id": "79519",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "american indian theme iv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12129_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lichtenstein-american-indian-theme-iv-p12129",
+      "id": "79520",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "interior with chair",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lichtenstein-interior-with-chair-p13301",
+      "id": "66892",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life with portrait from \u2018six still lifes\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77053_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lichtenstein-still-life-with-portrait-from-six-still-lifes-p77053",
+      "id": "8780",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "painting in gold frame from \u2018paintings\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77054_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lichtenstein-painting-in-gold-frame-from-paintings-p77054",
+      "id": "8781",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sandwich and soda",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77811_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lichtenstein-sandwich-and-soda-p77811",
+      "id": "21525",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "entablature iv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78374_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lichtenstein-entablature-iv-p78374",
+      "id": "27254",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "entablature v",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78375_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lichtenstein-entablature-v-p78375",
+      "id": "27255",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "entablature vi",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78376_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lichtenstein-entablature-vi-p78376",
+      "id": "27256",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "entablature vii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78377_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lichtenstein-entablature-vii-p78377",
+      "id": "27257",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "entablature viii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78378_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lichtenstein-entablature-viii-p78378",
+      "id": "27258",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "entablature ix",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78379_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lichtenstein-entablature-ix-p78379",
+      "id": "27259",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "whaam!",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00897_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lichtenstein-whaam-t00897",
+      "id": "8782",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "set of dinnerware objects: dinner plate, soup dish, salad plate, side plate, saucer, cup",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00963_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lichtenstein-set-of-dinnerware-objects-dinner-plate-soup-dish-salad-plate-side-plate-t00963",
+      "id": "8783",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018whaam!\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01131_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lichtenstein-drawing-for-whaam-t01131",
+      "id": "8784",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wall explosion ii",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03083_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lichtenstein-wall-explosion-ii-t03083",
+      "id": "8785",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "interior with waterlilies",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07339_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lichtenstein-interior-with-waterlilies-t07339",
+      "id": "25987",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8769",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8770",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8771",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8772",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8773",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8774",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8775",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8776",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8777",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8778",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8779",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22122",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22192",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22191",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22190",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22189",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22188",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79502",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79519",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79520",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66892",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8780",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8781",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21525",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27254",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27255",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27256",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27257",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27258",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27259",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8782",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8783",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8784",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8785",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25987",
+      "value": 1
+    }
+  ]
+}

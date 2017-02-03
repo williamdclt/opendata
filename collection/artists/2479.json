@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Aylesford, Heneage Finch, Fifth Earl of",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/heneage-finch-fifth-earl-of-aylesford-2479",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "cottages and trees",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08732_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/aylesford-cottages-and-trees-t08732",
+      "id": "22268",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "22268",
+      "value": 1
+    }
+  ]
+}

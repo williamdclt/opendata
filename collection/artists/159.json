@@ -1,0 +1,505 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Downman, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-downman-159",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "lady clarges",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02233_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/downman-lady-clarges-n02233",
+      "id": "3995",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sir ralph abercromby (?) and companion",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03316_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/downman-sir-ralph-abercromby-and-companion-n03316",
+      "id": "3996",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lady delaval (?)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03544_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/downman-lady-delaval-n03544",
+      "id": "3997",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "miss jackson",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01885_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/downman-miss-jackson-t01885",
+      "id": "3998",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mr currie. half length, in profile to left",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08872_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/downman-mr-currie-half-length-in-profile-to-left-t08872",
+      "id": "22834",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "river and trees; and a hilly landscape, trees on the left",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08874_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/downman-river-and-trees-and-a-hilly-landscape-trees-on-the-left-t08874",
+      "id": "22836",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "in the wood near lerici",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08880_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/downman-in-the-wood-near-lerici-t08880",
+      "id": "22826",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "in the wood near albano",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09403_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/downman-in-the-wood-near-albano-t09403",
+      "id": "22814",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the town of marino",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09406_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/downman-the-town-of-marino-t09406",
+      "id": "22818",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the lateran, rome",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09407_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/downman-the-lateran-rome-t09407",
+      "id": "22822",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rocca del papa and monte cavo",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09408_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/downman-rocca-del-papa-and-monte-cavo-t09408",
+      "id": "22813",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "monte jove",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09409_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/downman-monte-jove-t09409",
+      "id": "22820",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the wood near marino",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09410_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/downman-the-wood-near-marino-t09410",
+      "id": "22821",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "trees near albano. light trees",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09411_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/downman-trees-near-albano-light-trees-t09411",
+      "id": "22816",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "in the wood near albano",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09412_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/downman-in-the-wood-near-albano-t09412",
+      "id": "22811",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a tree in the wood near albano",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09413_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/downman-a-tree-in-the-wood-near-albano-t09413",
+      "id": "22825",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view on the banks of the tiber three miles from rome",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09524_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/downman-view-on-the-banks-of-the-tiber-three-miles-from-rome-t09524",
+      "id": "22815",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a tree",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09525_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/downman-a-tree-t09525",
+      "id": "22824",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the colosseum, rome",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09526_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/downman-the-colosseum-rome-t09526",
+      "id": "22823",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view near nice: the rock on the sea shore",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09543_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/downman-view-near-nice-the-rock-on-the-sea-shore-t09543",
+      "id": "22827",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "near the city of nice. (a wide valley)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09544_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/downman-near-the-city-of-nice-a-wide-valley-t09544",
+      "id": "22829",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a woman artist. verso: two groups of three heads",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09599_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/downman-a-woman-artist-verso-two-groups-of-three-heads-t09599",
+      "id": "22832",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a kitten",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10166_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/downman-a-kitten-t10166",
+      "id": "22830",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rock on the seashore at nice",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10167_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/downman-rock-on-the-seashore-at-nice-t10167",
+      "id": "22835",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "thomas williams, a black sailor",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10168_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/downman-thomas-williams-a-black-sailor-t10168",
+      "id": "22833",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of roof tops, nice",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10169_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/downman-view-of-roof-tops-nice-t10169",
+      "id": "22808",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "entrance to a villa in the walls of rome",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10170_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/downman-entrance-to-a-villa-in-the-walls-of-rome-t10170",
+      "id": "22807",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "celadon and amelia",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10171_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/downman-celadon-and-amelia-t10171",
+      "id": "22837",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "in the wood near albano",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10172_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/downman-in-the-wood-near-albano-t10172",
+      "id": "22810",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a sleeping girl",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10173_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/downman-a-sleeping-girl-t10173",
+      "id": "22831",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the crater of vesuvius",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10174_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/downman-the-crater-of-vesuvius-t10174",
+      "id": "22809",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chigi park near l\u2019arriccia",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10175_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/downman-chigi-park-near-larriccia-t10175",
+      "id": "22817",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a tree trunk near albano",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10176_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/downman-a-tree-trunk-near-albano-t10176",
+      "id": "22812",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view near nice: a cave on the shore",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10433_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/downman-view-near-nice-a-cave-on-the-shore-t10433",
+      "id": "22828",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "in hadrian\u2019s villa, tivoli",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10434_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/downman-in-hadrians-villa-tivoli-t10434",
+      "id": "22819",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "3995",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3996",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3997",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3998",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22834",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22836",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22826",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22814",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22818",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22822",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22813",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22820",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22821",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22816",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22811",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22825",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22815",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22824",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22823",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22827",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22829",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22832",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22830",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22835",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22833",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22808",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22807",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22837",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22810",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22831",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22809",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22817",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22812",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22828",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22819",
+      "value": 1
+    }
+  ]
+}

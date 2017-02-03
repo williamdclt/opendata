@@ -1,0 +1,449 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Wilding, Alison",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/alison-wilding-2146",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77738_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilding-no-title-p77738",
+      "id": "21271",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77739_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilding-no-title-p77739",
+      "id": "21274",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77740_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilding-no-title-p77740",
+      "id": "21272",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77741_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilding-no-title-p77741",
+      "id": "21273",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "airing light",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilding-airing-light-t04912",
+      "id": "16165",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (angry drawing i)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05859_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilding-untitled-angry-drawing-i-t05859",
+      "id": "19432",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (angry drawing iv)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05860_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilding-untitled-angry-drawing-iv-t05860",
+      "id": "19429",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05861_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilding-untitled-t05861",
+      "id": "19430",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05862_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilding-untitled-t05862",
+      "id": "19431",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "locust",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06491_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilding-locust-t06491",
+      "id": "20201",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "receiver",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilding-receiver-t06492",
+      "id": "20213",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "on the day",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06515_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilding-on-the-day-t06515",
+      "id": "20247",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "assembly",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11759_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilding-assembly-t11759",
+      "id": "78670",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "harbour",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilding-harbour-t11760",
+      "id": "78671",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "all cats",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilding-all-cats-t13541",
+      "id": "114282",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "all cats",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilding-all-cats-t13542",
+      "id": "114284",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "all cats",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilding-all-cats-t13543",
+      "id": "114285",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "all cats",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilding-all-cats-t13544",
+      "id": "114286",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "all cats",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilding-all-cats-t13545",
+      "id": "114287",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "all cats",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilding-all-cats-t13546",
+      "id": "114288",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled 3",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilding-untitled-3-t13547",
+      "id": "114268",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled 4",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilding-untitled-4-t13548",
+      "id": "114270",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled 5",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilding-untitled-5-t13549",
+      "id": "114271",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "elephant 3",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13550_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilding-elephant-3-t13550",
+      "id": "114272",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hathor drawing 3",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilding-hathor-drawing-3-t13551",
+      "id": "114274",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hathor drawing 6",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilding-hathor-drawing-6-t13552",
+      "id": "114276",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hathor drawing 8",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilding-hathor-drawing-8-t13553",
+      "id": "114277",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hathor drawing 9",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilding-hathor-drawing-9-t13554",
+      "id": "114278",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "migration series 5",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilding-migration-series-5-t13555",
+      "id": "114279",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "impact series 8",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilding-impact-series-8-t13556",
+      "id": "114280",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vanish & detail",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilding-vanish-detail-t13783",
+      "id": "126356",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "21271",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21274",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21272",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21273",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16165",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19432",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19429",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19430",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19431",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20201",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20213",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20247",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78670",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78671",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114282",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114284",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114285",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114286",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114287",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114288",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114268",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114270",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114271",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114272",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114274",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114276",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114277",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114278",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114279",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114280",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "126356",
+      "value": 1
+    }
+  ]
+}

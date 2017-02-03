@@ -1,0 +1,155 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Pich\u00e9, Roland",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/roland-piche-1769",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "yellow square",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piche-yellow-square-p04995",
+      "id": "11872",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "yellow bridge",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piche-yellow-bridge-p04996",
+      "id": "11873",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "river in red, yellow and blue",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piche-river-in-red-yellow-and-blue-p04997",
+      "id": "11874",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "roundabout",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piche-roundabout-p04998",
+      "id": "11875",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "summer portrait",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piche-summer-portrait-p04999",
+      "id": "11876",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "yellow and red spaceframe",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piche-yellow-and-red-spaceframe-p05001",
+      "id": "11877",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "essex landscape",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piche-essex-landscape-p05002",
+      "id": "11878",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bar-b.q.",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piche-bar-bq-p05003",
+      "id": "11879",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "holland park",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piche-holland-park-p05004",
+      "id": "11880",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait head",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piche-portrait-head-p05005",
+      "id": "11881",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "11872",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11873",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11874",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11875",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11876",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11877",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11878",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11879",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11880",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11881",
+      "value": 1
+    }
+  ]
+}

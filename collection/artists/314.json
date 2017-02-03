@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Knight, John Prescott",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-prescott-knight-314",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "sacking a church at the time of john knox",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01498_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/knight-sacking-a-church-at-the-time-of-john-knox-n01498",
+      "id": "8160",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8160",
+      "value": 1
+    }
+  ]
+}

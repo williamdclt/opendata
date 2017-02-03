@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Groth, Jan",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/jan-groth-1224",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "drawing, untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02244_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/groth-drawing-untitled-t02244",
+      "id": "5718",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing, untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02245_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/groth-drawing-untitled-t02245",
+      "id": "5719",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5718",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5719",
+      "value": 1
+    }
+  ]
+}

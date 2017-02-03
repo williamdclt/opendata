@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hershman, Lynn",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/lynn-hershman-13108",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "roberta construction chart #1",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hershman-roberta-construction-chart-1-p20339",
+      "id": "106696",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "roberta\u2019s body language chart",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20340_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hershman-robertas-body-language-chart-p20340",
+      "id": "106697",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (roberta\u2019s signature in guest book)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20341_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hershman-untitled-robertas-signature-in-guest-book-p20341",
+      "id": "106699",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lay off & leave me alone",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hershman-lay-off-leave-me-alone-p20342",
+      "id": "106700",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "check",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13026_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hershman-check-t13026",
+      "id": "106698",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "106696",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106697",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106699",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106700",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106698",
+      "value": 1
+    }
+  ]
+}

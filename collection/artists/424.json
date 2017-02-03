@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Pickersgill, Frederick Richard",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/frederick-richard-pickersgill-424",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "amoret, aemylia and prince arthur, in the cottage of sclaunder",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00445_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pickersgill-amoret-aemylia-and-prince-arthur-in-the-cottage-of-sclaunder-n00445",
+      "id": "11885",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "11885",
+      "value": 1
+    }
+  ]
+}

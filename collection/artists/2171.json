@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Wotruba, Fritz",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/fritz-wotruba-2171",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "standing figure",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wotruba-standing-figure-n06013",
+      "id": "16478",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16478",
+      "value": 1
+    }
+  ]
+}

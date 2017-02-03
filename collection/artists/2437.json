@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Leech, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-leech-2437",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "leading in the winner",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09067_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leech-leading-in-the-winner-t09067",
+      "id": "23146",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018punch\u2019: an old woman and two children",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09070_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leech-drawing-for-punch-an-old-woman-and-two-children-t09070",
+      "id": "23148",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018punch\u2019: scene at a bar",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09071_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leech-drawing-for-punch-scene-at-a-bar-t09071",
+      "id": "23149",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018punch\u2019: a runaway hansom cab",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09076_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leech-drawing-for-punch-a-runaway-hansom-cab-t09076",
+      "id": "23150",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018punch\u2019: scene in the row",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09077_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leech-drawing-for-punch-scene-in-the-row-t09077",
+      "id": "23151",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bathing",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09575_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leech-bathing-t09575",
+      "id": "23147",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "23146",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23148",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23149",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23150",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23151",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23147",
+      "value": 1
+    }
+  ]
+}

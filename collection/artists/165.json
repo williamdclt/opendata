@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "East, Sir Alfred",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-alfred-east-165",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "golden autumn",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04917_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/east-golden-autumn-n04917",
+      "id": "4073",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4073",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Blake, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-blake-762",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "1. 2 & 1. 3",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-1-2-1-3-p08007",
+      "id": "1000",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "six hundred eyes for krzysztofory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blake-six-hundred-eyes-for-krzysztofory-p77117",
+      "id": "1001",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1000",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1001",
+      "value": 1
+    }
+  ]
+}

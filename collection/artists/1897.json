@@ -1,0 +1,253 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Sandys, Edwina",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/edwina-sandys-1897",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "bowl of flowers",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandys-bowl-of-flowers-p06526",
+      "id": "13078",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "circus",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandys-circus-p06527",
+      "id": "13079",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cardplayers",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandys-cardplayers-p06528",
+      "id": "13080",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "couples",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandys-couples-p06529",
+      "id": "13081",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "daffodils",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandys-daffodils-p06530",
+      "id": "13082",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "green nude",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandys-green-nude-p06531",
+      "id": "13083",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "moonscape",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandys-moonscape-p06532",
+      "id": "13084",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "peace",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandys-peace-p06533",
+      "id": "13085",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "double vision",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandys-double-vision-p06534",
+      "id": "13086",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sea shells",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandys-sea-shells-p06535",
+      "id": "13087",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "frolic on the green",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandys-frolic-on-the-green-p06808",
+      "id": "13088",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "backgammon",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandys-backgammon-p06809",
+      "id": "13089",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "another bouquet",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandys-another-bouquet-p06810",
+      "id": "13090",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandys-no-title-p06811",
+      "id": "13091",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandys-no-title-p06812",
+      "id": "13092",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandys-no-title-p06813",
+      "id": "13093",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandys-no-title-p06814",
+      "id": "13094",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13078",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13079",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13080",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13081",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13082",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13083",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13084",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13085",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13086",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13087",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13088",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13089",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13090",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13091",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13092",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13093",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13094",
+      "value": 1
+    }
+  ]
+}

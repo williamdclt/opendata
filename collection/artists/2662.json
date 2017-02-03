@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Wyn Evans, Cerith",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/cerith-wyn-evans-2662",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the return of the return of the durutti column",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wyn-evans-the-return-of-the-return-of-the-durutti-column-p78087",
+      "id": "26123",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "automatic ink drawing, kyoto (2011)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79792_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wyn-evans-automatic-ink-drawing-kyoto-2011-p79792",
+      "id": "105090",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "firework text (pasolini)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P80/P80080_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wyn-evans-firework-text-pasolini-p80080",
+      "id": "114064",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "inverse reverse perverse",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07935_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wyn-evans-inverse-reverse-perverse-t07935",
+      "id": "75507",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "in girum imus nocte et consumimur igni",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12314_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wyn-evans-in-girum-imus-nocte-et-consumimur-igni-t12314",
+      "id": "88439",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "has the film already started?",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wyn-evans-has-the-film-already-started-t13642",
+      "id": "114065",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "astrophotography...the traditional measure of photographic speed in astronomy...\u2019 by siegfried marx (1987)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13645_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wyn-evans-astrophotographythe-traditional-measure-of-photographic-speed-in-astronomy-by-t13645",
+      "id": "114066",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "26123",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "105090",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114064",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "75507",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88439",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114065",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114066",
+      "value": 1
+    }
+  ]
+}

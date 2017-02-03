@@ -1,0 +1,225 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Kennard, Peter",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/peter-kennard-10184",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "walter benjamin",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13021_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kennard-walter-benjamin-p13021",
+      "id": "93470",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "miner",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12472_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kennard-miner-t12472",
+      "id": "93788",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "apartheid south africa",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12473_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kennard-apartheid-south-africa-t12473",
+      "id": "93791",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rubble",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12474_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kennard-rubble-t12474",
+      "id": "93883",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "decoration",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12475_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kennard-decoration-t12475",
+      "id": "93884",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "conversion",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12476_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kennard-conversion-t12476",
+      "id": "93885",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "walter benjamin",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12477_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kennard-walter-benjamin-t12477",
+      "id": "93887",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "protest and survive",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12478_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kennard-protest-and-survive-t12478",
+      "id": "92037",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "defended to death",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12479_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kennard-defended-to-death-t12479",
+      "id": "92041",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "who killed blair peach?",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12480_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kennard-who-killed-blair-peach-t12480",
+      "id": "92045",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the kissinger mind",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12481_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kennard-the-kissinger-mind-t12481",
+      "id": "92047",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "disappeared prisoners",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12482_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kennard-disappeared-prisoners-t12482",
+      "id": "92054",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "broken missile",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12483_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kennard-broken-missile-t12483",
+      "id": "92055",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "haywain with cruise missiles",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12484_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kennard-haywain-with-cruise-missiles-t12484",
+      "id": "92060",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "maggie regina",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12485_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kennard-maggie-regina-t12485",
+      "id": "92072",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "93470",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93788",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93791",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93883",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93884",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93885",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93887",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "92037",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "92041",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "92045",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "92047",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "92054",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "92055",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "92060",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "92072",
+      "value": 1
+    }
+  ]
+}

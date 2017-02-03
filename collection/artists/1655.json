@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Montpetit, Guy",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/guy-montpetit-1655",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the flying man",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03174_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/montpetit-the-flying-man-p03174",
+      "id": "9643",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9643",
+      "value": 1
+    }
+  ]
+}

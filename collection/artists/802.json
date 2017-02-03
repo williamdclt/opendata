@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Brangwyn, Sir Frank",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-frank-brangwyn-802",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the poulterer\u2019s shop",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brangwyn-the-poulterers-shop-n03151",
+      "id": "1434",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "making sailors: youthful ambition",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03011_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brangwyn-making-sailors-youthful-ambition-p03011",
+      "id": "1435",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "making sailors: the lookout",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03012_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brangwyn-making-sailors-the-lookout-p03012",
+      "id": "1436",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "making sailors: going abroad",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03013_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brangwyn-making-sailors-going-abroad-p03013",
+      "id": "1437",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "making sailors: the gun",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03014_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brangwyn-making-sailors-the-gun-p03014",
+      "id": "1438",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "making sailors: \u2018duff\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03015_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brangwyn-making-sailors-duff-p03015",
+      "id": "1439",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "making sailors: boatdrill",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03016_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brangwyn-making-sailors-boatdrill-p03016",
+      "id": "1440",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1434",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1435",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1436",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1437",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1438",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1439",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1440",
+      "value": 1
+    }
+  ]
+}

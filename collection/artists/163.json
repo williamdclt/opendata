@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Drury, Alfred",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/alfred-drury-163",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "griselda",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/drury-griselda-n01757",
+      "id": "4062",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4062",
+      "value": 1
+    }
+  ]
+}

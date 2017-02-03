@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Wyllie, Charles William",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/charles-william-wyllie-617",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "digging for bait",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01594_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wyllie-digging-for-bait-n01594",
+      "id": "16492",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16492",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Kindersley, David",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/david-kindersley-1408",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "letters are things",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06320_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kindersley-letters-are-things-p06320",
+      "id": "7941",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "quality before quantity",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06321_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kindersley-quality-before-quantity-p06321",
+      "id": "7942",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "7941",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7942",
+      "value": 1
+    }
+  ]
+}

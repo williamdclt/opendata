@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Millner, William Edwards",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/william-edwards-millner-380",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a wayside gossip",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01140_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millner-a-wayside-gossip-t01140",
+      "id": "9552",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9552",
+      "value": 1
+    }
+  ]
+}

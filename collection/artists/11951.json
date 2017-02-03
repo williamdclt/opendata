@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Bruton, Jo",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/jo-bruton-11951",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "capitaine can can",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79359_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bruton-capitaine-can-can-p79359",
+      "id": "100705",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "100705",
+      "value": 1
+    }
+  ]
+}

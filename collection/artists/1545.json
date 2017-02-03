@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Mackenzie, Alix",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/alix-mackenzie-1545",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "gull on porch",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mackenzie-gull-on-porch-p11096",
+      "id": "9109",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "child and bird",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mackenzie-child-and-bird-p11097",
+      "id": "9110",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cornish fields",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mackenzie-cornish-fields-p11098",
+      "id": "9111",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9109",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9110",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9111",
+      "value": 1
+    }
+  ]
+}

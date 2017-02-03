@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Lochore, Brad",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/brad-lochore-3080",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "night moth",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78515_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lochore-night-moth-p78515",
+      "id": "66640",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ladder",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12053_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lochore-ladder-t12053",
+      "id": "86972",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "66640",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "86972",
+      "value": 1
+    }
+  ]
+}

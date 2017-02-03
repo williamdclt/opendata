@@ -1,0 +1,225 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Brook, Peter",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/peter-brook-816",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "snowline",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06055_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brook-snowline-p06055",
+      "id": "1554",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pennine way",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06056_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brook-pennine-way-p06056",
+      "id": "1555",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "misty morning",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06631_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brook-misty-morning-p06631",
+      "id": "1556",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "january pennine valley",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06632_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brook-january-pennine-valley-p06632",
+      "id": "1557",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "february fill-dyke in wigan",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06633_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brook-february-fill-dyke-in-wigan-p06633",
+      "id": "1558",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "march melting snow",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06722_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brook-march-melting-snow-p06722",
+      "id": "1559",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "april showers",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06761_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brook-april-showers-p06761",
+      "id": "1560",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "may misty morning",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06762_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brook-may-misty-morning-p06762",
+      "id": "1561",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "june canal",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06763_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brook-june-canal-p06763",
+      "id": "1562",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "july after the gala",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06764_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brook-july-after-the-gala-p06764",
+      "id": "1563",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "august cottage in anglesey",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06765_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brook-august-cottage-in-anglesey-p06765",
+      "id": "1564",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "september cornfield - sheep on the wrong side of the gate",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06766_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brook-september-cornfield-sheep-on-the-wrong-side-of-the-gate-p06766",
+      "id": "1565",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "october pennine road",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06767_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brook-october-pennine-road-p06767",
+      "id": "1566",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "november late afternoon",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06768_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brook-november-late-afternoon-p06768",
+      "id": "1567",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "december sheep coming in",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06769_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brook-december-sheep-coming-in-p06769",
+      "id": "1568",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1554",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1555",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1556",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1557",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1558",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1559",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1560",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1561",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1562",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1563",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1564",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1565",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1566",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1567",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1568",
+      "value": 1
+    }
+  ]
+}

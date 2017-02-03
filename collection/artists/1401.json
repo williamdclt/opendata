@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Kerr-Lawson, James",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/james-kerr-lawson-1401",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "j. havard thomas asleep",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04187_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kerr-lawson-j-havard-thomas-asleep-n04187",
+      "id": "7927",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "7927",
+      "value": 1
+    }
+  ]
+}

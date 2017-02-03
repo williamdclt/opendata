@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Sullivan, Edmund J.",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/edmund-j-sullivan-2010",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "reign of justice",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03089_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sullivan-reign-of-justice-p03089",
+      "id": "14009",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "14009",
+      "value": 1
+    }
+  ]
+}

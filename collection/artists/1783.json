@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Poirier, Anne and Patrick",
+      "url": null,
+      "gender": "",
+      "tatelink": "http://www.tate.org.uk/art/artists/anne-poirier-and-patrick-poirier-1783",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "villa adriana, in memory of antinous",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03325_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/poirier-villa-adriana-in-memory-of-antinous-t03325",
+      "id": "12136",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12136",
+      "value": 1
+    }
+  ]
+}

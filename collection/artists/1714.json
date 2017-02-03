@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Oliver, Madge",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/madge-oliver-1714",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "interior, pierrefroide",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04802_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/oliver-interior-pierrefroide-n04802",
+      "id": "10929",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "le coin de l\u2019atelier",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04851_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/oliver-le-coin-de-latelier-n04851",
+      "id": "10930",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "10929",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10930",
+      "value": 1
+    }
+  ]
+}

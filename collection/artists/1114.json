@@ -1,0 +1,547 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Frankenthaler, Helen",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/helen-frankenthaler-1114",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "door",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frankenthaler-door-p07394",
+      "id": "4528",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "grove",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frankenthaler-grove-p11353",
+      "id": "20327",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the clearing",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frankenthaler-the-clearing-p11354",
+      "id": "20326",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mirabelle",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frankenthaler-mirabelle-p12069",
+      "id": "78807",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "magellan i",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frankenthaler-magellan-i-p12070",
+      "id": "79235",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "magellan ii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frankenthaler-magellan-ii-p12071",
+      "id": "79287",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "magellan iii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frankenthaler-magellan-iii-p12072",
+      "id": "79288",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "magellan iv",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frankenthaler-magellan-iv-p12073",
+      "id": "79289",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "magellan v",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frankenthaler-magellan-v-p12074",
+      "id": "79290",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "magellan vi",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frankenthaler-magellan-vi-p12075",
+      "id": "79291",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "magellan vii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frankenthaler-magellan-vii-p12076",
+      "id": "79292",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "round robin",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frankenthaler-round-robin-p12077",
+      "id": "79294",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "making music",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frankenthaler-making-music-p12078",
+      "id": "79295",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a page from a book i",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frankenthaler-a-page-from-a-book-i-p12079",
+      "id": "79296",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a page from a book ii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frankenthaler-a-page-from-a-book-ii-p12080",
+      "id": "79297",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a page from a book iii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frankenthaler-a-page-from-a-book-iii-p12081",
+      "id": "79298",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reflections i",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frankenthaler-reflections-i-p12082",
+      "id": "79299",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reflections ii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frankenthaler-reflections-ii-p12083",
+      "id": "79305",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reflections iii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frankenthaler-reflections-iii-p12084",
+      "id": "79306",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reflections iv",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frankenthaler-reflections-iv-p12085",
+      "id": "79307",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reflections vi",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frankenthaler-reflections-vi-p12086",
+      "id": "79308",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reflections vii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frankenthaler-reflections-vii-p12087",
+      "id": "79309",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reflections viii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frankenthaler-reflections-viii-p12088",
+      "id": "79310",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reflections ix",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frankenthaler-reflections-ix-p12089",
+      "id": "79311",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reflections x",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frankenthaler-reflections-x-p12090",
+      "id": "79312",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "all about blue",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frankenthaler-all-about-blue-p12091",
+      "id": "79313",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "madame de pompadour",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frankenthaler-madame-de-pompadour-p12092",
+      "id": "79315",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "flirting with stone",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frankenthaler-flirting-with-stone-p12093",
+      "id": "79316",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "day one",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frankenthaler-day-one-p12094",
+      "id": "79317",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frankenthaler-no-title-p12095",
+      "id": "80962",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frankenthaler-no-title-p12096",
+      "id": "80963",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frankenthaler-no-title-p12097",
+      "id": "80964",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frankenthaler-no-title-p12098",
+      "id": "80965",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frankenthaler-no-title-p12099",
+      "id": "80966",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frankenthaler-no-title-p12100",
+      "id": "80967",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frankenthaler-no-title-p12101",
+      "id": "80968",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frankenthaler-no-title-p12102",
+      "id": "80969",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frankenthaler-no-title-p12103",
+      "id": "80970",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4528",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20327",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20326",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78807",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79235",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79287",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79288",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79289",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79290",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79291",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79292",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79294",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79295",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79296",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79297",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79298",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79299",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79305",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79306",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79307",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79308",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79309",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79310",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79311",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79312",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79313",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79315",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79316",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79317",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80962",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80963",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80964",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80965",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80966",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80967",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80968",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80969",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80970",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Wainwright, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-wainwright-574",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "flower-piece",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03378_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wainwright-flower-piece-t03378",
+      "id": "15787",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "15787",
+      "value": 1
+    }
+  ]
+}

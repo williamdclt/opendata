@@ -1,0 +1,253 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Clausen, Sir George",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-george-clausen-96",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the girl at the gate",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01612_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clausen-the-girl-at-the-gate-n01612",
+      "id": "2272",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the gleaners returning",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02259_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clausen-the-gleaners-returning-n02259",
+      "id": "2273",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the road, winter morning",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03824_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clausen-the-road-winter-morning-n03824",
+      "id": "2274",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a dancer",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04472_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clausen-a-dancer-n04472",
+      "id": "2275",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "brown eyes",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04484_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clausen-brown-eyes-n04484",
+      "id": "2276",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a frosty march morning",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04485_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clausen-a-frosty-march-morning-n04485",
+      "id": "2277",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gleaners coming home",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04486_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clausen-gleaners-coming-home-n04486",
+      "id": "2278",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "my back garden",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05335_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clausen-my-back-garden-n05335",
+      "id": "2279",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "making guns: where the guns are made",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03017_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clausen-making-guns-where-the-guns-are-made-p03017",
+      "id": "2280",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "making guns: the furnace",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03018_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clausen-making-guns-the-furnace-p03018",
+      "id": "2281",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "making guns: the great hammer",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03019_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clausen-making-guns-the-great-hammer-p03019",
+      "id": "2282",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "making guns: turning a big gun",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03020_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clausen-making-guns-turning-a-big-gun-p03020",
+      "id": "2283",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "making guns: the radial crane",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03021_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clausen-making-guns-the-radial-crane-p03021",
+      "id": "2284",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "making guns: lifting an inner tube",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03022_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clausen-making-guns-lifting-an-inner-tube-p03022",
+      "id": "2285",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reconstruction of belgium",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03023_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clausen-reconstruction-of-belgium-p03023",
+      "id": "2286",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "winter work",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03666_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clausen-winter-work-t03666",
+      "id": "2287",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the farmer\u2019s boy",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12867_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clausen-the-farmers-boy-t12867",
+      "id": "101646",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2272",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2273",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2274",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2275",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2276",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2277",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2278",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2279",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2280",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2281",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2282",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2283",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2284",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2285",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2286",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2287",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101646",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Holbein, Hans, the Younger",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/hans-holbein-the-younger-266",
+      "id": "Artist",
+      "size": 30
+    }
+  ],
+  "links": []
+}

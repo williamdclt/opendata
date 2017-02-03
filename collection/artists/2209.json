@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Kol\u00e1r, Jir\u00ed",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/jiri-kolar-2209",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "they pass before me, those electric eyes some abstruse angel must have magnetized",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kolar-they-pass-before-me-those-electric-eyes-some-abstruse-angel-must-have-magnetized-t05031",
+      "id": "16599",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "your bridegroom roves, and your immortal form keeps vigil when he sleeps",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kolar-your-bridegroom-roves-and-your-immortal-form-keeps-vigil-when-he-sleeps-t05038",
+      "id": "16600",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "these warm nights i breathe, eyes closed, the scent of your welcoming breasts",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kolar-these-warm-nights-i-breathe-eyes-closed-the-scent-of-your-welcoming-breasts-t05039",
+      "id": "16601",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "they waver, but their eyes are gimlet-sharp and gleam like holes where water sleeps at night",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kolar-they-waver-but-their-eyes-are-gimlet-sharp-and-gleam-like-holes-where-water-sleeps-t05040",
+      "id": "16602",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16599",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16600",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16601",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16602",
+      "value": 1
+    }
+  ]
+}

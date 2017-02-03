@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Rothenstein, Sir William",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-william-rothenstein-1874",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "jews mourning in a synagogue",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02116_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-jews-mourning-in-a-synagogue-n02116",
+      "id": "12923",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "auguste rodin",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02683_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-auguste-rodin-n02683",
+      "id": "12924",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the doll\u2019s house",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03189_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-the-dolls-house-n03189",
+      "id": "12925",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sir rabindranath tagore",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03190_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-sir-rabindranath-tagore-n03190",
+      "id": "12926",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two women",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03844_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-two-women-n03844",
+      "id": "12927",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jan toorop",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03850_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-jan-toorop-n03850",
+      "id": "12928",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "arthur clutton-brock",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03887_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-arthur-clutton-brock-n03887",
+      "id": "12929",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the princess badroulbadour",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03953_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-the-princess-badroulbadour-n03953",
+      "id": "12930",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "james havard thomas",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04009_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-james-havard-thomas-n04009",
+      "id": "12931",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "charles conder",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04010_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-charles-conder-n04010",
+      "id": "12932",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman standing in doorway",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04595_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-woman-standing-in-doorway-n04595",
+      "id": "12933",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "james stephens",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05349_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-james-stephens-n05349",
+      "id": "12934",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "miss edith lockyer williams",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05407_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-miss-edith-lockyer-williams-n05407",
+      "id": "12935",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the white cliffs, vaucottes",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05436_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-the-white-cliffs-vaucottes-n05436",
+      "id": "12936",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "barnett freedman",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05553_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-barnett-freedman-n05553",
+      "id": "12937",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "barn at cherington, gloucestershire",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05664_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-barn-at-cherington-gloucestershire-n05664",
+      "id": "12938",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the butcher\u2019s shop under the trees",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05946_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-the-butchers-shop-under-the-trees-n05946",
+      "id": "12939",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "norman hamlet",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05997_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-norman-hamlet-n05997",
+      "id": "12940",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the triumph of democracy",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03075_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-the-triumph-of-democracy-p03075",
+      "id": "12941",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ploughing",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03076_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-ploughing-p03076",
+      "id": "12942",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drilling",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03077_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-drilling-p03077",
+      "id": "12943",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "burning couch grass",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03078_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-burning-couch-grass-p03078",
+      "id": "12944",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "potato planting",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03079_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-potato-planting-p03079",
+      "id": "12945",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "timber hauling",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03080_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-timber-hauling-p03080",
+      "id": "12946",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "threshing",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03081_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-threshing-p03081",
+      "id": "12947",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mr frederick pollock [part i]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11033_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-mr-frederick-pollock-part-i-p11033",
+      "id": "12948",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mr thomas hardy [part i]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11034_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-mr-thomas-hardy-part-i-p11034",
+      "id": "12949",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the right rev dr creighton [part iii]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11035_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-the-right-rev-dr-creighton-part-iii-p11035",
+      "id": "12950",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the marchioness of granby [part iii]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11036_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-the-marchioness-of-granby-part-iii-p11036",
+      "id": "12951",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mr robert bridges [part vii]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11037_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-mr-robert-bridges-part-vii-p11037",
+      "id": "12952",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "professor alphonse legros [part vii]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11038_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-professor-alphonse-legros-part-vii-p11038",
+      "id": "12953",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "professor charles villiers stanford [part viii]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11039_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-professor-charles-villiers-stanford-part-viii-p11039",
+      "id": "12954",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mr george bernard shaw [part viii]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11040_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-mr-george-bernard-shaw-part-viii-p11040",
+      "id": "12955",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs meynell [part ix]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11041_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-mrs-meynell-part-ix-p11041",
+      "id": "12956",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mr charles ricketts and mr charles hazelwood shannon [part ix]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11042_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-mr-charles-ricketts-and-mr-charles-hazelwood-shannon-part-ix-p11042",
+      "id": "12957",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sir frances seymour haden [part ii]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11043_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-sir-frances-seymour-haden-part-ii-p11043",
+      "id": "12958",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mr william archer [part ii]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11044_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-mr-william-archer-part-ii-p11044",
+      "id": "12959",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for the portrait of barnett freedman",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00569_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-study-for-the-portrait-of-barnett-freedman-t00569",
+      "id": "12960",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "working drawing for the boy in \u2018the princess badroulbadour\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01248_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-working-drawing-for-the-boy-in-the-princess-badroulbadour-t01248",
+      "id": "12961",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of sir john rothenstein c.b.e.",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01869_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenstein-portrait-of-sir-john-rothenstein-cbe-t01869",
+      "id": "12962",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12923",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12924",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12925",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12926",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12927",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12928",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12929",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12930",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12931",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12932",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12933",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12934",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12935",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12936",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12937",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12938",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12939",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12940",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12941",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12942",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12943",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12944",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12945",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12946",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12947",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12948",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12949",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12950",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12951",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12952",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12953",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12954",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12955",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12956",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12957",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12958",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12959",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12960",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12961",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12962",
+      "value": 1
+    }
+  ]
+}

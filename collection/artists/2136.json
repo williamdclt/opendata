@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Wheatley, Grace",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/grace-wheatley-2136",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "seated woman",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wheatley-seated-woman-n03642",
+      "id": "16114",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16114",
+      "value": 1
+    }
+  ]
+}

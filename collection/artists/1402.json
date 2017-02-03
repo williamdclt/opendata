@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Kessell, Mary",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/mary-kessell-1402",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "still life under the sea",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00391_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kessell-still-life-under-the-sea-t00391",
+      "id": "7928",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "7928",
+      "value": 1
+    }
+  ]
+}

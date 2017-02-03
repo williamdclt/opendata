@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Marden, Brice",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/brice-marden-1578",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled (e)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01739_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marden-untitled-e-p01739",
+      "id": "9255",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (c)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01740_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marden-untitled-c-p01740",
+      "id": "9256",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (d)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marden-untitled-d-p01741",
+      "id": "9257",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (b)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01742_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marden-untitled-b-p01742",
+      "id": "9258",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (a)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01743_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marden-untitled-a-p01743",
+      "id": "9259",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07849_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marden-title-not-known-p07849",
+      "id": "9260",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07850_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marden-title-not-known-p07850",
+      "id": "9261",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07851_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marden-title-not-known-p07851",
+      "id": "9262",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07852_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marden-title-not-known-p07852",
+      "id": "9263",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "han shan exit",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11355_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marden-han-shan-exit-p11355",
+      "id": "20417",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cold mountain series, zen study 1",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20078_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marden-cold-mountain-series-zen-study-1-p20078",
+      "id": "20411",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cold mountain series, zen study 2",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20079_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marden-cold-mountain-series-zen-study-2-p20079",
+      "id": "20412",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cold mountain series, zen study 3",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20080_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marden-cold-mountain-series-zen-study-3-p20080",
+      "id": "20413",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cold mountain series, zen study 4",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20081_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marden-cold-mountain-series-zen-study-4-p20081",
+      "id": "20414",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cold mountain series, zen study 5",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20082_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marden-cold-mountain-series-zen-study-5-p20082",
+      "id": "20415",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cold mountain series, zen study 6",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20083_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marden-cold-mountain-series-zen-study-6-p20083",
+      "id": "20416",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "1",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77208_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marden-1-p77208",
+      "id": "9264",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "2",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77209_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marden-2-p77209",
+      "id": "9265",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "3",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77210_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marden-3-p77210",
+      "id": "9266",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "4",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77211_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marden-4-p77211",
+      "id": "9267",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "5",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77212_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marden-5-p77212",
+      "id": "9268",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "6",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77213_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marden-6-p77213",
+      "id": "9269",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "7",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77214_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marden-7-p77214",
+      "id": "9270",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "8",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77215_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marden-8-p77215",
+      "id": "9271",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "9",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77216_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marden-9-p77216",
+      "id": "9272",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "10",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77217_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marden-10-p77217",
+      "id": "9273",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "11",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77218_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marden-11-p77218",
+      "id": "9274",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "12",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77219_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marden-12-p77219",
+      "id": "9275",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "13",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77220_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marden-13-p77220",
+      "id": "9276",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "14",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77221_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marden-14-p77221",
+      "id": "9277",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "15",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77222_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marden-15-p77222",
+      "id": "9278",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "16",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77223_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marden-16-p77223",
+      "id": "9279",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "17",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77224_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marden-17-p77224",
+      "id": "9280",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "18",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77225_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marden-18-p77225",
+      "id": "9281",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "19",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77226_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marden-19-p77226",
+      "id": "9282",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "20",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77227_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marden-20-p77227",
+      "id": "9283",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "21",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77228_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marden-21-p77228",
+      "id": "9284",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "22",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77229_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marden-22-p77229",
+      "id": "9285",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "23",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77230_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marden-23-p77230",
+      "id": "9286",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "24",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77231_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marden-24-p77231",
+      "id": "9287",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9255",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9256",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9257",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9258",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9259",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9260",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9261",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9262",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9263",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20417",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20411",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20412",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20413",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20414",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20415",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20416",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9264",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9265",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9266",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9267",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9268",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9269",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9270",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9271",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9272",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9273",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9274",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9275",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9276",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9277",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9278",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9279",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9280",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9281",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9282",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9283",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9284",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9285",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9286",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9287",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Witkin, Isaac",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/isaac-witkin-2159",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "angola i",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/witkin-angola-i-t01025",
+      "id": "16398",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "alter-ego",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/witkin-alter-ego-t01392",
+      "id": "16399",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vermont i",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/witkin-vermont-i-t01393",
+      "id": "16400",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shogun",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/witkin-shogun-t01394",
+      "id": "16401",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "baalbec",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/witkin-baalbec-t01395",
+      "id": "16402",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16398",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16399",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16400",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16401",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16402",
+      "value": 1
+    }
+  ]
+}

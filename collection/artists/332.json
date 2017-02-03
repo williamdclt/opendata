@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Lavery, Sir John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-john-lavery-332",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "le mort du cygne: anna pavlova",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03000_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lavery-le-mort-du-cygne-anna-pavlova-n03000",
+      "id": "8412",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the golf course, north berwick",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03688_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lavery-the-golf-course-north-berwick-n03688",
+      "id": "8413",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the jockeys\u2019 dressing room at ascot",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03958_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lavery-the-jockeys-dressing-room-at-ascot-n03958",
+      "id": "8414",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the chess players",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04544_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lavery-the-chess-players-n04544",
+      "id": "8415",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the opening of the modern foreign and sargent galleries at the tate gallery, 26 june 1926",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04553_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lavery-the-opening-of-the-modern-foreign-and-sargent-galleries-at-the-tate-gallery-26-june-n04553",
+      "id": "8416",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the glasgow exhibition, 1888",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05271_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lavery-the-glasgow-exhibition-1888-n05271",
+      "id": "8417",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs guthrie",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05578_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lavery-mrs-guthrie-n05578",
+      "id": "8418",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "king george v, accompanied by queen mary, at the opening of the modern foreign and sargent galleries at the tate gallery, 26 june 1926",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04906_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lavery-king-george-v-accompanied-by-queen-mary-at-the-opening-of-the-modern-foreign-and-t04906",
+      "id": "8420",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8412",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8413",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8414",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8415",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8416",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8417",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8418",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8420",
+      "value": 1
+    }
+  ]
+}

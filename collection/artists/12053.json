@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Suschitzky, Peter",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/peter-suschitzky-12053",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "la",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/suschitzky-la-p13093",
+      "id": "101315",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "101315",
+      "value": 1
+    }
+  ]
+}

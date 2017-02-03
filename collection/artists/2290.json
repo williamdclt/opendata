@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gerrard, Kathleen",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/kathleen-gerrard-2290",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "still life with yellow fungus",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gerrard-still-life-with-yellow-fungus-t06486",
+      "id": "20207",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "20207",
+      "value": 1
+    }
+  ]
+}

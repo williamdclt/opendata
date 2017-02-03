@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Pickersgill, Henry William",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/henry-william-pickersgill-425",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "robert vernon",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00416_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pickersgill-robert-vernon-n00416",
+      "id": "11886",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a syrian maid",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00417_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pickersgill-a-syrian-maid-n00417",
+      "id": "11887",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the nun",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00791_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pickersgill-the-nun-n00791",
+      "id": "11888",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "11886",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11887",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11888",
+      "value": 1
+    }
+  ]
+}

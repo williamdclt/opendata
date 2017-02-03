@@ -1,0 +1,449 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Dean, Tacita",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/tacita-dean-2675",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "ship of death",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20246_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dean-ship-of-death-p20246",
+      "id": "75335",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the crimea",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20247_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dean-the-crimea-p20247",
+      "id": "75337",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the wrecking of the ngahere",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20248_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dean-the-wrecking-of-the-ngahere-p20248",
+      "id": "75338",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "erinnerung aus dem weltkrieg",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20249_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dean-erinnerung-aus-dem-weltkrieg-p20249",
+      "id": "75339",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ballon des a\u00e9rostiers de campagne",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20250_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dean-ballon-des-aerostiers-de-campagne-p20250",
+      "id": "75340",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the sinking of the ss plympton",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20251_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dean-the-sinking-of-the-ss-plympton-p20251",
+      "id": "75341",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "death of a priest",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20252_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dean-death-of-a-priest-p20252",
+      "id": "75342",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "la bataille d\u2019arras",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20253_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dean-la-bataille-darras-p20253",
+      "id": "75343",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "g\u00f6tterd\u00e4mmerung",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20254_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dean-gotterdammerung-p20254",
+      "id": "75344",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "der r\u00fcckzug nach verdun",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20255_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dean-der-ruckzug-nach-verdun-p20255",
+      "id": "75345",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "zur letzten ruhe",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20256_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dean-zur-letzten-ruhe-p20256",
+      "id": "75346",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the wreck of worthing pier",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20257_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dean-the-wreck-of-worthing-pier-p20257",
+      "id": "75347",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the story of minke the whale",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20258_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dean-the-story-of-minke-the-whale-p20258",
+      "id": "75348",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "so they sank her!",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20259_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dean-so-they-sank-her-p20259",
+      "id": "75349",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the life and death of st bruno",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20260_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dean-the-life-and-death-of-st-bruno-p20260",
+      "id": "75350",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vesuvio",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20261_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dean-vesuvio-p20261",
+      "id": "75351",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the tragedy of hughesovka bridge",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20262_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dean-the-tragedy-of-hughesovka-bridge-p20262",
+      "id": "75352",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "die explosion in dem kanal",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20263_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dean-die-explosion-in-dem-kanal-p20263",
+      "id": "75353",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "beautiful sheffield",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20264_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dean-beautiful-sheffield-p20264",
+      "id": "75354",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ein sklave des kapitals",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20265_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dean-ein-sklave-des-kapitals-p20265",
+      "id": "75355",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "aerial view of teignmouth electron, cayman brac 16th of september 1998",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78389_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dean-aerial-view-of-teignmouth-electron-cayman-brac-16th-of-september-1998-p78389",
+      "id": "27243",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wasp",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78518_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dean-wasp-p78518",
+      "id": "66643",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "disappearance at sea",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07455_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dean-disappearance-at-sea-t07455",
+      "id": "26402",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the roaring forties: seven boards in seven days",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07613_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dean-the-roaring-forties-seven-boards-in-seven-days-t07613",
+      "id": "27061",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "foley artist",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dean-foley-artist-t07870",
+      "id": "66794",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fernsehturm",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dean-fernsehturm-t07871",
+      "id": "66795",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "palast",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12212_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dean-palast-t12212",
+      "id": "87211",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kodak",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12407_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dean-kodak-t12407",
+      "id": "91369",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "majesty",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12805_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dean-majesty-t12805",
+      "id": "99947",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "michael hamburger",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dean-michael-hamburger-t12880",
+      "id": "99948",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a bag of air",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dean-a-bag-of-air-t12920",
+      "id": "94187",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "75335",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "75337",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "75338",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "75339",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "75340",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "75341",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "75342",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "75343",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "75344",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "75345",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "75346",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "75347",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "75348",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "75349",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "75350",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "75351",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "75352",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "75353",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "75354",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "75355",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27243",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66643",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26402",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27061",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66794",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66795",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "87211",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "91369",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99947",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99948",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "94187",
+      "value": 1
+    }
+  ]
+}

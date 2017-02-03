@@ -1,0 +1,323 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Bonnard, Pierre",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/pierre-bonnard-781",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the table",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04134_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bonnard-the-table-n04134",
+      "id": "1309",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the window",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04494_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bonnard-the-window-n04494",
+      "id": "1310",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the bath",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04495_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bonnard-the-bath-n04495",
+      "id": "1311",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "coffee",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05414_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bonnard-coffee-n05414",
+      "id": "1312",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pont de la concorde",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05462_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bonnard-pont-de-la-concorde-n05462",
+      "id": "1313",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the bowl of milk",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00936_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bonnard-the-bowl-of-milk-t00936",
+      "id": "1314",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nude bending down",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01076_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bonnard-nude-bending-down-t01076",
+      "id": "1315",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bathing woman, seen from the back",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01077_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bonnard-bathing-woman-seen-from-the-back-t01077",
+      "id": "1316",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "preparatory sketch for \u2018the bowl of milk\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06536_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bonnard-preparatory-sketch-for-the-bowl-of-milk-t06536",
+      "id": "20307",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "preparatory sketch for \u2018the bowl of milk\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06537_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bonnard-preparatory-sketch-for-the-bowl-of-milk-t06537",
+      "id": "20308",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "preparatory sketch for \u2018the bowl of milk\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06538_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bonnard-preparatory-sketch-for-the-bowl-of-milk-t06538",
+      "id": "20309",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "preparatory sketch for \u2018the bowl of milk\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06539_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bonnard-preparatory-sketch-for-the-bowl-of-milk-t06539",
+      "id": "20310",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "preparatory sketch for \u2018the bowl of milk\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06540_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bonnard-preparatory-sketch-for-the-bowl-of-milk-t06540",
+      "id": "20311",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "preparatory sketch for \u2018the bowl of milk\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06541_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bonnard-preparatory-sketch-for-the-bowl-of-milk-t06541",
+      "id": "20312",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "preparatory sketch for \u2018the bowl of milk\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06542_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bonnard-preparatory-sketch-for-the-bowl-of-milk-t06542",
+      "id": "20313",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "preparatory sketch for \u2018the bowl of milk\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06543_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bonnard-preparatory-sketch-for-the-bowl-of-milk-t06543",
+      "id": "20314",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "preparatory sketch for \u2018the bowl of milk\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06544_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bonnard-preparatory-sketch-for-the-bowl-of-milk-t06544",
+      "id": "20315",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "preparatory sketch for \u2018coffee\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06545_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bonnard-preparatory-sketch-for-coffee-t06545",
+      "id": "20316",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "preparatory sketch for \u2018coffee\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06546_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bonnard-preparatory-sketch-for-coffee-t06546",
+      "id": "20317",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "preparatory sketch for \u2018coffee\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06547_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bonnard-preparatory-sketch-for-coffee-t06547",
+      "id": "20318",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nude in the bath",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12611_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bonnard-nude-in-the-bath-t12611",
+      "id": "105",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the yellow boat",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12612_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bonnard-the-yellow-boat-t12612",
+      "id": "106",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1309",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1310",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1311",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1312",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1313",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1314",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1315",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1316",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20307",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20308",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20309",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20310",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20311",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20312",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20313",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20314",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20315",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20316",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20317",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20318",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "105",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "106",
+      "value": 1
+    }
+  ]
+}

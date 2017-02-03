@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Pickersgill, Henry Hall",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/henry-hall-pickersgill-2582",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "fairies on the shore",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09366_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pickersgill-fairies-on-the-shore-t09366",
+      "id": "23372",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "23372",
+      "value": 1
+    }
+  ]
+}

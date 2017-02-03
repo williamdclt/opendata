@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Dayes, Edward",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/edward-dayes-143",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the north front of chelsea hospital",
+      "url": "http://www.tate.org.uk/art/images/work/D/D00/D00188_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dayes-the-north-front-of-chelsea-hospital-d00188",
+      "id": "27604",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of hastings from the west",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36343_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dayes-view-of-hastings-from-the-west-d36343",
+      "id": "63428",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of hastings from the east",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36344_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dayes-view-of-hastings-from-the-east-d36344",
+      "id": "63429",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "southampton harbour",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36345_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dayes-southampton-harbour-d36345",
+      "id": "63430",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "southampton from the grounds of cranbury park",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36346_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dayes-southampton-from-the-grounds-of-cranbury-park-d36346",
+      "id": "63431",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cliffs in freshwater bay, isle of wight",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36347_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dayes-cliffs-in-freshwater-bay-isle-of-wight-d36347",
+      "id": "63432",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of freshwater bay, isle of wight",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36348_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dayes-view-of-freshwater-bay-isle-of-wight-d36348",
+      "id": "63433",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a house, fence and cliff at undercliff, isle of wight",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36349_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dayes-a-house-fence-and-cliff-at-undercliff-isle-of-wight-d36349",
+      "id": "63434",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shipping on a river with houses and distant mountains (?in south wales)",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36350_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dayes-shipping-on-a-river-with-houses-and-distant-mountains-in-south-wales-d36350",
+      "id": "63435",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "castle ruins among trees on a hill (?ludlow)",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36351_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dayes-castle-ruins-among-trees-on-a-hill-ludlow-d36351",
+      "id": "63436",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bedlam furnace, coalbrookdale",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36352_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dayes-bedlam-furnace-coalbrookdale-d36352",
+      "id": "63437",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a house and shed with a man chopping wood",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36353_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dayes-a-house-and-shed-with-a-man-chopping-wood-d36353",
+      "id": "63438",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view across a lake with hills beyond, probably in the lake district",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36354_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dayes-view-across-a-lake-with-hills-beyond-probably-in-the-lake-district-d36354",
+      "id": "63439",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "west gate, winchester",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00986_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dayes-west-gate-winchester-t00986",
+      "id": "3671",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the fall of the rebel angels",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05210_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dayes-the-fall-of-the-rebel-angels-t05210",
+      "id": "12460",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "caversham park, oxfordshire, engraved by w. and j. walker",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06386_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dayes-caversham-park-oxfordshire-engraved-by-w-and-j-walker-t06386",
+      "id": "19564",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dover castle, engraved by j. eastgate",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06387_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dayes-dover-castle-engraved-by-j-eastgate-t06387",
+      "id": "19565",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "basildon park, berkshire, engraved by walker",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06388_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dayes-basildon-park-berkshire-engraved-by-walker-t06388",
+      "id": "19566",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "llangollen, engraved by j. widnell",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06389_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dayes-llangollen-engraved-by-j-widnell-t06389",
+      "id": "19567",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of friern house, the seat of john bacon, engraved by w. knight",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06390_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dayes-view-of-friern-house-the-seat-of-john-bacon-engraved-by-w-knight-t06390",
+      "id": "19568",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the grotto at oatlands, engraved by angus",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06391_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dayes-the-grotto-at-oatlands-engraved-by-angus-t06391",
+      "id": "19569",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ely cathedral, cambridgeshire, engraved by w. angus",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06392_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dayes-ely-cathedral-cambridgeshire-engraved-by-w-angus-t06392",
+      "id": "19570",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "furness abbey, lancashire, engraved by j. smith",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06393_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dayes-furness-abbey-lancashire-engraved-by-j-smith-t06393",
+      "id": "19571",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st catherine\u2019s chapel, abbotsbury, dorsetshire, engraved by j. greig",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06394_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dayes-st-catherines-chapel-abbotsbury-dorsetshire-engraved-by-j-greig-t06394",
+      "id": "19572",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hedingham castle, essex, engraved by j. roffe",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06395_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dayes-hedingham-castle-essex-engraved-by-j-roffe-t06395",
+      "id": "19573",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st augustine\u2019s gate, canterbury, kent, engraved by j. rawle",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06396_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dayes-st-augustines-gate-canterbury-kent-engraved-by-j-rawle-t06396",
+      "id": "19574",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the peak cavern, derbyshire: great tom of lincoln, engraved by j. smith",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06397_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dayes-the-peak-cavern-derbyshire-great-tom-of-lincoln-engraved-by-j-smith-t06397",
+      "id": "19575",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kirkstall abbey, engraved by goldar",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06398_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dayes-kirkstall-abbey-engraved-by-goldar-t06398",
+      "id": "19576",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "brougham castle, westmoreland, engraved by j. noble",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06399_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dayes-brougham-castle-westmoreland-engraved-by-j-noble-t06399",
+      "id": "19577",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the peak cavern, derbyshire: view from the interior of the great arch, engraved by j. roffe",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06400_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dayes-the-peak-cavern-derbyshire-view-from-the-interior-of-the-great-arch-engraved-by-j-t06400",
+      "id": "19578",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "middleton dale, derbyshire, engraved by j. greig",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06401_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dayes-middleton-dale-derbyshire-engraved-by-j-greig-t06401",
+      "id": "19579",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "denbigh castle, denbighshire, engraved by j. storer",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06402_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dayes-denbigh-castle-denbighshire-engraved-by-j-storer-t06402",
+      "id": "19580",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ragland castle, monmouthshire, engraved by j. storer",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06403_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dayes-ragland-castle-monmouthshire-engraved-by-j-storer-t06403",
+      "id": "19581",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "abbotsbury abbey gateway, dorsetshire, engraved by j. greig",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06404_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dayes-abbotsbury-abbey-gateway-dorsetshire-engraved-by-j-greig-t06404",
+      "id": "19582",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "remains of abbotsbury abbey, dorsetshire, engraved by j. storer",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06405_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dayes-remains-of-abbotsbury-abbey-dorsetshire-engraved-by-j-storer-t06405",
+      "id": "19583",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "basingwerk abbey, flintshire, engraved by j. greig",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06406_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dayes-basingwerk-abbey-flintshire-engraved-by-j-greig-t06406",
+      "id": "19584",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kirkstall abbey, yorkshire, engraved by j. greig",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06407_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dayes-kirkstall-abbey-yorkshire-engraved-by-j-greig-t06407",
+      "id": "19585",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the peak cavern, derbyshire: roger rain\u2019s house, engraved by j. noble",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06408_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dayes-the-peak-cavern-derbyshire-roger-rains-house-engraved-by-j-noble-t06408",
+      "id": "19586",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "back entrance of caldicot castle, south wales, engraved by j. greig",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06409_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dayes-back-entrance-of-caldicot-castle-south-wales-engraved-by-j-greig-t06409",
+      "id": "19587",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tinemouth castle and priory, northumberland, engraved by b. comte",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06410_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dayes-tinemouth-castle-and-priory-northumberland-engraved-by-b-comte-t06410",
+      "id": "19588",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "27604",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63428",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63429",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63430",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63431",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63432",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63433",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63434",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63435",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63436",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63437",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63438",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63439",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3671",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12460",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19564",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19565",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19566",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19567",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19568",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19569",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19570",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19571",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19572",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19573",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19574",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19575",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19576",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19577",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19578",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19579",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19580",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19581",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19582",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19583",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19584",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19585",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19586",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19587",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19588",
+      "value": 1
+    }
+  ]
+}

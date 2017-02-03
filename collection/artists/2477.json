@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Barrow, Joseph Charles",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/joseph-charles-barrow-2477",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "stoke pogis church",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08588_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barrow-stoke-pogis-church-t08588",
+      "id": "22298",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "22298",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Worlidge, Thomas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/thomas-worlidge-2469",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "head of a man in profile to left, wearing a ruff",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08614_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/worlidge-head-of-a-man-in-profile-to-left-wearing-a-ruff-t08614",
+      "id": "24038",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a young man, head and shoulders, half right",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08615_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/worlidge-a-young-man-head-and-shoulders-half-right-t08615",
+      "id": "24039",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of a young man in a fur cap, nearly full face",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08616_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/worlidge-head-of-a-young-man-in-a-fur-cap-nearly-full-face-t08616",
+      "id": "24040",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head and shoulders, a man in a fur cap",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08617_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/worlidge-head-and-shoulders-a-man-in-a-fur-cap-t08617",
+      "id": "24041",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two heads of men, one a caricature",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08618_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/worlidge-two-heads-of-men-one-a-caricature-t08618",
+      "id": "24042",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "?self-portrait in profile to right",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08619_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/worlidge-self-portrait-in-profile-to-right-t08619",
+      "id": "24036",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "caricature head in imitation of van ostade: man in a fur cap, to right",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08620_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/worlidge-caricature-head-in-imitation-of-van-ostade-man-in-a-fur-cap-to-right-t08620",
+      "id": "24034",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "caricature head in imitation of van ostade: woman in cap to left",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08621_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/worlidge-caricature-head-in-imitation-of-van-ostade-woman-in-cap-to-left-t08621",
+      "id": "24035",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of sir e. astley, bart",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08629_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/worlidge-portrait-of-sir-e-astley-bart-t08629",
+      "id": "24037",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of a man in a fur cap",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08631_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/worlidge-head-of-a-man-in-a-fur-cap-t08631",
+      "id": "24033",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "24038",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24039",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24040",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24041",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24042",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24036",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24034",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24035",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24037",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24033",
+      "value": 1
+    }
+  ]
+}

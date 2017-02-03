@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Milles, Carl",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/carl-milles-1633",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "europa and the bull",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04247_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/milles-europa-and-the-bull-n04247",
+      "id": "9547",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "folke filbyter",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/milles-folke-filbyter-n04248",
+      "id": "9548",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the sun singer (torso)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02105_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/milles-the-sun-singer-torso-t02105",
+      "id": "9549",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9547",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9548",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9549",
+      "value": 1
+    }
+  ]
+}

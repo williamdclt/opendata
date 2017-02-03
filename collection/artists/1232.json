@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gutfreund, Oto",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/oto-gutfreund-1232",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "cubist bust",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01234_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gutfreund-cubist-bust-t01234",
+      "id": "5741",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5741",
+      "value": 1
+    }
+  ]
+}

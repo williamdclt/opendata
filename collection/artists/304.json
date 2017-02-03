@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Keene, Charles Samuel",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/charles-samuel-keene-304",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018punch\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02446_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/keene-drawing-for-punch-n02446",
+      "id": "7830",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018punch\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02447_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/keene-drawing-for-punch-n02447",
+      "id": "7831",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018punch\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02449_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/keene-drawing-for-punch-n02449",
+      "id": "7832",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018punch\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02450_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/keene-drawing-for-punch-n02450",
+      "id": "7833",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018punch\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02451_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/keene-drawing-for-punch-n02451",
+      "id": "7834",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018punch\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02452_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/keene-drawing-for-punch-n02452",
+      "id": "7835",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018punch\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02453_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/keene-drawing-for-punch-n02453",
+      "id": "7836",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018punch\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02454_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/keene-drawing-for-punch-n02454",
+      "id": "7837",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mr punch",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02456_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/keene-mr-punch-n02456",
+      "id": "7838",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018punch\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02458_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/keene-drawing-for-punch-n02458",
+      "id": "7839",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018punch\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02459_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/keene-drawing-for-punch-n02459",
+      "id": "7840",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018punch\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02460_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/keene-drawing-for-punch-n02460",
+      "id": "7841",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018punch\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02461_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/keene-drawing-for-punch-n02461",
+      "id": "7842",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018punch\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02462_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/keene-drawing-for-punch-n02462",
+      "id": "7843",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018punch\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02463_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/keene-drawing-for-punch-n02463",
+      "id": "7844",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018punch\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02464_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/keene-drawing-for-punch-n02464",
+      "id": "7845",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure study",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02465_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/keene-figure-study-n02465",
+      "id": "7846",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure study",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02466_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/keene-figure-study-n02466",
+      "id": "7847",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure study",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02467_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/keene-figure-study-n02467",
+      "id": "7848",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure study",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02468_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/keene-figure-study-n02468",
+      "id": "7849",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure study",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02469_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/keene-figure-study-n02469",
+      "id": "7850",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure study",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02470_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/keene-figure-study-n02470",
+      "id": "7851",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a woman",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03020_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/keene-study-of-a-woman-n03020",
+      "id": "7852",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a boy",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03021_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/keene-study-of-a-boy-n03021",
+      "id": "7853",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of the artist",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03022_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/keene-study-of-the-artist-n03022",
+      "id": "7854",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the artist with a gun",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03611_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/keene-the-artist-with-a-gun-n03611",
+      "id": "7855",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "old man seated",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03612_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/keene-old-man-seated-n03612",
+      "id": "7856",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "in the row",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03613_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/keene-in-the-row-n03613",
+      "id": "7857",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cabman and policeman",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03614_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/keene-cabman-and-policeman-n03614",
+      "id": "7858",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03644_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/keene-self-portrait-n03644",
+      "id": "7859",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the duel",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04069_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/keene-the-duel-n04069",
+      "id": "7860",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "man polishing armour",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04070_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/keene-man-polishing-armour-n04070",
+      "id": "7861",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cavalier with a wounded arm",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04071_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/keene-cavalier-with-a-wounded-arm-n04071",
+      "id": "7862",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman and butler",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04072_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/keene-woman-and-butler-n04072",
+      "id": "7863",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "butcher\u2019s shop",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04073_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/keene-butchers-shop-n04073",
+      "id": "7864",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "artist sketching",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04074_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/keene-artist-sketching-n04074",
+      "id": "7865",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a true patriot",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04086_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/keene-a-true-patriot-n04086",
+      "id": "7866",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seated girl",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04369_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/keene-seated-girl-n04369",
+      "id": "7867",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the artist standing",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04370_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/keene-the-artist-standing-n04370",
+      "id": "7868",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the artist in officer\u2019s uniform",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04371_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/keene-the-artist-in-officers-uniform-n04371",
+      "id": "7869",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "7830",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7831",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7832",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7833",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7834",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7835",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7836",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7837",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7838",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7839",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7840",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7841",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7842",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7843",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7844",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7845",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7846",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7847",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7848",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7849",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7850",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7851",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7852",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7853",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7854",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7855",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7856",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7857",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7858",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7859",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7860",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7861",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7862",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7863",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7864",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7865",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7866",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7867",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7868",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7869",
+      "value": 1
+    }
+  ]
+}

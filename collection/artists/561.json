@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Vacher, Charles",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/charles-vacher-561",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "rezzonico and the spl\u00fcgen range, lake como",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01911_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/vacher-rezzonico-and-the-splugen-range-lake-como-n01911",
+      "id": "15682",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "15682",
+      "value": 1
+    }
+  ]
+}

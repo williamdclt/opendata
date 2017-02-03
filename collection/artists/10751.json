@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Elkoussy, Hala",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/hala-elkoussy-10751",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "on red nails, palm trees and other icons - al archief (take 2)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/elkoussy-on-red-nails-palm-trees-and-other-icons-al-archief-take-2-t13571",
+      "id": "109000",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "109000",
+      "value": 1
+    }
+  ]
+}

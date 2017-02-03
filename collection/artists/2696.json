@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gaskell, Anna",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/anna-gaskell-2696",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled #33 (hide)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaskell-untitled-33-hide-p11571",
+      "id": "26609",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled #46 (hide)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaskell-untitled-46-hide-p11572",
+      "id": "26610",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled #47 (hide)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11573_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaskell-untitled-47-hide-p11573",
+      "id": "26611",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "26609",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26610",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26611",
+      "value": 1
+    }
+  ]
+}

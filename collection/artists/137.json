@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Daniell, Thomas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/thomas-daniell-137",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "bridge near rajmahal, bihar",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00899_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-bridge-near-rajmahal-bihar-n00899",
+      "id": "3008",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sher shah\u2019s mausoleum, sasaram",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01403_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-sher-shahs-mausoleum-sasaram-t01403",
+      "id": "3009",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "idgah at amroha",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01404_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-idgah-at-amroha-t01404",
+      "id": "3010",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cheddar cliffs",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08203_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-cheddar-cliffs-t08203",
+      "id": "22765",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sir charles warre malet, concluding a treaty in 1790 in durbar with the peshwa of the maratha empire",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12511_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-sir-charles-warre-malet-concluding-a-treaty-in-1790-in-durbar-with-the-peshwa-of-t12511",
+      "id": "94162",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "3008",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3009",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3010",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22765",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "94162",
+      "value": 1
+    }
+  ]
+}

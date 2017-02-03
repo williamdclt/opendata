@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Southall, Joseph Edward",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/joseph-edward-southall-1970",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "cinderella",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01930_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/southall-cinderella-t01930",
+      "id": "13655",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "belgium supported by hope",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03699_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/southall-belgium-supported-by-hope-t03699",
+      "id": "13656",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the mount of olives",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06855_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/southall-the-mount-of-olives-t06855",
+      "id": "20975",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13655",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13656",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20975",
+      "value": 1
+    }
+  ]
+}

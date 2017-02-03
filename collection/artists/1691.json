@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Nauman, Bruce",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/bruce-nauman-1691",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "changing light corridor with rooms",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nauman-changing-light-corridor-with-rooms-ar00044",
+      "id": "95901",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "enforced perspective: allegory and symbolism",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00180_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nauman-enforced-perspective-allegory-and-symbolism-ar00180",
+      "id": "98299",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "partial truth",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00575_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nauman-partial-truth-ar00575",
+      "id": "95903",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "setting a good corner (allegory and metaphor)",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00576_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nauman-setting-a-good-corner-allegory-and-metaphor-ar00576",
+      "id": "95933",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "violent incident: man-woman segment",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nauman-violent-incident-man-woman-segment-ar00577",
+      "id": "95934",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (drawing for enforced perspective)",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00578_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nauman-untitled-drawing-for-enforced-perspective-ar00578",
+      "id": "98295",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "raw material washing hands, normal (a of a/b) raw material washing hands, normal (b of a/b)",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00579_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nauman-raw-material-washing-hands-normal-a-of-ab-raw-material-washing-hands-normal-b-of-ab-ar00579",
+      "id": "98297",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (hand circle)",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00580_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nauman-untitled-hand-circle-ar00580",
+      "id": "98298",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "la brea/art tips/rat spit/tar pits",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00607_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nauman-la-breaart-tipsrat-spittar-pits-ar00607",
+      "id": "95902",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "no (black state)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07938_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nauman-no-black-state-p07938",
+      "id": "10580",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "double face",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11764_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nauman-double-face-p11764",
+      "id": "27396",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "life fly lifes flies",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nauman-life-fly-lifes-flies-p13307",
+      "id": "66893",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "m ampere",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77437_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nauman-m-ampere-p77437",
+      "id": "19107",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (gray)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77576_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nauman-untitled-gray-p77576",
+      "id": "20562",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "raw-war",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77582_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nauman-raw-war-p77582",
+      "id": "20620",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77629_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nauman-a-p77629",
+      "id": "20954",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "b",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77630_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nauman-b-p77630",
+      "id": "20958",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "c",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77631_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nauman-c-p77631",
+      "id": "20957",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "d",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77632_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nauman-d-p77632",
+      "id": "20956",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "e",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77633_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nauman-e-p77633",
+      "id": "20955",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77803_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nauman-untitled-p77803",
+      "id": "21518",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77804_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nauman-untitled-p77804",
+      "id": "21519",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78232_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nauman-title-not-known-p78232",
+      "id": "26503",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78233_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nauman-title-not-known-p78233",
+      "id": "26510",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78234_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nauman-title-not-known-p78234",
+      "id": "26512",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78235_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nauman-title-not-known-p78235",
+      "id": "26511",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "all thumbs holding hands",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78245_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nauman-all-thumbs-holding-hands-p78245",
+      "id": "26497",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "corridor with mirror and white lights",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01753_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nauman-corridor-with-mirror-and-white-lights-t01753",
+      "id": "10581",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "three dead end adjacent tunnels, not connected",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06526_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nauman-three-dead-end-adjacent-tunnels-not-connected-t06526",
+      "id": "20345",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "violent incident",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06732_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nauman-violent-incident-t06732",
+      "id": "20643",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "good boy bad boy",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06853_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nauman-good-boy-bad-boy-t06853",
+      "id": "20960",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (three large animals)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07617_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nauman-untitled-three-large-animals-t07617",
+      "id": "27069",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mapping the studio ii with color shift, flip, flop, & flip/flop (fat chance john cage)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11893_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nauman-mapping-the-studio-ii-with-color-shift-flip-flop-flipflop-fat-chance-john-cage-t11893",
+      "id": "78181",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "raw materials",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nauman-raw-materials-t12541",
+      "id": "90177",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "layout for raw materials 6 april 2004",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12542_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nauman-layout-for-raw-materials-6-april-2004-t12542",
+      "id": "90169",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "layout for raw materials",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12543_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nauman-layout-for-raw-materials-t12543",
+      "id": "90248",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "layout for raw materials 24 may 2004",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12544_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nauman-layout-for-raw-materials-24-may-2004-t12544",
+      "id": "90249",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "layout for raw materials 7 july 2004",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12545_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nauman-layout-for-raw-materials-7-july-2004-t12545",
+      "id": "90251",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mapping the studio notebook (book 1)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12591_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nauman-mapping-the-studio-notebook-book-1-t12591",
+      "id": "80865",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mapping the studio notebook (book 2)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12592_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nauman-mapping-the-studio-notebook-book-2-t12592",
+      "id": "81109",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "95901",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98299",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95903",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95933",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95934",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98295",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98297",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98298",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95902",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10580",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27396",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66893",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19107",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20562",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20620",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20954",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20958",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20957",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20956",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20955",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21518",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21519",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26503",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26510",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26512",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26511",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26497",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10581",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20345",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20643",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20960",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27069",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78181",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90177",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90169",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90248",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90249",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90251",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80865",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81109",
+      "value": 1
+    }
+  ]
+}

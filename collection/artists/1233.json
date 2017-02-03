@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Guthrie, Robin",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/robin-guthrie-1233",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "head of a woman",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04233_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guthrie-head-of-a-woman-n04233",
+      "id": "5743",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sermon on the mount",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06770_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guthrie-sermon-on-the-mount-t06770",
+      "id": "20836",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5743",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20836",
+      "value": 1
+    }
+  ]
+}

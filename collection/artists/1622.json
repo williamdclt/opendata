@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Meninsky, Bernard",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/bernard-meninsky-1622",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "portrait of a boy",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04118_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meninsky-portrait-of-a-boy-n04118",
+      "id": "9442",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of a girl",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00170_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meninsky-head-of-a-girl-t00170",
+      "id": "9443",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "standing female nude in a landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01993_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meninsky-standing-female-nude-in-a-landscape-t01993",
+      "id": "9444",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sleeping woman in a landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03348_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meninsky-sleeping-woman-in-a-landscape-t03348",
+      "id": "9445",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9442",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9443",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9444",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9445",
+      "value": 1
+    }
+  ]
+}

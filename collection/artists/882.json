@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Chaimowicz, Marc Camille",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/marc-camille-chaimowicz-882",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "le d\u00e9sert ...",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03384_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chaimowicz-le-desert-t03384",
+      "id": "2150",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "partial eclipse...",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12453_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chaimowicz-partial-eclipse-t12453",
+      "id": "91681",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vienna triptych, leaning...and surrounded by chorus girls and sentinels",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13255_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chaimowicz-vienna-triptych-leaningand-surrounded-by-chorus-girls-and-sentinels-t13255",
+      "id": "114028",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2150",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "91681",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114028",
+      "value": 1
+    }
+  ]
+}

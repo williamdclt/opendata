@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gill, Eric",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/eric-gill-1168",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "crucifixion",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03563_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gill-crucifixion-n03563",
+      "id": "5205",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the east wind",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04487_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gill-the-east-wind-n04487",
+      "id": "5206",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "prospero and ariel",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gill-prospero-and-ariel-n04808",
+      "id": "5207",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mankind",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05388_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gill-mankind-n05388",
+      "id": "5208",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nativity with midwife",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08039_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gill-nativity-with-midwife-p08039",
+      "id": "5209",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "slaughter of the innocents",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08040_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gill-slaughter-of-the-innocents-p08040",
+      "id": "5210",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "calvary, five stalks of leaves, and ship",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08041_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gill-calvary-five-stalks-of-leaves-and-ship-p08041",
+      "id": "5211",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "crucifix, chalice & host",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08042_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gill-crucifix-chalice-host-p08042",
+      "id": "5212",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dumb-driven cattle",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08043_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gill-dumb-driven-cattle-p08043",
+      "id": "5213",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hog and wheatsheaf",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08044_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gill-hog-and-wheatsheaf-p08044",
+      "id": "5214",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the purchaser",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08045_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gill-the-purchaser-p08045",
+      "id": "5215",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "adeste fideles, three kings, the manger, cantet nunc io, madonna & child with chalice",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08046_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gill-adeste-fideles-three-kings-the-manger-cantet-nunc-io-madonna-child-with-chalice-p08046",
+      "id": "5216",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "animals all",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08047_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gill-animals-all-p08047",
+      "id": "5217",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "christmas gifts: daylight, and christmas gifts: dawn",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08048_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gill-christmas-gifts-daylight-and-christmas-gifts-dawn-p08048",
+      "id": "5218",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "initial s with church, chalice & host with \u00db & a, gravestone with angel, semi-circular device, and circular device",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08049_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gill-initial-s-with-church-chalice-host-with-u-a-gravestone-with-angel-semi-circular-p08049",
+      "id": "5219",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "madonna and child with angel",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08050_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gill-madonna-and-child-with-angel-p08050",
+      "id": "5220",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jesus is condemned to death",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08051_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gill-jesus-is-condemned-to-death-p08051",
+      "id": "5221",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jesus receives his cross",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08052_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gill-jesus-receives-his-cross-p08052",
+      "id": "5222",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jesus falls the first time",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08053_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gill-jesus-falls-the-first-time-p08053",
+      "id": "5223",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jesus meets his mother",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08054_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gill-jesus-meets-his-mother-p08054",
+      "id": "5224",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "simon of cyrene helps jesus to carry the cross",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08055_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gill-simon-of-cyrene-helps-jesus-to-carry-the-cross-p08055",
+      "id": "5225",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jesus meets veronica",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08056_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gill-jesus-meets-veronica-p08056",
+      "id": "5226",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jesus falls the second time",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08057_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gill-jesus-falls-the-second-time-p08057",
+      "id": "5227",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jesus speaks to the women of jerusalem",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08058_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gill-jesus-speaks-to-the-women-of-jerusalem-p08058",
+      "id": "5228",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jesus falls the third time",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08059_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gill-jesus-falls-the-third-time-p08059",
+      "id": "5229",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jesus is stripped",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08060_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gill-jesus-is-stripped-p08060",
+      "id": "5230",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jesus is nailed to the cross",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08061_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gill-jesus-is-nailed-to-the-cross-p08061",
+      "id": "5231",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jesus dies upon the cross",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08062_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gill-jesus-dies-upon-the-cross-p08062",
+      "id": "5232",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the body of jesus is taken down from the cross",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08063_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gill-the-body-of-jesus-is-taken-down-from-the-cross-p08063",
+      "id": "5233",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the body of jesus is laid in the tomb",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08064_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gill-the-body-of-jesus-is-laid-in-the-tomb-p08064",
+      "id": "5234",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "crucifix",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08065_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gill-crucifix-p08065",
+      "id": "5235",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "epiphany, palm sunday, and adam & eve",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08066_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gill-epiphany-palm-sunday-and-adam-eve-p08066",
+      "id": "5236",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the last judgement",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08067_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gill-the-last-judgement-p08067",
+      "id": "5237",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "resurrection",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08068_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gill-resurrection-p08068",
+      "id": "5238",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spray of leaves, stalk, initial o with speedwell, paschal lamb, axe & block, and hangman\u2019s rope",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08069_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gill-spray-of-leaves-stalk-initial-o-with-speedwell-paschal-lamb-axe-block-and-hangmans-p08069",
+      "id": "5239",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ascension",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08070_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gill-ascension-p08070",
+      "id": "5240",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "madonna & child in vesica",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08071_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gill-madonna-child-in-vesica-p08071",
+      "id": "5241",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "christ and the money-changers",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08072_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gill-christ-and-the-money-changers-p08072",
+      "id": "5242",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "christ and the money-changers",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08073_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gill-christ-and-the-money-changers-p08073",
+      "id": "5243",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "crucifix",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08074_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gill-crucifix-p08074",
+      "id": "5244",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5205",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5206",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5207",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5208",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5209",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5210",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5211",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5212",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5213",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5214",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5215",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5216",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5217",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5218",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5219",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5220",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5221",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5222",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5223",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5224",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5225",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5226",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5227",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5228",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5229",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5230",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5231",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5232",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5233",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5234",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5235",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5236",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5237",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5238",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5239",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5240",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5241",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5242",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5243",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5244",
+      "value": 1
+    }
+  ]
+}

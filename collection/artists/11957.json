@@ -1,0 +1,197 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Riddy, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-riddy-11957",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "muizenberg (sea view), 2003",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79370_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riddy-muizenberg-sea-view-2003-p79370",
+      "id": "100716",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "london (wapping) 2008",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79839_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riddy-london-wapping-2008-p79839",
+      "id": "107481",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "london (wyndham road) 2008",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79840_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riddy-london-wyndham-road-2008-p79840",
+      "id": "107482",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "london (bank) 2008",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79841_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riddy-london-bank-2008-p79841",
+      "id": "107483",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "london (weston street) 2008",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79842_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riddy-london-weston-street-2008-p79842",
+      "id": "107484",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "london (heygate) 2008",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79843_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riddy-london-heygate-2008-p79843",
+      "id": "107485",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "london (garrick) 2008",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79844_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riddy-london-garrick-2008-p79844",
+      "id": "107486",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chandigarh (capitol complex 1) 2006",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79845_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riddy-chandigarh-capitol-complex-1-2006-p79845",
+      "id": "107487",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chandigarh (capitol complex 4) 2006",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79846_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riddy-chandigarh-capitol-complex-4-2006-p79846",
+      "id": "107488",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bexhill on sea (de la warr 1) 1998",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79847_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riddy-bexhill-on-sea-de-la-warr-1-1998-p79847",
+      "id": "107489",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bexhill on sea (de la warr 7) 1998",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79848_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riddy-bexhill-on-sea-de-la-warr-7-1998-p79848",
+      "id": "107490",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "london (gillender street 3) 1997",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79849_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riddy-london-gillender-street-3-1997-p79849",
+      "id": "107491",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "london (gillender street 4) 1997",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79850_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/riddy-london-gillender-street-4-1997-p79850",
+      "id": "107492",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "100716",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107481",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107482",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107483",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107484",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107485",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107486",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107487",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107488",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107489",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107490",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107491",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107492",
+      "value": 1
+    }
+  ]
+}

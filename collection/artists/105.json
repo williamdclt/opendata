@@ -1,0 +1,267 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Collins, William",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/william-collins-105",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "happy as a king (replica)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00351_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-happy-as-a-king-replica-n00351",
+      "id": "2521",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "prawn fishing",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00352_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-prawn-fishing-n00352",
+      "id": "2522",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "early morning - cromer",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01910_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-early-morning-cromer-n01910",
+      "id": "2523",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sunday morning",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01912_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-sunday-morning-n01912",
+      "id": "2524",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "eton on the thames, for \u2018the rivers of england\u2019 engraved by t. lupton",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04867_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-eton-on-the-thames-for-the-rivers-of-england-engraved-by-t-lupton-t04867",
+      "id": "16772",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "walmer castle",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05238_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-walmer-castle-t05238",
+      "id": "17014",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "walmer castle",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05239_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-walmer-castle-t05239",
+      "id": "17016",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "salcombe, devonshire",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05371_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-salcombe-devonshire-t05371",
+      "id": "17148",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sidmouth, devon",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05372_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-sidmouth-devon-t05372",
+      "id": "17149",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sidmouth, devon",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05373_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-sidmouth-devon-t05373",
+      "id": "17150",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hall sands, devon",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05394_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-hall-sands-devon-t05394",
+      "id": "17171",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hall sands, devon",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05395_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-hall-sands-devon-t05395",
+      "id": "17172",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lynmouth",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05450_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-lynmouth-t05450",
+      "id": "17227",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lynmouth",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05451_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-lynmouth-t05451",
+      "id": "17228",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "porlock, devon",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05452_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-porlock-devon-t05452",
+      "id": "17229",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view in a wood",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09601_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-view-in-a-wood-t09601",
+      "id": "22416",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of trees",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09603_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-study-of-trees-t09603",
+      "id": "22417",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a haywain",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10662_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-a-haywain-t10662",
+      "id": "22415",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2521",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2522",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2523",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2524",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16772",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17014",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17016",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17148",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17149",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17150",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17171",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17172",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17227",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17228",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17229",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22416",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22417",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22415",
+      "value": 1
+    }
+  ]
+}

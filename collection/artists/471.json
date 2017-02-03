@@ -1,0 +1,197 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Sandby, Paul",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/paul-sandby-471",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "edinburgh castle",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01853_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandby-edinburgh-castle-n01853",
+      "id": "13068",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a castle",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01854_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandby-a-castle-n01854",
+      "id": "13069",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "part of the banqueting hall of the royal palace at eltham",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01855_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandby-part-of-the-banqueting-hall-of-the-royal-palace-at-eltham-n01855",
+      "id": "13070",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the cemetery gate of st augustine\u2019s monastery canterbury",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01856_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandby-the-cemetery-gate-of-st-augustines-monastery-canterbury-n01856",
+      "id": "13071",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "windsor park",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01015_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandby-windsor-park-t01015",
+      "id": "13072",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rochester, kent",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08474_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandby-rochester-kent-t08474",
+      "id": "23502",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a sleeping woman; study of a head",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09218_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandby-a-sleeping-woman-study-of-a-head-t09218",
+      "id": "23495",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two coaches with passengers",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09223_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandby-two-coaches-with-passengers-t09223",
+      "id": "23499",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a group on a terrace",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09224_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandby-a-group-on-a-terrace-t09224",
+      "id": "23500",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a boy crawling on the floor",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09225_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandby-a-boy-crawling-on-the-floor-t09225",
+      "id": "23501",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a tree",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09226_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandby-study-of-a-tree-t09226",
+      "id": "23497",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cows in a park",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09238_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandby-cows-in-a-park-t09238",
+      "id": "23496",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the boot and the blockhead",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10121_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sandby-the-boot-and-the-blockhead-t10121",
+      "id": "23498",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13068",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13069",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13070",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13071",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13072",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23502",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23495",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23499",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23500",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23501",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23497",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23496",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23498",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Bock, Th\u00e9ophile de",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/theophile-de-bock-773",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "woudrichem",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bock-woudrichem-n02873",
+      "id": "1210",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1210",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Stubbs, George",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/george-stubbs-538",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a grey hunter with a groom and a greyhound at creswell crags",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01452_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stubbs-a-grey-hunter-with-a-groom-and-a-greyhound-at-creswell-crags-n01452",
+      "id": "13982",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "horse in the shade of a wood",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04696_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stubbs-horse-in-the-shade-of-a-wood-n04696",
+      "id": "13983",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mares and foals in a river landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00295_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stubbs-mares-and-foals-in-a-river-landscape-t00295",
+      "id": "13984",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mother and child",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00785_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stubbs-mother-and-child-t00785",
+      "id": "13985",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "horse attacked by a lion",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01192_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stubbs-horse-attacked-by-a-lion-t01192",
+      "id": "13986",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a couple of foxhounds",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01705_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stubbs-a-couple-of-foxhounds-t01705",
+      "id": "13987",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "leopards at play",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01985_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stubbs-leopards-at-play-t01985",
+      "id": "13988",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "leopards at play",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01986_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stubbs-leopards-at-play-t01986",
+      "id": "13989",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "horse devoured by a lion",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02058_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stubbs-horse-devoured-by-a-lion-t02058",
+      "id": "13990",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "haymakers",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02256_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stubbs-haymakers-t02256",
+      "id": "13991",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reapers",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02257_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stubbs-reapers-t02257",
+      "id": "13992",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bay hunter by a lake",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02374_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stubbs-bay-hunter-by-a-lake-t02374",
+      "id": "13993",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "otho, with john larkin up",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02375_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stubbs-otho-with-john-larkin-up-t02375",
+      "id": "13994",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "newmarket heath, with a rubbing-down house",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02388_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stubbs-newmarket-heath-with-a-rubbing-down-house-t02388",
+      "id": "13995",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reapers",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03778_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stubbs-reapers-t03778",
+      "id": "13996",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "labourers",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03779_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stubbs-labourers-t03779",
+      "id": "13997",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a foxhound",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03780_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stubbs-a-foxhound-t03780",
+      "id": "13998",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a foxhound viewed from behind",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03781_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stubbs-a-foxhound-viewed-from-behind-t03781",
+      "id": "13999",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a horse attacked by a lion (a lion devouring a horse)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03843_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stubbs-a-horse-attacked-by-a-lion-a-lion-devouring-a-horse-t03843",
+      "id": "14000",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a lion resting on a rock",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03844_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stubbs-a-lion-resting-on-a-rock-t03844",
+      "id": "14001",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of a young gentleman out shooting",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05204_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stubbs-portrait-of-a-young-gentleman-out-shooting-t05204",
+      "id": "8751",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "horse frightened by a lion",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06869_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stubbs-horse-frightened-by-a-lion-t06869",
+      "id": "21015",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of an eagle",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07878_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stubbs-study-of-an-eagle-t07878",
+      "id": "71351",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13982",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13983",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13984",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13985",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13986",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13987",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13988",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13989",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13990",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13991",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13992",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13993",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13994",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13995",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13996",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13997",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13998",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13999",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14000",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14001",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8751",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21015",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71351",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Sleap, Joseph Axe",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/joseph-axe-sleap-499",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "st paul\u2019s wharf, thames",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00676_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sleap-st-pauls-wharf-thames-n00676",
+      "id": "13462",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13462",
+      "value": 1
+    }
+  ]
+}

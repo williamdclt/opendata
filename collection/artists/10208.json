@@ -1,0 +1,239 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Shrigley, David",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/david-shrigley-10208",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "fallen tree",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79241_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shrigley-fallen-tree-p79241",
+      "id": "92155",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "carrots",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79242_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shrigley-carrots-p79242",
+      "id": "92156",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "leisure centre",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79243_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shrigley-leisure-centre-p79243",
+      "id": "92164",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12358_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shrigley-untitled-t12358",
+      "id": "92157",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12359_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shrigley-untitled-t12359",
+      "id": "92158",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12360_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shrigley-untitled-t12360",
+      "id": "92159",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12361_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shrigley-untitled-t12361",
+      "id": "92160",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12362_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shrigley-untitled-t12362",
+      "id": "92161",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12363_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shrigley-untitled-t12363",
+      "id": "92162",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12364_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shrigley-untitled-t12364",
+      "id": "92163",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12365_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shrigley-untitled-t12365",
+      "id": "92165",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12366_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shrigley-untitled-t12366",
+      "id": "92166",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12367_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shrigley-untitled-t12367",
+      "id": "92167",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12368_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shrigley-untitled-t12368",
+      "id": "92168",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "light switch",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12818_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shrigley-light-switch-t12818",
+      "id": "100288",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stop it",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12819_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shrigley-stop-it-t12819",
+      "id": "101009",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "92155",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "92156",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "92164",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "92157",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "92158",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "92159",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "92160",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "92161",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "92162",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "92163",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "92165",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "92166",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "92167",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "92168",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "100288",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101009",
+      "value": 1
+    }
+  ]
+}

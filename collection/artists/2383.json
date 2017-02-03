@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Percy, Sidney Richard",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sidney-richard-percy-2383",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "in snowdonia",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07049_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/percy-in-snowdonia-t07049",
+      "id": "21544",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "21544",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Douglas, Sir William Fettes",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-william-fettes-douglas-157",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "bibliomania",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00617_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/douglas-bibliomania-n00617",
+      "id": "3991",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "3991",
+      "value": 1
+    }
+  ]
+}

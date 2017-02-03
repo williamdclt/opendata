@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Posey, Sam",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sam-posey-6668",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "artist and model",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/posey-artist-and-model-p12225",
+      "id": "80484",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "odyssey",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12226_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/posey-odyssey-p12226",
+      "id": "80485",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "good-bye kisco avenue",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/posey-good-bye-kisco-avenue-p12227",
+      "id": "80486",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "80484",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80485",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80486",
+      "value": 1
+    }
+  ]
+}

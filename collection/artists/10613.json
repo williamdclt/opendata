@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Ferrari, Le\u00f3n",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/leon-ferrari-10613",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "\u2018the deluge\u2019 by dor\u00e9, 1860 + military junta (photo: public records office)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79517_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferrari-the-deluge-by-dore-1860-military-junta-photo-public-records-office-p79517",
+      "id": "96093",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cardinal antonio quarracino (photo: tony valdez) + jorge videla",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79518_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferrari-cardinal-antonio-quarracino-photo-tony-valdez-jorge-videla-p79518",
+      "id": "96141",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "flag of the \u2018frigate libertad\u2019, 1995 + silhouette of a \u2018disappeared\u2019 person (photo: guillermo kexel, 1983)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79519_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferrari-flag-of-the-frigate-libertad-1995-silhouette-of-a-disappeared-person-photo-p79519",
+      "id": "96142",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mart\u00ednez de hoz (photo: ila agency, 29/4/88) + boots (photo: alejandro el\u00edas)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79520_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferrari-martinez-de-hoz-photo-ila-agency-29488-boots-photo-alejandro-elias-p79520",
+      "id": "96143",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "torture methods in germany, drawing from the 16th century + military cap",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferrari-torture-methods-in-germany-drawing-from-the-16th-century-military-cap-p79521",
+      "id": "96144",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "military college (photo: jorge saenz) + nazi insignia + \u2018trumpet of the apocalypse\u2019, anonymous engraving from the wittenberg bible, 1535",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79522_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferrari-military-college-photo-jorge-saenz-nazi-insignia-trumpet-of-the-apocalypse-p79522",
+      "id": "96145",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the army mechanical school + detail of \u2018the last judgment\u2019 by memling",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79523_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferrari-the-army-mechanical-school-detail-of-the-last-judgment-by-memling-p79523",
+      "id": "96146",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "alfredo astiz (photo: afp, file grinberg) + drawing by leonardo da vinci, 1489",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79524_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferrari-alfredo-astiz-photo-afp-file-grinberg-drawing-by-leonardo-da-vinci-1489-p79524",
+      "id": "96147",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "buenos aires court palace + \u2018devil with witch\u2019, engraving from the book \u2018nuremberg chronicles\u2019, 15th century",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79525_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferrari-buenos-aires-court-palace-devil-with-witch-engraving-from-the-book-nuremberg-p79525",
+      "id": "96148",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018hell\u2019, drawing by yapar\u00ed, guaran\u00ed aborigine + set of scales",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79526_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferrari-hell-drawing-by-yapari-guarani-aborigine-set-of-scales-p79526",
+      "id": "96149",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018the disasters of war\u2019, goya, 1810 + \u2018the apocalypse of st john\u2019, d\u00fcrer, c. 1500",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79527_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferrari-the-disasters-of-war-goya-1810-the-apocalypse-of-st-john-durer-c-1500-p79527",
+      "id": "96150",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018the four avenging angels of euphrates\u2019, d\u00fcrer, c. 1500 + \u2018the departure of the warrior\u2019, by amo broker, sculptor from the third reich, c. 1939",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79528_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferrari-the-four-avenging-angels-of-euphrates-durer-c-1500-the-departure-of-the-warrior-by-p79528",
+      "id": "96151",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "entrance to the naval headquarters + \u2018vulture\u2019, engraving from the nouveau larousse illustr\u00e9, c. 1900",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79529_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferrari-entrance-to-the-naval-headquarters-vulture-engraving-from-the-nouveau-larousse-p79529",
+      "id": "96152",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018the statue of liberty\u2019 by dubourdieu + \u2018demons torturing sorceresses\u2019 by thomas darling, 1597",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79530_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferrari-the-statue-of-liberty-by-dubourdieu-demons-torturing-sorceresses-by-thomas-darling-p79530",
+      "id": "96153",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nuncio monsignor calabresi, cardinal aramburu, viola, lambruschini and galtieri (photo: loi\u00e1cono) + \u2018banner of the spanish inquisition\u2019, etching by bembard picart",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79531_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferrari-nuncio-monsignor-calabresi-cardinal-aramburu-viola-lambruschini-and-galtieri-photo-p79531",
+      "id": "96154",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "videla, massera, agosti and cardinal aramburu (photo: loi\u00e1cono) + \u2018dante\u2019s inferno\u2019 by dor\u00e9, 1860",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79532_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferrari-videla-massera-agosti-and-cardinal-aramburu-photo-loiacono-dantes-inferno-by-dore-p79532",
+      "id": "96155",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nuncio monsignor calabresi with galtieri (photo: na) + \u2018the lady of the witches\u2019 sabbath\u2019 from \u2018histoire de la magie\u2019 by p. christian, paris 1870",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79533_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferrari-nuncio-monsignor-calabresi-with-galtieri-photo-na-the-lady-of-the-witches-sabbath-p79533",
+      "id": "96156",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lieutenant antonio pern\u00eda (photo: m. cuchi) + engraving from the book \u2018enchiridion\u2019 by joost damhourdert, 1554",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79534_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferrari-lieutenant-antonio-pernia-photo-m-cuchi-engraving-from-the-book-enchiridion-by-p79534",
+      "id": "96157",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "attack against the amia (photo: tony valdez) + \u2018never again\u2019, p. 48",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79535_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferrari-attack-against-the-amia-photo-tony-valdez-never-again-p-48-p79535",
+      "id": "96158",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "videla, massera and agosti with monsignor tortolo, vicar of the armed forces (photo: a. kacero) + \u2018the last judgment\u2019 by giotto, capella degli scrovegni, padua 1306",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79536_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferrari-videla-massera-and-agosti-with-monsignor-tortolo-vicar-of-the-armed-forces-photo-a-p79536",
+      "id": "96159",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "monument to the fallen in the malvinas + f. galtieri, jorge videla and lambruschini (photo: public records office)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79537_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferrari-monument-to-the-fallen-in-the-malvinas-f-galtieri-jorge-videla-and-lambruschini-p79537",
+      "id": "96160",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "third reich concentration camp + emblem of the armed forces",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79538_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferrari-third-reich-concentration-camp-emblem-of-the-armed-forces-p79538",
+      "id": "96161",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "logo of the municipality of buenos aires + \u2018witches\u2019 by goya",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79539_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferrari-logo-of-the-municipality-of-buenos-aires-witches-by-goya-p79539",
+      "id": "96162",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "videla, massera and agosti + \u2018clar\u00edn\u2019 21/8/76",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79540_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferrari-videla-massera-and-agosti-clarin-21876-p79540",
+      "id": "96163",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018infernal tortures\u2019 from the book \u2018grant kalendrier des bergieres\u2019 + officer saluting (photo: tony valdez)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79541_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferrari-infernal-tortures-from-the-book-grant-kalendrier-des-bergieres-officer-saluting-p79541",
+      "id": "96164",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "videla and nuncio p\u00edo larghi + \u2018clar\u00edn\u2019 5/8/76",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferrari-videla-and-nuncio-pio-larghi-clarin-5876-p79542",
+      "id": "96165",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "engraving by jan luy ken from the series \u2018religious persecutions\u2019, 17th century + photograph of the police doctor jorge berg\u00e9s + \u2018never again\u2019, p. 139",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79543_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferrari-engraving-by-jan-luy-ken-from-the-series-religious-persecutions-17th-century-p79543",
+      "id": "96166",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "souvenir ashtray from the frigate \u2018libertad\u2019 + article from \u2018la opini\u00f3n\u2019 25/5/76",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79544_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferrari-souvenir-ashtray-from-the-frigate-libertad-article-from-la-opinion-25576-p79544",
+      "id": "96167",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hitler greets the catholic abbot schachteitner and muller, reich bishop + jorge videla greets cardinal aramburu",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79545_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferrari-hitler-greets-the-catholic-abbot-schachteitner-and-muller-reich-bishop-jorge-p79545",
+      "id": "96168",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "entrance to the military headquarters + military decoration from the third reich",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79546_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferrari-entrance-to-the-military-headquarters-military-decoration-from-the-third-reich-p79546",
+      "id": "96169",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018the inferno\u2019 by p. de limbourg + jorge videla and cardinal aramburu",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79547_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferrari-the-inferno-by-p-de-limbourg-jorge-videla-and-cardinal-aramburu-p79547",
+      "id": "96170",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hitler with children + videla and massera with children",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79548_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferrari-hitler-with-children-videla-and-massera-with-children-p79548",
+      "id": "96171",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "galtieri, lambruschini and graffigna in the cathedral + article from \u2018la prensa\u2019 1/7/76",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79549_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferrari-galtieri-lambruschini-and-graffigna-in-the-cathedral-article-from-la-prensa-1776-p79549",
+      "id": "96172",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hitler with christian dignitaries + galtieri, lambruschini and viola with nuncio calabresi and cardinal aramburu",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79550_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferrari-hitler-with-christian-dignitaries-galtieri-lambruschini-and-viola-with-nuncio-p79550",
+      "id": "96173",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018justice\u2019 by rogelio irurtia + \u2018the seven apocalyptical trumpets\u2019 by d\u00fcrer",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79551_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferrari-justice-by-rogelio-irurtia-the-seven-apocalyptical-trumpets-by-durer-p79551",
+      "id": "96174",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "news articles published in 1976",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79552_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferrari-news-articles-published-in-1976-p79552",
+      "id": "96175",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "scilingo\u2019s account to horacio verbitsky + the frigate \u2018escuela libertad\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79553_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferrari-scilingos-account-to-horacio-verbitsky-the-frigate-escuela-libertad-p79553",
+      "id": "96176",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "giotto\u2019s \u2018inferno\u2019 + massera",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79554_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferrari-giottos-inferno-massera-p79554",
+      "id": "96177",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the frigate \u2018escuela libertad\u2019 + massera (photo: public records office) + articles from the newspapers \u2018la raz\u00f3n\u2019 6/9/76, \u2018la opini\u00f3n\u2019 29/5 and 11/5/76 and \u2018la prensa\u2019 3/5/76",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79555_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferrari-the-frigate-escuela-libertad-massera-photo-public-records-office-articles-from-the-p79555",
+      "id": "96178",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018the deluge\u2019 by dor\u00e9 + army officer\u2019s cap",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79556_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ferrari-the-deluge-by-dore-army-officers-cap-p79556",
+      "id": "96179",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "96093",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96141",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96142",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96143",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96144",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96145",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96146",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96147",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96148",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96149",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96150",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96151",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96152",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96153",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96154",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96155",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96156",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96157",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96158",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96159",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96160",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96161",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96162",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96163",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96164",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96165",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96166",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96167",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96168",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96169",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96170",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96171",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96172",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96173",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96174",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96175",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96176",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96177",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96178",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96179",
+      "value": 1
+    }
+  ]
+}

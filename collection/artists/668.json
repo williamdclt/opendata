@@ -1,0 +1,183 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Art & Language (Terry Atkinson, born 1939; Michael Baldwin, born 1945)",
+      "url": null,
+      "gender": "",
+      "tatelink": "http://www.tate.org.uk/art/artists/art-language-terry-atkinson-born-1939-michael-baldwin-born-1945-668",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "map of thirty-six square mile surface area of pacific ocean west of oahu",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01356_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/art-language-terry-atkinson-map-of-thirty-six-square-mile-surface-area-of-pacific-ocean-p01356",
+      "id": "598",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "map to not indicate",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01357_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/art-language-terry-atkinson-map-to-not-indicate-p01357",
+      "id": "599",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "22 sentences: the french army",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/art-language-terry-atkinson-22-sentences-the-french-army-p13188",
+      "id": "121757",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "theories of ethics",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/art-language-terry-atkinson-theories-of-ethics-p13189",
+      "id": "121759",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hot-warm-cool-cold",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/art-language-terry-atkinson-hot-warm-cool-cold-p13191",
+      "id": "121717",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "handbook to ingot",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/art-language-terry-atkinson-handbook-to-ingot-p13192",
+      "id": "121758",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "introduction to discourse",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/art-language-terry-atkinson-introduction-to-discourse-p80066",
+      "id": "121730",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "declaration propositions",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/art-language-terry-atkinson-declaration-propositions-p80067",
+      "id": "121732",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "geology",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/art-language-terry-atkinson-geology-p80068",
+      "id": "121728",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "air-conditioning show / air show / frameworks",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/art-language-terry-atkinson-air-conditioning-show-air-show-frameworks-p80069",
+      "id": "121725",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "part of a short lesson",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/art-language-terry-atkinson-part-of-a-short-lesson-p80070",
+      "id": "121729",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "intention ii: draft for a text book section",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/art-language-terry-atkinson-intention-ii-draft-for-a-text-book-section-p80071",
+      "id": "121731",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "598",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "599",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121757",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121759",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121717",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121758",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121730",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121732",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121728",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121725",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121729",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121731",
+      "value": 1
+    }
+  ]
+}

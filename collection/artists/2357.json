@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Cross, Dorothy",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/dorothy-cross-2357",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "virgin shroud",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06948_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cross-virgin-shroud-t06948",
+      "id": "21259",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "21259",
+      "value": 1
+    }
+  ]
+}

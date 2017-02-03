@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Berry, John, CBE",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-berry-746",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "angel",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/berry-angel-p01759",
+      "id": "945",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "helmetatec",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/berry-helmetatec-p01760",
+      "id": "946",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "helmetatec hello",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/berry-helmetatec-hello-p01761",
+      "id": "947",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "love tower number one",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/berry-love-tower-number-one-p01762",
+      "id": "948",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/berry-untitled-p01763",
+      "id": "949",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/berry-no-title-t05842",
+      "id": "19386",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "945",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "946",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "947",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "948",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "949",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19386",
+      "value": 1
+    }
+  ]
+}

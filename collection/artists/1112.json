@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Frampton, Meredith",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/meredith-frampton-1112",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "portrait of a young woman",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04820_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frampton-portrait-of-a-young-woman-n04820",
+      "id": "4518",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "near dieppe",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11080_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frampton-near-dieppe-p11080",
+      "id": "4519",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sir george frampton",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11081_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frampton-sir-george-frampton-p11081",
+      "id": "4520",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "marguerite kelsey",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03415_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frampton-marguerite-kelsey-t03415",
+      "id": "4521",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nude with flying swans",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03981_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frampton-nude-with-flying-swans-t03981",
+      "id": "4522",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sir clive forster-cooper",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frampton-sir-clive-forster-cooper-t13032",
+      "id": "110152",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4518",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4519",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4520",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4521",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4522",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "110152",
+      "value": 1
+    }
+  ]
+}

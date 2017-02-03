@@ -1,0 +1,491 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Buckley, Stephen",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/stephen-buckley-828",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07325_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/buckley-no-title-p07325",
+      "id": "1650",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07326_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/buckley-no-title-p07326",
+      "id": "1651",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07327_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/buckley-no-title-p07327",
+      "id": "1652",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07328_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/buckley-no-title-p07328",
+      "id": "1653",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07329_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/buckley-no-title-p07329",
+      "id": "1654",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07330_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/buckley-no-title-p07330",
+      "id": "1655",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07331_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/buckley-no-title-p07331",
+      "id": "1656",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07332_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/buckley-no-title-p07332",
+      "id": "1657",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07333_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/buckley-no-title-p07333",
+      "id": "1658",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07334_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/buckley-no-title-p07334",
+      "id": "1659",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07335_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/buckley-no-title-p07335",
+      "id": "1660",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07367_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/buckley-no-title-p07367",
+      "id": "1661",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07368_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/buckley-no-title-p07368",
+      "id": "1662",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07369_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/buckley-no-title-p07369",
+      "id": "1663",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07370_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/buckley-no-title-p07370",
+      "id": "1664",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07371_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/buckley-no-title-p07371",
+      "id": "1665",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07372_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/buckley-no-title-p07372",
+      "id": "1666",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07373_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/buckley-no-title-p07373",
+      "id": "1667",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07374_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/buckley-no-title-p07374",
+      "id": "1668",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07375_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/buckley-no-title-p07375",
+      "id": "1669",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07376_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/buckley-no-title-p07376",
+      "id": "1670",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "les flons flons",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07754_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/buckley-les-flons-flons-p07754",
+      "id": "1671",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77670_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/buckley-title-not-known-p77670",
+      "id": "21016",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77671_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/buckley-title-not-known-p77671",
+      "id": "21017",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jesmond",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77672_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/buckley-jesmond-p77672",
+      "id": "21019",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tokyo joe",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77673_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/buckley-tokyo-joe-p77673",
+      "id": "21020",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "le lendemain",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77674_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/buckley-le-lendemain-p77674",
+      "id": "21018",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nice",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01684_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/buckley-nice-t01684",
+      "id": "1672",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "trullisatio",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/buckley-trullisatio-t01685",
+      "id": "1673",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "triptych",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02024_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/buckley-triptych-t02024",
+      "id": "1674",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "java",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03070_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/buckley-java-t03070",
+      "id": "1675",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fresh end",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06465_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/buckley-fresh-end-t06465",
+      "id": "20176",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "many angles",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06643_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/buckley-many-angles-t06643",
+      "id": "20517",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gloucester",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07158_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/buckley-gloucester-t07158",
+      "id": "21780",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1650",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1651",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1652",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1653",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1654",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1655",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1656",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1657",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1658",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1659",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1660",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1661",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1662",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1663",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1664",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1665",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1666",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1667",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1668",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1669",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1670",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1671",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21016",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21017",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21019",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21020",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21018",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1672",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1673",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1674",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1675",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20176",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20517",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21780",
+      "value": 1
+    }
+  ]
+}

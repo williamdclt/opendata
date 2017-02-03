@@ -1,0 +1,155 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Young, Carey",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/carey-young-8297",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "body techniques (after a line in ireland, richard long, 1974)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79818_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/young-body-techniques-after-a-line-in-ireland-richard-long-1974-p79818",
+      "id": "100685",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "body techniques (after parallel stress, dennis oppenheim,1970)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79819_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/young-body-techniques-after-parallel-stress-dennis-oppenheim1970-p79819",
+      "id": "100686",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "body techniques (after lean in, valie export, 1976)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79820_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/young-body-techniques-after-lean-in-valie-export-1976-p79820",
+      "id": "100687",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "body techniques (after sculpture ii, kirsten justesen, 1969)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79821_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/young-body-techniques-after-sculpture-ii-kirsten-justesen-1969-p79821",
+      "id": "100688",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "body techniques (after dance or exercise on the perimeter of a square [square dance], bruce nauman,1967-68)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79822_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/young-body-techniques-after-dance-or-exercise-on-the-perimeter-of-a-square-square-dance-p79822",
+      "id": "100689",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "body techniques (after encirclement, valie export, 1976)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79823_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/young-body-techniques-after-encirclement-valie-export-1976-p79823",
+      "id": "100690",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "body techniques (after hartford wash: washing, tracks, maintenance: outside, mierle laderman ukeles, 1973)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79824_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/young-body-techniques-after-hartford-wash-washing-tracks-maintenance-outside-mierle-p79824",
+      "id": "100691",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "body techniques (after circles, ulrich ruckriem, 1971)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79825_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/young-body-techniques-after-circles-ulrich-ruckriem-1971-p79825",
+      "id": "100692",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "everything you\u2019ve heard is wrong",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12148_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/young-everything-youve-heard-is-wrong-t12148",
+      "id": "86362",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "product recall",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12985_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/young-product-recall-t12985",
+      "id": "100682",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "100685",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "100686",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "100687",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "100688",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "100689",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "100690",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "100691",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "100692",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "86362",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "100682",
+      "value": 1
+    }
+  ]
+}

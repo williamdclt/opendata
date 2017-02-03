@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Jones, Stanley",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/stanley-jones-1373",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "porthmeor",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06317_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-porthmeor-p06317",
+      "id": "7745",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "essex landscape",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06318_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-essex-landscape-p06318",
+      "id": "7746",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "madron",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06319_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-madron-p06319",
+      "id": "7747",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sheelin",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06787_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-sheelin-p06787",
+      "id": "7748",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "7745",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7746",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7747",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7748",
+      "value": 1
+    }
+  ]
+}

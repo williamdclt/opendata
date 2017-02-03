@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Windus, William Lindsay",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/william-lindsay-windus-607",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "too late",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03597_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/windus-too-late-n03597",
+      "id": "16261",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the second duchess",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03598_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/windus-the-second-duchess-n03598",
+      "id": "16262",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the flight of henry vi from towton",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03599_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/windus-the-flight-of-henry-vi-from-towton-n03599",
+      "id": "16263",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a dead child, the artist\u2019s son",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04885_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/windus-study-of-a-dead-child-the-artists-son-n04885",
+      "id": "16264",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs teed, the artist\u2019s daughter",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04886_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/windus-mrs-teed-the-artists-daughter-n04886",
+      "id": "16265",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16261",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16262",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16263",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16264",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16265",
+      "value": 1
+    }
+  ]
+}

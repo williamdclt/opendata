@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Greenham, Peter",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/peter-greenham-1216",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "jane",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00769_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/greenham-jane-t00769",
+      "id": "5671",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "father d\u2019arcy",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02401_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/greenham-father-darcy-t02401",
+      "id": "5672",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "life class",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03219_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/greenham-life-class-t03219",
+      "id": "5673",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lady bonham carter",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06656_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/greenham-lady-bonham-carter-t06656",
+      "id": "20570",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5671",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5672",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5673",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20570",
+      "value": 1
+    }
+  ]
+}

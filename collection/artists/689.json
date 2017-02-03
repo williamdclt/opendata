@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Klossowski de Rola, Balthus",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/balthus-balthasar-klossowski-de-rola-689",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "sleeping girl",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00297_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/klossowski-de-rola-sleeping-girl-t00297",
+      "id": "705",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life with a figure",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12613_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/klossowski-de-rola-still-life-with-a-figure-t12613",
+      "id": "107",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nude on a chaise longue",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12614_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/klossowski-de-rola-nude-on-a-chaise-longue-t12614",
+      "id": "108",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "705",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "107",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "108",
+      "value": 1
+    }
+  ]
+}

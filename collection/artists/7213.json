@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Medalla, David",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/david-medalla-7213",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "cloud canyons no. 3: an ensemble of bubble machines (auto creative sculptures)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/medalla-cloud-canyons-no-3-an-ensemble-of-bubble-machines-auto-creative-sculptures-t12201",
+      "id": "82366",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "82366",
+      "value": 1
+    }
+  ]
+}

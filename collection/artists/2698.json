@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "O'Casey, Breon",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/breon-ocasey-2698",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "mountain and cloud",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ocasey-mountain-and-cloud-p11574",
+      "id": "26684",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "brown square",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ocasey-brown-square-p11575",
+      "id": "26685",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mountain",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ocasey-mountain-p11576",
+      "id": "26686",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mountain",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ocasey-mountain-p11577",
+      "id": "26687",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "music",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ocasey-music-p11578",
+      "id": "26688",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hills",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ocasey-hills-p11579",
+      "id": "26689",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "brown hills",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ocasey-brown-hills-p11580",
+      "id": "26690",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bird",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ocasey-bird-t07533",
+      "id": "26691",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "26684",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26685",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26686",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26687",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26688",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26689",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26690",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26691",
+      "value": 1
+    }
+  ]
+}

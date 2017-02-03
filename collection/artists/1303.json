@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hollweg, Alexander",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/alexander-hollweg-1303",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "country dance",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03156_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hollweg-country-dance-p03156",
+      "id": "6669",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6669",
+      "value": 1
+    }
+  ]
+}

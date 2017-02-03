@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Rippingille, Edward Villiers",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/edward-villiers-rippingille-451",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "capuchin friar",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00455_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rippingille-capuchin-friar-n00455",
+      "id": "12612",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12612",
+      "value": 1
+    }
+  ]
+}

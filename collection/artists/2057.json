@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Torner, Gustavo",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/gustavo-torner-2057",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "composition 1961",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00483_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/torner-composition-1961-t00483",
+      "id": "14377",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "14377",
+      "value": 1
+    }
+  ]
+}

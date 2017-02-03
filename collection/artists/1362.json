@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "John, Augustus, OM",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/augustus-john-om-1362",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "woman smiling",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-woman-smiling-n03171",
+      "id": "7103",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "walpurgis night. verso: study of a man",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-walpurgis-night-verso-study-of-a-man-n03172",
+      "id": "7104",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nirvana",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-nirvana-n03198",
+      "id": "7105",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "galway",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-galway-n03210",
+      "id": "7106",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "robin",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-robin-n03523",
+      "id": "7107",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rachel",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-rachel-n03565",
+      "id": "7108",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "colonel t.e. lawrence",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-colonel-te-lawrence-n03566",
+      "id": "7109",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the orange jacket",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-the-orange-jacket-n03581",
+      "id": "7110",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "washing day",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-washing-day-n03730",
+      "id": "7111",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of a woman",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-portrait-of-a-woman-n03731",
+      "id": "7112",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gossiping women. verso: a satyr",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-gossiping-women-verso-a-satyr-n03886",
+      "id": "7113",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "madame suggia",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-madame-suggia-n04093",
+      "id": "7114",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for madame suggia",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-study-for-madame-suggia-n04448",
+      "id": "7115",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "llyn treweryn",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-llyn-treweryn-n04653",
+      "id": "7116",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lord david cecil",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-lord-david-cecil-n04819",
+      "id": "7117",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the little railway, martigues",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-the-little-railway-martigues-n05097",
+      "id": "7119",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seated nude",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-seated-nude-n05098",
+      "id": "7120",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dorelia",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-dorelia-n05157",
+      "id": "7121",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dorelia",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-dorelia-n05158",
+      "id": "7122",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dorelia",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-dorelia-n05159",
+      "id": "7123",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "w.b. yeats",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-wb-yeats-n05218",
+      "id": "7124",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "an old lady",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-an-old-lady-n05259",
+      "id": "7125",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a canadian soldier",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-a-canadian-soldier-n05268",
+      "id": "7126",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of romilly, the artist\u2019s son",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-head-of-romilly-the-artists-son-n05292",
+      "id": "7127",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the artist\u2019s children",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-the-artists-children-n05297",
+      "id": "7128",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "w.b. yeats",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-wb-yeats-n05298",
+      "id": "7129",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two nude studies",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-two-nude-studies-n05299",
+      "id": "7130",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blue cineraria",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-blue-cineraria-n05346",
+      "id": "7131",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dorelia",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-dorelia-n05434",
+      "id": "7132",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "joseph hone",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-joseph-hone-n05645",
+      "id": "7133",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "matthew smith",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-matthew-smith-n05929",
+      "id": "7134",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "viscount d\u2019abernon",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-viscount-dabernon-n05936",
+      "id": "7135",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gloxinia",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-gloxinia-n06240",
+      "id": "7136",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the dawn",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03038_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-the-dawn-p03038",
+      "id": "7137",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rustic idyll",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-rustic-idyll-t00071",
+      "id": "7138",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "composition sketch",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-composition-sketch-t00072",
+      "id": "7139",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "edward grove",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00138_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-edward-grove-t00138",
+      "id": "7140",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "theodore powys",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00194_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-theodore-powys-t00194",
+      "id": "7141",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lyric fantasy",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01540_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-lyric-fantasy-t01540",
+      "id": "7142",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "arthur symons",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/john-arthur-symons-t05805",
+      "id": "19216",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "7103",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7104",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7105",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7106",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7107",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7108",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7109",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7110",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7111",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7112",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7113",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7114",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7115",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7116",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7117",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7119",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7120",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7121",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7122",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7123",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7124",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7125",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7126",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7127",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7128",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7129",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7130",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7131",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7132",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7133",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7134",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7135",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7136",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7137",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7138",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7139",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7140",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7141",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7142",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19216",
+      "value": 1
+    }
+  ]
+}

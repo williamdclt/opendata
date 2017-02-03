@@ -1,0 +1,197 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Degas, Edgar",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/edgar-degas-988",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "carlo pellegrini",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/degas-carlo-pellegrini-n03157",
+      "id": "3694",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of a woman",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03390_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/degas-head-of-a-woman-n03390",
+      "id": "3695",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of a woman",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03833_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/degas-head-of-a-woman-n03833",
+      "id": "3696",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "miss lala at the cirque fernando",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04710_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/degas-miss-lala-at-the-cirque-fernando-n04710",
+      "id": "3697",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman at her toilet",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04711_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/degas-woman-at-her-toilet-n04711",
+      "id": "3698",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bed-time",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04712_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/degas-bed-time-n04712",
+      "id": "3699",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "grande arabesque",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05917_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/degas-grande-arabesque-n05917",
+      "id": "3700",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dancer putting on her stocking",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05918_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/degas-dancer-putting-on-her-stocking-n05918",
+      "id": "3701",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dancer looking at the sole of her right foot",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05919_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/degas-dancer-looking-at-the-sole-of-her-right-foot-n05919",
+      "id": "3702",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dancer at rest, her hands on her hips, right leg forward",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05920_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/degas-dancer-at-rest-her-hands-on-her-hips-right-leg-forward-n05920",
+      "id": "3703",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "horse clearing an obstacle",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06072_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/degas-horse-clearing-an-obstacle-n06072",
+      "id": "3704",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "little dancer aged fourteen",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06076_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/degas-little-dancer-aged-fourteen-n06076",
+      "id": "3705",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman in a tub",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03563_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/degas-woman-in-a-tub-t03563",
+      "id": "3706",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "3694",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3695",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3696",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3697",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3698",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3699",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3700",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3701",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3702",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3703",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3704",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3705",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3706",
+      "value": 1
+    }
+  ]
+}

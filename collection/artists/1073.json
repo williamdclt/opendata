@@ -1,0 +1,155 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Evans, Merlyn Oliver",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/merlyn-oliver-evans-1073",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "souvenir of suez",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06147_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/evans-souvenir-of-suez-n06147",
+      "id": "4194",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "conquest of time",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/evans-conquest-of-time-p01872",
+      "id": "4195",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tragic group",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/evans-tragic-group-p01873",
+      "id": "4196",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the chess players",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/evans-the-chess-players-p01874",
+      "id": "4197",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pentaptych no. 3",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/evans-pentaptych-no-3-p01875",
+      "id": "4198",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "triptych no. 1",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/evans-triptych-no-1-p01876",
+      "id": "4199",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "triptych no. 2",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/evans-triptych-no-2-p01877",
+      "id": "4200",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st ives beach",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/evans-st-ives-beach-p06130",
+      "id": "4201",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the conquest of time",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00830_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/evans-the-conquest-of-time-t00830",
+      "id": "4202",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the mark of the beast",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02099_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/evans-the-mark-of-the-beast-t02099",
+      "id": "4203",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4194",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4195",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4196",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4197",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4198",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4199",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4200",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4201",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4202",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4203",
+      "value": 1
+    }
+  ]
+}

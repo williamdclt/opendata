@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Nevelson, Louise",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/louise-nevelson-1696",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "dancing figure",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77270_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nevelson-dancing-figure-p77270",
+      "id": "3690",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black wall",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nevelson-black-wall-t00514",
+      "id": "10593",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "an american tribute to the british people",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nevelson-an-american-tribute-to-the-british-people-t00796",
+      "id": "10594",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled no. 34",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nevelson-untitled-no-34-t03967",
+      "id": "10595",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled no. 15",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nevelson-untitled-no-15-t03968",
+      "id": "10596",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled no. 16",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nevelson-untitled-no-16-t03969",
+      "id": "10597",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled no. 40",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nevelson-untitled-no-40-t03970",
+      "id": "10598",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "3690",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10593",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10594",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10595",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10596",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10597",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10598",
+      "value": 1
+    }
+  ]
+}

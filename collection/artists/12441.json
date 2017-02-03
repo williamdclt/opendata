@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Osborn, Emily",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/emily-mary-osborn-12441",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "nameless and friendless. \u201cthe rich man\u2019s wealth is his strong city, etc.\u201d - proverbs, x, 15",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12936_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/osborn-nameless-and-friendless-the-rich-mans-wealth-is-his-strong-city-etc-proverbs-x-15-t12936",
+      "id": "102916",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "102916",
+      "value": 1
+    }
+  ]
+}

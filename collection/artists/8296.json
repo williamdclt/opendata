@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Monk, Jonathan",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/jonathan-monk-8296",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "none of the buildings on sunset strip",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/monk-none-of-the-buildings-on-sunset-strip-p79239",
+      "id": "90645",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a cube sol lewitt photographed by carol huebner using nine different light sources and all their combinations front to back back to front forever",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12199_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/monk-a-cube-sol-lewitt-photographed-by-carol-huebner-using-nine-different-light-sources-t12199",
+      "id": "86361",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "90645",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "86361",
+      "value": 1
+    }
+  ]
+}

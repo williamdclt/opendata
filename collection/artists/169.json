@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Egg, Augustus Leopold",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/augustus-leopold-egg-169",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "scene from \u2018the devil upon two sticks\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00444_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/egg-scene-from-the-devil-upon-two-sticks-n00444",
+      "id": "4089",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "beatrix knighting esmond",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01385_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/egg-beatrix-knighting-esmond-n01385",
+      "id": "4090",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "past and present, no. 1",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03278_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/egg-past-and-present-no-1-n03278",
+      "id": "4091",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "past and present, no. 2",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03279_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/egg-past-and-present-no-2-n03279",
+      "id": "4092",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "past and present, no. 3",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03280_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/egg-past-and-present-no-3-n03280",
+      "id": "4093",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4089",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4090",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4091",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4092",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4093",
+      "value": 1
+    }
+  ]
+}

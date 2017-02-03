@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Huxley, Paul",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/paul-huxley-1331",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled no. 8",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01422_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/huxley-untitled-no-8-p01422",
+      "id": "7010",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled no. 92",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01056_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/huxley-untitled-no-92-t01056",
+      "id": "7011",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fable",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03589_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/huxley-fable-t03589",
+      "id": "7012",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled xii 18 (relating to double image 1982)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11926_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/huxley-untitled-xii-18-relating-to-double-image-1982-t11926",
+      "id": "27416",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled no. 44",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13590_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/huxley-untitled-no-44-t13590",
+      "id": "117787",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "7010",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7011",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7012",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27416",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117787",
+      "value": 1
+    }
+  ]
+}

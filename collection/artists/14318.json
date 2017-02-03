@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Jess",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/jess-14318",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "jess\u2019s didactic nickelodeon, series two, \u201cthe guardian angel\u2019s guidebook\u201d",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jess-jesss-didactic-nickelodeon-series-two-the-guardian-angels-guidebook-t13311",
+      "id": "112184",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "112184",
+      "value": 1
+    }
+  ]
+}

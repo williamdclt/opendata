@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Mauve, Anton",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/anton-mauve-1598",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "watering horses",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mauve-watering-horses-n02711",
+      "id": "9405",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "milking time",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mauve-milking-time-n05569",
+      "id": "9406",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "entering the fold",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05570_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mauve-entering-the-fold-n05570",
+      "id": "9407",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9405",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9406",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9407",
+      "value": 1
+    }
+  ]
+}

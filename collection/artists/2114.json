@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Walker, Arthur G",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/arthur-g-walker-2114",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "christ at the whipping post",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04101_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walker-christ-at-the-whipping-post-n04101",
+      "id": "15788",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "15788",
+      "value": 1
+    }
+  ]
+}

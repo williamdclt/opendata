@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Martin, Kenneth",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/kenneth-martin-1585",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "chance and order i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04585_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-chance-and-order-i-p04585",
+      "id": "9320",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chance and order ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04586_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-chance-and-order-ii-p04586",
+      "id": "9321",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chance and order iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04587_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-chance-and-order-iii-p04587",
+      "id": "9322",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chance and order iv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04588_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-chance-and-order-iv-p04588",
+      "id": "9323",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chance and order v",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04589_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-chance-and-order-v-p04589",
+      "id": "9324",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chance and order vi",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05377_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-chance-and-order-vi-p05377",
+      "id": "9325",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rotation \u2018frankfurt\u2019 i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05455_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-rotation-frankfurt-i-p05455",
+      "id": "9326",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rotation \u2018frankfurt\u2019 ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05456_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-rotation-frankfurt-ii-p05456",
+      "id": "9327",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rotation \u2018frankfurt\u2019 iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05457_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-rotation-frankfurt-iii-p05457",
+      "id": "9328",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rotation \u2018frankfurt\u2019 iv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05458_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-rotation-frankfurt-iv-p05458",
+      "id": "9329",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rotation \u2018frankfurt\u2019, key drawing",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05475_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-rotation-frankfurt-key-drawing-p05475",
+      "id": "9330",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rational concepts",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07428_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-rational-concepts-p07428",
+      "id": "9331",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "venice",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-venice-p07742",
+      "id": "9332",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pier and ocean",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07743_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-pier-and-ocean-p07743",
+      "id": "9333",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-untitled-p13022",
+      "id": "91388",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "abstract",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77281_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-abstract-p77281",
+      "id": "4882",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "small screw mobile",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00552_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-small-screw-mobile-t00552",
+      "id": "9334",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "oscillation",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-oscillation-t00553",
+      "id": "9335",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spiral construction",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-spiral-construction-t00554",
+      "id": "9336",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seventeen lines",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00751_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-seventeen-lines-t00751",
+      "id": "9337",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "screw mobile with black centre",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-screw-mobile-with-black-centre-t00752",
+      "id": "9338",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rotary rings (fourth version)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-rotary-rings-fourth-version-t01276",
+      "id": "9339",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for a \u2018screw mobile\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01700_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-drawing-for-a-screw-mobile-t01700",
+      "id": "9340",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "composition",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01758_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-composition-t01758",
+      "id": "9341",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "linkage",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-linkage-t01765",
+      "id": "9342",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chance and order group vii, drawing 6",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01847_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-chance-and-order-group-vii-drawing-6-t01847",
+      "id": "9343",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chance and order group viii, drawing 6",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01848_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-chance-and-order-group-viii-drawing-6-t01848",
+      "id": "9344",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chance and order, change 6 (monastral blue)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01849_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-chance-and-order-change-6-monastral-blue-t01849",
+      "id": "9345",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chance, order, change 6 (black)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03190_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-chance-order-change-6-black-t03190",
+      "id": "9346",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chance, order, change 12 (four colours)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03191_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-chance-order-change-12-four-colours-t03191",
+      "id": "9347",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "screw mobile",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-screw-mobile-t11980",
+      "id": "84252",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mobile reflector",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-mobile-reflector-t12374",
+      "id": "26748",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (0/1)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-untitled-01-t12375",
+      "id": "26749",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (1/1)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-untitled-11-t12376",
+      "id": "26750",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (1/2)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-untitled-12-t12377",
+      "id": "26751",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (2/1)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-untitled-21-t12378",
+      "id": "26752",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (2/2)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-untitled-22-t12379",
+      "id": "26753",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (2/3)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-untitled-23-t12380",
+      "id": "26754",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (2/4)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-untitled-24-t12381",
+      "id": "26755",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (2/5)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martin-untitled-25-t12382",
+      "id": "26756",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9320",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9321",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9322",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9323",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9324",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9325",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9326",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9327",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9328",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9329",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9330",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9331",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9332",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9333",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "91388",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4882",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9334",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9335",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9336",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9337",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9338",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9339",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9340",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9341",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9342",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9343",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9344",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9345",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9346",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9347",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "84252",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26748",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26749",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26750",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26751",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26752",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26753",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26754",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26755",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26756",
+      "value": 1
+    }
+  ]
+}

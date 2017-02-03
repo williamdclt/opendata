@@ -1,0 +1,239 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Ardizzone, Edward",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/edward-ardizzone-659",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "at the brasserie",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01029_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ardizzone-at-the-brasserie-a01029",
+      "id": "550",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the meeting",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01030_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ardizzone-the-meeting-a01030",
+      "id": "551",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the arrival",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01031_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ardizzone-the-arrival-a01031",
+      "id": "552",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the bedroom",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01032_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ardizzone-the-bedroom-a01032",
+      "id": "553",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the departure",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01033_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ardizzone-the-departure-a01033",
+      "id": "554",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "airing the children",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04940_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ardizzone-airing-the-children-n04940",
+      "id": "555",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "priest begging a lift in louvain, may 1940",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05671_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ardizzone-priest-begging-a-lift-in-louvain-may-1940-n05671",
+      "id": "556",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "on a fortified island, the night watch",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05672_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ardizzone-on-a-fortified-island-the-night-watch-n05672",
+      "id": "557",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "soldiers holding up rosaries to be blessed at a papal audience",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05673_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ardizzone-soldiers-holding-up-rosaries-to-be-blessed-at-a-papal-audience-n05673",
+      "id": "558",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "scout cars of a regiment of hussars liberating a stalag",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05674_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ardizzone-scout-cars-of-a-regiment-of-hussars-liberating-a-stalag-n05674",
+      "id": "559",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the last stand of the spoons",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06009_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ardizzone-the-last-stand-of-the-spoons-p06009",
+      "id": "560",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "model and her reflection",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06010_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ardizzone-model-and-her-reflection-p06010",
+      "id": "561",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lovers by the sea",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06011_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ardizzone-lovers-by-the-sea-p06011",
+      "id": "562",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "boating pond",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06012_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ardizzone-boating-pond-p06012",
+      "id": "563",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the bullies",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06013_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ardizzone-the-bullies-p06013",
+      "id": "564",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view from the window of my studio in kent",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01066_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ardizzone-view-from-the-window-of-my-studio-in-kent-t01066",
+      "id": "565",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "550",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "551",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "552",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "553",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "554",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "555",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "556",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "557",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "558",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "559",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "560",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "561",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "562",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "563",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "564",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "565",
+      "value": 1
+    }
+  ]
+}

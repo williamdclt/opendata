@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Warhol, Andy",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/andy-warhol-2121",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "man ray",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warhol-man-ray-ar00039",
+      "id": "97346",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gilbert and george",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warhol-gilbert-and-george-ar00040",
+      "id": "97347",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "alexandre iolas",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warhol-alexandre-iolas-ar00230",
+      "id": "97345",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gun",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warhol-gun-ar00231",
+      "id": "97355",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "robert mapplethorpe",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warhol-robert-mapplethorpe-ar00232",
+      "id": "97392",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hamburger",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warhol-hamburger-ar00233",
+      "id": "97394",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "repent and sin no more!",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warhol-repent-and-sin-no-more-ar00234",
+      "id": "97396",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "map of eastern u.s.s.r. missile bases",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warhol-map-of-eastern-ussr-missile-bases-ar00235",
+      "id": "97397",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "are you different?",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warhol-are-you-different-ar00236",
+      "id": "97398",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "energy - power",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warhol-energy-power-ar00237",
+      "id": "97399",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the mark of the beast",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warhol-the-mark-of-the-beast-ar00238",
+      "id": "97400",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "christ $9.98 (negative and positive)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warhol-christ-998-negative-and-positive-ar00239",
+      "id": "97401",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u201cthe nation\u2019s nightmare\u201d",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warhol-the-nations-nightmare-ar00240",
+      "id": "97404",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "embracing couple with marbleised background",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warhol-embracing-couple-with-marbleised-background-ar00241",
+      "id": "97405",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "female bust, two children with marbleised background",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warhol-female-bust-two-children-with-marbleised-background-ar00242",
+      "id": "97407",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u201cthe runaway pigeon\u201d",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warhol-the-runaway-pigeon-ar00243",
+      "id": "97408",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u201cthe runaway pigeon\u201d",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warhol-the-runaway-pigeon-ar00244",
+      "id": "97409",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u201ca hand of bridge\u201d",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warhol-a-hand-of-bridge-ar00245",
+      "id": "97410",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "musical notes and sprite faces",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warhol-musical-notes-and-sprite-faces-ar00246",
+      "id": "97411",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u201ctown and country\u201d",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warhol-town-and-country-ar00247",
+      "id": "97412",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chess player",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warhol-chess-player-ar00248",
+      "id": "97413",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "happy butterfly day",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warhol-happy-butterfly-day-ar00249",
+      "id": "97414",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tondo (butterflies)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warhol-tondo-butterflies-ar00250",
+      "id": "97415",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blue shoe",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warhol-blue-shoe-ar00251",
+      "id": "97416",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "baboon",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warhol-baboon-ar00252",
+      "id": "97417",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hand holding glass with daffodil",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warhol-hand-holding-glass-with-daffodil-ar00253",
+      "id": "97418",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hot air balloon",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warhol-hot-air-balloon-ar00254",
+      "id": "97419",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ice cream dessert",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warhol-ice-cream-dessert-ar00255",
+      "id": "97420",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u201cthe wonderful world of fleming joffe\u201d",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warhol-the-wonderful-world-of-fleming-joffe-ar00256",
+      "id": "97421",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stars and half moons",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warhol-stars-and-half-moons-ar00257",
+      "id": "97422",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "foot with flowers",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warhol-foot-with-flowers-ar00258",
+      "id": "97423",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "foot with cat",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warhol-foot-with-cat-ar00259",
+      "id": "97424",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "young man with heart",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warhol-young-man-with-heart-ar00260",
+      "id": "97425",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u201cpistols for two\u201d",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warhol-pistols-for-two-ar00261",
+      "id": "97426",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u201cthe summer dancers\u201d",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warhol-the-summer-dancers-ar00262",
+      "id": "97427",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u201cthe summer dancers\u201d",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warhol-the-summer-dancers-ar00263",
+      "id": "97428",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "here lies the heart",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warhol-here-lies-the-heart-ar00264",
+      "id": "97429",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cano",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warhol-cano-ar00265",
+      "id": "97430",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u201cthe runaway pigeon\u201d",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warhol-the-runaway-pigeon-ar00266",
+      "id": "97431",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "christmas sewing theme",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/warhol-christmas-sewing-theme-ar00267",
+      "id": "97432",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "97346",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97347",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97345",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97355",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97392",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97394",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97396",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97397",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97398",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97399",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97400",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97401",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97404",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97405",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97407",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97408",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97409",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97410",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97411",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97412",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97413",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97414",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97415",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97416",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97417",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97418",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97419",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97420",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97421",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97422",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97423",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97424",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97425",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97426",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97427",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97428",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97429",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97430",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97431",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97432",
+      "value": 1
+    }
+  ]
+}

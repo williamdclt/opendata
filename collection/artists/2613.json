@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Verelst, Harman",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/harman-verelst-2613",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "portrait of a lady, thought to be dionesse cullum, wife of robert colman",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07241_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/verelst-portrait-of-a-lady-thought-to-be-dionesse-cullum-wife-of-robert-colman-t07241",
+      "id": "22050",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "22050",
+      "value": 1
+    }
+  ]
+}

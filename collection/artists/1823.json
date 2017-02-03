@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Rego, Paula",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/paula-rego-1823",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled i",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rego-untitled-i-p20234",
+      "id": "74989",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled ii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rego-untitled-ii-p20235",
+      "id": "74991",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled iii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rego-untitled-iii-p20236",
+      "id": "74992",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled iv",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rego-untitled-iv-p20237",
+      "id": "74993",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled v",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20238_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rego-untitled-v-p20238",
+      "id": "74994",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled vi",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rego-untitled-vi-p20239",
+      "id": "74995",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled vii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rego-untitled-vii-p20240",
+      "id": "74996",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lessons",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77333_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rego-lessons-p77333",
+      "id": "17384",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "doctor dog",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77334_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rego-doctor-dog-p77334",
+      "id": "17385",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pomagne",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77902_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rego-pomagne-p77902",
+      "id": "21870",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "him",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77903_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rego-him-p77903",
+      "id": "21881",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "moth",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77904_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rego-moth-p77904",
+      "id": "21880",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "whinney moor",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77905_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rego-whinney-moor-p77905",
+      "id": "21879",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pendle witches",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77906_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rego-pendle-witches-p77906",
+      "id": "21878",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "straw burning",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77907_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rego-straw-burning-p77907",
+      "id": "21877",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a concise definition of answers",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77908_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rego-a-concise-definition-of-answers-p77908",
+      "id": "21876",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "flood",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77909_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rego-flood-p77909",
+      "id": "21875",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mist i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77910_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rego-mist-i-p77910",
+      "id": "21874",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mist ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77911_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rego-mist-ii-p77911",
+      "id": "21873",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mist iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77912_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rego-mist-iii-p77912",
+      "id": "21872",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mist iv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77913_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rego-mist-iv-p77913",
+      "id": "21871",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the guardian",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79394_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rego-the-guardian-p79394",
+      "id": "101525",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nanny, small bears and bogeyman",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03839_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rego-nanny-small-bears-and-bogeyman-t03839",
+      "id": "12345",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the dance",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05534_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rego-the-dance-t05534",
+      "id": "17349",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018the dance\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05538_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rego-drawing-for-the-dance-t05538",
+      "id": "17343",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018the dance\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05539_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rego-drawing-for-the-dance-t05539",
+      "id": "17350",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018the dance\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05540_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rego-drawing-for-the-dance-t05540",
+      "id": "17351",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018the dance\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05541_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rego-drawing-for-the-dance-t05541",
+      "id": "17352",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018the dance\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05542_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rego-drawing-for-the-dance-t05542",
+      "id": "17356",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018the dance\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05543_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rego-drawing-for-the-dance-t05543",
+      "id": "17353",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018the dance\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05544_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rego-drawing-for-the-dance-t05544",
+      "id": "17354",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018the dance\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05545_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rego-drawing-for-the-dance-t05545",
+      "id": "17355",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018the dance\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rego-drawing-for-the-dance-t05546",
+      "id": "17357",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018the dance\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05547_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rego-drawing-for-the-dance-t05547",
+      "id": "17358",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018the dance\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05548_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rego-drawing-for-the-dance-t05548",
+      "id": "17359",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bride",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06959_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rego-bride-t06959",
+      "id": "21251",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the firemen of alijo",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07778_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rego-the-firemen-of-alijo-t07778",
+      "id": "159",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the betrothal: lessons: the shipwreck, after \u2018marriage a la mode\u2019 by hogarth",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07919_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rego-the-betrothal-lessons-the-shipwreck-after-marriage-a-la-mode-by-hogarth-t07919",
+      "id": "80",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018betrothal\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rego-study-for-betrothal-t07928",
+      "id": "75073",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for the girl\u2019s mother in \u2018betrothal\u2019 i",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rego-study-for-the-girls-mother-in-betrothal-i-t07929",
+      "id": "75075",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "74989",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "74991",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "74992",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "74993",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "74994",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "74995",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "74996",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17384",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17385",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21870",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21881",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21880",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21879",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21878",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21877",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21876",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21875",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21874",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21873",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21872",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21871",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101525",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12345",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17349",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17343",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17350",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17351",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17352",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17356",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17353",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17354",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17355",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17357",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17358",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17359",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21251",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "159",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "75073",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "75075",
+      "value": 1
+    }
+  ]
+}

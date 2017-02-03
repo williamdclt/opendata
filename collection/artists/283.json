@@ -1,0 +1,211 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hughes, Arthur",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/arthur-hughes-283",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "old sal for \u2018at the back of the north wind\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00211_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hughes-old-sal-for-at-the-back-of-the-north-wind-a00211",
+      "id": "6948",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the drunken cabman for \u2018at the back of the north wind\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00212_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hughes-the-drunken-cabman-for-at-the-back-of-the-north-wind-a00212",
+      "id": "6949",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the wicked fairy for \u2018at the back of the north wind\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00213_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hughes-the-wicked-fairy-for-at-the-back-of-the-north-wind-a00213",
+      "id": "6950",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "april love",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02476_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hughes-april-love-n02476",
+      "id": "6954",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the eve of st agnes",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04604_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hughes-the-eve-of-st-agnes-n04604",
+      "id": "17841",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "that was a piedmontese ...",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05244_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hughes-that-was-a-piedmontese-n05244",
+      "id": "6955",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "aurora leigh\u2019s dismissal of romney (\u2018the tryst\u2019)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05245_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hughes-aurora-leighs-dismissal-of-romney-the-tryst-n05245",
+      "id": "6956",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the woodman\u2019s child",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00176_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hughes-the-woodmans-child-t00176",
+      "id": "6957",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "studies for \u2018april love\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00276_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hughes-studies-for-april-love-t00276",
+      "id": "6958",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018madeline and porphyro escaping from the castle\u2019 for the right-hand panel of \u2018the eve of st agnes\u2019. verso: ?study for \u2018the seed of david\u2019 by d.g. rossetti",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06884_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hughes-study-for-madeline-and-porphyro-escaping-from-the-castle-for-the-right-hand-panel-t06884",
+      "id": "21183",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018the eve of st agnes\u2019. verso: study for \u2018the guarded bower\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06979_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hughes-study-for-the-eve-of-st-agnes-verso-study-for-the-guarded-bower-t06979",
+      "id": "21318",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018the eve of st agnes\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07284_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hughes-study-for-the-eve-of-st-agnes-t07284",
+      "id": "22112",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "elaine with the armour of launcelot",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hughes-elaine-with-the-armour-of-launcelot-t13359",
+      "id": "92331",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the singer",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hughes-the-singer-t13360",
+      "id": "92330",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6948",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6949",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6950",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6954",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17841",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6955",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6956",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6957",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6958",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21183",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21318",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22112",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "92331",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "92330",
+      "value": 1
+    }
+  ]
+}

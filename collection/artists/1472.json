@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Laurencin, Marie",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/marie-laurencin-1472",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "portraits (marie laurencin, cecilia de madrazo and the dog coco)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04726_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/laurencin-portraits-marie-laurencin-cecilia-de-madrazo-and-the-dog-coco-n04726",
+      "id": "8404",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the fan",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06805_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/laurencin-the-fan-t06805",
+      "id": "20863",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8404",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20863",
+      "value": 1
+    }
+  ]
+}

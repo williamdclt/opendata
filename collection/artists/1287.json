@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hilliard, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-hilliard-1287",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "sixty seconds of light",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07233_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hilliard-sixty-seconds-of-light-p07233",
+      "id": "6430",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018facade\u2019 and \u2018flight of happiness\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77030_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hilliard-facade-and-flight-of-happiness-p77030",
+      "id": "6431",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "across the park",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hilliard-across-the-park-t01732",
+      "id": "6432",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "over deepdale",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hilliard-over-deepdale-t03078",
+      "id": "6433",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "langdale fell, motion frozen/frozen motion",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03079_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hilliard-langdale-fell-motion-frozenfrozen-motion-t03079",
+      "id": "6434",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "camera recording its own condition (7 apertures, 10 speeds, 2 mirrors)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03116_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hilliard-camera-recording-its-own-condition-7-apertures-10-speeds-2-mirrors-t03116",
+      "id": "6435",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "10 runs past a fixed point (1)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hilliard-10-runs-past-a-fixed-point-1-t13215",
+      "id": "110060",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6430",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6431",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6432",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6433",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6434",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6435",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "110060",
+      "value": 1
+    }
+  ]
+}

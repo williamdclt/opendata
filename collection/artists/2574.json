@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Musgrave, George",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/george-musgrave-2574",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "sketch in the style of vanderneer",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09091_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/musgrave-sketch-in-the-style-of-vanderneer-t09091",
+      "id": "23301",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "off flushing",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09092_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/musgrave-off-flushing-t09092",
+      "id": "23302",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a ruined castle",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09093_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/musgrave-a-ruined-castle-t09093",
+      "id": "23303",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "23301",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23302",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23303",
+      "value": 1
+    }
+  ]
+}

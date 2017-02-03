@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Schmidt, Peter",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/peter-schmidt-1903",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "flowing in the right direction",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06549_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schmidt-flowing-in-the-right-direction-p06549",
+      "id": "13175",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "flowing in the right direction",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06550_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/schmidt-flowing-in-the-right-direction-p06550",
+      "id": "13176",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13175",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13176",
+      "value": 1
+    }
+  ]
+}

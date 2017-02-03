@@ -1,0 +1,183 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Ophir, Gilad",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/gilad-ophir-2785",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "rishon le zion",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ophir-rishon-le-zion-p11744",
+      "id": "27315",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rishon le zion",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ophir-rishon-le-zion-p11745",
+      "id": "27316",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rishon le zion",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ophir-rishon-le-zion-p11746",
+      "id": "27317",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shooting targets",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ophir-shooting-targets-p11747",
+      "id": "27318",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shooting targets",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ophir-shooting-targets-p11748",
+      "id": "27301",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shooting targets",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ophir-shooting-targets-p11749",
+      "id": "27288",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shooting targets",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ophir-shooting-targets-p11750",
+      "id": "27287",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shooting targets",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11751_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ophir-shooting-targets-p11751",
+      "id": "27292",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "yerucham",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ophir-yerucham-p11752",
+      "id": "27298",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "yerucham",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ophir-yerucham-p11753",
+      "id": "27304",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "yerucham",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ophir-yerucham-p11754",
+      "id": "27306",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "yerucham",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ophir-yerucham-p11755",
+      "id": "27305",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "27315",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27316",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27317",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27318",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27301",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27288",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27287",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27292",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27298",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27304",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27306",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27305",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Morison, Colin",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/colin-morison-2272",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "andromache offering sacrifice to hector\u2019s shade",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05872_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/morison-andromache-offering-sacrifice-to-hectors-shade-t05872",
+      "id": "19508",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "19508",
+      "value": 1
+    }
+  ]
+}

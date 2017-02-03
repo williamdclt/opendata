@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hurlstone, Frederick Yeates",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/frederick-yeates-hurlstone-289",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a scene from \u2018gil blas\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01967_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hurlstone-a-scene-from-gil-blas-n01967",
+      "id": "7002",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sancho panza attended by his state physician",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04938_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hurlstone-sancho-panza-attended-by-his-state-physician-n04938",
+      "id": "7003",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "7002",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7003",
+      "value": 1
+    }
+  ]
+}

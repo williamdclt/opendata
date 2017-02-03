@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Bionda, Mario",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/mario-bionda-752",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "forms on a white background",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bionda-forms-on-a-white-background-t00378",
+      "id": "980",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "980",
+      "value": 1
+    }
+  ]
+}

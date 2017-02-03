@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Cast, Jesse Dale",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/jesse-dale-cast-871",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "\u2018the windmill\u2019, clapham common",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03598_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cast-the-windmill-clapham-common-t03598",
+      "id": "2009",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cast-self-portrait-t03599",
+      "id": "2010",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "miss beatrice m. dale cast",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04878_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cast-miss-beatrice-m-dale-cast-t04878",
+      "id": "2011",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2009",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2010",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2011",
+      "value": 1
+    }
+  ]
+}

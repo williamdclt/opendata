@@ -1,0 +1,169 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Procktor, Patrick",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/patrick-procktor-1800",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "favourites courtyard",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/procktor-favourites-courtyard-p01563",
+      "id": "12230",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "london bridge",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/procktor-london-bridge-p01564",
+      "id": "12231",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "leaping cataract, victoria falls",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/procktor-leaping-cataract-victoria-falls-p01565",
+      "id": "12232",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lunch hour, johannesburg",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/procktor-lunch-hour-johannesburg-p01566",
+      "id": "12233",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "municipal gardens, johannesburg",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/procktor-municipal-gardens-johannesburg-p01567",
+      "id": "12234",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "national gallery, johannesburg",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/procktor-national-gallery-johannesburg-p01568",
+      "id": "12235",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sleeping baby, johannesburg",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/procktor-sleeping-baby-johannesburg-p01569",
+      "id": "12236",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "victoria falls",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/procktor-victoria-falls-p01570",
+      "id": "12237",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sarum",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/procktor-sarum-p01571",
+      "id": "12238",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nocturne in north wales",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/procktor-nocturne-in-north-wales-p01869",
+      "id": "12239",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "northern lass (from europaeische graphik vii)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/procktor-northern-lass-from-europaeische-graphik-vii-p06458",
+      "id": "12240",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12230",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12231",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12232",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12233",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12234",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12235",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12236",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12237",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12238",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12239",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12240",
+      "value": 1
+    }
+  ]
+}

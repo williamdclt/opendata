@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Branson, Clive",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/clive-branson-3094",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "portrait of a worker",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11787_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/branson-portrait-of-a-worker-t11787",
+      "id": "70",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "selling the \u2018daily worker\u2019 outside projectile engineering works",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11788_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/branson-selling-the-daily-worker-outside-projectile-engineering-works-t11788",
+      "id": "71",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bombed women and searchlights",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11789_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/branson-bombed-women-and-searchlights-t11789",
+      "id": "72",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blitz: plane flying",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11790_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/branson-blitz-plane-flying-t11790",
+      "id": "73",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12021_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/branson-still-life-t12021",
+      "id": "85304",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "70",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "71",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "72",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "73",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85304",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Matthiasdottir, Louisa",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/louisa-matthiasdottir-2745",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "still life with frying pan and red cabbage",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07602_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/matthiasdottir-still-life-with-frying-pan-and-red-cabbage-t07602",
+      "id": "27013",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "27013",
+      "value": 1
+    }
+  ]
+}

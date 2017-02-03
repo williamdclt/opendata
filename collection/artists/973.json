@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Dalou, Jules",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/jules-dalou-973",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "seated nude taking off her stocking",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00825_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dalou-seated-nude-taking-off-her-stocking-t00825",
+      "id": "2992",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2992",
+      "value": 1
+    }
+  ]
+}

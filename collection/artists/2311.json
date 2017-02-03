@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Francis, Mark",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/mark-francis-2311",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20147_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francis-untitled-p20147",
+      "id": "21158",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77680_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francis-untitled-p77680",
+      "id": "21086",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77681_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francis-untitled-p77681",
+      "id": "21087",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "source",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06663_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francis-source-t06663",
+      "id": "20549",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "21158",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21086",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21087",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20549",
+      "value": 1
+    }
+  ]
+}

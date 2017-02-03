@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "MacWhirter, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-macwhirter-367",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "june in the austrian tyrol",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01571_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/macwhirter-june-in-the-austrian-tyrol-n01571",
+      "id": "9143",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9143",
+      "value": 1
+    }
+  ]
+}

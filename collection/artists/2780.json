@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gross, Michael",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/michael-gross-2780",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "self portrait",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07650_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gross-self-portrait-t07650",
+      "id": "27294",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "27294",
+      "value": 1
+    }
+  ]
+}

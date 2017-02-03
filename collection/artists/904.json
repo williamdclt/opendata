@@ -1,0 +1,141 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Christie, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-christie-904",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "frankfurt circle",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02558_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/christie-frankfurt-circle-p02558",
+      "id": "2206",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "exchange",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07524_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/christie-exchange-p07524",
+      "id": "2207",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "for dora maurer",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07525_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/christie-for-dora-maurer-p07525",
+      "id": "2208",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sounds barely heard ...",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07526_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/christie-sounds-barely-heard-p07526",
+      "id": "2209",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "banners no. i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07527_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/christie-banners-no-i-p07527",
+      "id": "2210",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "check-out music",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07528_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/christie-check-out-music-p07528",
+      "id": "2211",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dancers no. i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07529_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/christie-dancers-no-i-p07529",
+      "id": "2212",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lemonade music",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07530_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/christie-lemonade-music-p07530",
+      "id": "2213",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "homage to ursonate",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07603_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/christie-homage-to-ursonate-p07603",
+      "id": "2214",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2206",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2207",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2208",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2209",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2210",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2211",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2212",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2213",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2214",
+      "value": 1
+    }
+  ]
+}

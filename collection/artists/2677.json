@@ -1,0 +1,169 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Federle, Helmut",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/helmut-federle-2677",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "amazon, peru, 1988",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78636_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/federle-amazon-peru-1988-p78636",
+      "id": "71603",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "galisteo, new mexico",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78637_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/federle-galisteo-new-mexico-p78637",
+      "id": "74203",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "morocco, 1998",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78638_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/federle-morocco-1998-p78638",
+      "id": "74205",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pindaya, burma, 1998",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78639_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/federle-pindaya-burma-1998-p78639",
+      "id": "74206",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "angkor, cambodia, 1994",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78640_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/federle-angkor-cambodia-1994-p78640",
+      "id": "74207",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78641_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/federle-untitled-p78641",
+      "id": "74208",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78642_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/federle-untitled-p78642",
+      "id": "74209",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78643_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/federle-untitled-p78643",
+      "id": "74210",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78644_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/federle-untitled-p78644",
+      "id": "74211",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78645_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/federle-untitled-p78645",
+      "id": "74212",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "norwegian sight",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07463_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/federle-norwegian-sight-t07463",
+      "id": "26427",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "71603",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "74203",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "74205",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "74206",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "74207",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "74208",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "74209",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "74210",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "74211",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "74212",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26427",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Bramley, Frank",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/frank-bramley-51",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a hopeless dawn",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01627_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bramley-a-hopeless-dawn-n01627",
+      "id": "1426",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "primrose day",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03962_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bramley-primrose-day-t03962",
+      "id": "1427",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1426",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1427",
+      "value": 1
+    }
+  ]
+}

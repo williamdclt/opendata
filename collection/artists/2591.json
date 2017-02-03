@@ -1,0 +1,435 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Fairhurst, Angus",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/angus-fairhurst-2591",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11427_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fairhurst-no-title-p11427",
+      "id": "21851",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "when i woke up in the morning, the feeling was still there 1",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13078_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fairhurst-when-i-woke-up-in-the-morning-the-feeling-was-still-there-1-p13078",
+      "id": "101567",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "when i woke up in the morning, the feeling was still there 2",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13079_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fairhurst-when-i-woke-up-in-the-morning-the-feeling-was-still-there-2-p13079",
+      "id": "101568",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "when i woke up in the morning, the feeling was still there 3",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13080_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fairhurst-when-i-woke-up-in-the-morning-the-feeling-was-still-there-3-p13080",
+      "id": "101569",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "when i woke up in the morning, the feeling was still there 4",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13081_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fairhurst-when-i-woke-up-in-the-morning-the-feeling-was-still-there-4-p13081",
+      "id": "101570",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a man abandoned by colour",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fairhurst-a-man-abandoned-by-colour-p13185",
+      "id": "118598",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a man abandoned by colour",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fairhurst-a-man-abandoned-by-colour-p13186",
+      "id": "118599",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "man abandoned",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fairhurst-man-abandoned-p13199",
+      "id": "118597",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "unprinted i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20288_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fairhurst-unprinted-i-p20288",
+      "id": "89863",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "unprinted ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20289_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fairhurst-unprinted-ii-p20289",
+      "id": "89864",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "unprinted iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20290_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fairhurst-unprinted-iii-p20290",
+      "id": "89867",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "when i woke up in the morning, the feeling was still there",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77926_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fairhurst-when-i-woke-up-in-the-morning-the-feeling-was-still-there-p77926",
+      "id": "21861",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "piet\u00e0 (first version)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79794_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fairhurst-pieta-first-version-p79794",
+      "id": "105531",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gallery connections",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07294_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fairhurst-gallery-connections-t07294",
+      "id": "22113",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gallery connections",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07476_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fairhurst-gallery-connections-t07476",
+      "id": "26459",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (orca yearning seats)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fairhurst-untitled-orca-yearning-seats-t12869",
+      "id": "103188",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "over mont blanc, all evidence of man removed",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12870_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fairhurst-over-mont-blanc-all-evidence-of-man-removed-t12870",
+      "id": "103190",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stenness, all evidence of man removed",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12871_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fairhurst-stenness-all-evidence-of-man-removed-t12871",
+      "id": "103191",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "swissair, all evidence of man removed",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12872_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fairhurst-swissair-all-evidence-of-man-removed-t12872",
+      "id": "103192",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "orca watercolour drilled loop",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fairhurst-orca-watercolour-drilled-loop-t12873",
+      "id": "103398",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ape suicide i",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fairhurst-ape-suicide-i-t13432",
+      "id": "118587",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mnemonic table",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fairhurst-mnemonic-table-t13433",
+      "id": "118588",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "it\u2019s ok",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fairhurst-its-ok-t13434",
+      "id": "118589",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "better just make that one more",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fairhurst-better-just-make-that-one-more-t13435",
+      "id": "118590",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the banana skin in the hall of mirrors",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fairhurst-the-banana-skin-in-the-hall-of-mirrors-t13436",
+      "id": "118591",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fairhurst-untitled-t13437",
+      "id": "118592",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a couple of differences between thinking and feeling (ape looking towards heaven)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fairhurst-a-couple-of-differences-between-thinking-and-feeling-ape-looking-towards-heaven-t13438",
+      "id": "118594",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "3rd lower expectations",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fairhurst-3rd-lower-expectations-t13448",
+      "id": "118593",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a couple of differences between thinking and feeling (flattened)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fairhurst-a-couple-of-differences-between-thinking-and-feeling-flattened-t13570",
+      "id": "118595",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a couple of differences between thinking and feeling ii",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13572_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fairhurst-a-couple-of-differences-between-thinking-and-feeling-ii-t13572",
+      "id": "118596",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "21851",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101567",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101568",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101569",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101570",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118598",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118599",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118597",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "89863",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "89864",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "89867",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21861",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "105531",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22113",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26459",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "103188",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "103190",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "103191",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "103192",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "103398",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118587",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118588",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118589",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118590",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118591",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118592",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118594",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118593",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118595",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118596",
+      "value": 1
+    }
+  ]
+}

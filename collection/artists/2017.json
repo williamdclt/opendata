@@ -1,0 +1,141 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Sydney, Berenice",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/berenice-sydney-2017",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "little squares",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01609_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sydney-little-squares-p01609",
+      "id": "14103",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "small garden",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01610_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sydney-small-garden-p01610",
+      "id": "14104",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fast rhythm",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01611_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sydney-fast-rhythm-p01611",
+      "id": "14105",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the young moon\u2019s arms",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01612_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sydney-the-young-moons-arms-p01612",
+      "id": "14106",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "monoprint with red hand",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01613_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sydney-monoprint-with-red-hand-p01613",
+      "id": "14107",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "monoprint with round puff",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01614_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sydney-monoprint-with-round-puff-p01614",
+      "id": "14108",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "screenprint with balance",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02280_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sydney-screenprint-with-balance-p02280",
+      "id": "14109",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "etching with brother dog",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02281_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sydney-etching-with-brother-dog-p02281",
+      "id": "14110",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "etching with evil spirits",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02282_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sydney-etching-with-evil-spirits-p02282",
+      "id": "14111",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "14103",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14104",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14105",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14106",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14107",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14108",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14109",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14110",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14111",
+      "value": 1
+    }
+  ]
+}

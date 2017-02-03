@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Marclay, Christian",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/christian-marclay-6852",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "video quartet",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11818_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marclay-video-quartet-t11818",
+      "id": "81113",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "81113",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Barni, Roberto",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/roberto-barni-696",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "knights of the daily round",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77024_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barni-knights-of-the-daily-round-p77024",
+      "id": "730",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fatherhood",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77025_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barni-fatherhood-p77025",
+      "id": "731",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "730",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "731",
+      "value": 1
+    }
+  ]
+}

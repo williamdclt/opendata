@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Barriball, Anna",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/anna-barriball-10168",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "brick wall",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12370_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barriball-brick-wall-t12370",
+      "id": "91983",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (iii)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barriball-untitled-iii-t12371",
+      "id": "91984",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (v)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barriball-untitled-v-t12372",
+      "id": "91985",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13181_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barriball-untitled-t13181",
+      "id": "109393",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "91983",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "91984",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "91985",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "109393",
+      "value": 1
+    }
+  ]
+}

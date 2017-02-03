@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Sheringham, George",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/george-sheringham-1937",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "sketch for donna clara in \u2018the duenna\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04918_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sheringham-sketch-for-donna-clara-in-the-duenna-n04918",
+      "id": "13371",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "design for a fan",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09231_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sheringham-design-for-a-fan-t09231",
+      "id": "23530",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13371",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23530",
+      "value": 1
+    }
+  ]
+}

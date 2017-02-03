@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Nogueira, Lucia",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/lucia-nogueira-5755",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "smoke",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nogueira-smoke-t11757",
+      "id": "77069",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vai e vem",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nogueira-wakely-vai-e-vem-t12942",
+      "id": "101435",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nogueira-untitled-t12943",
+      "id": "101436",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nogueira-untitled-t12944",
+      "id": "101437",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (ladder with elephant)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nogueira-untitled-ladder-with-elephant-t12945",
+      "id": "101438",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nogueira-untitled-t12946",
+      "id": "101439",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nogueira-untitled-t12947",
+      "id": "101440",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nogueira-untitled-t12948",
+      "id": "101441",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "77069",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101435",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101436",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101437",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101438",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101439",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101440",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101441",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Langlands and Bell, Ben and Nikki",
+      "url": null,
+      "gender": "",
+      "tatelink": "http://www.tate.org.uk/art/artists/langlands-bell-ben-langlands-and-nikki-bell-2599",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "uno city",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77929_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/langlands-and-bell-uno-city-p77929",
+      "id": "21867",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "friday mosque, yazd, iran",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78023_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/langlands-and-bell-friday-mosque-yazd-iran-p78023",
+      "id": "22094",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "friday mosque, gulbarga, india",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78024_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/langlands-and-bell-friday-mosque-gulbarga-india-p78024",
+      "id": "22095",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "great mosque, cordoba, spain",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78025_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/langlands-and-bell-great-mosque-cordoba-spain-p78025",
+      "id": "22096",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "great mosque, kairouan, tunisia",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78026_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/langlands-and-bell-great-mosque-kairouan-tunisia-p78026",
+      "id": "22097",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "great mosque, abu dulaf, iraq",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78027_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/langlands-and-bell-great-mosque-abu-dulaf-iraq-p78027",
+      "id": "22098",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mosque of al-hassan, rabat, morocco",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78028_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/langlands-and-bell-mosque-of-al-hassan-rabat-morocco-p78028",
+      "id": "22099",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "great mosque, seville, spain",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78029_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/langlands-and-bell-great-mosque-seville-spain-p78029",
+      "id": "22100",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "great mosque, samarra, iraq",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78030_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/langlands-and-bell-great-mosque-samarra-iraq-p78030",
+      "id": "22101",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mosque of the prophet, medina, saudi arabia",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78031_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/langlands-and-bell-mosque-of-the-prophet-medina-saudi-arabia-p78031",
+      "id": "22102",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "qal\u2019a of the banu hammad, algeria",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78032_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/langlands-and-bell-qala-of-the-banu-hammad-algeria-p78032",
+      "id": "22103",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "adjoining rooms",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12052_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/langlands-and-bell-adjoining-rooms-t12052",
+      "id": "85518",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ivrea",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12510_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/langlands-and-bell-ivrea-t12510",
+      "id": "95296",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "21867",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22094",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22095",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22096",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22097",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22098",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22099",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22100",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22101",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22102",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22103",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85518",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95296",
+      "value": 1
+    }
+  ]
+}

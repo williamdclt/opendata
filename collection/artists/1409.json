@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "King, Cecil",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/cecil-king-1409",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "intrusion - green",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01424_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/king-intrusion-green-p01424",
+      "id": "7943",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "intrusion - red",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01425_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/king-intrusion-red-p01425",
+      "id": "7944",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "threshold - black",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01426_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/king-threshold-black-p01426",
+      "id": "7945",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "threshold - orange",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01427_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/king-threshold-orange-p01427",
+      "id": "7946",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blue",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01428_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/king-blue-p01428",
+      "id": "7947",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "orange",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01429_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/king-orange-p01429",
+      "id": "7948",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "red",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01430_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/king-red-p01430",
+      "id": "7949",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "7943",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7944",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7945",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7946",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7947",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7948",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7949",
+      "value": 1
+    }
+  ]
+}

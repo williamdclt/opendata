@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Allora, Jennifer",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/jennifer-allora-6259",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "balance of power",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12962_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/allora-calzadilla-balance-of-power-t12962",
+      "id": "103446",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ten minute transmission",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/allora-calzadilla-ten-minute-transmission-t13698",
+      "id": "82020",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "103446",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "82020",
+      "value": 1
+    }
+  ]
+}

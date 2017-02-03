@@ -1,0 +1,281 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Caro, Sir Anthony",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-anthony-caro-865",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "figure",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77272_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caro-figure-p77272",
+      "id": "3692",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman waking up",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00264_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caro-woman-waking-up-t00264",
+      "id": "1992",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "yellow swing",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00799_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caro-yellow-swing-t00799",
+      "id": "1993",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "early one morning",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00805_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caro-early-one-morning-t00805",
+      "id": "1994",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "piece lxxxii",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01151_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caro-piece-lxxxii-t01151",
+      "id": "1995",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "quartet",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01454_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caro-quartet-t01454",
+      "id": "1996",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "twenty four hours",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01987_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caro-twenty-four-hours-t01987",
+      "id": "1997",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "emma dipper",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03455_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caro-emma-dipper-t03455",
+      "id": "1998",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tundra",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03457_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caro-tundra-t03457",
+      "id": "1999",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "night movements",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06793_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caro-night-movements-t06793",
+      "id": "20838",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the soldier\u2019s tale",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07330_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caro-the-soldiers-tale-t07330",
+      "id": "25969",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "scamander",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caro-scamander-t07349",
+      "id": "26005",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "table piece cclxvi",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07587_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caro-table-piece-cclxvi-t07587",
+      "id": "26935",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "d\u00e9jeuner sur l\u2019herbe ii",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07588_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caro-dejeuner-sur-lherbe-ii-t07588",
+      "id": "26934",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "#68 untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caro-68-untitled-t11797",
+      "id": "79231",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "#11 dusty",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11798_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caro-11-dusty-t11798",
+      "id": "79232",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "#73 untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caro-73-untitled-t11800",
+      "id": "80033",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "#15 point",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11801_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caro-15-point-t11801",
+      "id": "80034",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "table piece xxviii",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12326_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/caro-table-piece-xxviii-t12326",
+      "id": "90153",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "3692",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1992",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1993",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1994",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1995",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1996",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1997",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1998",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1999",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20838",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25969",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26005",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26935",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26934",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79231",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79232",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80033",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80034",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90153",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Thubron, Harry",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/harry-thubron-2299",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "black rose",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06592_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/thubron-black-rose-t06592",
+      "id": "20360",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "white wood",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06593_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/thubron-white-wood-t06593",
+      "id": "20361",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "caracol",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06594_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/thubron-caracol-t06594",
+      "id": "20362",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "20360",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20361",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20362",
+      "value": 1
+    }
+  ]
+}

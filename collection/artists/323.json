@@ -1,0 +1,351 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Landseer, Sir Edwin Henry",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-edwin-henry-landseer-323",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "low life",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00702_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landseer-low-life-a00702",
+      "id": "8341",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "high life",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00703_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landseer-high-life-a00703",
+      "id": "8342",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "king charles spaniels (\u2018the cavalier\u2019s pets\u2019)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00409_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landseer-king-charles-spaniels-the-cavaliers-pets-n00409",
+      "id": "8343",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "highland music",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00411_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landseer-highland-music-n00411",
+      "id": "8344",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "deer and deer hounds in a mountain torrent (\u2018the hunted stag\u2019)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00412_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landseer-deer-and-deer-hounds-in-a-mountain-torrent-the-hunted-stag-n00412",
+      "id": "8345",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a dialogue at waterloo",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00415_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landseer-a-dialogue-at-waterloo-n00415",
+      "id": "8346",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sleeping bloodhound",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00603_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landseer-sleeping-bloodhound-n00603",
+      "id": "8347",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dignity and impudence",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00604_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landseer-dignity-and-impudence-n00604",
+      "id": "8348",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the defeat of comus",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00605_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landseer-the-defeat-of-comus-n00605",
+      "id": "8349",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shoeing",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00606_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landseer-shoeing-n00606",
+      "id": "8350",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "highland dogs",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00607_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landseer-highland-dogs-n00607",
+      "id": "8351",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "alexander and diogenes",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00608_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landseer-alexander-and-diogenes-n00608",
+      "id": "8352",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a distinguished member of the humane society",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01226_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landseer-a-distinguished-member-of-the-humane-society-n01226",
+      "id": "8353",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a lion",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01350_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landseer-study-of-a-lion-n01350",
+      "id": "8354",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a scene at abbotsford",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01532_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landseer-a-scene-at-abbotsford-n01532",
+      "id": "8355",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "uncle tom",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01533_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landseer-uncle-tom-n01533",
+      "id": "17839",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "boy, donkey and foal - mischief in full play",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01787_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landseer-boy-donkey-and-foal-mischief-in-full-play-n01787",
+      "id": "8356",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the duchess of abercorn and child",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03008_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landseer-the-duchess-of-abercorn-and-child-n03008",
+      "id": "8357",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "loch avon and the cairngorm mountains",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05777_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landseer-loch-avon-and-the-cairngorm-mountains-n05777",
+      "id": "8358",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the dog \u2018racket\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06180_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landseer-the-dog-racket-n06180",
+      "id": "8359",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the harper",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03395_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landseer-the-harper-t03395",
+      "id": "8360",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of sir walter scott, and the head of a woman in profile",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landseer-portrait-of-sir-walter-scott-and-the-head-of-a-woman-in-profile-t09074",
+      "id": "23117",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "studies of a dog",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09514_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landseer-studies-of-a-dog-t09514",
+      "id": "23115",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of mrs henry wells of redleaf and sketches of a man\u2019s head in profile, leaning on his hand",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10148_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/landseer-portrait-of-mrs-henry-wells-of-redleaf-and-sketches-of-a-mans-head-in-profile-t10148",
+      "id": "23116",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8341",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8342",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8343",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8344",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8345",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8346",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8347",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8348",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8349",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8350",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8351",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8352",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8353",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8354",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8355",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17839",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8356",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8357",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8358",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8359",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8360",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23117",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23115",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23116",
+      "value": 1
+    }
+  ]
+}

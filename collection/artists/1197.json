@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gowing, Sir Lawrence",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-lawrence-gowing-1197",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "mrs roberts",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05627_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gowing-mrs-roberts-n05627",
+      "id": "5555",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "path with elder and hazel",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00475_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gowing-path-with-elder-and-hazel-t00475",
+      "id": "5556",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wood: parabolic perspective",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00719_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gowing-wood-parabolic-perspective-t00719",
+      "id": "5557",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of sir norman reid",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03208_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gowing-portrait-of-sir-norman-reid-t03208",
+      "id": "5558",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wellington square",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06489_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gowing-wellington-square-t06489",
+      "id": "20209",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5555",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5556",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5557",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5558",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20209",
+      "value": 1
+    }
+  ]
+}

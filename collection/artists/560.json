@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Uwins, Thomas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/thomas-uwins-560",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the vintage in the claret vineyards of the south of france",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00387_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/uwins-the-vintage-in-the-claret-vineyards-of-the-south-of-france-n00387",
+      "id": "15680",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "le chapeau de brigand",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00388_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/uwins-le-chapeau-de-brigand-n00388",
+      "id": "15681",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vintage, medoc",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07098_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/uwins-vintage-medoc-t07098",
+      "id": "21601",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a girl stripping hops. verso: sketch of the figure of the girl",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08267_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/uwins-a-girl-stripping-hops-verso-sketch-of-the-figure-of-the-girl-t08267",
+      "id": "23887",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a study of hops",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08268_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/uwins-a-study-of-hops-t08268",
+      "id": "23884",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a study of a hop picker",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09287_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/uwins-a-study-of-a-hop-picker-t09287",
+      "id": "23886",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a finished study of hops",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09288_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/uwins-a-finished-study-of-hops-t09288",
+      "id": "23885",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "15680",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15681",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21601",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23887",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23884",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23886",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23885",
+      "value": 1
+    }
+  ]
+}

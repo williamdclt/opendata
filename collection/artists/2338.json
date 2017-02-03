@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Martini, Arturo",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/arturo-martini-2338",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "torso of a young man",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06863_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/martini-torso-of-a-young-man-t06863",
+      "id": "20987",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "20987",
+      "value": 1
+    }
+  ]
+}

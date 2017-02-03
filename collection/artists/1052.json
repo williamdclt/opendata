@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "van Elk, Ger",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/ger-van-elk-1052",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "roquebrune",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07434_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/van-elk-roquebrune-p07434",
+      "id": "4097",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lunch ii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/van-elk-lunch-ii-t03108",
+      "id": "4098",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4097",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4098",
+      "value": 1
+    }
+  ]
+}

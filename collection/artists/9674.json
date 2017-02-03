@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Mekas, Jonas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/jonas-mekas-9674",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "diaries, notes & sketches a.k.a. walden",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12420_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mekas-diaries-notes-sketches-aka-walden-t12420",
+      "id": "90507",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "90507",
+      "value": 1
+    }
+  ]
+}

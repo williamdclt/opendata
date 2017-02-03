@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Chamberlain, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-chamberlain-885",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "koko-nor ii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chamberlain-koko-nor-ii-t01089",
+      "id": "2156",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kora",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01094_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chamberlain-kora-t01094",
+      "id": "2157",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2156",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2157",
+      "value": 1
+    }
+  ]
+}

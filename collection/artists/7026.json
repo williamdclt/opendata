@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "McCullin, Don",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/don-mccullin-7026",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "chapel market, islington, london",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccullin-chapel-market-islington-london-p13200",
+      "id": "118161",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jean, whitechapel, london",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccullin-jean-whitechapel-london-p13201",
+      "id": "118162",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jean, liverpool street, london",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccullin-jean-liverpool-street-london-p13202",
+      "id": "118163",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jean\u2019s hands",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccullin-jeans-hands-p13203",
+      "id": "118164",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "aldgate, london",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccullin-aldgate-london-p13204",
+      "id": "118165",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13205_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccullin-title-not-known-p13205",
+      "id": "118167",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "homeless irishman, spitalfields, london",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccullin-homeless-irishman-spitalfields-london-p13206",
+      "id": "118168",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "homeless men, spitalfields, london",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccullin-homeless-men-spitalfields-london-p13207",
+      "id": "118169",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "homeless men, early morning in spitalfields market, london",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccullin-homeless-men-early-morning-in-spitalfields-market-london-p13208",
+      "id": "118170",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "homeless men standing asleep, whitechapel, london",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccullin-homeless-men-standing-asleep-whitechapel-london-p13209",
+      "id": "118171",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sleeping man, spitalfields, london",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccullin-sleeping-man-spitalfields-london-p13210",
+      "id": "118172",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "homeless men gather around a makeshift fire, spitalfields market, london",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccullin-homeless-men-gather-around-a-makeshift-fire-spitalfields-market-london-p13211",
+      "id": "118173",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "homeless woman, whitechapel, london",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccullin-homeless-woman-whitechapel-london-p13212",
+      "id": "118174",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman sleeping in a shop doorway, aldgate east, london",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccullin-woman-sleeping-in-a-shop-doorway-aldgate-east-london-p13213",
+      "id": "118176",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "aldgate, london",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccullin-aldgate-london-p13214",
+      "id": "118177",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "aldgate east, london",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccullin-aldgate-east-london-p13215",
+      "id": "118178",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "consett, county durham",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccullin-consett-county-durham-p80128",
+      "id": "118179",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "coal miners leaving their shift, doncaster, yorkshire",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccullin-coal-miners-leaving-their-shift-doncaster-yorkshire-p80129",
+      "id": "118180",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a young girl taking the family laundry, bradford, yorkshire",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccullin-a-young-girl-taking-the-family-laundry-bradford-yorkshire-p80130",
+      "id": "118181",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "early morning, west hartlepool, county durham",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccullin-early-morning-west-hartlepool-county-durham-p80131",
+      "id": "118182",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bradford, yorkshire",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccullin-bradford-yorkshire-p80132",
+      "id": "118183",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "liverpool 8",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccullin-liverpool-8-p80133",
+      "id": "118184",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "near doncaster, yorkshire",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccullin-near-doncaster-yorkshire-p80134",
+      "id": "118185",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "somerset levels near glastonbury",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccullin-somerset-levels-near-glastonbury-p80135",
+      "id": "118209",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the battlefields of the somme, france",
+      "url": "http://www.tate.org.uk/art/images/work/P/P80/P80136_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccullin-the-battlefields-of-the-somme-france-p80136",
+      "id": "118203",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dew-pond by iron age hill fort, somerset",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccullin-dew-pond-by-iron-age-hill-fort-somerset-p80137",
+      "id": "118204",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "somerset levels near glastonbury",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccullin-somerset-levels-near-glastonbury-p80138",
+      "id": "118205",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hadrian\u2019s wall, northumberland",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccullin-hadrians-wall-northumberland-p80139",
+      "id": "118206",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woods near my house, somerset",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccullin-woods-near-my-house-somerset-p80140",
+      "id": "118207",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woods near my house, alum river, somerset",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccullin-woods-near-my-house-alum-river-somerset-p80141",
+      "id": "118208",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woods near my house, somerset",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccullin-woods-near-my-house-somerset-p80142",
+      "id": "118211",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "friedrichstrasse, berlin",
+      "url": "http://www.tate.org.uk/art/images/work/P/P80/P80143_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccullin-friedrichstrasse-berlin-p80143",
+      "id": "118213",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "near checkpoint charlie, berlin",
+      "url": "http://www.tate.org.uk/art/images/work/P/P80/P80144_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccullin-near-checkpoint-charlie-berlin-p80144",
+      "id": "118214",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "high alert, friedrichstrasse crossing, berlin",
+      "url": "http://www.tate.org.uk/art/images/work/P/P80/P80145_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccullin-high-alert-friedrichstrasse-crossing-berlin-p80145",
+      "id": "118215",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "looking into east berlin",
+      "url": "http://www.tate.org.uk/art/images/work/P/P80/P80146_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccullin-looking-into-east-berlin-p80146",
+      "id": "118216",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "west berliners looking east",
+      "url": "http://www.tate.org.uk/art/images/work/P/P80/P80147_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccullin-west-berliners-looking-east-p80147",
+      "id": "118217",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "checkpoint charlie, berlin",
+      "url": "http://www.tate.org.uk/art/images/work/P/P80/P80148_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccullin-checkpoint-charlie-berlin-p80148",
+      "id": "118219",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "east german guards looking into west, berlin",
+      "url": "http://www.tate.org.uk/art/images/work/P/P80/P80149_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccullin-east-german-guards-looking-into-west-berlin-p80149",
+      "id": "118221",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "american troops looking across the wall, berlin",
+      "url": "http://www.tate.org.uk/art/images/work/P/P80/P80150_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccullin-american-troops-looking-across-the-wall-berlin-p80150",
+      "id": "118222",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "american and east german guards, friedrichstrasse, berlin",
+      "url": "http://www.tate.org.uk/art/images/work/P/P80/P80151_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccullin-american-and-east-german-guards-friedrichstrasse-berlin-p80151",
+      "id": "118223",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "118161",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118162",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118163",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118164",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118165",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118167",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118168",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118169",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118170",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118171",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118172",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118173",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118174",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118176",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118177",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118178",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118179",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118180",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118181",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118182",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118183",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118184",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118185",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118209",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118203",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118204",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118205",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118206",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118207",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118208",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118211",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118213",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118214",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118215",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118216",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118217",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118219",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118221",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118222",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118223",
+      "value": 1
+    }
+  ]
+}

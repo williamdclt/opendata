@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Clint, Alfred",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/alfred-clint-97",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "hampstead from the south-east",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04809_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/clint-hampstead-from-the-south-east-n04809",
+      "id": "2305",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2305",
+      "value": 1
+    }
+  ]
+}

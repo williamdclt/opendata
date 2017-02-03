@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gillies, Sir William",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-william-gillies-1171",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "summer stream",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00007_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gillies-summer-stream-t00007",
+      "id": "5334",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "esperston",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00008_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gillies-esperston-t00008",
+      "id": "5335",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "summer morning",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00009_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gillies-summer-morning-t00009",
+      "id": "5336",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the marble-topped table",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00771_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gillies-the-marble-topped-table-t00771",
+      "id": "5337",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life with blue gloves",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01126_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gillies-still-life-with-blue-gloves-t01126",
+      "id": "5338",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5334",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5335",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5336",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5337",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5338",
+      "value": 1
+    }
+  ]
+}

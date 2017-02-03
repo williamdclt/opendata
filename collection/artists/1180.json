@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Glendenning, Ronald",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/ronald-glendenning-1180",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "cycle racing",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/glendenning-cycle-racing-p06708",
+      "id": "5378",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/glendenning-landscape-p06783",
+      "id": "5379",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5378",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5379",
+      "value": 1
+    }
+  ]
+}

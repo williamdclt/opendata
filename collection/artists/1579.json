@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Mariani, Carlo Maria",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/carlo-maria-mariani-1579",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "offspring of helios",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77029_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mariani-offspring-of-helios-p77029",
+      "id": "9290",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9290",
+      "value": 1
+    }
+  ]
+}

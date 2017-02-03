@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Kadishman, Menashe",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/menashe-kadishman-1380",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04385_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kadishman-title-not-known-p04385",
+      "id": "7773",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04386_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kadishman-title-not-known-p04386",
+      "id": "7774",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04387_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kadishman-title-not-known-p04387",
+      "id": "7775",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04388_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kadishman-title-not-known-p04388",
+      "id": "7776",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04389_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kadishman-title-not-known-p04389",
+      "id": "7777",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04390_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kadishman-title-not-known-p04390",
+      "id": "7778",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04391_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kadishman-title-not-known-p04391",
+      "id": "7779",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04392_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kadishman-title-not-known-p04392",
+      "id": "7780",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04393_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kadishman-title-not-known-p04393",
+      "id": "7781",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "through",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04394_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kadishman-through-p04394",
+      "id": "7782",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bridge",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04395_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kadishman-bridge-p04395",
+      "id": "7783",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cloths 1",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04396_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kadishman-cloths-1-p04396",
+      "id": "7784",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cracked earth",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04397_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kadishman-cracked-earth-p04397",
+      "id": "7785",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sculpture",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04398_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kadishman-sculpture-p04398",
+      "id": "7786",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "yellow rocks",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04399_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kadishman-yellow-rocks-p04399",
+      "id": "7787",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cloths 2",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04400_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kadishman-cloths-2-p04400",
+      "id": "7788",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cloths 3",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04401_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kadishman-cloths-3-p04401",
+      "id": "7789",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mountain a",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04402_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kadishman-mountain-a-p04402",
+      "id": "7790",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mountain b",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04403_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kadishman-mountain-b-p04403",
+      "id": "7791",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04404_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kadishman-title-not-known-p04404",
+      "id": "7792",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04405_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kadishman-title-not-known-p04405",
+      "id": "7793",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04406_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kadishman-title-not-known-p04406",
+      "id": "7794",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04407_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kadishman-title-not-known-p04407",
+      "id": "7795",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04408_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kadishman-title-not-known-p04408",
+      "id": "7796",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04409_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kadishman-title-not-known-p04409",
+      "id": "7797",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "red rocks",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04410_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kadishman-red-rocks-p04410",
+      "id": "7798",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "broken glass",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05514_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kadishman-broken-glass-p05514",
+      "id": "7799",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cloths a",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05515_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kadishman-cloths-a-p05515",
+      "id": "7800",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cloths b",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05516_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kadishman-cloths-b-p05516",
+      "id": "7801",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "upright rags a",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05517_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kadishman-upright-rags-a-p05517",
+      "id": "7802",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "upright rags b",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05518_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kadishman-upright-rags-b-p05518",
+      "id": "7803",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cracked earth a",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05519_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kadishman-cracked-earth-a-p05519",
+      "id": "7804",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cracked earth b",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05520_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kadishman-cracked-earth-b-p05520",
+      "id": "7805",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mountain a",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05521_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kadishman-mountain-a-p05521",
+      "id": "7806",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mountain b",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05522_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kadishman-mountain-b-p05522",
+      "id": "7807",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "new york a",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05523_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kadishman-new-york-a-p05523",
+      "id": "7808",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "new york b",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05524_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kadishman-new-york-b-p05524",
+      "id": "7809",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sheep a",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05525_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kadishman-sheep-a-p05525",
+      "id": "7810",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sheep b",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05526_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kadishman-sheep-b-p05526",
+      "id": "7811",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sheep head a",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05527_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kadishman-sheep-head-a-p05527",
+      "id": "7812",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "7773",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7774",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7775",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7776",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7777",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7778",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7779",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7780",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7781",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7782",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7783",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7784",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7785",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7786",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7787",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7788",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7789",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7790",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7791",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7792",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7793",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7794",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7795",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7796",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7797",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7798",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7799",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7800",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7801",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7802",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7803",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7804",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7805",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7806",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7807",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7808",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7809",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7810",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7811",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7812",
+      "value": 1
+    }
+  ]
+}

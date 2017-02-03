@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Ghika, Nicolas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/nicolas-ghika-1158",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "small composition in grey",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ghika-small-composition-in-grey-t00010",
+      "id": "5139",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5139",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gamarra, Sandra",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/sandra-gamarra-11460",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "page 70",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12959_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gamarra-page-70-t12959",
+      "id": "100851",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "100851",
+      "value": 1
+    }
+  ]
+}

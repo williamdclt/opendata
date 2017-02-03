@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Burne-Jones, Sir Edward Coley, Bt",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-edward-coley-burne-jones-bt-68",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "study of a woman\u2019s head",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00057_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burne-jones-study-of-a-womans-head-a00057",
+      "id": "1695",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a sleeping woman\u2019s head, possibly for \u2018the rose bower\u2019 in the \u2018briar rose\u2019 series",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00058_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burne-jones-study-of-a-sleeping-womans-head-possibly-for-the-rose-bower-in-the-briar-rose-a00058",
+      "id": "1696",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a man\u2019s head",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00059_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burne-jones-study-of-a-mans-head-a00059",
+      "id": "1697",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a girl\u2019s head",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00060_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burne-jones-study-of-a-girls-head-a00060",
+      "id": "1698",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a standing woman for \u2018the passing of venus\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00061_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burne-jones-study-of-a-standing-woman-for-the-passing-of-venus-a00061",
+      "id": "1699",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a seated woman for \u2018the passing of venus\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00062_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burne-jones-study-of-a-seated-woman-for-the-passing-of-venus-a00062",
+      "id": "1700",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of seated figure for \u2018the garden court\u2019 in the \u2018briar rose\u2019 series",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00063_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burne-jones-study-of-seated-figure-for-the-garden-court-in-the-briar-rose-series-a00063",
+      "id": "1701",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of seated figure for \u2018the garden court\u2019 in the \u2018briar rose\u2019 series",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00064_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burne-jones-study-of-seated-figure-for-the-garden-court-in-the-briar-rose-series-a00064",
+      "id": "1702",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure study for \u2018the rose bower\u2019 (briar rose series). verso: study of the head of merlin for \u2018the beguiling of merlin\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00065_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burne-jones-figure-study-for-the-rose-bower-briar-rose-series-verso-study-of-the-head-of-a00065",
+      "id": "1703",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "three studies for \u2018the beguiling of merlin\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00066_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burne-jones-three-studies-for-the-beguiling-of-merlin-a00066",
+      "id": "1704",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "studies of a sleeve",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00067_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burne-jones-studies-of-a-sleeve-a00067",
+      "id": "1705",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kneeling woman",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00068_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burne-jones-kneeling-woman-a00068",
+      "id": "1706",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stooping woman",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00069_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burne-jones-stooping-woman-a00069",
+      "id": "1707",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a female head for \u2018the hours\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00070_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burne-jones-study-of-a-female-head-for-the-hours-a00070",
+      "id": "1708",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "female head",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00071_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burne-jones-female-head-a00071",
+      "id": "1709",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ruth and boaz",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00072_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burne-jones-ruth-and-boaz-a00072",
+      "id": "1710",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the finding of moses",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00073_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burne-jones-the-finding-of-moses-a00073",
+      "id": "1711",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st alban",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00074_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burne-jones-st-alban-a00074",
+      "id": "1712",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st aidan",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burne-jones-st-aidan-a00075",
+      "id": "1713",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st oswald",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00076_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burne-jones-st-oswald-a00076",
+      "id": "1714",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st boniface",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00077_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burne-jones-st-boniface-a00077",
+      "id": "1715",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of the head of tristram for \u2018the madness of sir tristram\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00078_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burne-jones-study-of-the-head-of-tristram-for-the-madness-of-sir-tristram-a00078",
+      "id": "1716",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two studies of tristram for \u2018the madness of sir tristram\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00079_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burne-jones-two-studies-of-tristram-for-the-madness-of-sir-tristram-a00079",
+      "id": "1717",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "roundel with the head of a warrior",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00080_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burne-jones-roundel-with-the-head-of-a-warrior-a00080",
+      "id": "1718",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "roundel with the head of a woman",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00081_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burne-jones-roundel-with-the-head-of-a-woman-a00081",
+      "id": "1719",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "roundel with the head of a woman",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00082_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burne-jones-roundel-with-the-head-of-a-woman-a00082",
+      "id": "1720",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "composition study for \u2018the merciful knight\u2019. verso: study for a nativity",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00083_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burne-jones-composition-study-for-the-merciful-knight-verso-study-for-a-nativity-a00083",
+      "id": "1721",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "composition study for \u2018the merciful knight\u2019. verso: composition study for \u2018st valentine\u2019s day\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00084_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burne-jones-composition-study-for-the-merciful-knight-verso-composition-study-for-st-a00084",
+      "id": "20228",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "composition study for \u2018the merciful knight\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00085_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burne-jones-composition-study-for-the-merciful-knight-a00085",
+      "id": "1722",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nude study of knight for \u2018the merciful knight\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00086_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burne-jones-nude-study-of-knight-for-the-merciful-knight-a00086",
+      "id": "1723",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nude study of the knight for \u2018the merciful knight\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00087_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burne-jones-nude-study-of-the-knight-for-the-merciful-knight-a00087",
+      "id": "1724",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of knight for \u2018the merciful knight\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00088_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burne-jones-study-of-knight-for-the-merciful-knight-a00088",
+      "id": "1725",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nude study of knight for \u2018the merciful knight\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00089_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burne-jones-nude-study-of-knight-for-the-merciful-knight-a00089",
+      "id": "1726",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a seated male nude for \u2018the liberation of st peter\u2019 in the church of st michael and all angels, lyndhurst, hampshire",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00090_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burne-jones-study-of-a-seated-male-nude-for-the-liberation-of-st-peter-in-the-church-of-st-a00090",
+      "id": "1727",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two studies of a seated male nude for \u2018the liberation of st peter\u2019 in the church of st michael and all angels, lyndhurst, hampshire",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00091_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burne-jones-two-studies-of-a-seated-male-nude-for-the-liberation-of-st-peter-in-the-church-a00091",
+      "id": "1728",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018blind love\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00092_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burne-jones-study-for-blind-love-a00092",
+      "id": "1729",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018blind love\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00093_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burne-jones-study-for-blind-love-a00093",
+      "id": "1730",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a male figure for \u2018clerk saunders\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00094_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burne-jones-study-of-a-male-figure-for-clerk-saunders-a00094",
+      "id": "1731",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a seated woman for \u2018the hours\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00095_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burne-jones-study-of-a-seated-woman-for-the-hours-a00095",
+      "id": "1732",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a reclining figure",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00096_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burne-jones-study-of-a-reclining-figure-a00096",
+      "id": "1733",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1695",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1696",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1697",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1698",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1699",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1700",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1701",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1702",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1703",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1704",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1705",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1706",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1707",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1708",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1709",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1710",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1711",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1712",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1713",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1714",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1715",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1716",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1717",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1718",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1719",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1720",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1721",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20228",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1722",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1723",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1724",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1725",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1726",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1727",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1728",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1729",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1730",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1731",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1732",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1733",
+      "value": 1
+    }
+  ]
+}

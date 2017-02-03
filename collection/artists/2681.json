@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Tyson, Nicola",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/nicola-tyson-2681",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "swimmer",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07492_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-swimmer-t07492",
+      "id": "26475",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "curtain figure",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12599_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-curtain-figure-t12599",
+      "id": "26960",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "26475",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26960",
+      "value": 1
+    }
+  ]
+}

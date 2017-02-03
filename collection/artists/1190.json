@@ -1,0 +1,267 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gore, Spencer",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/spencer-gore-1190",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "from a window in cambrian road, richmond",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03558_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gore-from-a-window-in-cambrian-road-richmond-n03558",
+      "id": "5517",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "houghton place",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03839_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gore-houghton-place-n03839",
+      "id": "5518",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "letchworth",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04675_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gore-letchworth-n04675",
+      "id": "5519",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mornington crescent",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05099_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gore-mornington-crescent-n05099",
+      "id": "5520",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "richmond park",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05100_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gore-richmond-park-n05100",
+      "id": "5521",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the blacksmith\u2019s shop",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05263_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gore-the-blacksmiths-shop-n05263",
+      "id": "5522",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dancing in the street",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05307_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gore-dancing-in-the-street-n05307",
+      "id": "5523",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "inez and taki",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05859_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gore-inez-and-taki-n05859",
+      "id": "5524",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ballet scene",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06016_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gore-ballet-scene-n06016",
+      "id": "5525",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "north london girl",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00027_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gore-north-london-girl-t00027",
+      "id": "5526",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the fig tree",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00028_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gore-the-fig-tree-t00028",
+      "id": "5527",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for a mural decoration for \u2018the cave of the golden calf\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00446_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gore-study-for-a-mural-decoration-for-the-cave-of-the-golden-calf-t00446",
+      "id": "5528",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the gas cooker",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00496_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gore-the-gas-cooker-t00496",
+      "id": "5529",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the beanfield, letchworth",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01859_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gore-the-beanfield-letchworth-t01859",
+      "id": "5530",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the cinder path",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01960_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gore-the-cinder-path-t01960",
+      "id": "5531",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a singer at the bedford music hall",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02260_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gore-a-singer-at-the-bedford-music-hall-t02260",
+      "id": "5532",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the artist\u2019s wife",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03561_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gore-the-artists-wife-t03561",
+      "id": "5533",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rule britannia",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06521_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gore-rule-britannia-t06521",
+      "id": "20322",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5517",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5518",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5519",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5520",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5521",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5522",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5523",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5524",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5525",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5526",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5527",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5528",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5529",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5530",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5531",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5532",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5533",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20322",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Maufra, Maxime",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/maxime-maufra-1595",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the embankment of lagny under flood water",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04947_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maufra-the-embankment-of-lagny-under-flood-water-n04947",
+      "id": "9401",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9401",
+      "value": 1
+    }
+  ]
+}

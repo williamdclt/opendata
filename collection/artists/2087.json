@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Underwood, Leon",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/leon-underwood-2087",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "torso: the june of youth",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/underwood-torso-the-june-of-youth-n04975",
+      "id": "15666",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "totem to the artist",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00644_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/underwood-totem-to-the-artist-t00644",
+      "id": "15667",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the fireside",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02248_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/underwood-the-fireside-t02248",
+      "id": "15668",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "casement to infinity",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02323_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/underwood-casement-to-infinity-t02323",
+      "id": "15669",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "torso",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/underwood-torso-t02324",
+      "id": "15670",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "herald of new day",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03775_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/underwood-herald-of-new-day-t03775",
+      "id": "15671",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "manitu bird",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06887_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/underwood-manitu-bird-t06887",
+      "id": "21090",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the ember (italian immigrant)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07695_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/underwood-the-ember-italian-immigrant-t07695",
+      "id": "27380",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "15666",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15667",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15668",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15669",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15670",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15671",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21090",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27380",
+      "value": 1
+    }
+  ]
+}

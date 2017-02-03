@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Forbes, Elizabeth",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/elizabeth-forbes-189",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "volendam, holland, from the zuidende",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04171_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/forbes-volendam-holland-from-the-zuidende-t04171",
+      "id": "4499",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4499",
+      "value": 1
+    }
+  ]
+}

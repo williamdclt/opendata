@@ -1,0 +1,197 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Fedden, Mary",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/mary-fedden-1084",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "ginger beer bottle",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01096_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fedden-ginger-beer-bottle-p01096",
+      "id": "4244",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "basket of lemons",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06131_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fedden-basket-of-lemons-p06131",
+      "id": "4245",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pot of shells",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06132_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fedden-pot-of-shells-p06132",
+      "id": "4246",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shells and pebbles",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06133_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fedden-shells-and-pebbles-p06133",
+      "id": "4247",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "straw plate",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06134_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fedden-straw-plate-p06134",
+      "id": "4248",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "etching table",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06135_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fedden-etching-table-p06135",
+      "id": "4249",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figs",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06136_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fedden-figs-p06136",
+      "id": "4250",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fritillaries",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06137_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fedden-fritillaries-p06137",
+      "id": "4251",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ivy",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06138_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fedden-ivy-p06138",
+      "id": "4252",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the lamp",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06139_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fedden-the-lamp-p06139",
+      "id": "4253",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the etching table",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06498_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fedden-the-etching-table-t06498",
+      "id": "20249",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the staffordshire horse",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07243_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fedden-the-staffordshire-horse-t07243",
+      "id": "22015",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mauve still life",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07336_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fedden-mauve-still-life-t07336",
+      "id": "25984",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4244",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4245",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4246",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4247",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4248",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4249",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4250",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4251",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4252",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4253",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20249",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22015",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25984",
+      "value": 1
+    }
+  ]
+}

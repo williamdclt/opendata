@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Fischli, Peter",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/peter-fischli-2757",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20330_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fischli-weiss-untitled-p20330",
+      "id": "91697",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20331_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fischli-weiss-untitled-p20331",
+      "id": "93294",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20332_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fischli-weiss-untitled-p20332",
+      "id": "93300",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20333_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fischli-weiss-untitled-p20333",
+      "id": "93316",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "visible world",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07885_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fischli-weiss-visible-world-t07885",
+      "id": "69959",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (small root)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12354_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fischli-weiss-untitled-small-root-t12354",
+      "id": "92128",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (tate)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12468_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fischli-weiss-untitled-tate-t12468",
+      "id": "89459",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "91697",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93294",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93300",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93316",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "69959",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "92128",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "89459",
+      "value": 1
+    }
+  ]
+}

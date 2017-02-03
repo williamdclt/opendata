@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Mendieta, Ana",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/ana-mendieta-11167",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled (blood and feathers #2)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12916_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mendieta-untitled-blood-and-feathers-2-t12916",
+      "id": "95814",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (self-portrait with blood)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13354_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mendieta-untitled-self-portrait-with-blood-t13354",
+      "id": "95802",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (rape scene)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mendieta-untitled-rape-scene-t13355",
+      "id": "95805",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (silueta series, mexico)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mendieta-untitled-silueta-series-mexico-t13356",
+      "id": "95806",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (silueta series, mexico)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mendieta-untitled-silueta-series-mexico-t13357",
+      "id": "95810",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "95814",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95802",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95805",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95806",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95810",
+      "value": 1
+    }
+  ]
+}

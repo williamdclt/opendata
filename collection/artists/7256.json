@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "White, Pae",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/pae-white-7256",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "morceau accrochant",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11918_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/white-morceau-accrochant-t11918",
+      "id": "84097",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "84097",
+      "value": 1
+    }
+  ]
+}

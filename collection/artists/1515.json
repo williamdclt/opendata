@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Lindstr\u00f6m, Bengt",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/bengt-lindstrom-1515",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "red man",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08218_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lindstrom-red-man-p08218",
+      "id": "8853",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8853",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Otreba, Ryszard",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/ryszard-otreba-1729",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "initiation i",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/otreba-initiation-i-p11087",
+      "id": "10990",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "discovery v",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/otreba-discovery-v-p11088",
+      "id": "10989",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "10990",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10989",
+      "value": 1
+    }
+  ]
+}

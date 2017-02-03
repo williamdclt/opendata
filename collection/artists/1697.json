@@ -1,0 +1,267 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Nevinson, Christopher Richard Wynne",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/christopher-richard-wynne-nevinson-1697",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "la mitrailleuse",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03177_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nevinson-la-mitrailleuse-n03177",
+      "id": "10599",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a studio in montparnasse",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04231_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nevinson-a-studio-in-montparnasse-n04231",
+      "id": "10600",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04672_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nevinson-self-portrait-n04672",
+      "id": "10601",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fitzroy square",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04979_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nevinson-fitzroy-square-n04979",
+      "id": "10602",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "making the engine",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03045_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nevinson-making-the-engine-p03045",
+      "id": "10603",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "assembling parts",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03046_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nevinson-assembling-parts-p03046",
+      "id": "10604",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "acetylene welding",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03047_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nevinson-acetylene-welding-p03047",
+      "id": "10605",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sweeping down on a taube",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03048_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nevinson-sweeping-down-on-a-taube-p03048",
+      "id": "10606",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "banking at 4000 feet",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03049_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nevinson-banking-at-4000-feet-p03049",
+      "id": "10607",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "in the air",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03050_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nevinson-in-the-air-p03050",
+      "id": "10608",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "survivors at arras",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11049_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nevinson-survivors-at-arras-p11049",
+      "id": "10609",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the arrival",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00110_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nevinson-the-arrival-t00110",
+      "id": "10610",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018returning to the trenches\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00249_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nevinson-study-for-returning-to-the-trenches-t00249",
+      "id": "10611",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a star shell",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00495_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nevinson-a-star-shell-t00495",
+      "id": "10612",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "venetian twilight",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00862_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nevinson-venetian-twilight-t00862",
+      "id": "10613",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dance hall scene",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01913_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nevinson-dance-hall-scene-t01913",
+      "id": "10614",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bursting shell",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03676_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nevinson-bursting-shell-t03676",
+      "id": "10615",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the soul of the soulless city (\u2018new york - an abstraction\u2019)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07448_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nevinson-the-soul-of-the-soulless-city-new-york-an-abstraction-t07448",
+      "id": "26401",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "10599",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10600",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10601",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10602",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10603",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10604",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10605",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10606",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10607",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10608",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10609",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10610",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10611",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10612",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10613",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10614",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10615",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26401",
+      "value": 1
+    }
+  ]
+}

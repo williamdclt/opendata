@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Meidner, Else",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/else-meidner-1619",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "death and the maiden",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03694_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meidner-death-and-the-maiden-t03694",
+      "id": "9434",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9434",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Broomberg, Adam",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/adam-broomberg-16107",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled (two women hiding)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13216_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/broomberg-chanarin-untitled-two-women-hiding-p13216",
+      "id": "121267",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (boy on tip toes)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13217_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/broomberg-chanarin-untitled-boy-on-tip-toes-p13217",
+      "id": "121270",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (riots shields in the high street)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13218_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/broomberg-chanarin-untitled-riots-shields-in-the-high-street-p13218",
+      "id": "121271",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (people saluting)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13219_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/broomberg-chanarin-untitled-people-saluting-p13219",
+      "id": "121272",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (girl looking)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13220_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/broomberg-chanarin-untitled-girl-looking-p13220",
+      "id": "121273",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (boy running with barrel)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13221_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/broomberg-chanarin-untitled-boy-running-with-barrel-p13221",
+      "id": "121274",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (balloons escaping)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13222_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/broomberg-chanarin-untitled-balloons-escaping-p13222",
+      "id": "121275",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (fountain)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13223_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/broomberg-chanarin-untitled-fountain-p13223",
+      "id": "121276",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (right arm)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13224_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/broomberg-chanarin-untitled-right-arm-p13224",
+      "id": "121277",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (car on fire)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13225_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/broomberg-chanarin-untitled-car-on-fire-p13225",
+      "id": "121278",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (chair balancing on stick)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13226_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/broomberg-chanarin-untitled-chair-balancing-on-stick-p13226",
+      "id": "121279",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "political 1 sheet 19",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13227_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/broomberg-chanarin-political-1-sheet-19-p13227",
+      "id": "121280",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "121267",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121270",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121271",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121272",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121273",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121274",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121275",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121276",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121277",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121278",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121279",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121280",
+      "value": 1
+    }
+  ]
+}

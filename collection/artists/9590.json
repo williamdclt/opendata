@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Kelm, Annette",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/annette-kelm-9590",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled (mark)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kelm-untitled-mark-p79221",
+      "id": "90250",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (rider)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kelm-untitled-rider-p79222",
+      "id": "90252",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "after lunch, trying to build railway ties",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kelm-after-lunch-trying-to-build-railway-ties-p79223",
+      "id": "90253",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "house on haunted hill i (night)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kelm-house-on-haunted-hill-i-night-p79224",
+      "id": "90254",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "house on haunted hill ii (day)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kelm-house-on-haunted-hill-ii-day-p79225",
+      "id": "90255",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mil arrugas",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kelm-mil-arrugas-p79226",
+      "id": "90256",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "90250",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90252",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90253",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90254",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90255",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90256",
+      "value": 1
+    }
+  ]
+}

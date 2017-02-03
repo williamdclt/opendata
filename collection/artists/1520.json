@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Livens, Horace Mann",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/horace-mann-livens-1520",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "three studies of a child",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00326_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/livens-three-studies-of-a-child-t00326",
+      "id": "8952",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "baby with dummy",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00327_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/livens-baby-with-dummy-t00327",
+      "id": "8953",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two children playing",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00328_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/livens-two-children-playing-t00328",
+      "id": "8954",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8952",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8953",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8954",
+      "value": 1
+    }
+  ]
+}

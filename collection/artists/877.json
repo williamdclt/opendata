@@ -1,0 +1,169 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Celice, Pierre",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/pierre-celice-877",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "white landscape",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celice-white-landscape-p01079",
+      "id": "2091",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "les savis de l\u2019atelier",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celice-les-savis-de-latelier-p01080",
+      "id": "2092",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "red studio",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celice-red-studio-p01081",
+      "id": "2093",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "grey landscape",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celice-grey-landscape-p01082",
+      "id": "2094",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "studio 5",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celice-studio-5-p01083",
+      "id": "2095",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "studio 6",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celice-studio-6-p01084",
+      "id": "2096",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "studio 7",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celice-studio-7-p01085",
+      "id": "2097",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "marine",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celice-marine-p01086",
+      "id": "2098",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "marine iv",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celice-marine-iv-p01087",
+      "id": "2099",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled - blue",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celice-untitled-blue-p01088",
+      "id": "2100",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled - orange",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/celice-untitled-orange-p01089",
+      "id": "2101",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2091",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2092",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2093",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2094",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2095",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2096",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2097",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2098",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2099",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2100",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2101",
+      "value": 1
+    }
+  ]
+}

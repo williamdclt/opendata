@@ -1,0 +1,211 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Benjamin, Anthony",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/anthony-benjamin-737",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "butterfly echo",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01362_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/benjamin-butterfly-echo-p01362",
+      "id": "924",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "eraze function",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01363_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/benjamin-eraze-function-p01363",
+      "id": "925",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "inverse echo",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01364_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/benjamin-inverse-echo-p01364",
+      "id": "926",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "multi mode jitter",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01365_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/benjamin-multi-mode-jitter-p01365",
+      "id": "927",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "o factor",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01366_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/benjamin-o-factor-p01366",
+      "id": "928",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ringing filter",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01367_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/benjamin-ringing-filter-p01367",
+      "id": "929",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drifting blue edge",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08026_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/benjamin-drifting-blue-edge-p08026",
+      "id": "930",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "element",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78364_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/benjamin-element-p78364",
+      "id": "27121",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "emerald deeps",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78365_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/benjamin-emerald-deeps-p78365",
+      "id": "27153",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "prisms of water",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78366_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/benjamin-prisms-of-water-p78366",
+      "id": "27152",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cramasie",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78367_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/benjamin-cramasie-p78367",
+      "id": "27151",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "verbs of the sea",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78368_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/benjamin-verbs-of-the-sea-p78368",
+      "id": "27150",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "earl",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78369_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/benjamin-earl-p78369",
+      "id": "27149",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bright hemisphere blue",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78370_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/benjamin-bright-hemisphere-blue-p78370",
+      "id": "27148",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "924",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "925",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "926",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "927",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "928",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "929",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "930",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27121",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27153",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27152",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27151",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27150",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27149",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27148",
+      "value": 1
+    }
+  ]
+}

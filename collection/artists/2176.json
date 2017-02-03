@@ -1,0 +1,141 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Wynter, Bryan",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/bryan-wynter-2176",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "path through wood",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77361_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wynter-path-through-wood-p77361",
+      "id": "18984",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seedtime",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00558_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wynter-seedtime-t00558",
+      "id": "16496",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "imoos vi",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wynter-imoos-vi-t00765",
+      "id": "16497",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mars ascends",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03289_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wynter-mars-ascends-t03289",
+      "id": "16498",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "saja",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03362_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wynter-saja-t03362",
+      "id": "16499",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "green confluence",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03363_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wynter-green-confluence-t03363",
+      "id": "16500",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "meander i",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07978_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wynter-meander-i-t07978",
+      "id": "77073",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dark landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07979_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wynter-dark-landscape-t07979",
+      "id": "77075",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "riverbed",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07991_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wynter-riverbed-t07991",
+      "id": "77607",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "18984",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16496",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16497",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16498",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16499",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16500",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "77073",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "77075",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "77607",
+      "value": 1
+    }
+  ]
+}

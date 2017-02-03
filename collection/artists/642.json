@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Alley, Anthea",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/anthea-alley-642",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "spatial form",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00655_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/alley-spatial-form-t00655",
+      "id": "493",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "493",
+      "value": 1
+    }
+  ]
+}

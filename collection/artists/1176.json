@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Giobbi, Edward",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/edward-giobbi-1176",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "november 22nd no. 3",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00673_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/giobbi-november-22nd-no-3-t00673",
+      "id": "5362",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5362",
+      "value": 1
+    }
+  ]
+}

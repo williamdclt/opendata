@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Foley, John Henry",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-henry-foley-188",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "sir joshua reynolds, p.r.a.",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01770_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/foley-sir-joshua-reynolds-pra-n01770",
+      "id": "4490",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4490",
+      "value": 1
+    }
+  ]
+}

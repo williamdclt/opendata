@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Huggins, William",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/william-huggins-282",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "donkeys and sheep in a landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00904_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/huggins-donkeys-and-sheep-in-a-landscape-t00904",
+      "id": "6947",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6947",
+      "value": 1
+    }
+  ]
+}

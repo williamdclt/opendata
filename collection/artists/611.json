@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Woodville, Richard Caton",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/richard-caton-woodville-611",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "napoleon crossing the bridge to lobau island",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05202_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodville-napoleon-crossing-the-bridge-to-lobau-island-n05202",
+      "id": "16469",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "general wolfe climbing the heights of abraham on the morning of the battle of quebec",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodville-general-wolfe-climbing-the-heights-of-abraham-on-the-morning-of-the-battle-of-n05203",
+      "id": "16470",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "marshal ney at eylau",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05204_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodville-marshal-ney-at-eylau-n05204",
+      "id": "16471",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "poniatowski\u2019s last charge at leipzig",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05205_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodville-poniatowskis-last-charge-at-leipzig-n05205",
+      "id": "16472",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16469",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16470",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16471",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16472",
+      "value": 1
+    }
+  ]
+}

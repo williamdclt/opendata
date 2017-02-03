@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Nicholson, Thomas Henry",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/thomas-henry-nicholson-2521",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "fragment cut from a larger sheet: a beau",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08635_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-fragment-cut-from-a-larger-sheet-a-beau-t08635",
+      "id": "23315",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fragment cut from a larger sheet: a soldier",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08636_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-fragment-cut-from-a-larger-sheet-a-soldier-t08636",
+      "id": "23316",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fragment cut from a larger sheet: a soldier in 18th century uniform",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08637_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-fragment-cut-from-a-larger-sheet-a-soldier-in-18th-century-uniform-t08637",
+      "id": "23317",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018hark hark the lark\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09141_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nicholson-hark-hark-the-lark-t09141",
+      "id": "23318",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "23315",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23316",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23317",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23318",
+      "value": 1
+    }
+  ]
+}

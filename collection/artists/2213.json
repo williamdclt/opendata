@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Polke, Sigmar",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sigmar-polke-2213",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "hallo shiva",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77258_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/polke-hallo-shiva-p77258",
+      "id": "16642",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure with hand (i am made dizzy by a carpet of rose-petals...)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77259_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/polke-figure-with-hand-i-am-made-dizzy-by-a-carpet-of-rose-petals-p77259",
+      "id": "12879",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "girlfriends i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78769_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/polke-girlfriends-i-p78769",
+      "id": "78711",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (triptych)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11855_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/polke-untitled-triptych-t11855",
+      "id": "80301",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (square 2)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11856_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/polke-untitled-square-2-t11856",
+      "id": "80302",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "potato machine - apparatus whereby one potato can orbit another",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/polke-potato-machine-apparatus-whereby-one-potato-can-orbit-another-t13326",
+      "id": "114466",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16642",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12879",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78711",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80301",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80302",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114466",
+      "value": 1
+    }
+  ]
+}

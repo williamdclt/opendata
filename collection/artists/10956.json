@@ -1,0 +1,141 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Wilson, Richard",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/richard-wilson-10956",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "watertable",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12489_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-watertable-t12489",
+      "id": "95041",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "room 6 channel view hotel (1)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12490_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-room-6-channel-view-hotel-1-t12490",
+      "id": "95042",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "room 6 channel view hotel (ii)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12491_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-room-6-channel-view-hotel-ii-t12491",
+      "id": "95043",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "over easy",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12492_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-over-easy-t12492",
+      "id": "95044",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "slice of reality",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12493_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-slice-of-reality-t12493",
+      "id": "95046",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "slice of reality (ii)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12494_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-slice-of-reality-ii-t12494",
+      "id": "95047",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "butterfly",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12495_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-butterfly-t12495",
+      "id": "95050",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the joint\u2019s jumping",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-the-joints-jumping-t12496",
+      "id": "95051",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "20:50",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-2050-t13343",
+      "id": "113918",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "95041",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95042",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95043",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95044",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95046",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95047",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95050",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95051",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "113918",
+      "value": 1
+    }
+  ]
+}

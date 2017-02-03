@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Low, Sir David",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-david-low-1529",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "london\u2019s new traffic problem",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/low-londons-new-traffic-problem-n04331",
+      "id": "8994",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the angels of peace descend on belgium",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/low-the-angels-of-peace-descend-on-belgium-n05463",
+      "id": "8995",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dick sheppard and aldous huxley",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/low-dick-sheppard-and-aldous-huxley-n05464",
+      "id": "8996",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "look out, brutus! caesar is going to unseal his lips!",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/low-look-out-brutus-caesar-is-going-to-unseal-his-lips-n05670",
+      "id": "8997",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8994",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8995",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8996",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8997",
+      "value": 1
+    }
+  ]
+}

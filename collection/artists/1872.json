@@ -1,0 +1,155 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Rothenberg, Susan",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/susan-rothenberg-1872",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "head and bones",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07740_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenberg-head-and-bones-p07740",
+      "id": "12874",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (may no. 2)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11203_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenberg-untitled-may-no-2-p11203",
+      "id": "16593",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "listening bamboo",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenberg-listening-bamboo-p11878",
+      "id": "21341",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mezzo fist #1",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11879_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenberg-mezzo-fist-1-p11879",
+      "id": "21342",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mezzo fist #2",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11880_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenberg-mezzo-fist-2-p11880",
+      "id": "21343",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "four green lines",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77057_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenberg-four-green-lines-p77057",
+      "id": "12875",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stumblebum",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenberg-stumblebum-p77171",
+      "id": "12876",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "plug",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77256_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenberg-plug-p77256",
+      "id": "12877",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (may no. 1)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77257_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenberg-untitled-may-no-1-p77257",
+      "id": "12878",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vertical spin",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04913_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothenberg-vertical-spin-t04913",
+      "id": "12880",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12874",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16593",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21341",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21342",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21343",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12875",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12876",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12877",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12878",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12880",
+      "value": 1
+    }
+  ]
+}

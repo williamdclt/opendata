@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Parreno, Philippe",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/philippe-parreno-9107",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "6.00 pm",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12411_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/parreno-600-pm-t12411",
+      "id": "91990",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "91990",
+      "value": 1
+    }
+  ]
+}

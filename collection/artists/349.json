@@ -1,0 +1,169 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Lewis, George Robert",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/george-robert-lewis-349",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "hereford, from the haywood, noon",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02960_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-hereford-from-the-haywood-noon-n02960",
+      "id": "8666",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hereford, dynedor and the malvern hills, from the haywood lodge, harvest scene, afternoon",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02961_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-hereford-dynedor-and-the-malvern-hills-from-the-haywood-lodge-harvest-scene-n02961",
+      "id": "8667",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "clearing a site in paddington for development",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02009_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-clearing-a-site-in-paddington-for-development-t02009",
+      "id": "8668",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "harvest field with gleaners, haywood, herefordshire",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03234_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-harvest-field-with-gleaners-haywood-herefordshire-t03234",
+      "id": "8669",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "harvest field with reapers, haywood, herefordshire",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03235_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-harvest-field-with-reapers-haywood-herefordshire-t03235",
+      "id": "8670",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the dolmen at saumur",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09512_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-the-dolmen-at-saumur-t09512",
+      "id": "23163",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dieppe",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09513_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-dieppe-t09513",
+      "id": "23159",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "louvain",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09516_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-louvain-t09516",
+      "id": "23162",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "amsterdam",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09517_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-amsterdam-t09517",
+      "id": "24465",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "studies of carts at ghent",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10330_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-studies-of-carts-at-ghent-t10330",
+      "id": "23161",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "studies of carts at brussels",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10331_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-studies-of-carts-at-brussels-t10331",
+      "id": "23160",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8666",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8667",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8668",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8669",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8670",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23163",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23159",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23162",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24465",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23161",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23160",
+      "value": 1
+    }
+  ]
+}

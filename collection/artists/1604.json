@@ -1,0 +1,197 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "McComb, Leonard",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/leonard-mccomb-1604",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "snowdrops",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07501_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccomb-snowdrops-p07501",
+      "id": "9066",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tulips",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07502_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccomb-tulips-p07502",
+      "id": "9067",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rhododendrons",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07503_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccomb-rhododendrons-p07503",
+      "id": "9068",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "roses",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07504_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccomb-roses-p07504",
+      "id": "9069",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "apple blossom i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07505_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccomb-apple-blossom-i-p07505",
+      "id": "9070",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "apple blossom ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07506_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccomb-apple-blossom-ii-p07506",
+      "id": "9071",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jenny scott",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77233_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccomb-jenny-scott-p77233",
+      "id": "16595",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rachael house",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77234_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccomb-rachael-house-p77234",
+      "id": "16596",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of mrs lilian kennett",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02081_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccomb-portrait-of-mrs-lilian-kennett-t02081",
+      "id": "9073",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of zarrin kashi overlooking whitechapel high street",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03601_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccomb-portrait-of-zarrin-kashi-overlooking-whitechapel-high-street-t03601",
+      "id": "9074",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "duck",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06779_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccomb-duck-t06779",
+      "id": "20895",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "young woman holding duck",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06785_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccomb-young-woman-holding-duck-t06785",
+      "id": "20841",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of a young man standing",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07466_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mccomb-portrait-of-a-young-man-standing-t07466",
+      "id": "26452",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9066",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9067",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9068",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9069",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9070",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9071",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16595",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16596",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9073",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9074",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20895",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20841",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26452",
+      "value": 1
+    }
+  ]
+}

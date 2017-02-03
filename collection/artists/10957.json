@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "KwieKulik",
+      "url": null,
+      "gender": "",
+      "tatelink": "http://www.tate.org.uk/art/artists/kwiekulik-przemyslaw-kwiek-zofia-kulik-10957",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "variants of red/the path of edward gierek",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kwiekulik-variants-of-redthe-path-of-edward-gierek-t13252",
+      "id": "95048",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "95048",
+      "value": 1
+    }
+  ]
+}

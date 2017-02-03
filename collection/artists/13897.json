@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Joreige, Lamia",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/lamia-joreige-13897",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "objects of war no.1",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/joreige-objects-of-war-no1-t13247",
+      "id": "109913",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "objects of war no.2",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/joreige-objects-of-war-no2-t13248",
+      "id": "109914",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "objects of war no.3",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13249_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/joreige-objects-of-war-no3-t13249",
+      "id": "109915",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "objects of war no.4",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/joreige-objects-of-war-no4-t13250",
+      "id": "109917",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "109913",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "109914",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "109915",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "109917",
+      "value": 1
+    }
+  ]
+}

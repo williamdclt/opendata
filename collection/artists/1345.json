@@ -1,0 +1,211 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Jacklin, Bill",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/bill-jacklin-1345",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "anemones i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02559_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jacklin-anemones-i-p02559",
+      "id": "7049",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anemones ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02560_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jacklin-anemones-ii-p02560",
+      "id": "7050",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anemones iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02561_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jacklin-anemones-iii-p02561",
+      "id": "7051",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anemones iv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02562_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jacklin-anemones-iv-p02562",
+      "id": "7052",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anemones v",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02563_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jacklin-anemones-v-p02563",
+      "id": "7053",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anemones vi",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02564_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jacklin-anemones-vi-p02564",
+      "id": "7054",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anemones vii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02565_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jacklin-anemones-vii-p02565",
+      "id": "7055",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "first light",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06656_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jacklin-first-light-p06656",
+      "id": "7056",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "northern light",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06657_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jacklin-northern-light-p06657",
+      "id": "7057",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ancient light",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06658_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jacklin-ancient-light-p06658",
+      "id": "7058",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "daylight",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06659_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jacklin-daylight-p06659",
+      "id": "7059",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sky light",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06660_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jacklin-sky-light-p06660",
+      "id": "7060",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "night light",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06661_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jacklin-night-light-p06661",
+      "id": "7061",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "catena",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01494_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jacklin-catena-t01494",
+      "id": "7062",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "7049",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7050",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7051",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7052",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7053",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7054",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7055",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7056",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7057",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7058",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7059",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7060",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7061",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7062",
+      "value": 1
+    }
+  ]
+}

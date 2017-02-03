@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Amorales, Carlos",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/carlos-amorales-7533",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "interior vs. exterior",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/amorales-interior-vs-exterior-t11981",
+      "id": "83816",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "83816",
+      "value": 1
+    }
+  ]
+}

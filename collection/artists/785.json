@@ -1,0 +1,155 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Boshier, Derek",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/derek-boshier-785",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "plan 1",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01370_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boshier-plan-1-p01370",
+      "id": "1343",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "plan ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01371_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boshier-plan-ii-p01371",
+      "id": "1344",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "f.e.",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01372_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boshier-fe-p01372",
+      "id": "1345",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01373_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boshier-untitled-p01373",
+      "id": "1346",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04053_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boshier-untitled-p04053",
+      "id": "1347",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "output",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04054_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boshier-output-p04054",
+      "id": "1348",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the identi-kit man",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01287_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boshier-the-identi-kit-man-t01287",
+      "id": "1349",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "frightened cowboy",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07473_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boshier-frightened-cowboy-t07473",
+      "id": "26455",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "naked cowboy",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07474_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boshier-naked-cowboy-t07474",
+      "id": "26456",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shy cowboy",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07475_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boshier-shy-cowboy-t07475",
+      "id": "26457",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1343",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1344",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1345",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1346",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1347",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1348",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1349",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26455",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26456",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26457",
+      "value": 1
+    }
+  ]
+}

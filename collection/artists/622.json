@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Abrahams, Ivor",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/ivor-abrahams-622",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03149_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abrahams-no-title-p03149",
+      "id": "319",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "garden suite i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04001_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abrahams-garden-suite-i-p04001",
+      "id": "320",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "garden suite ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04002_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abrahams-garden-suite-ii-p04002",
+      "id": "321",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "garden suite iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04003_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abrahams-garden-suite-iii-p04003",
+      "id": "322",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "garden suite iv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04004_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abrahams-garden-suite-iv-p04004",
+      "id": "323",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "garden suite v",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04005_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abrahams-garden-suite-v-p04005",
+      "id": "324",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sundial i (summer)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07384_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abrahams-sundial-i-summer-p07384",
+      "id": "325",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled [from the book \u2018oxford gardens: a sketchbook\u2019 by ivor abrahams]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08150_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abrahams-untitled-from-the-book-oxford-gardens-a-sketchbook-by-ivor-abrahams-p08150",
+      "id": "326",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "garden emblems i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11099_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abrahams-garden-emblems-i-p11099",
+      "id": "327",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "garden emblems ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11100_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abrahams-garden-emblems-ii-p11100",
+      "id": "328",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "privacy plots i: brick wall",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11101_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abrahams-privacy-plots-i-brick-wall-p11101",
+      "id": "329",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "privacy plots ii: flower garden",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11102_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abrahams-privacy-plots-ii-flower-garden-p11102",
+      "id": "330",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "privacy plots iii: suburban hedge",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11103_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abrahams-privacy-plots-iii-suburban-hedge-p11103",
+      "id": "331",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "privacy plots iv: gate post and hedge",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11104_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abrahams-privacy-plots-iv-gate-post-and-hedge-p11104",
+      "id": "332",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "privacy plots v: hedge and street",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11105_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abrahams-privacy-plots-v-hedge-and-street-p11105",
+      "id": "333",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "arch i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11106_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abrahams-arch-i-p11106",
+      "id": "334",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "arch ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11107_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abrahams-arch-ii-p11107",
+      "id": "335",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "arch iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11108_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abrahams-arch-iii-p11108",
+      "id": "336",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "arch iv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11109_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abrahams-arch-iv-p11109",
+      "id": "337",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "suburban shrub i (dawn)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11110_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abrahams-suburban-shrub-i-dawn-p11110",
+      "id": "338",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "suburban shrub ii (dusk)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11111_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abrahams-suburban-shrub-ii-dusk-p11111",
+      "id": "339",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sunflowers",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11112_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abrahams-sunflowers-p11112",
+      "id": "340",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hollyhocks",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11113_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abrahams-hollyhocks-p11113",
+      "id": "341",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hydrangeas",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11114_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abrahams-hydrangeas-p11114",
+      "id": "342",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rose trees",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11115_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abrahams-rose-trees-p11115",
+      "id": "343",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "double shrub i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11116_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abrahams-double-shrub-i-p11116",
+      "id": "344",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "double shrub ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11117_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abrahams-double-shrub-ii-p11117",
+      "id": "345",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sundial ii (winter)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abrahams-sundial-ii-winter-p11118",
+      "id": "346",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stone bench",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11119_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abrahams-stone-bench-p11119",
+      "id": "347",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pathways i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11120_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abrahams-pathways-i-p11120",
+      "id": "348",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pathways ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11121_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abrahams-pathways-ii-p11121",
+      "id": "349",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pathways iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11122_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abrahams-pathways-iii-p11122",
+      "id": "350",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pathways iv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11123_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abrahams-pathways-iv-p11123",
+      "id": "351",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pathways v",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11124_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abrahams-pathways-v-p11124",
+      "id": "352",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pathways vi",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11125_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abrahams-pathways-vi-p11125",
+      "id": "353",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "works past i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11126_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abrahams-works-past-i-p11126",
+      "id": "354",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "works past ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11127_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abrahams-works-past-ii-p11127",
+      "id": "355",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "works past iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11128_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abrahams-works-past-iii-p11128",
+      "id": "356",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "works past iv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11129_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abrahams-works-past-iv-p11129",
+      "id": "357",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "works past v",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11130_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/abrahams-works-past-v-p11130",
+      "id": "358",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "319",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "320",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "321",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "322",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "323",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "324",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "325",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "326",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "327",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "328",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "329",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "330",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "331",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "332",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "333",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "334",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "335",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "336",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "337",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "338",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "339",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "340",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "341",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "342",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "343",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "344",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "345",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "346",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "347",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "348",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "349",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "350",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "351",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "352",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "353",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "354",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "355",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "356",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "357",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "358",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Douglas, Stan",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/stan-douglas-3038",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "set for win, place or show: east view, west view, overview",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/douglas-set-for-win-place-or-show-east-view-west-view-overview-p78413",
+      "id": "115",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "strathcona and false creek flats",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78414_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/douglas-strathcona-and-false-creek-flats-p78414",
+      "id": "42",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mclean park and false creek",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78415_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/douglas-mclean-park-and-false-creek-p78415",
+      "id": "227",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "biomorphic sculpture at mclean park",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78416_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/douglas-biomorphic-sculpture-at-mclean-park-p78416",
+      "id": "228",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the west tower of mclean park",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78417_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/douglas-the-west-tower-of-mclean-park-p78417",
+      "id": "229",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "north tower at stamps place",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78418_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/douglas-north-tower-at-stamps-place-p78418",
+      "id": "230",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "russian orthodox church at stamps place",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78419_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/douglas-russian-orthodox-church-at-stamps-place-p78419",
+      "id": "231",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "strathcona alley and stamps",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78420_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/douglas-strathcona-alley-and-stamps-p78420",
+      "id": "232",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "abstract composition",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78421_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/douglas-abstract-composition-p78421",
+      "id": "233",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u201cla inal\u00e1mbrica\u201d building / metropolitan building, habana vieja",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79211_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/douglas-la-inalambrica-building-metropolitan-building-habana-vieja-p79211",
+      "id": "88339",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "quinta rosario / \u201cfructuoso rodr\u00edguez\u201d secondary school, vedado",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79212_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/douglas-quinta-rosario-fructuoso-rodriguez-secondary-school-vedado-p79212",
+      "id": "88340",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "print shop / auto shop, habana vieja",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79213_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/douglas-print-shop-auto-shop-habana-vieja-p79213",
+      "id": "88341",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cine majestic / carpentry shop, habana vieja",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79214_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/douglas-cine-majestic-carpentry-shop-habana-vieja-p79214",
+      "id": "88342",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "soviet embassy / russian embassy, miramar",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79215_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/douglas-soviet-embassy-russian-embassy-miramar-p79215",
+      "id": "88343",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "barbacoa, vedado",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79216_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/douglas-barbacoa-vedado-p79216",
+      "id": "88344",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mess hall, isla de pinos / isla de la juventud",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79217_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/douglas-mess-hall-isla-de-pinos-isla-de-la-juventud-p79217",
+      "id": "88345",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "set for inconsolable memories",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/douglas-set-for-inconsolable-memories-p79218",
+      "id": "88346",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "habana hilton / habana libre, vedado",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/douglas-habana-hilton-habana-libre-vedado-p79219",
+      "id": "88347",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "villa antonia / housing, cienfuegos",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/douglas-villa-antonia-housing-cienfuegos-p79220",
+      "id": "88348",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "win, place or show",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/douglas-win-place-or-show-t07700",
+      "id": "116",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "inconsolable memories",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/douglas-inconsolable-memories-t12217",
+      "id": "88035",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "115",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "42",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "227",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "228",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "229",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "230",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "231",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "232",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "233",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88339",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88340",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88341",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88342",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88343",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88344",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88345",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88346",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88347",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88348",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "116",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88035",
+      "value": 1
+    }
+  ]
+}

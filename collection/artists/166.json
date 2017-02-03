@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Eastlake, Sir Charles Lock",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-charles-lock-eastlake-166",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "christ lamenting over jerusalem",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00397_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/eastlake-christ-lamenting-over-jerusalem-n00397",
+      "id": "4074",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "haid\u00e9e, a greek girl",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00398_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/eastlake-haidee-a-greek-girl-n00398",
+      "id": "4075",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the escape of francesco novello di carrara, with his wife, from the duke of milan",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00399_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/eastlake-the-escape-of-francesco-novello-di-carrara-with-his-wife-from-the-duke-of-milan-n00399",
+      "id": "4076",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lord byron\u2019s \u2018dream\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00898_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/eastlake-lord-byrons-dream-n00898",
+      "id": "4077",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs charles h. bellenden ker",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01395_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/eastlake-mrs-charles-h-bellenden-ker-n01395",
+      "id": "4078",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the colosseum from the esquiline",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00664_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/eastlake-the-colosseum-from-the-esquiline-t00664",
+      "id": "4079",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the colosseum from the campo vaccino",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00665_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/eastlake-the-colosseum-from-the-campo-vaccino-t00665",
+      "id": "4080",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4074",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4075",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4076",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4077",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4078",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4079",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4080",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Lozoff, Abrasha",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/abrasha-lozoff-1534",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "venus and adonis",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lozoff-venus-and-adonis-t00255",
+      "id": "9029",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9029",
+      "value": 1
+    }
+  ]
+}

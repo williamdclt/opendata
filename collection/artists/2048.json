@@ -1,0 +1,141 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Tissot, James",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/james-tissot-2048",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "portrait",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04271_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tissot-portrait-n04271",
+      "id": "14338",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "studies of a kneeling woman",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04292_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tissot-studies-of-a-kneeling-woman-n04292",
+      "id": "14339",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a girl in a mob cap",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04293_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tissot-study-of-a-girl-in-a-mob-cap-n04293",
+      "id": "14340",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study after reynolds\u2019 portrait of mrs williams hope",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04294_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tissot-study-after-reynolds-portrait-of-mrs-williams-hope-n04294",
+      "id": "14341",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ramsgate",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04295_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tissot-ramsgate-n04295",
+      "id": "14342",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "holyday",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04413_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tissot-holyday-n04413",
+      "id": "14343",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the gallery of hms calcutta (portsmouth)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04847_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tissot-the-gallery-of-hms-calcutta-portsmouth-n04847",
+      "id": "14344",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the ball on shipboard",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04892_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tissot-the-ball-on-shipboard-n04892",
+      "id": "14345",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portsmouth dockyard",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05302_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tissot-portsmouth-dockyard-n05302",
+      "id": "14346",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "14338",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14339",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14340",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14341",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14342",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14343",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14344",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14345",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14346",
+      "value": 1
+    }
+  ]
+}

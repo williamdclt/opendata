@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Ataman, Kutlug",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/kutlug-ataman-5229",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "women who wear wigs",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ataman-women-who-wear-wigs-t13256",
+      "id": "110343",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "110343",
+      "value": 1
+    }
+  ]
+}

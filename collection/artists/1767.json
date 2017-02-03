@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Picasso, Pablo",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/pablo-picasso-1767",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "flowers",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04683_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/picasso-flowers-n04683",
+      "id": "11854",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seated woman in a chemise",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04719_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/picasso-seated-woman-in-a-chemise-n04719",
+      "id": "11855",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "girl in a chemise",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04720_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/picasso-girl-in-a-chemise-n04720",
+      "id": "11856",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "horse with a youth in blue",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04721_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/picasso-horse-with-a-youth-in-blue-n04721",
+      "id": "11857",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seated nude",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05904_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/picasso-seated-nude-n05904",
+      "id": "11858",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bust of a woman",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05915_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/picasso-bust-of-a-woman-n05915",
+      "id": "11859",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cock",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06023_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/picasso-cock-n06023",
+      "id": "11860",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nude woman in a red armchair",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06205_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/picasso-nude-woman-in-a-red-armchair-n06205",
+      "id": "11861",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "composition",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01718_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/picasso-composition-p01718",
+      "id": "11862",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "faun revealing a sleeping woman (jupiter and antiope, after rembrandt)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11360_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/picasso-faun-revealing-a-sleeping-woman-jupiter-and-antiope-after-rembrandt-p11360",
+      "id": "20851",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman in an armchair no.1 (the polish cloak)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11361_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/picasso-woman-in-an-armchair-no1-the-polish-cloak-p11361",
+      "id": "20852",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman at the window",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11362_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/picasso-woman-at-the-window-p11362",
+      "id": "20853",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "neo-classical painter in his studio",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11363_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/picasso-neo-classical-painter-in-his-studio-p11363",
+      "id": "20855",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of a young boy",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11364_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/picasso-head-of-a-young-boy-p11364",
+      "id": "20856",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black jug and skull",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11365_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/picasso-black-jug-and-skull-p11365",
+      "id": "20857",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dove",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11366_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/picasso-dove-p11366",
+      "id": "20858",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dance of the banderillas",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11367_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/picasso-dance-of-the-banderillas-p11367",
+      "id": "20859",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of a woman after cranach the younger",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11368_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/picasso-portrait-of-a-woman-after-cranach-the-younger-p11368",
+      "id": "20860",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "etching 20 august 1968 i (l.289)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77510_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/picasso-etching-20-august-1968-i-l289-p77510",
+      "id": "20270",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "etching 24 march 1968 ii (l.6)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77579_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/picasso-etching-24-march-1968-ii-l6-p77579",
+      "id": "20617",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "etching: 3 february 1970 iv (5, 6 march 1970) (l.10)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77583_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/picasso-etching-3-february-1970-iv-5-6-march-1970-l10-p77583",
+      "id": "20622",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "etching: 11, 28 february 1970 3, 16, 30 march 1970 (l.13)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77584_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/picasso-etching-11-28-february-1970-3-16-30-march-1970-l13-p77584",
+      "id": "20623",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "etching: 19 february 1970 (l.16)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/picasso-etching-19-february-1970-l16-p77585",
+      "id": "20624",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "etching: (12 march 1970 ii) 31 march 1970, 2 april 1970 (l.21)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77586_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/picasso-etching-12-march-1970-ii-31-march-1970-2-april-1970-l21-p77586",
+      "id": "20625",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "etching: 10 april 1971 (l.112)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77587_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/picasso-etching-10-april-1971-l112-p77587",
+      "id": "20626",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "etching: 19, 21, 23, 24, 26, 30, 31 may 1971, 2 june 1971 (l.130)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77588_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/picasso-etching-19-21-23-24-26-30-31-may-1971-2-june-1971-l130-p77588",
+      "id": "20627",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "etching: 22, 26 may 1971, 2 june 1971 (l.133)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77589_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/picasso-etching-22-26-may-1971-2-june-1971-l133-p77589",
+      "id": "20628",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "etching: 1, 5 march 1972 (l.155)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77590_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/picasso-etching-1-5-march-1972-l155-p77590",
+      "id": "20629",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "goat\u2019s skull, bottle and candle",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00145_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/picasso-goats-skull-bottle-and-candle-t00145",
+      "id": "11863",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dora maar seated",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00341_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/picasso-dora-maar-seated-t00341",
+      "id": "11864",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bottle of vieux marc, glass, guitar and newspaper",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00414_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/picasso-bottle-of-vieux-marc-glass-guitar-and-newspaper-t00414",
+      "id": "11865",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the three dancers",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00729_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/picasso-the-three-dancers-t00729",
+      "id": "11866",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01136_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/picasso-still-life-t01136",
+      "id": "11867",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "circus artist and child",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03571_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/picasso-circus-artist-and-child-t03571",
+      "id": "11868",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dish of pears",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03572_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/picasso-dish-of-pears-t03572",
+      "id": "11869",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nude woman with necklace",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03670_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/picasso-nude-woman-with-necklace-t03670",
+      "id": "11870",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "weeping woman",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05010_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/picasso-weeping-woman-t05010",
+      "id": "11871",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the studio",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06802_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/picasso-the-studio-t06802",
+      "id": "20842",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bullfight scene",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06803_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/picasso-bullfight-scene-t06803",
+      "id": "20854",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of a woman",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06928_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/picasso-head-of-a-woman-t06928",
+      "id": "21215",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "11854",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11855",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11856",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11857",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11858",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11859",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11860",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11861",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11862",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20851",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20852",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20853",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20855",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20856",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20857",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20858",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20859",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20860",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20270",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20617",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20622",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20623",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20624",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20625",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20626",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20627",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20628",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20629",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11863",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11864",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11865",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11866",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11867",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11868",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11869",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11870",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11871",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20842",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20854",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21215",
+      "value": 1
+    }
+  ]
+}

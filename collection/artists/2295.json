@@ -1,0 +1,183 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Davey, Grenville",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/grenville-davey-2295",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[no title] from \u2018pair a\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davey-no-title-from-pair-a-p77639",
+      "id": "20969",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title] from \u2018pair a\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77640_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davey-no-title-from-pair-a-p77640",
+      "id": "20970",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title] from \u2018pair b\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77641_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davey-no-title-from-pair-b-p77641",
+      "id": "20971",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title] from \u2018pair b\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77642_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davey-no-title-from-pair-b-p77642",
+      "id": "20972",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title] from \u2018pair c\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77643_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davey-no-title-from-pair-c-p77643",
+      "id": "20973",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title] from \u2018pair c\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77644_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davey-no-title-from-pair-c-p77644",
+      "id": "20974",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rail",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davey-rail-t06533",
+      "id": "20348",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dry table",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davey-dry-table-t06598",
+      "id": "20380",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ce & ce",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07181_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davey-ce-ce-t07181",
+      "id": "21803",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drum",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07182_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davey-drum-t07182",
+      "id": "21804",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "by air",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07183_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davey-by-air-t07183",
+      "id": "21805",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two rules pair 1991",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07504_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davey-two-rules-pair-1991-t07504",
+      "id": "26549",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "20969",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20970",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20971",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20972",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20973",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20974",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20348",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20380",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21803",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21804",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21805",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26549",
+      "value": 1
+    }
+  ]
+}

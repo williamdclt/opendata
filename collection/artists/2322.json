@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Simmons, Rosemary",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/rosemary-simmons-rosura-jones-2322",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "helix",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/simmons-helix-p06568",
+      "id": "7742",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "euston",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/simmons-euston-p06733",
+      "id": "7743",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "phoebus",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/simmons-phoebus-p06734",
+      "id": "7744",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "7742",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7743",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7744",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Innes, James Dickson",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/james-dickson-innes-1336",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "south of france, bozouls, near rodez",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03468_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/innes-south-of-france-bozouls-near-rodez-n03468",
+      "id": "7027",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "waterfall",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03469_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/innes-waterfall-n03469",
+      "id": "7028",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "arenig",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03578_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/innes-arenig-n03578",
+      "id": "7029",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vernet",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03579_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/innes-vernet-n03579",
+      "id": "7030",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bozouls, near rodez",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03660_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/innes-bozouls-near-rodez-n03660",
+      "id": "7031",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "twilight in aveyron",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03676_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/innes-twilight-in-aveyron-n03676",
+      "id": "7032",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the waterfall",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03804_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/innes-the-waterfall-n03804",
+      "id": "7033",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "arenig, north wales",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04385_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/innes-arenig-north-wales-n04385",
+      "id": "7034",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the alhambra",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05308_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/innes-lees-the-alhambra-n05308",
+      "id": "7035",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "arenig, sunny evening",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05367_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/innes-arenig-sunny-evening-n05367",
+      "id": "7036",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "7027",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7028",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7029",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7030",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7031",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7032",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7033",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7034",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7035",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7036",
+      "value": 1
+    }
+  ]
+}

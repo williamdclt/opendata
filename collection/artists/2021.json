@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Tamayo, Rufino",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/rufino-tamayo-2021",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "dream figure",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tamayo-dream-figure-p01800",
+      "id": "14115",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tamayo-title-not-known-p11030",
+      "id": "14116",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "man and woman",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tamayo-man-and-woman-t03370",
+      "id": "14117",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "14115",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14116",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14117",
+      "value": 1
+    }
+  ]
+}

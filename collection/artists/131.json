@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Dall, Nicholas Thomas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/nicholas-thomas-dall-131",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "river scene with ruins",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01779_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dall-river-scene-with-ruins-n01779",
+      "id": "2989",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of hackfall, yorkshire, (cocklington church)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08891_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dall-view-of-hackfall-yorkshire-cocklington-church-t08891",
+      "id": "22673",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2989",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22673",
+      "value": 1
+    }
+  ]
+}

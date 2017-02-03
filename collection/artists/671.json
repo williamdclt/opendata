@@ -1,0 +1,155 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Atkinson, Conrad",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/conrad-atkinson-671",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "thanx jackson",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02949_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/atkinson-thanx-jackson-p02949",
+      "id": "1285",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "thanx andy",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02950_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/atkinson-thanx-andy-p02950",
+      "id": "10077",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "thanx picasso",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02951_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/atkinson-thanx-picasso-p02951",
+      "id": "8181",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "strike",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07322_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/atkinson-strike-p07322",
+      "id": "612",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "for chile",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07323_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/atkinson-for-chile-p07323",
+      "id": "613",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "northern ireland",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07324_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/atkinson-northern-ireland-p07324",
+      "id": "614",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "thanx joseph",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77261_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/atkinson-thanx-joseph-p77261",
+      "id": "12145",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "for wordsworth; for west cumbria",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03229_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/atkinson-for-wordsworth-for-west-cumbria-t03229",
+      "id": "615",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "asbestos",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12547_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/atkinson-asbestos-t12547",
+      "id": "93519",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "northern ireland 1968 - may day 1975",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13258_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/atkinson-northern-ireland-1968-may-day-1975-t13258",
+      "id": "114073",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1285",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10077",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8181",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "612",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "613",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "614",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12145",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "615",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93519",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114073",
+      "value": 1
+    }
+  ]
+}

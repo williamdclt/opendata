@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Carlo, Michael",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/michael-carlo-864",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "evening",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01862_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/carlo-evening-p01862",
+      "id": "1991",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1991",
+      "value": 1
+    }
+  ]
+}

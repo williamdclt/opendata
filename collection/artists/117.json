@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Cox, David",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/david-cox-117",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "windmill. verso: foliage (?)",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00168_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-windmill-verso-foliage-a00168",
+      "id": "2838",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "horse and barge. verso: tracing of horse from recto",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00169_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-horse-and-barge-verso-tracing-of-horse-from-recto-a00169",
+      "id": "2858",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "horse\u2019s head",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00170_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-horses-head-a00170",
+      "id": "2839",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head and shoulders of a horse",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00171_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-head-and-shoulders-of-a-horse-a00171",
+      "id": "2840",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two naval pensioners with shipping behind",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00172_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-two-naval-pensioners-with-shipping-behind-a00172",
+      "id": "2841",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seated naval pensioner. verso: indecipherable sketch",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00173_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-seated-naval-pensioner-verso-indecipherable-sketch-a00173",
+      "id": "2842",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two naval pensioners. verso: traces of pencil drawing",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00174_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-two-naval-pensioners-verso-traces-of-pencil-drawing-a00174",
+      "id": "2843",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "naval pensioner",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00175_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-naval-pensioner-a00175",
+      "id": "2844",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bridge and castle",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00176_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-bridge-and-castle-a00176",
+      "id": "2845",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "caernarvon castle",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00177_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-caernarvon-castle-a00177",
+      "id": "2846",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00178_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-landscape-a00178",
+      "id": "2847",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape with flock of sheep",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00179_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-landscape-with-flock-of-sheep-a00179",
+      "id": "2848",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "open landscape",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00180_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-open-landscape-a00180",
+      "id": "2849",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a bridge",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00181_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-a-bridge-a00181",
+      "id": "2850",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape with windmill and man ploughing",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00182_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-landscape-with-windmill-and-man-ploughing-a00182",
+      "id": "2851",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape with windmill",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00183_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-landscape-with-windmill-a00183",
+      "id": "2852",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00184_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-landscape-a00184",
+      "id": "2853",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018crossing lancaster sands\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00185_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-sketch-for-crossing-lancaster-sands-a00185",
+      "id": "2854",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "costume study: peasant woman",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00186_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-costume-study-peasant-woman-a00186",
+      "id": "2855",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "costume study: woman with umbrella. verso: erased figure study",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00187_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-costume-study-woman-with-umbrella-verso-erased-figure-study-a00187",
+      "id": "2856",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "studies of farm hands and a coat on a fence. verso: tracing of farm boy from recto",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00188_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-studies-of-farm-hands-and-a-coat-on-a-fence-verso-tracing-of-farm-boy-from-recto-a00188",
+      "id": "2857",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "four figure studies. verso: landscape with water",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00189_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-four-figure-studies-verso-landscape-with-water-a00189",
+      "id": "16588",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "harlech castle, wales (?)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01734_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-harlech-castle-wales-n01734",
+      "id": "2859",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a harbour",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01735_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-a-harbour-n01735",
+      "id": "2860",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "beckenham church, kent",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01736_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-beckenham-church-kent-n01736",
+      "id": "2861",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "moorland road",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02665_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-moorland-road-n02665",
+      "id": "2862",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a windy day",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02666_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-a-windy-day-n02666",
+      "id": "2863",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the road across the common",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02667_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-the-road-across-the-common-n02667",
+      "id": "2864",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "river scene with boys fishing",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02668_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-river-scene-with-boys-fishing-n02668",
+      "id": "2865",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "crypt of kirkstall abbey (after j.m.w. turner). verso: classical landscape (after poussin)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04258_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-crypt-of-kirkstall-abbey-after-jmw-turner-verso-classical-landscape-after-poussin-n04258",
+      "id": "21008",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "calais: street scene with lighthouse",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04301_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-calais-street-scene-with-lighthouse-n04301",
+      "id": "2866",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "near the pont d\u2019arcole, paris",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04302_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-near-the-pont-darcole-paris-n04302",
+      "id": "2867",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "calais: h\u00f4tel de guise",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04303_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-calais-hotel-de-guise-n04303",
+      "id": "2868",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "westminster from battersea",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04304_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-westminster-from-battersea-n04304",
+      "id": "2869",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "caernarvon castle with boats",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04305_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-caernarvon-castle-with-boats-n04305",
+      "id": "2870",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "buildings on the banks of the thames",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04306_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-buildings-on-the-banks-of-the-thames-n04306",
+      "id": "2871",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04307_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-still-life-n04307",
+      "id": "2872",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "windmill",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04308_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-windmill-n04308",
+      "id": "2873",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "houses at dulwich",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04310_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-houses-at-dulwich-n04310",
+      "id": "2874",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape with salmon traps",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04311_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cox-landscape-with-salmon-traps-n04311",
+      "id": "2875",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2838",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2858",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2839",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2840",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2841",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2842",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2843",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2844",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2845",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2846",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2847",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2848",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2849",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2850",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2851",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2852",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2853",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2854",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2855",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2856",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2857",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16588",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2859",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2860",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2861",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2862",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2863",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2864",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2865",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21008",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2866",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2867",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2868",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2869",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2870",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2871",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2872",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2873",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2874",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2875",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Araeen, Rasheed",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/rasheed-araeen-2364",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "bismullah",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06986_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/araeen-bismullah-t06986",
+      "id": "21316",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "3y + 3b",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12408_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/araeen-3y-3b-t12408",
+      "id": "91877",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rang baranga",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12409_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/araeen-rang-baranga-t12409",
+      "id": "91880",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "zero to infinity",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12756_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/araeen-zero-to-infinity-t12756",
+      "id": "91991",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for sculpture",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/araeen-drawing-for-sculpture-t13381",
+      "id": "114848",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for sculpture",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/araeen-drawing-for-sculpture-t13382",
+      "id": "114850",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for sculpture",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/araeen-drawing-for-sculpture-t13383",
+      "id": "114851",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for sculpture",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/araeen-drawing-for-sculpture-t13384",
+      "id": "114852",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for sculpture",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/araeen-drawing-for-sculpture-t13385",
+      "id": "114853",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for sculpture",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/araeen-drawing-for-sculpture-t13386",
+      "id": "114854",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for sculpture",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/araeen-drawing-for-sculpture-t13387",
+      "id": "114855",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for sculpture",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/araeen-drawing-for-sculpture-t13388",
+      "id": "114858",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lovers",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/araeen-lovers-t13389",
+      "id": "114859",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "21316",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "91877",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "91880",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "91991",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114848",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114850",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114851",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114852",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114853",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114854",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114855",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114858",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114859",
+      "value": 1
+    }
+  ]
+}

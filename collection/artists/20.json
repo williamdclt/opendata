@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Barlow, Francis",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/francis-barlow-20",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a roller, two peregrine falcons and a long-eared owl with her young",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01402_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barlow-a-roller-two-peregrine-falcons-and-a-long-eared-owl-with-her-young-t01402",
+      "id": "729",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "monkeys and dogs playing",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05572_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barlow-monkeys-and-dogs-playing-t05572",
+      "id": "17383",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pheasants",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08083_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barlow-pheasants-t08083",
+      "id": "22271",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hawks and owls",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08084_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barlow-hawks-and-owls-t08084",
+      "id": "22272",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stags",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08085_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barlow-stags-t08085",
+      "id": "22273",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "swans",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08086_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barlow-swans-t08086",
+      "id": "22274",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "herons",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08087_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barlow-herons-t08087",
+      "id": "22275",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ducks",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08088_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barlow-ducks-t08088",
+      "id": "22276",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "small birds, including pheasants, a jay and a swallow",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08089_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barlow-small-birds-including-pheasants-a-jay-and-a-swallow-t08089",
+      "id": "22277",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "grebe and gannets",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08090_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barlow-grebe-and-gannets-t08090",
+      "id": "22278",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "turkeys",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08091_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barlow-turkeys-t08091",
+      "id": "22279",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "peacocks",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08092_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barlow-peacocks-t08092",
+      "id": "22280",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woodcocks",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08093_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barlow-woodcocks-t08093",
+      "id": "22281",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "partridges",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08094_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barlow-partridges-t08094",
+      "id": "22282",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cock, hen and sparrows",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08580_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barlow-cock-hen-and-sparrows-t08580",
+      "id": "22269",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "title page",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11221_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barlow-title-page-t11221",
+      "id": "25542",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hen; cock; hawke; jay; muscovia duck; raven; cuckoo; hoopoe",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11222_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barlow-hen-cock-hawke-jay-muscovia-duck-raven-cuckoo-hoopoe-t11222",
+      "id": "25543",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the bass island: soland goose; heron; sea gull; wild duk; curlew",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11223_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barlow-the-bass-island-soland-goose-heron-sea-gull-wild-duk-curlew-t11223",
+      "id": "25544",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "japan peacock; crane; toucan; parrat; teale; gambo goose; mallard; pellican of india; b: of paradice",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11224_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barlow-japan-peacock-crane-toucan-parrat-teale-gambo-goose-mallard-pellican-of-india-b-of-t11224",
+      "id": "25545",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "partridge; feasant; bustard; jay; woodpecker; magpye; snipe; reedsparow; kings fisher; lapwing; woodcock",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11225_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barlow-partridge-feasant-bustard-jay-woodpecker-magpye-snipe-reedsparow-kings-fisher-t11225",
+      "id": "25546",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11226_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barlow-title-not-known-t11226",
+      "id": "25547",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11227_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barlow-title-not-known-t11227",
+      "id": "25548",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11228_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barlow-title-not-known-t11228",
+      "id": "25549",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "title page: diversae avium species studiosissime ad vitam delineatae",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11229_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barlow-title-page-diversae-avium-species-studiosissime-ad-vitam-delineatae-t11229",
+      "id": "25550",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cock; hen; chicken; dove",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11230_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barlow-cock-hen-chicken-dove-t11230",
+      "id": "25551",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bustard; peacock; peahen; stock dove; squirrell",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11231_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barlow-bustard-peacock-peahen-stock-dove-squirrell-t11231",
+      "id": "25552",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "teale; duck; feasant; hawke; cormorant; bittour; owle",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11232_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barlow-teale-duck-feasant-hawke-cormorant-bittour-owle-t11232",
+      "id": "25553",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "magpye; sparrow; turkye cock; dove; cock; hen",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11233_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barlow-magpye-sparrow-turkye-cock-dove-cock-hen-t11233",
+      "id": "25554",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ape; cassowary; feasant; ostrich; swallow; peacock; peahen",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11234_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barlow-ape-cassowary-feasant-ostrich-swallow-peacock-peahen-t11234",
+      "id": "25556",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "falcon; heron; monkey; vultur; sea gull; eagle",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11235_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barlow-falcon-heron-monkey-vultur-sea-gull-eagle-t11235",
+      "id": "25555",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wilde goose; goose; gosling; magpye",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11236_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barlow-wilde-goose-goose-gosling-magpye-t11236",
+      "id": "25557",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "title page: animals of various species accurately drawn",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11237_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barlow-title-page-animals-of-various-species-accurately-drawn-t11237",
+      "id": "25558",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11238_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barlow-title-not-known-t11238",
+      "id": "25559",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11239_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barlow-title-not-known-t11239",
+      "id": "25560",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11240_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barlow-title-not-known-t11240",
+      "id": "25561",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11241_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barlow-title-not-known-t11241",
+      "id": "25562",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11242_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barlow-title-not-known-t11242",
+      "id": "25563",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11243_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barlow-title-not-known-t11243",
+      "id": "25564",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11244_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barlow-title-not-known-t11244",
+      "id": "25565",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11245_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barlow-title-not-known-t11245",
+      "id": "25566",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "729",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17383",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22271",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22272",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22273",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22274",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22275",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22276",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22277",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22278",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22279",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22280",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22281",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22282",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22269",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25542",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25543",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25544",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25545",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25546",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25547",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25548",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25549",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25550",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25551",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25552",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25553",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25554",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25556",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25555",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25557",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25558",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25559",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25560",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25561",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25562",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25563",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25564",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25565",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25566",
+      "value": 1
+    }
+  ]
+}

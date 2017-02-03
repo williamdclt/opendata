@@ -1,0 +1,169 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Beattie, Basil",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/basil-beattie-717",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "circus",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77110_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beattie-circus-p77110",
+      "id": "829",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "present bound",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06851_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beattie-present-bound-t06851",
+      "id": "20938",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "door",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06852_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beattie-door-t06852",
+      "id": "20939",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "breathing deep",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beattie-breathing-deep-t07963",
+      "id": "74753",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled drawing",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07964_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beattie-untitled-drawing-t07964",
+      "id": "76409",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled drawing",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07965_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beattie-untitled-drawing-t07965",
+      "id": "76411",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled drawing",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07966_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beattie-untitled-drawing-t07966",
+      "id": "76412",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled drawing",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07967_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beattie-untitled-drawing-t07967",
+      "id": "76413",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled drawing",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07968_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beattie-untitled-drawing-t07968",
+      "id": "76414",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled drawing",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07969_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beattie-untitled-drawing-t07969",
+      "id": "76415",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the difference between ii",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12292_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beattie-the-difference-between-ii-t12292",
+      "id": "86922",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "829",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20938",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20939",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "74753",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "76409",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "76411",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "76412",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "76413",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "76414",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "76415",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "86922",
+      "value": 1
+    }
+  ]
+}

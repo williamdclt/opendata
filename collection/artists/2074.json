@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Tunnard, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-tunnard-2074",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "construction",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tunnard-construction-n05373",
+      "id": "14532",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reclamation",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05624_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tunnard-reclamation-n05624",
+      "id": "14533",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "holiday",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01726_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tunnard-holiday-p01726",
+      "id": "14534",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "composition",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00832_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tunnard-composition-t00832",
+      "id": "14535",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "transition",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01216_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tunnard-transition-t01216",
+      "id": "14536",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fulcrum",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02327_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tunnard-fulcrum-t02327",
+      "id": "14537",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tol pedn",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03227_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tunnard-tol-pedn-t03227",
+      "id": "14538",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "14532",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14533",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14534",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14535",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14536",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14537",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14538",
+      "value": 1
+    }
+  ]
+}

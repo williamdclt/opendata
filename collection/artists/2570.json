@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Long, Amelia",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/amelia-long-lady-farnborough-2570",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "luzarches. a market scene in a french town",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09068_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-luzarches-a-market-scene-in-a-french-town-t09068",
+      "id": "23180",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dover castle",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09069_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-dover-castle-t09069",
+      "id": "23179",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the ramparts at montreuil. verso: [title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11376_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-the-ramparts-at-montreuil-verso-title-not-known-t11376",
+      "id": "25870",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "near ashridge",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11626_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-near-ashridge-t11626",
+      "id": "25310",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "trees in a wood, norbury park",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11627_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-trees-in-a-wood-norbury-park-t11627",
+      "id": "25311",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chelsea",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11628_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/long-chelsea-t11628",
+      "id": "25312",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "23180",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23179",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25870",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25310",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25311",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25312",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Wilson, Richard",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/richard-wilson-606",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "landscape composition with an extensive view towards the sea, and figures in the foreground",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36668_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-landscape-composition-with-an-extensive-view-towards-the-sea-and-figures-in-the-d36668",
+      "id": "63751",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "distant view of maecenas\u2019 villa, tivoli",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00108_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-distant-view-of-maecenas-villa-tivoli-n00108",
+      "id": "16223",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lake avernus",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00267_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-lake-avernus-n00267",
+      "id": "16224",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "strada nomentana",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00301_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-strada-nomentana-n00301",
+      "id": "16225",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hadrian\u2019s villa",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00302_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-hadrians-villa-n00302",
+      "id": "16226",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "maecenas\u2019 villa, tivoli",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00303_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-maecenas-villa-tivoli-n00303",
+      "id": "16227",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lake avernus and the island of capri",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00304_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-lake-avernus-and-the-island-of-capri-n00304",
+      "id": "16228",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "on the wye",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01064_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-on-the-wye-n01064",
+      "id": "16251",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ariccia",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01097_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-ariccia-n01097",
+      "id": "16229",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape with bathers, cattle and ruin",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01290_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-landscape-with-bathers-cattle-and-ruin-n01290",
+      "id": "16230",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "george iii and the duke of york",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01880_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-george-iii-and-the-duke-of-york-n01880",
+      "id": "16231",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a view of the thames",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01889_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-a-view-of-the-thames-n01889",
+      "id": "16232",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "valley with a bridge over a river",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01890_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-valley-with-a-bridge-over-a-river-n01890",
+      "id": "16252",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "niagara falls",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01891_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-niagara-falls-n01891",
+      "id": "16253",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the castle of st angelo, rome",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02438_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-the-castle-of-st-angelo-rome-n02438",
+      "id": "16233",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "baths of ischia, near naples",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02646_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-baths-of-ischia-near-naples-n02646",
+      "id": "16234",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "river view, on the arno (?)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02647_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-river-view-on-the-arno-n02647",
+      "id": "16254",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the inner temple after the fire of 4 january 1737",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02984_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-the-inner-temple-after-the-fire-of-4-january-1737-n02984",
+      "id": "16235",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view near the loggerheads, denbigh",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02989_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-view-near-the-loggerheads-denbigh-n02989",
+      "id": "16236",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the cock tavern, cheam, surrey",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03136_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-the-cock-tavern-cheam-surrey-n03136",
+      "id": "16237",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "francesco zuccarelli",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03727_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-francesco-zuccarelli-n03727",
+      "id": "16238",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "on hounslow heath",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04458_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-on-hounslow-heath-n04458",
+      "id": "16239",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "strada nomentana",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04511_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-strada-nomentana-n04511",
+      "id": "16255",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape with castle",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04745_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-landscape-with-castle-n04745",
+      "id": "16256",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the thames near marble hill, twickenham",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04874_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-the-thames-near-marble-hill-twickenham-n04874",
+      "id": "16240",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tivoli",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05538_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-tivoli-n05538",
+      "id": "16257",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "apollo and the seasons",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05551_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-apollo-and-the-seasons-n05551",
+      "id": "16241",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of carlton house, with a royal party in the grounds",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05560_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-view-of-carlton-house-with-a-royal-party-in-the-grounds-n05560",
+      "id": "16250",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lake nemi with figures bathing",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05565_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-lake-nemi-with-figures-bathing-n05565",
+      "id": "16258",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "llyn-y-cau, cader idris",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05596_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-llyn-y-cau-cader-idris-n05596",
+      "id": "16242",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hounslow heath",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05842_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-hounslow-heath-n05842",
+      "id": "16243",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lake, ruin and pine trees",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06267_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-lake-ruin-and-pine-trees-n06267",
+      "id": "16244",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tivoli; temple of the sibyl and the campagna",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01706_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-tivoli-temple-of-the-sibyl-and-the-campagna-t01706",
+      "id": "16245",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rome: st peter\u2019s and the vatican from the janiculum",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01873_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-rome-st-peters-and-the-vatican-from-the-janiculum-t01873",
+      "id": "16246",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ponte nomentana",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03026_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-ponte-nomentana-t03026",
+      "id": "16247",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "meleager and atalanta",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03366_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-meleager-and-atalanta-t03366",
+      "id": "16248",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "westminster bridge under construction",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03665_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-westminster-bridge-under-construction-t03665",
+      "id": "16249",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ariccia",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08164_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-ariccia-t08164",
+      "id": "24012",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ponte alpino built by hannibal",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08235_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-ponte-alpino-built-by-hannibal-t08235",
+      "id": "24013",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a grotto",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09252_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wilson-a-grotto-t09252",
+      "id": "24008",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "63751",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16223",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16224",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16225",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16226",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16227",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16228",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16251",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16229",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16230",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16231",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16232",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16252",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16253",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16233",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16234",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16254",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16235",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16236",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16237",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16238",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16239",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16255",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16256",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16240",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16257",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16241",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16250",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16258",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16242",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16243",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16244",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16245",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16246",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16247",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16248",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16249",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24012",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24013",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24008",
+      "value": 1
+    }
+  ]
+}

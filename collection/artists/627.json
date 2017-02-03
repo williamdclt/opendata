@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Adams, Norman",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/norman-adams-627",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the whole (the dream i)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00923_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/adams-the-whole-the-dream-i-t00923",
+      "id": "434",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rainbow painting (i)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01127_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/adams-rainbow-painting-i-t01127",
+      "id": "435",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "christ\u2019s cross and adam\u2019s tree",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05820_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/adams-christs-cross-and-adams-tree-t05820",
+      "id": "19277",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "434",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "435",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19277",
+      "value": 1
+    }
+  ]
+}

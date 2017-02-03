@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gaudier-Brzeska, Henri",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/henri-gaudier-brzeska-1143",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a wolf",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03339_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-a-wolf-n03339",
+      "id": "4981",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a dog",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03341_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-a-dog-n03341",
+      "id": "4982",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "singer",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04514_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-singer-n04514",
+      "id": "4983",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "red stone dancer",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04515_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-red-stone-dancer-n04515",
+      "id": "4984",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the imp",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04516_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-the-imp-n04516",
+      "id": "4985",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "man on a horse",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-man-on-a-horse-n04517",
+      "id": "4986",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of a child",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04518_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-head-of-a-child-n04518",
+      "id": "4987",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of a girl",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04519_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-head-of-a-girl-n04519",
+      "id": "4988",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tiger",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04520_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-tiger-n04520",
+      "id": "4989",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lion",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04521_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-lion-n04521",
+      "id": "4990",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "leopard i",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04522_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-leopard-i-n04522",
+      "id": "4991",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "leopard ii",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04523_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-leopard-ii-n04523",
+      "id": "4992",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jaguar",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04524_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-jaguar-n04524",
+      "id": "4993",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "puma i",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04525_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-puma-i-n04525",
+      "id": "4994",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "puma ii",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04526_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-puma-ii-n04526",
+      "id": "4995",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "eland",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04527_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-eland-n04527",
+      "id": "4996",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "verso: traces of sketch of bison",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04528_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-verso-traces-of-sketch-of-bison-n04528",
+      "id": "4997",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "studies of birds",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04529_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-studies-of-birds-n04529",
+      "id": "4998",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vulture i",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04530_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-vulture-i-n04530",
+      "id": "4999",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vulture ii",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04531_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-vulture-ii-n04531",
+      "id": "5000",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vulture iii",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04532_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-vulture-iii-n04532",
+      "id": "5001",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vulture iv",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-vulture-iv-n04533",
+      "id": "5002",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "torso of a woman",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04534_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-torso-of-a-woman-n04534",
+      "id": "5003",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "horace brodzky",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00129_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-horace-brodzky-t00129",
+      "id": "5004",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sophie brzeska",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00147_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-sophie-brzeska-t00147",
+      "id": "5005",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "garden ornament",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00365_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-garden-ornament-t00365",
+      "id": "5006",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "garden ornament, cast of t00365",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-garden-ornament-cast-of-t00365-t00403",
+      "id": "5007",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sepulchral figure",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00542_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-sepulchral-figure-t00542",
+      "id": "5008",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bird swallowing a fish",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00658_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-bird-swallowing-a-fish-t00658",
+      "id": "5009",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the dancer",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00762_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-the-dancer-t00762",
+      "id": "5010",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seated woman",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00836_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-seated-woman-t00836",
+      "id": "5011",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wrestlers",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00837_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-wrestlers-t00837",
+      "id": "5012",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "maternity",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00838_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-maternity-t00838",
+      "id": "5013",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "garden ornament",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00839_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-garden-ornament-t00839",
+      "id": "5014",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00840_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-head-t00840",
+      "id": "5015",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "doorknocker",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-doorknocker-t00841",
+      "id": "5016",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "duck",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-duck-t00842",
+      "id": "5017",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "monkeys",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00843_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-monkeys-t00843",
+      "id": "5018",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "relief head",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-relief-head-t00844",
+      "id": "5019",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dog",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-dog-t00845",
+      "id": "5020",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4981",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4982",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4983",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4984",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4985",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4986",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4987",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4988",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4989",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4990",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4991",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4992",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4993",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4994",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4995",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4996",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4997",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4998",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4999",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5000",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5001",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5002",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5003",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5004",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5005",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5006",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5007",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5008",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5009",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5010",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5011",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5012",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5013",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5014",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5015",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5016",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5017",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5018",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5019",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5020",
+      "value": 1
+    }
+  ]
+}

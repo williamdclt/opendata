@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Oldenburg, Claes",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/claes-oldenburg-1713",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "system of iconography - plug, mouse, good humor, lipstick, switches",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07096_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/oldenburg-system-of-iconography-plug-mouse-good-humor-lipstick-switches-p07096",
+      "id": "10913",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "screwarch bridge state ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77106_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/oldenburg-screwarch-bridge-state-ii-p77106",
+      "id": "10914",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pizza pie",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77324_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/oldenburg-pizza-pie-p77324",
+      "id": "17374",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "counter and plates with potato and ham",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01239_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/oldenburg-counter-and-plates-with-potato-and-ham-t01239",
+      "id": "10915",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "soft drainpipe - blue (cool) version",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01257_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/oldenburg-soft-drainpipe-blue-cool-version-t01257",
+      "id": "10916",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "giant 3-way plug scale 2/3",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01266_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/oldenburg-giant-3-way-plug-scale-23-t01266",
+      "id": "10917",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lipsticks in piccadilly circus, london",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01694_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/oldenburg-lipsticks-in-piccadilly-circus-london-t01694",
+      "id": "10918",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "10913",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10914",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17374",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10915",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10916",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10917",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10918",
+      "value": 1
+    }
+  ]
+}

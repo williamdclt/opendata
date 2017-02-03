@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Good, Thomas Sword",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/thomas-sword-good-213",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a man reading",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00378_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/good-a-man-reading-n00378",
+      "id": "5498",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "no news",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00917_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/good-no-news-n00917",
+      "id": "5499",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fisherman with a gun",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00918_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/good-fisherman-with-a-gun-n00918",
+      "id": "5500",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a boy",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00919_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/good-study-of-a-boy-n00919",
+      "id": "5501",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5498",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5499",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5500",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5501",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Opie, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-opie-406",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "william siddons",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00784_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/opie-william-siddons-n00784",
+      "id": "10940",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of a lady in the character of cressida",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01026_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/opie-portrait-of-a-lady-in-the-character-of-cressida-n01026",
+      "id": "10941",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mary wollstonecraft (mrs william godwin)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01167_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/opie-mary-wollstonecraft-mrs-william-godwin-n01167",
+      "id": "10942",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "master william opie",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01408_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/opie-master-william-opie-n01408",
+      "id": "10943",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of the artist",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01826_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/opie-portrait-of-the-artist-n01826",
+      "id": "10944",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs s.w. reynolds",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02877_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/opie-mrs-sw-reynolds-n02877",
+      "id": "10945",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the artist\u2019s mother",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03518_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/opie-the-artists-mother-n03518",
+      "id": "10946",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "edmund lenthal swifte",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04066_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/opie-edmund-lenthal-swifte-n04066",
+      "id": "10947",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the peasant\u2019s family",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05834_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/opie-the-peasants-family-n05834",
+      "id": "10948",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "10940",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10941",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10942",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10943",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10944",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10945",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10946",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10947",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10948",
+      "value": 1
+    }
+  ]
+}

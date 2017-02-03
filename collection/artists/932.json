@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Colquhoun, Robert",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/robert-colquhoun-932",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "woman with leaping cat",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06211_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/colquhoun-woman-with-leaping-cat-n06211",
+      "id": "2532",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mysterious figures",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/colquhoun-mysterious-figures-p06089",
+      "id": "2533",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two horsemen",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/colquhoun-two-horsemen-p06090",
+      "id": "2534",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/colquhoun-woman-p06091",
+      "id": "2535",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of absalom",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/colquhoun-head-of-absalom-p06342",
+      "id": "2536",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman with still life",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00184_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/colquhoun-woman-with-still-life-t00184",
+      "id": "2537",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two sisters",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00185_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/colquhoun-two-sisters-t00185",
+      "id": "2538",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the fortune teller",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02076_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/colquhoun-the-fortune-teller-t02076",
+      "id": "2539",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2532",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2533",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2534",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2535",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2536",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2537",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2538",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2539",
+      "value": 1
+    }
+  ]
+}

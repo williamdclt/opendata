@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Dick, Sir William Reid",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-william-reid-dick-1003",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "androdus",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dick-androdus-n03449",
+      "id": "3869",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dawn",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05378_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dick-dawn-n05378",
+      "id": "3870",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st george and the dragon (for e.v. lucas)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03329_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dick-st-george-and-the-dragon-for-ev-lucas-t03329",
+      "id": "3871",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "winged figure",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03330_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dick-winged-figure-t03330",
+      "id": "3872",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for leverhulme memorial (port sunlight)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dick-sketch-for-leverhulme-memorial-port-sunlight-t03331",
+      "id": "3873",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for virgin and child",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03332_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dick-sketch-for-virgin-and-child-t03332",
+      "id": "3874",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for memorial group",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03333_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dick-sketch-for-memorial-group-t03333",
+      "id": "3875",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "3869",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3870",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3871",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3872",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3873",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3874",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3875",
+      "value": 1
+    }
+  ]
+}

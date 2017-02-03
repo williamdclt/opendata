@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Goodwin, Albert",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/albert-goodwin-215",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "shipwreck: sinbad the sailor storing his raft",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01550_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/goodwin-shipwreck-sinbad-the-sailor-storing-his-raft-n01550",
+      "id": "5505",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ali baba and the forty thieves",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01900_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/goodwin-ali-baba-and-the-forty-thieves-n01900",
+      "id": "5506",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the gate of the pass, maloja",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/goodwin-the-gate-of-the-pass-maloja-n02296",
+      "id": "5507",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "torre del greco and capri",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02297_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/goodwin-torre-del-greco-and-capri-n02297",
+      "id": "5508",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "folkestone harbour",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/goodwin-folkestone-harbour-n02298",
+      "id": "5509",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ely cathedral",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02299_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/goodwin-ely-cathedral-n02299",
+      "id": "5510",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "salisbury",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04219_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/goodwin-salisbury-n04219",
+      "id": "5511",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5505",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5506",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5507",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5508",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5509",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5510",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5511",
+      "value": 1
+    }
+  ]
+}

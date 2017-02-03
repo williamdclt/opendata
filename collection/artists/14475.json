@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Eneroth, Joakim",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/joakim-eneroth-14475",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "swedish red - comfortably secure 04",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/eneroth-swedish-red-comfortably-secure-04-p20360",
+      "id": "112770",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "swedish red - comfortably secure 09",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/eneroth-swedish-red-comfortably-secure-09-p20361",
+      "id": "112864",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "swedish red - comfortably secure 20",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/eneroth-swedish-red-comfortably-secure-20-p20362",
+      "id": "112865",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "swedish red - comfortably secure 17",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/eneroth-swedish-red-comfortably-secure-17-p20363",
+      "id": "112866",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "swedish red - comfortably secure 07",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/eneroth-swedish-red-comfortably-secure-07-p20364",
+      "id": "112867",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "swedish red - comfortably secure 14",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/eneroth-swedish-red-comfortably-secure-14-p20365",
+      "id": "112868",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "swedish red - comfortably secure 34",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/eneroth-swedish-red-comfortably-secure-34-p20366",
+      "id": "112869",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "swedish red - comfortably secure 39",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/eneroth-swedish-red-comfortably-secure-39-p20367",
+      "id": "112870",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "112770",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112864",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112865",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112866",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112867",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112868",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112869",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112870",
+      "value": 1
+    }
+  ]
+}

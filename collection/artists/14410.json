@@ -1,0 +1,211 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Yagaki, Shikanosuke",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/shikanosuke-yagaki-14410",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled (interior)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yagaki-untitled-interior-p13146",
+      "id": "112700",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (street)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yagaki-untitled-street-p13147",
+      "id": "112701",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (street lamp and shadow)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yagaki-untitled-street-lamp-and-shadow-p13148",
+      "id": "112702",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (clock)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yagaki-untitled-clock-p13149",
+      "id": "112703",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jazz",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yagaki-jazz-p13150",
+      "id": "112704",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "banister detail",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yagaki-banister-detail-p13183",
+      "id": "122463",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (street)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yagaki-untitled-street-p79900",
+      "id": "112418",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (interior of wooden building)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yagaki-untitled-interior-of-wooden-building-p79901",
+      "id": "112419",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stairs",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yagaki-stairs-p79902",
+      "id": "112420",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (plant and wall)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yagaki-untitled-plant-and-wall-p79903",
+      "id": "112421",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yagaki-still-life-p79904",
+      "id": "112422",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (composition with light)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yagaki-untitled-composition-with-light-p79905",
+      "id": "112423",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sudden wind",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yagaki-sudden-wind-p79906",
+      "id": "112424",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (interior with shutters)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yagaki-untitled-interior-with-shutters-p79907",
+      "id": "112425",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "112700",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112701",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112702",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112703",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112704",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "122463",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112418",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112419",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112420",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112421",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112422",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112423",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112424",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112425",
+      "value": 1
+    }
+  ]
+}

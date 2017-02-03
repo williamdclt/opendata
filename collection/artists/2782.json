@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Ullman, Micha",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/micha-ullman-2782",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "table no.4",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ullman-table-no4-t07657",
+      "id": "27286",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "yeshiva table",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ullman-yeshiva-table-t07658",
+      "id": "27291",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "day",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ullman-day-t07659",
+      "id": "27290",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "havdalah",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ullman-havdalah-t07660",
+      "id": "27297",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "night",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ullman-night-t07661",
+      "id": "27300",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "27286",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27291",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27290",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27297",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27300",
+      "value": 1
+    }
+  ]
+}

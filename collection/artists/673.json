@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Atlan, Jean-Michel",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/jean-michel-atlan-673",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "baal the warrior",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/atlan-baal-the-warrior-t00300",
+      "id": "618",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "618",
+      "value": 1
+    }
+  ]
+}

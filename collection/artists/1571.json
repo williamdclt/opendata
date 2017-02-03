@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Manzoni, Piero",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/piero-manzoni-1571",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "achrome",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01871_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/manzoni-achrome-t01871",
+      "id": "9235",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "line 4.90m, december 1959",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01874_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/manzoni-line-490m-december-1959-t01874",
+      "id": "9236",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "line 18.82m, september 1959",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01875_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/manzoni-line-1882m-september-1959-t01875",
+      "id": "9237",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "artist\u2019s breath",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07589_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/manzoni-artists-breath-t07589",
+      "id": "26872",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "artist\u2019s shit",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07667_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/manzoni-artists-shit-t07667",
+      "id": "27330",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9235",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9236",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9237",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26872",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27330",
+      "value": 1
+    }
+  ]
+}

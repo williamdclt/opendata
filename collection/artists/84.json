@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Carlisle, George Howard, Ninth Earl of",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/george-howard-ninth-earl-of-carlisle-84",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "view from the front of st john lateran, rome",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05460_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/carlisle-view-from-the-front-of-st-john-lateran-rome-n05460",
+      "id": "1990",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1990",
+      "value": 1
+    }
+  ]
+}

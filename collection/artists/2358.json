@@ -1,0 +1,309 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Parker, Cornelia",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/cornelia-parker-2358",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the spider that died in the tower of london",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78511_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/parker-the-spider-that-died-in-the-tower-of-london-p78511",
+      "id": "66635",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the blue room",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79389_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/parker-the-blue-room-p79389",
+      "id": "101520",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cold dark matter: an exploded view",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06949_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/parker-cold-dark-matter-an-exploded-view-t06949",
+      "id": "21260",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pornographic drawing",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07324_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/parker-pornographic-drawing-t07324",
+      "id": "25957",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pornographic drawing",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07325_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/parker-pornographic-drawing-t07325",
+      "id": "25960",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pornographic drawing",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07326_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/parker-pornographic-drawing-t07326",
+      "id": "25959",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pornographic drawing",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07327_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/parker-pornographic-drawing-t07327",
+      "id": "25958",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "object that fell off the white cliffs of dover",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07429_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/parker-object-that-fell-off-the-white-cliffs-of-dover-t07429",
+      "id": "26265",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "measuring niagara with a teaspoon",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07430_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/parker-measuring-niagara-with-a-teaspoon-t07430",
+      "id": "26279",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "thirty pieces of silver",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07461_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/parker-thirty-pieces-of-silver-t07461",
+      "id": "26446",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "from \u2018mountain scene with lake and hut\u2019 circa 1840-5, jmw turner, n05476, tate collection",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07634_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/parker-from-mountain-scene-with-lake-and-hut-circa-1840-5-jmw-turner-n05476-tate-t07634",
+      "id": "27165",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "from \u2018venetian scene\u2019 circa 1840-5, jmw turner, n05482, tate collection",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07635_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/parker-from-venetian-scene-circa-1840-5-jmw-turner-n05482-tate-collection-t07635",
+      "id": "27166",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "from \u2018mountain landscape\u2019 circa 1840-5, jmw turner, n05486, tate collection",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07636_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/parker-from-mountain-landscape-circa-1840-5-jmw-turner-n05486-tate-collection-t07636",
+      "id": "27167",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "from \u2018scene in venice\u2019 circa 1840-5, jmw turner, n05488, tate collection",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07637_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/parker-from-scene-in-venice-circa-1840-5-jmw-turner-n05488-tate-collection-t07637",
+      "id": "27168",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "from \u2018seascape with distant coast\u2019 circa 1840, jmw turner, n05516, tate collection",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07638_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/parker-from-seascape-with-distant-coast-circa-1840-jmw-turner-n05516-tate-collection-t07638",
+      "id": "27169",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "from \u2018a river seen from a hill\u2019 circa 1840, jmw turner, n05475, tate collection",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07639_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/parker-from-a-river-seen-from-a-hill-circa-1840-jmw-turner-n05475-tate-collection-t07639",
+      "id": "27170",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "from \u2018margate\u2019 exhibited 1808, jmw turner, n03876, tate collection",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/parker-from-margate-exhibited-1808-jmw-turner-n03876-tate-collection-t07640",
+      "id": "27171",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "from \u2018rough sea\u2019 circa 1840-5, jmw turner, n05479, tate collection",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/parker-from-rough-sea-circa-1840-5-jmw-turner-n05479-tate-collection-t07641",
+      "id": "27172",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "from \u2018chichester canal\u2019 circa 1828, jmw turner, n00560, tate collection",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/parker-from-chichester-canal-circa-1828-jmw-turner-n00560-tate-collection-t07642",
+      "id": "27173",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "from \u2018rough sea with wreckage\u2019 circa 1830-5, jmw turner, n01980, tate collection",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/parker-from-rough-sea-with-wreckage-circa-1830-5-jmw-turner-n01980-tate-collection-t07643",
+      "id": "27174",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "from \u2018the tenth plague of egypt\u2019 exhibited 1802, jmw turner, n00470, tate collection",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/parker-from-the-tenth-plague-of-egypt-exhibited-1802-jmw-turner-n00470-tate-collection-t07644",
+      "id": "27175",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "66635",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101520",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21260",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25957",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25960",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25959",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25958",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26265",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26279",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26446",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27165",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27166",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27167",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27168",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27169",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27170",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27171",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27172",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27173",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27174",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27175",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Pernice, Manfred",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/manfred-pernice-9560",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "block f",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pernice-block-f-t12302",
+      "id": "90170",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pernice-no-title-t12303",
+      "id": "90360",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]. verso: [no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pernice-no-title-verso-no-title-t12304",
+      "id": "90361",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "90170",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90360",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90361",
+      "value": 1
+    }
+  ]
+}

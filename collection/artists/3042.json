@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Quadri, Saleem Arif",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/saleem-arif-quadri-3042",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "landscape of longing",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07710_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/quadri-landscape-of-longing-t07710",
+      "id": "90",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "90",
+      "value": 1
+    }
+  ]
+}

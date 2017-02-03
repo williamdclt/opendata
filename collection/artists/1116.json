@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Freedman, Barnett",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/barnett-freedman-1116",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "street scene",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05201_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freedman-street-scene-n05201",
+      "id": "4534",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "illustrations for walter de la mare\u2019s \u2018love\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05610_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freedman-illustrations-for-walter-de-la-mares-love-n05610",
+      "id": "4535",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "personnel of an aircraft factory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freedman-personnel-of-an-aircraft-factory-n05693",
+      "id": "4536",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "interior of a submarine",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05694_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freedman-interior-of-a-submarine-n05694",
+      "id": "4537",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "music",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06137_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freedman-music-n06137",
+      "id": "4538",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the darts champion",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06707_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freedman-the-darts-champion-p06707",
+      "id": "4542",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11790_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freedman-untitled-p11790",
+      "id": "67346",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11791_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freedman-untitled-p11791",
+      "id": "67347",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11792_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freedman-untitled-p11792",
+      "id": "67348",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11793_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freedman-untitled-p11793",
+      "id": "67349",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11794_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freedman-untitled-p11794",
+      "id": "67350",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11795_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freedman-untitled-p11795",
+      "id": "67351",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11796_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freedman-untitled-p11796",
+      "id": "67352",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11797_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freedman-untitled-p11797",
+      "id": "67353",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11798_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freedman-untitled-p11798",
+      "id": "67354",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11799_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freedman-untitled-p11799",
+      "id": "67356",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11800_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freedman-untitled-p11800",
+      "id": "67357",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11801_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freedman-untitled-p11801",
+      "id": "67358",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11802_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freedman-untitled-p11802",
+      "id": "67359",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11803_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freedman-untitled-p11803",
+      "id": "67360",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11804_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freedman-untitled-p11804",
+      "id": "67361",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11805_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freedman-untitled-p11805",
+      "id": "67362",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11806_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freedman-untitled-p11806",
+      "id": "67328",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11807_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freedman-untitled-p11807",
+      "id": "67330",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11808_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freedman-untitled-p11808",
+      "id": "67331",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11809_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freedman-untitled-p11809",
+      "id": "67332",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11810_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freedman-untitled-p11810",
+      "id": "67333",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11811_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freedman-untitled-p11811",
+      "id": "67334",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11812_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freedman-untitled-p11812",
+      "id": "67335",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11813_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freedman-untitled-p11813",
+      "id": "67336",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11814_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freedman-untitled-p11814",
+      "id": "67337",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11815_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freedman-untitled-p11815",
+      "id": "67338",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11816_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freedman-untitled-p11816",
+      "id": "67339",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11817_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freedman-untitled-p11817",
+      "id": "67340",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11818_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freedman-untitled-p11818",
+      "id": "67341",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11819_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freedman-untitled-p11819",
+      "id": "67342",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11820_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freedman-untitled-p11820",
+      "id": "67343",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11821_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freedman-untitled-p11821",
+      "id": "67344",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11822_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freedman-untitled-p11822",
+      "id": "67364",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled. verso: so freely set on the shapely girlish shoulders",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11823_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/freedman-untitled-verso-so-freely-set-on-the-shapely-girlish-shoulders-p11823",
+      "id": "67365",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4534",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4535",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4536",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4537",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4538",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4542",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67346",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67347",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67348",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67349",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67350",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67351",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67352",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67353",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67354",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67356",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67357",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67358",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67359",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67360",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67361",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67362",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67328",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67330",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67331",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67332",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67333",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67334",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67335",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67336",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67337",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67338",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67339",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67340",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67341",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67342",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67343",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67344",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67364",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67365",
+      "value": 1
+    }
+  ]
+}

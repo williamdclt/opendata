@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Phillips, Esq Tom",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/tom-phillips-1764",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[no title: p. 33]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01490_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-no-title-p-33-p01490",
+      "id": "11568",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: p. 37]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01491_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-no-title-p-37-p01491",
+      "id": "11569",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: p. 43]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01492_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-no-title-p-43-p01492",
+      "id": "11570",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: p. 51]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01493_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-no-title-p-51-p01493",
+      "id": "11571",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: p. 63]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01494_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-no-title-p-63-p01494",
+      "id": "11572",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: p. 83]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01495_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-no-title-p-83-p01495",
+      "id": "11573",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: p. 97]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01496_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-no-title-p-97-p01496",
+      "id": "11574",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: p. 102]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01497_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-no-title-p-102-p01497",
+      "id": "11575",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: p. 161]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01498_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-no-title-p-161-p01498",
+      "id": "11576",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: p. 229]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01499_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-no-title-p-229-p01499",
+      "id": "11577",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: p. 236]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01500_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-no-title-p-236-p01500",
+      "id": "11578",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: p. 238]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01501_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-no-title-p-238-p01501",
+      "id": "11579",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: p. 283]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01502_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-no-title-p-283-p01502",
+      "id": "11580",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: p. 337]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01503_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-no-title-p-337-p01503",
+      "id": "11581",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: p. 343]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01504_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-no-title-p-343-p01504",
+      "id": "11582",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: p. 345]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01505_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-no-title-p-345-p01505",
+      "id": "11583",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: p. 346]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01506_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-no-title-p-346-p01506",
+      "id": "11584",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: p. 352]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01507_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-no-title-p-352-p01507",
+      "id": "11585",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: p. 356]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01508_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-no-title-p-356-p01508",
+      "id": "11586",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: p. 366]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01509_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-no-title-p-366-p01509",
+      "id": "11587",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01510_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-no-title-p01510",
+      "id": "11588",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: p. 6]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01511_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-no-title-p-6-p01511",
+      "id": "11589",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: p. 56]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01512_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-no-title-p-56-p01512",
+      "id": "11590",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: p. 57]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01513_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-no-title-p-57-p01513",
+      "id": "11591",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: p. 113]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01514_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-no-title-p-113-p01514",
+      "id": "11592",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: p. 117]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01515_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-no-title-p-117-p01515",
+      "id": "11593",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: p. 170]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01516_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-no-title-p-170-p01516",
+      "id": "11594",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: p. 196]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01517_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-no-title-p-196-p01517",
+      "id": "11595",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: p. 205]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01518_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-no-title-p-205-p01518",
+      "id": "11596",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: p. 207]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01519_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-no-title-p-207-p01519",
+      "id": "11597",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: p. 225]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01520_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-no-title-p-225-p01520",
+      "id": "11598",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: p. 230]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01521_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-no-title-p-230-p01521",
+      "id": "11599",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: p. 239]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01522_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-no-title-p-239-p01522",
+      "id": "11600",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: p. 240]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01523_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-no-title-p-240-p01523",
+      "id": "11601",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: p. 247]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01524_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-no-title-p-247-p01524",
+      "id": "11602",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: p. 264]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01525_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-no-title-p-264-p01525",
+      "id": "11603",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: p. 271]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01526_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-no-title-p-271-p01526",
+      "id": "11604",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: p. 300]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01527_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-no-title-p-300-p01527",
+      "id": "11605",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: p. 304]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01528_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-no-title-p-304-p01528",
+      "id": "11606",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title: p. 317]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01529_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/phillips-no-title-p-317-p01529",
+      "id": "11607",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "11568",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11569",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11570",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11571",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11572",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11573",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11574",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11575",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11576",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11577",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11578",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11579",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11580",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11581",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11582",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11583",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11584",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11585",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11586",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11587",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11588",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11589",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11590",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11591",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11592",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11593",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11594",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11595",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11596",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11597",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11598",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11599",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11600",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11601",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11602",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11603",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11604",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11605",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11606",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11607",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Agar, Eileen",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/eileen-agar-633",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "head of dylan thomas",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00492_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/agar-head-of-dylan-thomas-t00492",
+      "id": "457",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "three symbols",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00707_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/agar-three-symbols-t00707",
+      "id": "458",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the reaper",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02064_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/agar-the-reaper-t02064",
+      "id": "459",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "angel of anarchy",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03809_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/agar-angel-of-anarchy-t03809",
+      "id": "460",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the autobiography of an embryo",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05024_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/agar-the-autobiography-of-an-embryo-t05024",
+      "id": "461",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "marine object",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05818_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/agar-marine-object-t05818",
+      "id": "19279",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fish basket",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06738_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/agar-fish-basket-t06738",
+      "id": "20771",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figures in a garden",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06749_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/agar-figures-in-a-garden-t06749",
+      "id": "20784",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "457",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "458",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "459",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "460",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "461",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19279",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20771",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20784",
+      "value": 1
+    }
+  ]
+}

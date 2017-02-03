@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Maraz, Adriana",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/adriana-maraz-1574",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "tyrants",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maraz-tyrants-p02551",
+      "id": "9244",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sunyata",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/maraz-sunyata-p07589",
+      "id": "9245",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9244",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9245",
+      "value": 1
+    }
+  ]
+}

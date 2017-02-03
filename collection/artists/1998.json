@@ -1,0 +1,267 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Stevens, Norman",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/norman-stevens-1998",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "clapboard house in moonlight",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-clapboard-house-in-moonlight-p01593",
+      "id": "13870",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dusk",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-dusk-p01594",
+      "id": "13871",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "clapboard house with fronds and architectural french curve",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-clapboard-house-with-fronds-and-architectural-french-curve-p01595",
+      "id": "13872",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "courtyard",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-courtyard-p01596",
+      "id": "13873",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "covered walk",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-covered-walk-p01597",
+      "id": "13874",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "flight of steps",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-flight-of-steps-p01598",
+      "id": "13875",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "morning",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-morning-p01599",
+      "id": "13876",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "path",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-path-p01600",
+      "id": "13877",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stone circle",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-stone-circle-p01601",
+      "id": "13878",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stonehenge",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-stonehenge-p01602",
+      "id": "13879",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lane",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-lane-p01870",
+      "id": "13880",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "darkling thrush",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-darkling-thrush-p01871",
+      "id": "13881",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-no-title-p03161",
+      "id": "13882",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spring",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-spring-p06689",
+      "id": "13883",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "summer",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-summer-p06690",
+      "id": "13884",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "autumn",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-autumn-p06691",
+      "id": "13885",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "winter",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-winter-p06692",
+      "id": "13886",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "porch",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01453_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stevens-porch-t01453",
+      "id": "13887",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13870",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13871",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13872",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13873",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13874",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13875",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13876",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13877",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13878",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13879",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13880",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13881",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13882",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13883",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13884",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13885",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13886",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13887",
+      "value": 1
+    }
+  ]
+}

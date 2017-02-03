@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Poliakoff, Serge",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/serge-poliakoff-1784",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "abstract composition",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00404_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/poliakoff-abstract-composition-t00404",
+      "id": "12137",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12137",
+      "value": 1
+    }
+  ]
+}

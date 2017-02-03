@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Daniels, Harvey",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/harvey-daniels-975",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "marc\u2019s dogs",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniels-marcs-dogs-p03098",
+      "id": "3622",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "3622",
+      "value": 1
+    }
+  ]
+}

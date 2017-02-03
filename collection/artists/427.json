@@ -1,0 +1,309 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Pocock, Nicholas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/nicholas-pocock-427",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the battle of lissa",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01009_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pocock-the-battle-of-lissa-t01009",
+      "id": "12135",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the west precipice of snowdon",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09147_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pocock-the-west-precipice-of-snowdon-t09147",
+      "id": "23389",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cowes from the sound",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09148_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pocock-cowes-from-the-sound-t09148",
+      "id": "23375",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "part of the bay of tenby - northward",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09329_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pocock-part-of-the-bay-of-tenby-northward-t09329",
+      "id": "23391",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "part of tenby from the beach near the pier",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09330_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pocock-part-of-tenby-from-the-beach-near-the-pier-t09330",
+      "id": "23392",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tenby from the bay (a ship in the middle distance)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09331_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pocock-tenby-from-the-bay-a-ship-in-the-middle-distance-t09331",
+      "id": "23393",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tenby from the bay",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09332_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pocock-tenby-from-the-bay-t09332",
+      "id": "23394",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the stanier rock",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09350_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pocock-the-stanier-rock-t09350",
+      "id": "23381",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "snowdon on the bangor road about 7 miles form carnarvon. verso: sketch",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09351_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pocock-snowdon-on-the-bangor-road-about-7-miles-form-carnarvon-verso-sketch-t09351",
+      "id": "23382",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the glen between reinioge and corwen",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09352_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pocock-the-glen-between-reinioge-and-corwen-t09352",
+      "id": "23383",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nearer the quarries at shillidear",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09353_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pocock-nearer-the-quarries-at-shillidear-t09353",
+      "id": "23384",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "inn and village of llanberis",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09354_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pocock-inn-and-village-of-llanberis-t09354",
+      "id": "23385",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cascade above pont-y-pandy",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09355_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pocock-cascade-above-pont-y-pandy-t09355",
+      "id": "23386",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pont iskergiliog",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09356_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pocock-pont-iskergiliog-t09356",
+      "id": "23387",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mill ?near hinford",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09357_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pocock-mill-near-hinford-t09357",
+      "id": "23388",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "snowdon from the road to bangor 6 miles from carnarvon",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09358_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pocock-snowdon-from-the-road-to-bangor-6-miles-from-carnarvon-t09358",
+      "id": "23390",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "calshott castle with the isle of wight from the northward",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09379_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pocock-calshott-castle-with-the-isle-of-wight-from-the-northward-t09379",
+      "id": "23376",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "itchen ferry",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09380_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pocock-itchen-ferry-t09380",
+      "id": "23377",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dunnose, and sandown bay from yaverland",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09381_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pocock-dunnose-and-sandown-bay-from-yaverland-t09381",
+      "id": "23378",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sandown bay",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09382_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pocock-sandown-bay-t09382",
+      "id": "23379",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portsmouth from the road near st helens",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09871_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pocock-portsmouth-from-the-road-near-st-helens-t09871",
+      "id": "23380",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12135",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23389",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23375",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23391",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23392",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23393",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23394",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23381",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23382",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23383",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23384",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23385",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23386",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23387",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23388",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23390",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23376",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23377",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23378",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23379",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23380",
+      "value": 1
+    }
+  ]
+}

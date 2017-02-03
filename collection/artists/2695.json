@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Salcedo, Doris",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/doris-salcedo-2695",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "shibboleth i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20334_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/salcedo-shibboleth-i-p20334",
+      "id": "100008",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shibboleth ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20335_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/salcedo-shibboleth-ii-p20335",
+      "id": "100010",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shibboleth iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20336_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/salcedo-shibboleth-iii-p20336",
+      "id": "100011",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shibboleth iv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20337_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/salcedo-shibboleth-iv-p20337",
+      "id": "100012",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "unland: audible in the mouth",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07523_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/salcedo-unland-audible-in-the-mouth-t07523",
+      "id": "26595",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07524_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/salcedo-untitled-t07524",
+      "id": "26594",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07836_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/salcedo-untitled-t07836",
+      "id": "70293",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "100008",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "100010",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "100011",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "100012",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26595",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26594",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "70293",
+      "value": 1
+    }
+  ]
+}

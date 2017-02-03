@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Holloway, Charles Edward",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/charles-edward-holloway-269",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the st vincent in portsmouth harbour",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04149_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holloway-the-st-vincent-in-portsmouth-harbour-n04149",
+      "id": "6668",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6668",
+      "value": 1
+    }
+  ]
+}

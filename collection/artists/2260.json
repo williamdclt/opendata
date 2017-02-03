@@ -1,0 +1,225 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "F\u00f6rg, G\u00fcnther",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/gunther-forg-2260",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/forg-no-title-p77349",
+      "id": "18972",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/forg-no-title-p77350",
+      "id": "18973",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/forg-no-title-p77351",
+      "id": "18974",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/forg-no-title-p77352",
+      "id": "18975",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/forg-no-title-p77353",
+      "id": "18976",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/forg-no-title-p77354",
+      "id": "18977",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/forg-no-title-p77355",
+      "id": "18978",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/forg-no-title-p77356",
+      "id": "18979",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/forg-no-title-p77357",
+      "id": "18980",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/forg-no-title-p77358",
+      "id": "18981",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/forg-no-title-p77359",
+      "id": "18982",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/forg-no-title-p77360",
+      "id": "18983",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "children\u2019s holiday camp, calambrone",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/forg-childrens-holiday-camp-calambrone-t07172",
+      "id": "21794",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "children\u2019s holiday camp at chiavari",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/forg-childrens-holiday-camp-at-chiavari-t07173",
+      "id": "21795",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the \u201828 october\u2019 children\u2019s holiday camp, marina di massa",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/forg-the-28-october-childrens-holiday-camp-marina-di-massa-t07174",
+      "id": "21796",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "18972",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18973",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18974",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18975",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18976",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18977",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18978",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18979",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18980",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18981",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18982",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18983",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21794",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21795",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21796",
+      "value": 1
+    }
+  ]
+}

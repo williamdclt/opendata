@@ -1,0 +1,421 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Lear, Edward",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/edward-lear-337",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "s. francesco di paola",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02740_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lear-s-francesco-di-paola-n02740",
+      "id": "8452",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stairs leading to s. pietro in vincoli",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02741_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lear-stairs-leading-to-s-pietro-in-vincoli-n02741",
+      "id": "8453",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "back of the hemicycle looking on to the stadium, palatine",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02742_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lear-back-of-the-hemicycle-looking-on-to-the-stadium-palatine-n02742",
+      "id": "8454",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "substructure of the palace of septimus severus, palatine",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02743_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lear-substructure-of-the-palace-of-septimus-severus-palatine-n02743",
+      "id": "8455",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st peter\u2019s from arco oscuro",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02744_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lear-st-peters-from-arco-oscuro-n02744",
+      "id": "8456",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fountain of the sea-horses in the garden of the villa borghese, rome",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02745_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lear-fountain-of-the-sea-horses-in-the-garden-of-the-villa-borghese-rome-n02745",
+      "id": "8457",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "piazza di spagna, rome",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02746_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lear-piazza-di-spagna-rome-n02746",
+      "id": "8458",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "church of the ss. quattro coronati, rome",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02747_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lear-church-of-the-ss-quattro-coronati-rome-n02747",
+      "id": "8459",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the capitol, from the forum",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02748_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lear-the-capitol-from-the-forum-n02748",
+      "id": "8460",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "galera",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02749_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lear-galera-n02749",
+      "id": "8461",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the sirens isles",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02750_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lear-the-sirens-isles-n02750",
+      "id": "8462",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pompey\u2019s pillar",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02751_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lear-pompeys-pillar-n02751",
+      "id": "8463",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view near cairo",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02752_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lear-view-near-cairo-n02752",
+      "id": "8464",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of jerusalem",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02753_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lear-view-of-jerusalem-n02753",
+      "id": "8465",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "s. maria marinasco",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02754_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lear-s-maria-marinasco-n02754",
+      "id": "8466",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "san miniato al monte",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02755_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lear-san-miniato-al-monte-n02755",
+      "id": "8467",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "near calvi",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02756_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lear-near-calvi-n02756",
+      "id": "8468",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the baths of trajan",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02794_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lear-the-baths-of-trajan-n02794",
+      "id": "8469",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "porta maggiore, rome",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02795_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lear-porta-maggiore-rome-n02795",
+      "id": "8470",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the pyramids with the sphinx and palms",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02796_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lear-the-pyramids-with-the-sphinx-and-palms-n02796",
+      "id": "8471",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of jerusalem",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02797_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lear-view-of-jerusalem-n02797",
+      "id": "8472",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "porto venere",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02798_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lear-porto-venere-n02798",
+      "id": "8473",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "villa s. firenze",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02799_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lear-villa-s-firenze-n02799",
+      "id": "8474",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "calvi",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02800_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lear-calvi-n02800",
+      "id": "8475",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "opposite calvi",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02801_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lear-opposite-calvi-n02801",
+      "id": "8476",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of reggio and the straits of messina",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00630_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lear-view-of-reggio-and-the-straits-of-messina-t00630",
+      "id": "8477",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "philates",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01004_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lear-philates-t01004",
+      "id": "8478",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the monastery of simopetra on mount athos",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03168_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lear-the-monastery-of-simopetra-on-mount-athos-t03168",
+      "id": "8479",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the fortress of san george, near argostoli, cephalonia",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03939_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lear-the-fortress-of-san-george-near-argostoli-cephalonia-t03939",
+      "id": "8480",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8452",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8453",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8454",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8455",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8456",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8457",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8458",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8459",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8460",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8461",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8462",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8463",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8464",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8465",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8466",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8467",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8468",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8469",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8470",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8471",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8472",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8473",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8474",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8475",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8476",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8477",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8478",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8479",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8480",
+      "value": 1
+    }
+  ]
+}

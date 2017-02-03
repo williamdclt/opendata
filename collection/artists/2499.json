@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gyles, Henry",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/henry-gyles-2499",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "stonehenge",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08901_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gyles-stonehenge-t08901",
+      "id": "22967",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "22967",
+      "value": 1
+    }
+  ]
+}

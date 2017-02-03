@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Waterford, Louisa Anne, Marchioness of",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/louisa-anne-marchioness-of-waterford-582",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "christ raising the dead",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03222_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/waterford-christ-raising-the-dead-n03222",
+      "id": "15979",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sleeping disciples",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03223_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/waterford-sleeping-disciples-n03223",
+      "id": "15980",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a funeral",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/waterford-a-funeral-n03224",
+      "id": "15981",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "15979",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15980",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15981",
+      "value": 1
+    }
+  ]
+}

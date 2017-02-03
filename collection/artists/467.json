@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Rutland, Violet, Duchess of",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/violet-duchess-of-rutland-467",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "recumbent figure of lord haddon",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rutland-recumbent-figure-of-lord-haddon-n04914",
+      "id": "13047",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13047",
+      "value": 1
+    }
+  ]
+}

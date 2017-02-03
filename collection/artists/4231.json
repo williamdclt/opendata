@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Muniz, Vik",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/vik-muniz-4231",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "after richard serra, prop, 1968",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12917_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/muniz-after-richard-serra-prop-1968-t12917",
+      "id": "68798",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "68798",
+      "value": 1
+    }
+  ]
+}

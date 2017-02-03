@@ -1,0 +1,141 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Arikha, Avigdor",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/avigdor-arikha-661",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "r.b. kitaj",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02945_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arikha-rb-kitaj-p02945",
+      "id": "567",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anne with hand on mouth",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77663_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arikha-anne-with-hand-on-mouth-p77663",
+      "id": "21048",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pear and apple",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77664_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arikha-pear-and-apple-p77664",
+      "id": "21050",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anne in profile",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77665_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arikha-anne-in-profile-p77665",
+      "id": "21049",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "judean landscape",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77666_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arikha-judean-landscape-p77666",
+      "id": "21053",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jerusalem pine",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77667_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arikha-jerusalem-pine-p77667",
+      "id": "21052",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jerusalem cypresses and lavender",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77668_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arikha-jerusalem-cypresses-and-lavender-p77668",
+      "id": "21051",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tubes of paint in their drawer",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04939_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arikha-tubes-of-paint-in-their-drawer-t04939",
+      "id": "568",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jerusalem seen from the south",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06638_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arikha-jerusalem-seen-from-the-south-t06638",
+      "id": "20522",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "567",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21048",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21050",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21049",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21053",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21052",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21051",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "568",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20522",
+      "value": 1
+    }
+  ]
+}

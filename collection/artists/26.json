@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Bates, Harry",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/harry-bates-26",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "pandora",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01750_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bates-pandora-n01750",
+      "id": "761",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hounds in leash",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01767_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bates-hounds-in-leash-n01767",
+      "id": "762",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for war",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bates-sketch-for-war-n01783",
+      "id": "763",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "761",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "762",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "763",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Brill, Frederick",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/frederick-brill-812",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "quarry face, worth matravers",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brill-quarry-face-worth-matravers-t04857",
+      "id": "1491",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1491",
+      "value": 1
+    }
+  ]
+}

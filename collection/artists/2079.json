@@ -1,0 +1,267 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Twombly, Cy",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/cy-twombly-2079",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "souvenir de l\u2019ile des saintes",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00181_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/twombly-souvenir-de-lile-des-saintes-ar00181",
+      "id": "95937",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07406_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/twombly-untitled-ii-p07406",
+      "id": "15567",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "no. i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07573_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/twombly-no-i-p07573",
+      "id": "15568",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "no. ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07574_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/twombly-no-ii-p07574",
+      "id": "15569",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "no. iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07575_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/twombly-no-iii-p07575",
+      "id": "15570",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "no. iv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07576_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/twombly-no-iv-p07576",
+      "id": "15571",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "no. v",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07577_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/twombly-no-v-p07577",
+      "id": "15572",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "no. vi",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07578_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/twombly-no-vi-p07578",
+      "id": "15573",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "no. vii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07579_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/twombly-no-vii-p07579",
+      "id": "15574",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "no. viii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07580_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/twombly-no-viii-p07580",
+      "id": "15575",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "no. ix",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07581_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/twombly-no-ix-p07581",
+      "id": "15576",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "no. x",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07582_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/twombly-no-x-p07582",
+      "id": "15577",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the song of the border-guard",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77550_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/twombly-the-song-of-the-border-guard-p77550",
+      "id": "20476",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77733_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/twombly-untitled-i-p77733",
+      "id": "21257",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "quattro stagioni: primavera",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07887_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/twombly-quattro-stagioni-primavera-t07887",
+      "id": "235",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "quattro stagioni: estate",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07888_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/twombly-quattro-stagioni-estate-t07888",
+      "id": "236",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "quattro stagioni: autunno",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07889_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/twombly-quattro-stagioni-autunno-t07889",
+      "id": "64",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "quattro stagioni: inverno",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07890_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/twombly-quattro-stagioni-inverno-t07890",
+      "id": "234",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "95937",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15567",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15568",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15569",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15570",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15571",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15572",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15573",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15574",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15575",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15576",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15577",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20476",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21257",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "235",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "236",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "64",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "234",
+      "value": 1
+    }
+  ]
+}

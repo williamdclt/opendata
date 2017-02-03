@@ -1,0 +1,155 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Medley, Robert",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/robert-medley-1616",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "rhododendrons",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05987_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/medley-rhododendrons-n05987",
+      "id": "9425",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "divertimento",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03104_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/medley-divertimento-p03104",
+      "id": "9426",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a tree study",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00331_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/medley-a-tree-study-t00331",
+      "id": "9427",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018a tree study\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/medley-sketch-for-a-tree-study-t00332",
+      "id": "9428",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the antique room at the slade: niobe and hermes",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00498_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/medley-the-antique-room-at-the-slade-niobe-and-hermes-t00498",
+      "id": "9429",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figuration on white",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00628_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/medley-figuration-on-white-t00628",
+      "id": "9430",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "three over four",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01286_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/medley-three-over-four-t01286",
+      "id": "9431",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "summer eclogue no. 1: cyclists",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06549_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/medley-summer-eclogue-no-1-cyclists-t06549",
+      "id": "20305",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a crucifixion",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06873_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/medley-a-crucifixion-t06873",
+      "id": "21055",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "isphahan",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06981_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/medley-isphahan-t06981",
+      "id": "21320",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9425",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9426",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9427",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9428",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9429",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9430",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9431",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20305",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21055",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21320",
+      "value": 1
+    }
+  ]
+}

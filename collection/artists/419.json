@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Peters, Rev. Matthew William",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/rev-matthew-william-peters-419",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "lydia",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04848_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/peters-lydia-t04848",
+      "id": "11524",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "11524",
+      "value": 1
+    }
+  ]
+}

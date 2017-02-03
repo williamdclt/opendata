@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Davis, Henry William Banks",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/henry-william-banks-davis-139",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "mother and son",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01528_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-mother-and-son-n01528",
+      "id": "3657",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "returning to the fold",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01608_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-returning-to-the-fold-n01608",
+      "id": "3658",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "approaching night",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01774_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-approaching-night-n01774",
+      "id": "3659",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "3657",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3658",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3659",
+      "value": 1
+    }
+  ]
+}

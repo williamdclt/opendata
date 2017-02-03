@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Beckmann, Max",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/max-beckmann-720",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "prunier",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02395_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beckmann-prunier-t02395",
+      "id": "837",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "carnival",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03294_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beckmann-carnival-t03294",
+      "id": "838",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "837",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "838",
+      "value": 1
+    }
+  ]
+}

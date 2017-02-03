@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Mordm\u00fcller, Rainer G",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/rainer-g-mordmuller-2196",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mordmuller-no-title-p08028",
+      "id": "10280",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mordmuller-no-title-p08029",
+      "id": "10281",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mordmuller-no-title-p08030",
+      "id": "10282",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mordmuller-no-title-p08031",
+      "id": "10283",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mordmuller-no-title-p08032",
+      "id": "10284",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mordmuller-no-title-p08033",
+      "id": "10285",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "10280",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10281",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10282",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10283",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10284",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10285",
+      "value": 1
+    }
+  ]
+}

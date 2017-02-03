@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Frohner, Adolf",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/adolf-frohner-1125",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "looking up to the woman",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frohner-looking-up-to-the-woman-p08016",
+      "id": "4675",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4675",
+      "value": 1
+    }
+  ]
+}

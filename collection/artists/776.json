@@ -1,0 +1,197 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Bolus, Michael",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/michael-bolus-776",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "nenuphar",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bolus-nenuphar-t00738",
+      "id": "1216",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "no. 3",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bolus-no-3-t01045",
+      "id": "1217",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "1st sculpture",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bolus-1st-sculpture-t01349",
+      "id": "1218",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "5th sculpture",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bolus-5th-sculpture-t01350",
+      "id": "1219",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "8th sculpture",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bolus-8th-sculpture-t01351",
+      "id": "1220",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "11th sculpture",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bolus-11th-sculpture-t01352",
+      "id": "1221",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "7th sculpture",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bolus-7th-sculpture-t01353",
+      "id": "1222",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "1st sculpture",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bolus-1st-sculpture-t01354",
+      "id": "1223",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "4th sculpture",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bolus-4th-sculpture-t01355",
+      "id": "1224",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "5th sculpture",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bolus-5th-sculpture-t01356",
+      "id": "1225",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "1st sculpture",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bolus-1st-sculpture-t01357",
+      "id": "1226",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "1st sculpture",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bolus-1st-sculpture-t01358",
+      "id": "1227",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bolus-untitled-t01359",
+      "id": "1228",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1216",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1217",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1218",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1219",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1220",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1221",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1222",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1223",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1224",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1225",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1226",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1227",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1228",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Reid, Clunie",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/clunie-reid-14791",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "your higher plane awaits",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13568_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reid-your-higher-plane-awaits-t13568",
+      "id": "117992",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "117992",
+      "value": 1
+    }
+  ]
+}

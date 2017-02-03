@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Mu\u00f1oz, Juan",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/juan-munoz-2336",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "dwarf with a box",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06860_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/munoz-dwarf-with-a-box-t06860",
+      "id": "20977",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "towards the corner",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07872_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/munoz-towards-the-corner-t07872",
+      "id": "136",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "raincoat drawing",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11979_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/munoz-raincoat-drawing-t11979",
+      "id": "85095",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "back drawing",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12550_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/munoz-back-drawing-t12550",
+      "id": "95341",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the prompter",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12797_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/munoz-the-prompter-t12797",
+      "id": "90000",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "conversation piece",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/munoz-conversation-piece-t13021",
+      "id": "100874",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "20977",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "136",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85095",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95341",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90000",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "100874",
+      "value": 1
+    }
+  ]
+}

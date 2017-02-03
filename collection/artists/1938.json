@@ -1,0 +1,435 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Sherman, Cindy",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/cindy-sherman-1938",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled a",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11437_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sherman-untitled-a-p11437",
+      "id": "21898",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled b",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11438_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sherman-untitled-b-p11438",
+      "id": "21899",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled c",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11439_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sherman-untitled-c-p11439",
+      "id": "21900",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled d",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11440_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sherman-untitled-d-p11440",
+      "id": "21901",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled film still #17",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11516_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sherman-untitled-film-still-17-p11516",
+      "id": "26063",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled film still #27",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11517_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sherman-untitled-film-still-27-p11517",
+      "id": "26064",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled film still #48",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11518_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sherman-untitled-film-still-48-p11518",
+      "id": "26065",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled film still #53",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11519_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sherman-untitled-film-still-53-p11519",
+      "id": "26066",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled #263",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sherman-untitled-263-p13312",
+      "id": "27115",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled #97",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77728_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sherman-untitled-97-p77728",
+      "id": "21209",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled #98",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77729_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sherman-untitled-98-p77729",
+      "id": "21212",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled #99",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77730_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sherman-untitled-99-p77730",
+      "id": "21211",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled #100",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77731_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sherman-untitled-100-p77731",
+      "id": "21210",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78495_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sherman-untitled-p78495",
+      "id": "66625",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78496_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sherman-untitled-p78496",
+      "id": "66656",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78497_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sherman-untitled-p78497",
+      "id": "66657",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78498_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sherman-untitled-p78498",
+      "id": "66658",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78499_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sherman-untitled-p78499",
+      "id": "66659",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78500_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sherman-untitled-p78500",
+      "id": "66660",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78501_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sherman-untitled-p78501",
+      "id": "66661",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78502_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sherman-untitled-p78502",
+      "id": "66662",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78503_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sherman-untitled-p78503",
+      "id": "66663",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sherman-untitled-p78504",
+      "id": "66664",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78505_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sherman-untitled-p78505",
+      "id": "66665",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78506_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sherman-untitled-p78506",
+      "id": "66666",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78507_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sherman-untitled-p78507",
+      "id": "66667",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78508_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sherman-untitled-p78508",
+      "id": "66668",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78535_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sherman-untitled-p78535",
+      "id": "66669",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled #126",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07185_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sherman-untitled-126-t07185",
+      "id": "21807",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "doll clothes",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12571_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sherman-doll-clothes-t12571",
+      "id": "93218",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "21898",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21899",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21900",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21901",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26063",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26064",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26065",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26066",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27115",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21209",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21212",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21211",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21210",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66625",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66656",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66657",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66658",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66659",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66660",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66661",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66662",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66663",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66664",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66665",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66666",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66667",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66668",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66669",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21807",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93218",
+      "value": 1
+    }
+  ]
+}

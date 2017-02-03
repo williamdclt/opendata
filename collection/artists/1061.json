@@ -1,0 +1,365 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Epstein, Sir Jacob",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-jacob-epstein-1061",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "euphemia lamb",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03187_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/epstein-euphemia-lamb-n03187",
+      "id": "4109",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nan",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03646_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/epstein-nan-n03646",
+      "id": "4110",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jacob kramer",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03849_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/epstein-jacob-kramer-n03849",
+      "id": "4111",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the visitation",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04238_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/epstein-the-visitation-n04238",
+      "id": "4112",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs godfrey phillips",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/epstein-mrs-godfrey-phillips-n04418",
+      "id": "4113",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the little negress",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04424_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/epstein-the-little-negress-n04424",
+      "id": "4114",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "negress",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04425_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/epstein-negress-n04425",
+      "id": "4115",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "albert einstein",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04754_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/epstein-albert-einstein-n04754",
+      "id": "4116",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "esther",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/epstein-esther-n05579",
+      "id": "4117",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the rt hon. ernest bevin",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05689_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/epstein-the-rt-hon-ernest-bevin-n05689",
+      "id": "4118",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kathleen",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/epstein-kathleen-n06089",
+      "id": "4119",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "somerset maugham",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/epstein-somerset-maugham-n06132",
+      "id": "4120",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs mary mcevoy",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06139_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/epstein-mrs-mary-mcevoy-n06139",
+      "id": "4121",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "torso in metal from \u2018the rock drill\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00340_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/epstein-torso-in-metal-from-the-rock-drill-t00340",
+      "id": "4122",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018the rock drill\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00363_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/epstein-study-for-the-rock-drill-t00363",
+      "id": "4123",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "female figure in flenite",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01691_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/epstein-female-figure-in-flenite-t01691",
+      "id": "4124",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "doves",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01820_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/epstein-doves-t01820",
+      "id": "4125",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "totem",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03358_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/epstein-totem-t03358",
+      "id": "4126",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ann freud",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04940_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/epstein-ann-freud-t04940",
+      "id": "4127",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dahlias",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05758_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/epstein-dahlias-t05758",
+      "id": "19020",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dahlias and sunflower",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05759_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/epstein-dahlias-and-sunflower-t05759",
+      "id": "19021",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "epping forest",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05760_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/epstein-epping-forest-t05760",
+      "id": "19022",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of iris beerbohm tree",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07051_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/epstein-portrait-of-iris-beerbohm-tree-t07051",
+      "id": "21516",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jacob and the angel",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07139_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/epstein-jacob-and-the-angel-t07139",
+      "id": "21761",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reclining nude",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12553_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/epstein-reclining-nude-t12553",
+      "id": "96793",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4109",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4110",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4111",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4112",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4113",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4114",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4115",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4116",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4117",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4118",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4119",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4120",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4121",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4122",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4123",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4124",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4125",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4126",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4127",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19020",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19021",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19022",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21516",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21761",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96793",
+      "value": 1
+    }
+  ]
+}

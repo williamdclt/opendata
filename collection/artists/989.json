@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Dehn, Adolf",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/adolf-dehn-989",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "minnesota",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dehn-minnesota-p01702",
+      "id": "3707",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "3707",
+      "value": 1
+    }
+  ]
+}

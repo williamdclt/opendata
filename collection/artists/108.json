@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Constable, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-constable-108",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the valley farm",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00327_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-the-valley-farm-n00327",
+      "id": "2584",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a cornfield with figures",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01065_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-a-cornfield-with-figures-n01065",
+      "id": "2640",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018barnes common\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01066_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-barnes-common-n01066",
+      "id": "2641",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "east bergholt house",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01235_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-east-bergholt-house-n01235",
+      "id": "2585",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hampstead heath, with the house called \u2018the salt box\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01236_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-hampstead-heath-with-the-house-called-the-salt-box-n01236",
+      "id": "2586",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hampstead heath, with harrow in the distance",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01237_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-hampstead-heath-with-harrow-in-the-distance-n01237",
+      "id": "2587",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gillingham bridge, dorset",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01244_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-gillingham-bridge-dorset-n01244",
+      "id": "2588",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the church porch, east bergholt",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01245_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-the-church-porch-east-bergholt-n01245",
+      "id": "2589",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the grove, hampstead",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01246_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-the-grove-hampstead-n01246",
+      "id": "2590",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "flatford mill (\u2018scene on a navigable river\u2019)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01273_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-flatford-mill-scene-on-a-navigable-river-n01273",
+      "id": "2591",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the glebe farm",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01274_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-the-glebe-farm-n01274",
+      "id": "2592",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hampstead heath with a rainbow",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01275_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-hampstead-heath-with-a-rainbow-n01275",
+      "id": "2593",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "harwich lighthouse",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01276_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-harwich-lighthouse-n01276",
+      "id": "2594",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "branch hill pond, hampstead heath, with a boy sitting on a bank",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01813_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-branch-hill-pond-hampstead-heath-with-a-boy-sitting-on-a-bank-n01813",
+      "id": "2595",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "salisbury cathedral from the meadows",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01814_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-salisbury-cathedral-from-the-meadows-n01814",
+      "id": "2596",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018summer, afternoon - after a shower\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01815_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-summer-afternoon-after-a-shower-n01815",
+      "id": "2636",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the mill stream. verso: night scene with bridge",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01816_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-the-mill-stream-verso-night-scene-with-bridge-n01816",
+      "id": "2597",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the gleaners, brighton",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01817_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-the-gleaners-brighton-n01817",
+      "id": "2598",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view at epsom",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01818_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-view-at-epsom-n01818",
+      "id": "2599",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stoke-by-nayland",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01819_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-stoke-by-nayland-n01819",
+      "id": "2600",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dedham lock",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01820_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-dedham-lock-n01820",
+      "id": "2601",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a lane near flatford",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01821_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-a-lane-near-flatford-n01821",
+      "id": "2602",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dedham from near gun hill, langham",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01822_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-dedham-from-near-gun-hill-langham-n01822",
+      "id": "2603",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the glebe farm",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01823_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-the-glebe-farm-n01823",
+      "id": "2604",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "harnham ridge, salisbury",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01824_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-harnham-ridge-salisbury-n01824",
+      "id": "2605",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "yarmouth jetty",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02650_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-yarmouth-jetty-n02650",
+      "id": "2606",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "malvern hall, warwickshire",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02653_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-malvern-hall-warwickshire-n02653",
+      "id": "2607",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dedham from langham",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02654_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-dedham-from-langham-n02654",
+      "id": "2608",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "maria bicknell, mrs john constable",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02655_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-maria-bicknell-mrs-john-constable-n02655",
+      "id": "2609",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the sea near brighton",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02656_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-the-sea-near-brighton-n02656",
+      "id": "2610",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a windmill near brighton",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02657_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-a-windmill-near-brighton-n02657",
+      "id": "2611",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a bank on hampstead heath",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02658_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-a-bank-on-hampstead-heath-n02658",
+      "id": "2612",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "trees at hampstead",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02659_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-trees-at-hampstead-n02659",
+      "id": "2613",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "trunk and lower branches of a tree",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02660_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-trunk-and-lower-branches-of-a-tree-n02660",
+      "id": "2637",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dedham lock and mill",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02661_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-dedham-lock-and-mill-n02661",
+      "id": "2614",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dedham vale with the house called \u2018dedham valley\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02663_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-dedham-vale-with-the-house-called-dedham-valley-n02663",
+      "id": "2638",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view towards stratford st mary church",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03155_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-view-towards-stratford-st-mary-church-n03155",
+      "id": "2615",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "branch hill pond, hampstead heath, with a cart and carters",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04237_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-branch-hill-pond-hampstead-heath-with-a-cart-and-carters-n04237",
+      "id": "2616",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018hadleigh castle\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04810_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-sketch-for-hadleigh-castle-n04810",
+      "id": "2617",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chain pier, brighton",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05957_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-chain-pier-brighton-n05957",
+      "id": "2618",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2584",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2640",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2641",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2585",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2586",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2587",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2588",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2589",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2590",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2591",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2592",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2593",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2594",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2595",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2596",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2636",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2597",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2598",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2599",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2600",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2601",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2602",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2603",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2604",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2605",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2606",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2607",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2608",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2609",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2610",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2611",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2612",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2613",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2637",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2614",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2638",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2615",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2616",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2617",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2618",
+      "value": 1
+    }
+  ]
+}

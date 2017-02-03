@@ -1,0 +1,295 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Kentridge, William",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/william-kentridge-2680",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "casspirs full of love",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11838_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kentridge-casspirs-full-of-love-p11838",
+      "id": "67086",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sleeper - red",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78231_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kentridge-sleeper-red-p78231",
+      "id": "26467",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cambio",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78560_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kentridge-cambio-p78560",
+      "id": "67080",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dogana",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78561_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kentridge-dogana-p78561",
+      "id": "67081",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pensione",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78562_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kentridge-pensione-p78562",
+      "id": "67082",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "adaptability/compliance/silence",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78563_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kentridge-adaptabilitycompliancesilence-p78563",
+      "id": "67072",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "panic/picnic",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78564_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kentridge-panicpicnic-p78564",
+      "id": "67074",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "safer tropics",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78565_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kentridge-safer-tropics-p78565",
+      "id": "67075",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "staying home",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78566_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kentridge-staying-home-p78566",
+      "id": "67076",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "terminal hurt/terminal longing",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78567_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kentridge-terminal-hurtterminal-longing-p78567",
+      "id": "67077",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "this is how the tree breaks",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78568_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kentridge-this-is-how-the-tree-breaks-p78568",
+      "id": "67078",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (woman turning into a telephone)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kentridge-untitled-woman-turning-into-a-telephone-p78569",
+      "id": "67083",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "felix in exile",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07479_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kentridge-felix-in-exile-t07479",
+      "id": "26466",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "history of the main complaint",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07480_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kentridge-history-of-the-main-complaint-t07480",
+      "id": "26465",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ubu tells the truth",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kentridge-ubu-tells-the-truth-t07481",
+      "id": "26472",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "johannesburg, 2nd greatest city after paris",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kentridge-johannesburg-2nd-greatest-city-after-paris-t07482",
+      "id": "26471",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "monument",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kentridge-monument-t07483",
+      "id": "26470",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mine",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kentridge-mine-t07484",
+      "id": "26469",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sobriety, obesity, and growing old",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kentridge-sobriety-obesity-and-growing-old-t07485",
+      "id": "26468",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "arc/procession: develop, catch up, even surpass",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07668_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kentridge-arcprocession-develop-catch-up-even-surpass-t07668",
+      "id": "27354",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "67086",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26467",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67080",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67081",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67082",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67072",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67074",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67075",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67076",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67077",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67078",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67083",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26466",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26465",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26472",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26471",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26470",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26469",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26468",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27354",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Sarmento, Juli\u00e3o",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/juliao-sarmento-11137",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "forget me",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12563_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sarmento-forget-me-t12563",
+      "id": "95743",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (bataille)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12747_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sarmento-untitled-bataille-t12747",
+      "id": "95744",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mehr licht",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12838_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/sarmento-mehr-licht-t12838",
+      "id": "95745",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "95743",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95744",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95745",
+      "value": 1
+    }
+  ]
+}

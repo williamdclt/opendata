@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Pollard, James",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/james-pollard-428",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the royal mail coaches for the north leaving the angel, islington",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02366_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pollard-the-royal-mail-coaches-for-the-north-leaving-the-angel-islington-t02366",
+      "id": "12138",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "coursers taking the field at hatfield park, hertfordshire, the seat of the marquess of salisbury",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03434_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pollard-coursers-taking-the-field-at-hatfield-park-hertfordshire-the-seat-of-the-marquess-t03434",
+      "id": "12139",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the \u2018tally-ho\u2019 london - birmingham stage coach passing whittington college, highgate",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03435_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pollard-the-tally-ho-london-birmingham-stage-coach-passing-whittington-college-highgate-t03435",
+      "id": "12140",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fly fishing in the river lee near the ferry boat inn",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03436_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pollard-fly-fishing-in-the-river-lee-near-the-ferry-boat-inn-t03436",
+      "id": "12141",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "trolling for pike in the river lee",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03437_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pollard-trolling-for-pike-in-the-river-lee-t03437",
+      "id": "12142",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12138",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12139",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12140",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12141",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12142",
+      "value": 1
+    }
+  ]
+}

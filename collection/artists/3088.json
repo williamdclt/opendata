@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Wolff, Christian",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/christian-wolff-3088",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "prose pieces",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wolff-prose-pieces-p78494",
+      "id": "66654",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "66654",
+      "value": 1
+    }
+  ]
+}

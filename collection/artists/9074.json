@@ -1,0 +1,323 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hine, Lewis",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/lewis-w-hine-9074",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "juvenile court. an 8 year old boy, charged with stealing a bicycle, thurs 5th may 1910",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hine-juvenile-court-an-8-year-old-boy-charged-with-stealing-a-bicycle-thurs-5th-may-1910-p79917",
+      "id": "113992",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a night scene. flower making. family of mary bezzola, 212 sullivan st., new york. george (10 years old) and levia (9 years old) work until 9pm when work is rushing",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hine-a-night-scene-flower-making-family-of-mary-bezzola-212-sullivan-st-new-york-george-10-p79918",
+      "id": "113993",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "boy who carried barrels. robert saunders, 10 years old. lives waquoit - is the son of the boss. mother picks too",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hine-boy-who-carried-barrels-robert-saunders-10-years-old-lives-waquoit-is-the-son-of-the-p79919",
+      "id": "113994",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "group of workers in lane cotton mill, new orleans, showing the youngest workers and typical of conditions in new orleans. violations of the law are rare",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hine-group-of-workers-in-lane-cotton-mill-new-orleans-showing-the-youngest-workers-and-p79920",
+      "id": "113995",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cartoon",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hine-cartoon-p79921",
+      "id": "113996",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "near bowling green, kentucky. mrs j l hazel and children stripping tobacco",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hine-near-bowling-green-kentucky-mrs-j-l-hazel-and-children-stripping-tobacco-p79922",
+      "id": "113997",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "exhibition panel (industry saves at society\u2019s expense)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hine-exhibition-panel-industry-saves-at-societys-expense-p79923",
+      "id": "113998",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "exhibition panel (everybody pays but few profit from child labor)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79924_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hine-exhibition-panel-everybody-pays-but-few-profit-from-child-labor-p79924",
+      "id": "113999",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "exhibition panel (they decrease illiteracy and crime, increase earning power, health and happiness)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hine-exhibition-panel-they-decrease-illiteracy-and-crime-increase-earning-power-health-and-p79925",
+      "id": "114000",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "exhibition panel (continuation schools)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hine-exhibition-panel-continuation-schools-p79926",
+      "id": "114001",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "exhibition panel (the national child labor committee, why?)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hine-exhibition-panel-the-national-child-labor-committee-why-p79927",
+      "id": "114002",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "exhibition panel (a child\u2019s creed)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hine-exhibition-panel-a-childs-creed-p79928",
+      "id": "114003",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "exhibition panel (wise and foolish employers)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hine-exhibition-panel-wise-and-foolish-employers-p79929",
+      "id": "114004",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "exhibition panel (nearly two million child workers)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hine-exhibition-panel-nearly-two-million-child-workers-p79930",
+      "id": "114005",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "exhibition panel (alabama faces her opportunity)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hine-exhibition-panel-alabama-faces-her-opportunity-p79931",
+      "id": "114006",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "exhibition panel (made in alabama)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hine-exhibition-panel-made-in-alabama-p79932",
+      "id": "114007",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "exhibition panel (juvenile crime)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hine-exhibition-panel-juvenile-crime-p79933",
+      "id": "114008",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "john madison, 11 years old, 53 inches high. beginning to sweep. floyd root, 10 years old, 50 inches high. helps cousin spin every day after school",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hine-john-madison-11-years-old-53-inches-high-beginning-to-sweep-floyd-root-10-years-old-p79934",
+      "id": "114009",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "glass works. indianapolis, indiana",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79935_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hine-glass-works-indianapolis-indiana-p79935",
+      "id": "114010",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "knitters in london (tennessee) hosiery mills",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79936_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hine-knitters-in-london-tennessee-hosiery-mills-p79936",
+      "id": "114011",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "robert paul, 216 johnson street, 10 year old newsy. found at 11 p. n. with 12 papers near ? hotel. been at it 4 years. often sells until midnight. he and brother make about $1.50 a day. goes to school little. sells around the college inn",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79937_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hine-robert-paul-216-johnson-street-10-year-old-newsy-found-at-11-p-n-with-12-papers-near-p79937",
+      "id": "114012",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "school, y9, district 3. this was the attendance on december 3, and several children were absent on account of sickness",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79938_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hine-school-y9-district-3-this-was-the-attendance-on-december-3-and-several-children-were-p79938",
+      "id": "114013",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "113992",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "113993",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "113994",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "113995",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "113996",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "113997",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "113998",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "113999",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114000",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114001",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114002",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114003",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114004",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114005",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114006",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114007",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114008",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114009",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114010",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114011",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114012",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114013",
+      "value": 1
+    }
+  ]
+}

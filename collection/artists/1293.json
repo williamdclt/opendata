@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hockney, David",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/david-hockney-1293",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "for john constable",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03184_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hockney-for-john-constable-p03184",
+      "id": "6508",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cleanliness is next to godliness",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04315_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hockney-cleanliness-is-next-to-godliness-p04315",
+      "id": "6509",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "connoisseur",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06288_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hockney-connoisseur-p06288",
+      "id": "6510",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the print collector (portrait of felix man)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06289_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hockney-the-print-collector-portrait-of-felix-man-p06289",
+      "id": "6511",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lillies",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06290_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hockney-lillies-p06290",
+      "id": "6512",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "1. the arrival",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07029_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hockney-1-the-arrival-p07029",
+      "id": "6513",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "1a. receiving the inheritance",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07030_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hockney-1a-receiving-the-inheritance-p07030",
+      "id": "6514",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "2. meeting the good people (washington)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07031_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hockney-2-meeting-the-good-people-washington-p07031",
+      "id": "6515",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "2a. the gospel singing (good people) (madison square garden)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07032_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hockney-2a-the-gospel-singing-good-people-madison-square-garden-p07032",
+      "id": "6516",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "3. the start of the spending spree and the door opening for a blonde",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07033_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hockney-3-the-start-of-the-spending-spree-and-the-door-opening-for-a-blonde-p07033",
+      "id": "6517",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "3a. the seven stone weakling",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07034_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hockney-3a-the-seven-stone-weakling-p07034",
+      "id": "6518",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "4. the drinking scene",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07035_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hockney-4-the-drinking-scene-p07035",
+      "id": "6519",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "4a. marries an old maid",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07036_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hockney-4a-marries-an-old-maid-p07036",
+      "id": "6520",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "5. the election campaign (with dark message)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07037_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hockney-5-the-election-campaign-with-dark-message-p07037",
+      "id": "6521",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "5a. viewing a prison scene",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07038_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hockney-5a-viewing-a-prison-scene-p07038",
+      "id": "6522",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "6. death in harlem",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07039_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hockney-6-death-in-harlem-p07039",
+      "id": "6523",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "6a. the wallet begins to empty",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07040_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hockney-6a-the-wallet-begins-to-empty-p07040",
+      "id": "6524",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "7. disintegration",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07041_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hockney-7-disintegration-p07041",
+      "id": "6525",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "7a. cast aside",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07042_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hockney-7a-cast-aside-p07042",
+      "id": "6526",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "8. meeting the other people",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07043_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hockney-8-meeting-the-other-people-p07043",
+      "id": "6527",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "8a. bedlam",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07044_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hockney-8a-bedlam-p07044",
+      "id": "6528",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mo with five leaves",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07238_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hockney-mo-with-five-leaves-p07238",
+      "id": "6529",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "billy wilder",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07239_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hockney-billy-wilder-p07239",
+      "id": "6530",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "myself and my heroes",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07352_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hockney-myself-and-my-heroes-p07352",
+      "id": "6531",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "my bonnie lies over the ocean",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07353_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hockney-my-bonnie-lies-over-the-ocean-p07353",
+      "id": "6532",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kaisarion and all his beauty",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11376_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hockney-kaisarion-and-all-his-beauty-p11376",
+      "id": "21038",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mirror, mirror on the wall",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11377_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hockney-mirror-mirror-on-the-wall-p11377",
+      "id": "21039",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "water pouring into swimming pool, santa monica",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11378_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hockney-water-pouring-into-swimming-pool-santa-monica-p11378",
+      "id": "21040",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pacific mutual life",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11379_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hockney-pacific-mutual-life-p11379",
+      "id": "21041",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "queen",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11495_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hockney-queen-p11495",
+      "id": "22116",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hockney-self-portrait-p11496",
+      "id": "22117",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "celia",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11497_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hockney-celia-p11497",
+      "id": "22120",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "celia",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11498_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hockney-celia-p11498",
+      "id": "22121",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lithographic water made of lines, crayon and two blue washes without green wash",
+      "url": "http://www.tate.org.uk/art/images/work/P/P12/P12116_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hockney-lithographic-water-made-of-lines-crayon-and-two-blue-washes-without-green-wash-p12116",
+      "id": "79344",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the new and the old and the new",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hockney-the-new-and-the-old-and-the-new-p12455",
+      "id": "83249",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rampant",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hockney-rampant-p12456",
+      "id": "83384",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "white lines dancing in printing ink",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hockney-white-lines-dancing-in-printing-ink-p12457",
+      "id": "83388",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "eine (part 1)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hockney-eine-part-1-p12459",
+      "id": "83385",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "deux (second part)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hockney-deux-second-part-p12460",
+      "id": "83386",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tr\u00e8s (end of triple)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hockney-tres-end-of-triple-p12461",
+      "id": "83387",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6508",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6509",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6510",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6511",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6512",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6513",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6514",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6515",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6516",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6517",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6518",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6519",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6520",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6521",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6522",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6523",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6524",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6525",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6526",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6527",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6528",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6529",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6530",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6531",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6532",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21038",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21039",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21040",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21041",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22116",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22117",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22120",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22121",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "79344",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83249",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83384",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83388",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83385",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83386",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83387",
+      "value": 1
+    }
+  ]
+}

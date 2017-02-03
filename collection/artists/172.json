@@ -1,0 +1,323 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Etty, William",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/william-etty-172",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "youth on the prow, and pleasure at the helm",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00356_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/etty-youth-on-the-prow-and-pleasure-at-the-helm-n00356",
+      "id": "4163",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the persian",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00357_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/etty-the-persian-n00357",
+      "id": "4164",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "candaules, king of lydia, shews his wife by stealth to gyges, one of his ministers, as she goes to bed",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00358_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/etty-candaules-king-of-lydia-shews-his-wife-by-stealth-to-gyges-one-of-his-ministers-as-n00358",
+      "id": "4165",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the lute player",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00359_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/etty-the-lute-player-n00359",
+      "id": "4166",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the dangerous playmate",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00360_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/etty-the-dangerous-playmate-n00360",
+      "id": "4167",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the saviour or the disciple",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00361_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/etty-the-saviour-or-the-disciple-n00361",
+      "id": "4168",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "christ appearing to mary magdalene after the resurrection",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00362_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/etty-christ-appearing-to-mary-magdalene-after-the-resurrection-n00362",
+      "id": "4169",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "il duetto (\u2018the duet\u2019)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00363_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/etty-il-duetto-the-duet-n00363",
+      "id": "4170",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "window in venice, during a festa",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00364_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/etty-window-in-venice-during-a-festa-n00364",
+      "id": "4171",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the magdalen",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00365_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/etty-the-magdalen-n00365",
+      "id": "4172",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "female bathers surprised by a swan. verso: terpsichore (?) with putti",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00366_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/etty-female-bathers-surprised-by-a-swan-verso-terpsichore-with-putti-n00366",
+      "id": "1297",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "musidora: the bather \u2018at the doubtful breeze alarmed\u2019, replica",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00614_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/etty-musidora-the-bather-at-the-doubtful-breeze-alarmed-replica-n00614",
+      "id": "4173",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018pandora crowned by the seasons\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01795_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/etty-study-for-pandora-crowned-by-the-seasons-n01795",
+      "id": "4174",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the fairy of the fountain",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04108_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/etty-the-fairy-of-the-fountain-n04108",
+      "id": "4175",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a peacock for \u2018the judgement of paris\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04384_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/etty-study-of-a-peacock-for-the-judgement-of-paris-n04384",
+      "id": "4176",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "standing female nude",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05305_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/etty-standing-female-nude-n05305",
+      "id": "4177",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the parting of hero and leander",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05614_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/etty-the-parting-of-hero-and-leander-n05614",
+      "id": "4178",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "miss mary arabella jay",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06268_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/etty-miss-mary-arabella-jay-n06268",
+      "id": "4179",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the coral finder: venus and her youthful satellites, replica",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06354_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/etty-the-coral-finder-venus-and-her-youthful-satellites-replica-n06354",
+      "id": "4180",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "britomart redeems faire amoret",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00199_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/etty-britomart-redeems-faire-amoret-t00199",
+      "id": "4181",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "titania",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09372_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/etty-titania-t09372",
+      "id": "22845",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hero, having thrown herself from the tower at the sight of leander drowned, dies on his body",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12265_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/etty-hero-having-thrown-herself-from-the-tower-at-the-sight-of-leander-drowned-dies-on-his-t12265",
+      "id": "90126",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4163",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4164",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4165",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4166",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4167",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4168",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4169",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4170",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4171",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4172",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1297",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4173",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4174",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4175",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4176",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4177",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4178",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4179",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4180",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4181",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22845",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90126",
+      "value": 1
+    }
+  ]
+}

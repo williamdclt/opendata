@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Kovanda, Jiri",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/jiri-kovanda-10668",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "installation iii, 15 march 1979, prague",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12421_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kovanda-installation-iii-15-march-1979-prague-t12421",
+      "id": "93868",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "white string at home, 19-26 november 1979, prague",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12422_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kovanda-white-string-at-home-19-26-november-1979-prague-t12422",
+      "id": "93869",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two little white slats and three little white slats, autumn 1980, vltava river, prague",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12423_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kovanda-two-little-white-slats-and-three-little-white-slats-autumn-1980-vltava-river-t12423",
+      "id": "93870",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a pile of needles and nails, spring 1981, orlick\u00e9 mountains, pansk\u00e9 pole",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12424_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kovanda-a-pile-of-needles-and-nails-spring-1981-orlicke-mountains-panske-pole-t12424",
+      "id": "93871",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "93868",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93869",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93870",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93871",
+      "value": 1
+    }
+  ]
+}

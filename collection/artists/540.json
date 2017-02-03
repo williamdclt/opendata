@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Swynnerton, Annie Louisa",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/annie-louisa-swynnerton-540",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "oreads",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03619_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/swynnerton-oreads-n03619",
+      "id": "14097",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "new risen hope",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03952_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/swynnerton-new-risen-hope-n03952",
+      "id": "14098",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the convalescent",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04473_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/swynnerton-the-convalescent-n04473",
+      "id": "14099",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dame millicent fawcett, c.b.e., ll.d.",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04545_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/swynnerton-dame-millicent-fawcett-cbe-lld-n04545",
+      "id": "14100",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "count zouboff",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04656_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/swynnerton-count-zouboff-n04656",
+      "id": "14101",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "miss elizabeth williamson on a pony",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05019_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/swynnerton-miss-elizabeth-williamson-on-a-pony-n05019",
+      "id": "14102",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "14097",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14098",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14099",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14100",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14101",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14102",
+      "value": 1
+    }
+  ]
+}

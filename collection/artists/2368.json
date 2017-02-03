@@ -1,0 +1,309 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Koons, Jeff",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/jeff-koons-2368",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "mound of flowers",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00076_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/koons-mound-of-flowers-ar00076",
+      "id": "93052",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "new hoover convertibles, green, red, brown, new shelton wet/dry 10 gallon displaced doubledecker",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00077_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/koons-new-hoover-convertibles-green-red-brown-new-shelton-wetdry-10-gallon-displaced-ar00077",
+      "id": "98197",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "encased - four rows",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00078_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/koons-encased-four-rows-ar00078",
+      "id": "98198",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "caterpillar (with chains)",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00079_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/koons-caterpillar-with-chains-ar00079",
+      "id": "98200",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "made in heaven",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00080_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/koons-made-in-heaven-ar00080",
+      "id": "95900",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "art magazine ads (art in america)",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00081_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/koons-art-magazine-ads-art-in-america-ar00081",
+      "id": "98201",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "goat (ice blue)",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00486_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/koons-goat-ice-blue-ar00486",
+      "id": "98203",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "monkey (red-orange)",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00487_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/koons-monkey-red-orange-ar00487",
+      "id": "98204",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "donkey (blue-green)",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00488_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/koons-donkey-blue-green-ar00488",
+      "id": "98205",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bear (blue)",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00489_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/koons-bear-blue-ar00489",
+      "id": "98206",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hippo (green)",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00490_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/koons-hippo-green-ar00490",
+      "id": "98207",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "elephant (gold)",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00491_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/koons-elephant-gold-ar00491",
+      "id": "98208",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pony (blue)",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00492_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/koons-pony-blue-ar00492",
+      "id": "98209",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "walrus (purple)",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00493_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/koons-walrus-purple-ar00493",
+      "id": "98210",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "winter bears",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00494_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/koons-winter-bears-ar00494",
+      "id": "98199",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bourgeois bust - jeff and ilona",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00597_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/koons-bourgeois-bust-jeff-and-ilona-ar00597",
+      "id": "93054",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "art magazine ads (arts)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/koons-art-magazine-ads-arts-ar01129",
+      "id": "115252",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "art magazine ads (flash art)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/koons-art-magazine-ads-flash-art-ar01130",
+      "id": "115254",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "art magazine ads (art forum)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/koons-art-magazine-ads-art-forum-ar01131",
+      "id": "115255",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "giraffe (red)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/koons-giraffe-red-ar01147",
+      "id": "98202",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "three ball total equilibrium tank (two dr j silver series, spalding nba tip-off)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06991_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/koons-three-ball-total-equilibrium-tank-two-dr-j-silver-series-spalding-nba-tip-off-t06991",
+      "id": "21383",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "93052",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98197",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98198",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98200",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "95900",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98201",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98203",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98204",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98205",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98206",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98207",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98208",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98209",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98210",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98199",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93054",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "115252",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "115254",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "115255",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "98202",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21383",
+      "value": 1
+    }
+  ]
+}

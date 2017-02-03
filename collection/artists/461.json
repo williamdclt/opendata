@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Rossetti, Dante Gabriel",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/dante-gabriel-rossetti-461",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "david",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00842_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossetti-david-a00842",
+      "id": "12763",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the adoration",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00843_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossetti-the-adoration-a00843",
+      "id": "12764",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "king david",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00844_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossetti-king-david-a00844",
+      "id": "12765",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fanny cornforth",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00845_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossetti-fanny-cornforth-a00845",
+      "id": "12766",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a man smoking a long pipe",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00846_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossetti-study-of-a-man-smoking-a-long-pipe-a00846",
+      "id": "12767",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ecce ancilla domini! (the annunciation)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01210_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossetti-ecce-ancilla-domini-the-annunciation-n01210",
+      "id": "12768",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "beata beatrix",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01279_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossetti-beata-beatrix-n01279",
+      "id": "12769",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rosa triplex",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossetti-rosa-triplex-n01702",
+      "id": "12770",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sancta lilias",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02440_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossetti-sancta-lilias-n02440",
+      "id": "12771",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "monna pomona",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02685_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossetti-monna-pomona-n02685",
+      "id": "12772",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mary magdalene leaving the house feasting",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02859_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossetti-mary-magdalene-leaving-the-house-feasting-n02859",
+      "id": "12773",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mary nazarene",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02860_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossetti-mary-nazarene-n02860",
+      "id": "12774",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "miss robertson (mrs fernandez)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03038_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossetti-miss-robertson-mrs-fernandez-n03038",
+      "id": "12775",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the beloved (\u2018the bride\u2019)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03053_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossetti-the-beloved-the-bride-n03053",
+      "id": "12776",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "monna vanna",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03054_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossetti-monna-vanna-n03054",
+      "id": "12777",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "aurelia (fazio\u2019s mistress)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03055_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossetti-aurelia-fazios-mistress-n03055",
+      "id": "12778",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "paolo and francesca da rimini",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03056_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossetti-paolo-and-francesca-da-rimini-n03056",
+      "id": "12779",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the blue closet",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03057_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossetti-the-blue-closet-n03057",
+      "id": "12780",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the wedding of st george and princess sabra",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03058_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossetti-the-wedding-of-st-george-and-princess-sabra-n03058",
+      "id": "12781",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the tune of the seven towers",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03059_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossetti-the-tune-of-the-seven-towers-n03059",
+      "id": "12782",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the chapel before the lists",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03060_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossetti-the-chapel-before-the-lists-n03060",
+      "id": "12783",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the damsel of sanct grael",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03061_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossetti-the-damsel-of-sanct-grael-n03061",
+      "id": "12784",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the heart of the night (mariana in the moated grange)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03062_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossetti-the-heart-of-the-night-mariana-in-the-moated-grange-n03062",
+      "id": "12785",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lucrezia borgia",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03063_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossetti-lucrezia-borgia-n03063",
+      "id": "12786",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the passover in the holy family",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03156_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossetti-the-passover-in-the-holy-family-n03156",
+      "id": "12787",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "arthur\u2019s tomb",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03283_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossetti-arthurs-tomb-n03283",
+      "id": "12788",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dantis amor",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03532_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossetti-dantis-amor-n03532",
+      "id": "12789",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dr johnson at the mitre",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossetti-dr-johnson-at-the-mitre-n03827",
+      "id": "12790",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "maids of elfen-mere, engraved by the dalziel brothers",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03971_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossetti-maids-of-elfen-mere-engraved-by-the-dalziel-brothers-n03971",
+      "id": "12791",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the palace of art, engraved by the dalziel brothers",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04058_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossetti-the-palace-of-art-engraved-by-the-dalziel-brothers-n04058",
+      "id": "12792",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "roman de la rose",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04089_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossetti-roman-de-la-rose-n04089",
+      "id": "12793",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018giotto painting the portrait of dante\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04283_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossetti-study-for-giotto-painting-the-portrait-of-dante-n04283",
+      "id": "12794",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018the bride\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04284_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossetti-study-for-the-bride-n04284",
+      "id": "12795",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for the head of love, for \u2018dante\u2019s dream at the time of the death of beatrice\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04285_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossetti-study-for-the-head-of-love-for-dantes-dream-at-the-time-of-the-death-of-beatrice-n04285",
+      "id": "12796",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st catherine",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04603_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossetti-st-catherine-n04603",
+      "id": "12797",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hesterna rosa",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04626_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossetti-hesterna-rosa-n04626",
+      "id": "12798",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "taurello\u2019s first sight of fortune",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04627_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossetti-taurellos-first-sight-of-fortune-n04627",
+      "id": "12799",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "elizabeth siddall in a chair",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04628_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossetti-elizabeth-siddall-in-a-chair-n04628",
+      "id": "12800",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "elizabeth siddall plaiting her hair",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04629_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossetti-elizabeth-siddall-plaiting-her-hair-n04629",
+      "id": "12801",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the girlhood of mary virgin",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04872_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rossetti-the-girlhood-of-mary-virgin-n04872",
+      "id": "12802",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12763",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12764",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12765",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12766",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12767",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12768",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12769",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12770",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12771",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12772",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12773",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12774",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12775",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12776",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12777",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12778",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12779",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12780",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12781",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12782",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12783",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12784",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12785",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12786",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12787",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12788",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12789",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12790",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12791",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12792",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12793",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12794",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12795",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12796",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12797",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12798",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12799",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12800",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12801",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12802",
+      "value": 1
+    }
+  ]
+}

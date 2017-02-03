@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Moriyama, Daido",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/daido-moriyama-11595",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "memory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moriyama-memory-p13314",
+      "id": "123841",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moriyama-memory-p13315",
+      "id": "123842",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moriyama-memory-p13316",
+      "id": "123843",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moriyama-memory-p13317",
+      "id": "123844",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moriyama-memory-p13318",
+      "id": "123845",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moriyama-memory-p13319",
+      "id": "123846",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moriyama-memory-p13320",
+      "id": "123847",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moriyama-memory-p13321",
+      "id": "123848",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moriyama-memory-p13322",
+      "id": "123849",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moriyama-memory-p13323",
+      "id": "123850",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moriyama-memory-p13324",
+      "id": "123851",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moriyama-memory-p13325",
+      "id": "123852",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moriyama-memory-p13326",
+      "id": "123853",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moriyama-memory-p13327",
+      "id": "123854",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moriyama-memory-p13328",
+      "id": "123855",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moriyama-memory-p13329",
+      "id": "123856",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moriyama-memory-p13330",
+      "id": "123857",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moriyama-memory-p13331",
+      "id": "123858",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moriyama-memory-p13332",
+      "id": "123859",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moriyama-memory-p13333",
+      "id": "123860",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moriyama-memory-p13334",
+      "id": "123861",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moriyama-memory-p13335",
+      "id": "123862",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moriyama-memory-p13336",
+      "id": "123863",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moriyama-memory-p13337",
+      "id": "123864",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moriyama-memory-p13338",
+      "id": "123865",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moriyama-memory-p13339",
+      "id": "123866",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moriyama-memory-p13340",
+      "id": "123867",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moriyama-memory-p13341",
+      "id": "123868",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moriyama-memory-p13342",
+      "id": "123869",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moriyama-memory-p13343",
+      "id": "123870",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moriyama-memory-p13344",
+      "id": "123871",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moriyama-memory-p13345",
+      "id": "123872",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moriyama-memory-p13346",
+      "id": "123873",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moriyama-memory-p13347",
+      "id": "123874",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moriyama-memory-p13348",
+      "id": "123875",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moriyama-memory-p13349",
+      "id": "123876",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moriyama-memory-p13350",
+      "id": "123877",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moriyama-memory-p13351",
+      "id": "123878",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moriyama-memory-p13352",
+      "id": "123879",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moriyama-memory-p13353",
+      "id": "125378",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "123841",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123842",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123843",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123844",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123845",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123846",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123847",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123848",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123849",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123850",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123851",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123852",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123853",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123854",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123855",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123856",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123857",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123858",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123859",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123860",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123861",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123862",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123863",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123864",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123865",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123866",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123867",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123868",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123869",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123870",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123871",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123872",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123873",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123874",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123875",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123876",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123877",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123878",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123879",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "125378",
+      "value": 1
+    }
+  ]
+}

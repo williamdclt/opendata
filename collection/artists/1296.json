@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hodgkins, Frances",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/frances-hodgkins-1296",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the lake",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05130_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkins-the-lake-n05130",
+      "id": "6592",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "broken tractor",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05406_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkins-broken-tractor-n05406",
+      "id": "6593",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "loveday and ann: two women with a basket of flowers",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05456_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkins-loveday-and-ann-two-women-with-a-basket-of-flowers-n05456",
+      "id": "6594",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seated woman",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05857_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkins-seated-woman-n05857",
+      "id": "6595",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "flatford mill",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05978_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkins-flatford-mill-n05978",
+      "id": "6596",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wings over water",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06237_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkins-wings-over-water-n06237",
+      "id": "6597",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00163_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkins-still-life-t00163",
+      "id": "6598",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of kitty west",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07814_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hodgkins-portrait-of-kitty-west-t07814",
+      "id": "68784",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6592",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6593",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6594",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6595",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6596",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6597",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6598",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "68784",
+      "value": 1
+    }
+  ]
+}

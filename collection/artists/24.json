@@ -1,0 +1,547 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Barry, James",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/james-barry-24",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "king lear weeping over the dead body of cordelia",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00556_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barry-king-lear-weeping-over-the-dead-body-of-cordelia-t00556",
+      "id": "739",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a grecian harvest home",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03784_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barry-a-grecian-harvest-home-t03784",
+      "id": "740",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the thames, or the triumph of navigation",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03785_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barry-the-thames-or-the-triumph-of-navigation-t03785",
+      "id": "741",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the distribution of premiums in the society of arts",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03786_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barry-the-distribution-of-premiums-in-the-society-of-arts-t03786",
+      "id": "742",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "elysium and tartarus",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barry-elysium-and-tartarus-t03787",
+      "id": "743",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "detail of the diagorides victors",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barry-detail-of-the-diagorides-victors-t03788",
+      "id": "744",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "orpheus",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06557_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barry-orpheus-t06557",
+      "id": "20421",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the thames, or the triumph of navigation",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06558_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barry-the-thames-or-the-triumph-of-navigation-t06558",
+      "id": "20422",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the distribution of premiums in the society of arts",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06559_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barry-the-distribution-of-premiums-in-the-society-of-arts-t06559",
+      "id": "20423",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "elysium and tartarus",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barry-elysium-and-tartarus-t06560",
+      "id": "20424",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reserved knowledge",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06561_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barry-reserved-knowledge-t06561",
+      "id": "20425",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the glorious sextumvirate",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06562_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barry-the-glorious-sextumvirate-t06562",
+      "id": "20426",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lord baltimore and the group of legislators",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06563_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barry-lord-baltimore-and-the-group-of-legislators-t06563",
+      "id": "20427",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "divine justice",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06564_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barry-divine-justice-t06564",
+      "id": "20428",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the angelic guards",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barry-the-angelic-guards-t06565",
+      "id": "20429",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "detail of the diagorides victors",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barry-detail-of-the-diagorides-victors-t06566",
+      "id": "20430",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "king george and queen charlotte",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06567_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barry-king-george-and-queen-charlotte-t06567",
+      "id": "20431",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "queen isabella, las casas and magellen",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barry-queen-isabella-las-casas-and-magellen-t06568",
+      "id": "20432",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "king lear and cordelia",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barry-king-lear-and-cordelia-t06569",
+      "id": "20433",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "job reproved by his friends",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barry-job-reproved-by-his-friends-t06570",
+      "id": "20434",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the temptation of adam",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06571_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barry-the-temptation-of-adam-t06571",
+      "id": "20435",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the phoenix or the resurrection of freedom",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06572_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barry-the-phoenix-or-the-resurrection-of-freedom-t06572",
+      "id": "20436",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sacra christi familia",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06573_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barry-sacra-christi-familia-t06573",
+      "id": "20437",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the conversion of polemon",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barry-the-conversion-of-polemon-t06574",
+      "id": "20438",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "philoctetes in the island of lemnos",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06575_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barry-philoctetes-in-the-island-of-lemnos-t06575",
+      "id": "20439",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the fall of satan",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barry-the-fall-of-satan-t06576",
+      "id": "20440",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "satan and his legions hurling defiance toward the vault of heaven",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barry-satan-and-his-legions-hurling-defiance-toward-the-vault-of-heaven-t06577",
+      "id": "20441",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "satan, sin and death",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06578_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barry-satan-sin-and-death-t06578",
+      "id": "20442",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the birth of venus",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06579_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barry-the-birth-of-venus-t06579",
+      "id": "20443",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "william pitt, earl of chatham",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06580_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barry-william-pitt-earl-of-chatham-t06580",
+      "id": "20444",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "scientists and philosophers",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06581_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barry-scientists-and-philosophers-t06581",
+      "id": "20445",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pandora",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barry-pandora-t06582",
+      "id": "20446",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "crowning the victors at olympia",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barry-crowning-the-victors-at-olympia-t06583",
+      "id": "20447",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jupiter and juno on mount ida",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06584_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barry-jupiter-and-juno-on-mount-ida-t06584",
+      "id": "20448",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018philoctetes on the island of lemnos\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08127_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barry-study-for-philoctetes-on-the-island-of-lemnos-t08127",
+      "id": "22299",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a nude recumbent woman",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08238_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barry-study-of-a-nude-recumbent-woman-t08238",
+      "id": "22302",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the judgment of paris. verso: study for the same subject",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08582_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barry-the-judgment-of-paris-verso-study-for-the-same-subject-t08582",
+      "id": "22301",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait, three quarters to left",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10438_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/barry-self-portrait-three-quarters-to-left-t10438",
+      "id": "22300",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "739",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "740",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "741",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "742",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "743",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "744",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20421",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20422",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20423",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20424",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20425",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20426",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20427",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20428",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20429",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20430",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20431",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20432",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20433",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20434",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20435",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20436",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20437",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20438",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20439",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20440",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20441",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20442",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20443",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20444",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20445",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20446",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20447",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20448",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22299",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22302",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22301",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22300",
+      "value": 1
+    }
+  ]
+}

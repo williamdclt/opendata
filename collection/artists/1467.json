@@ -1,0 +1,323 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Lanyon, Peter",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/peter-lanyon-1467",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "porthleven",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06151_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanyon-porthleven-n06151",
+      "id": "8369",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the returned seaman",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06324_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanyon-the-returned-seaman-p06324",
+      "id": "8370",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the returned seaman",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07741_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanyon-the-returned-seaman-p07741",
+      "id": "8371",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "underground",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11082_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanyon-underground-p11082",
+      "id": "8372",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "in the trees",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11093_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanyon-in-the-trees-p11093",
+      "id": "8373",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cane chair",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77490_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanyon-cane-chair-p77490",
+      "id": "20158",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "thermal",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00375_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanyon-thermal-t00375",
+      "id": "8374",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "porthleven boats",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00950_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanyon-porthleven-boats-t00950",
+      "id": "8375",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tall country and seashore",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01082_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanyon-tall-country-and-seashore-t01082",
+      "id": "8376",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "construction",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01496_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanyon-construction-t01496",
+      "id": "8377",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "corsham model",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01947_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanyon-corsham-model-t01947",
+      "id": "8378",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "zennor storm",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03209_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanyon-zennor-storm-t03209",
+      "id": "8379",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "white track",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03324_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanyon-white-track-t03324",
+      "id": "8380",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wreck",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03693_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanyon-wreck-t03693",
+      "id": "8381",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anticoli hills",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06458_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanyon-anticoli-hills-t06458",
+      "id": "20157",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018orpheus\u2019. verso: figure drawing",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06459_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanyon-drawing-for-orpheus-verso-figure-drawing-t06459",
+      "id": "20159",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "headland",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06466_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanyon-headland-t06466",
+      "id": "20168",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lost mine",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06467_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanyon-lost-mine-t06467",
+      "id": "20169",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "construction for \u2018lost mine\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06739_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanyon-construction-for-lost-mine-t06739",
+      "id": "20769",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "turn around",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06740_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanyon-turn-around-t06740",
+      "id": "20774",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "coast",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07819_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanyon-coast-t07819",
+      "id": "68721",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "construction for \u2018st just\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lanyon-construction-for-st-just-t13431",
+      "id": "111107",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8369",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8370",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8371",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8372",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8373",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20158",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8374",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8375",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8376",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8377",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8378",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8379",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8380",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8381",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20157",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20159",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20168",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20169",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20769",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20774",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "68721",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "111107",
+      "value": 1
+    }
+  ]
+}

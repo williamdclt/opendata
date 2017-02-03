@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Macdonald, Georgina",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/georgina-macdonald-lady-burne-jones-361",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "dead bird",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04941_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/macdonald-dead-bird-n04941",
+      "id": "9077",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9077",
+      "value": 1
+    }
+  ]
+}

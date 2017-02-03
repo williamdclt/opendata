@@ -1,0 +1,505 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Houthuesen, Albert",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/albert-houthuesen-1315",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "painted in a welsh village",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04972_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houthuesen-painted-in-a-welsh-village-n04972",
+      "id": "6855",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "crown of thorns",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houthuesen-crown-of-thorns-n05122",
+      "id": "6856",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "maes gwyn stack yard",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05328_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houthuesen-maes-gwyn-stack-yard-n05328",
+      "id": "6857",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houthuesen-untitled-p06293",
+      "id": "6858",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled. verso: sweet note - bitter apple",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houthuesen-untitled-verso-sweet-note-bitter-apple-p06294",
+      "id": "6859",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "harry langdon (clown with a small trilby hat)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houthuesen-harry-langdon-clown-with-a-small-trilby-hat-p06295",
+      "id": "6860",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "1. white faced clown",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houthuesen-1-white-faced-clown-p06296",
+      "id": "6861",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "2. augusti",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houthuesen-2-augusti-p06297",
+      "id": "6862",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "3. juggler clowns",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houthuesen-3-juggler-clowns-p06298",
+      "id": "6863",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "4. night",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houthuesen-4-night-p06299",
+      "id": "6864",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "5. muse and clown",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houthuesen-5-muse-and-clown-p06300",
+      "id": "6865",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "harry langdon",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houthuesen-harry-langdon-p06301",
+      "id": "6866",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "white face in a straw hat",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houthuesen-white-face-in-a-straw-hat-p06302",
+      "id": "6867",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "philemon",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houthuesen-philemon-p06303",
+      "id": "6868",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "of the company of st philemon",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houthuesen-of-the-company-of-st-philemon-p06304",
+      "id": "6869",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "clown with striped hat",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houthuesen-clown-with-striped-hat-p06305",
+      "id": "6870",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dancer",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houthuesen-dancer-p06306",
+      "id": "6871",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dancers",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houthuesen-dancers-p06307",
+      "id": "6872",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "laurel",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houthuesen-laurel-p06308",
+      "id": "6873",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mariner",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houthuesen-mariner-p06309",
+      "id": "6874",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "buster (keaton)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houthuesen-buster-keaton-p06310",
+      "id": "6875",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reflections",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houthuesen-reflections-p06311",
+      "id": "6876",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stage actors, adam and eve",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houthuesen-stage-actors-adam-and-eve-p06312",
+      "id": "6877",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "white face with plumed hat",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houthuesen-white-face-with-plumed-hat-p06313",
+      "id": "6878",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stone cutter",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houthuesen-stone-cutter-p06647",
+      "id": "6879",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "celebration",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houthuesen-celebration-p06648",
+      "id": "6880",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hubbub",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houthuesen-hubbub-p06649",
+      "id": "6881",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cleft tree",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houthuesen-cleft-tree-p06650",
+      "id": "6882",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the beauty patch",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houthuesen-the-beauty-patch-p06651",
+      "id": "6883",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sun over lake",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houthuesen-sun-over-lake-p06652",
+      "id": "6884",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "trilogy",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houthuesen-trilogy-p06653",
+      "id": "6885",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "magician",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houthuesen-magician-p06654",
+      "id": "6886",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sea shell",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houthuesen-sea-shell-p06655",
+      "id": "6887",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ancestor",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houthuesen-ancestor-p06712",
+      "id": "6888",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ruskin park ii",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00425_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houthuesen-ruskin-park-ii-t00425",
+      "id": "6889",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6855",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6856",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6857",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6858",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6859",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6860",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6861",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6862",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6863",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6864",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6865",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6866",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6867",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6868",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6869",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6870",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6871",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6872",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6873",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6874",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6875",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6876",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6877",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6878",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6879",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6880",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6881",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6882",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6883",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6884",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6885",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6886",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6887",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6888",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6889",
+      "value": 1
+    }
+  ]
+}

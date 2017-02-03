@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gupta, Subodh",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/subodh-gupta-12171",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "everyday",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gupta-everyday-t13202",
+      "id": "109390",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "109390",
+      "value": 1
+    }
+  ]
+}

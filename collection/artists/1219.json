@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "De Grey, Sir Roger",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-roger-de-grey-1219",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "wrotham hill",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00098_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-grey-wrotham-hill-t00098",
+      "id": "5680",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape from the balcony",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00661_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-grey-landscape-from-the-balcony-t00661",
+      "id": "5681",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "interior: exterior",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03220_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/de-grey-interior-exterior-t03220",
+      "id": "5682",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5680",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5681",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5682",
+      "value": 1
+    }
+  ]
+}

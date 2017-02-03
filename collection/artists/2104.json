@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Vieira da Silva, Maria Helena",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/maria-helena-vieira-da-silva-2104",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the corridor",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06189_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/vieira-da-silva-the-corridor-n06189",
+      "id": "15744",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "paris",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00245_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/vieira-da-silva-paris-t00245",
+      "id": "15745",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "15744",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15745",
+      "value": 1
+    }
+  ]
+}

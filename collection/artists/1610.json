@@ -1,0 +1,309 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "McLean, Bruce",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/bruce-mclean-1610",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "their grassy places",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01950_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mclean-their-grassy-places-p01950",
+      "id": "16940",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hot slick",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11267_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mclean-hot-slick-p11267",
+      "id": "18889",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "large warhead",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77055_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mclean-large-warhead-p77055",
+      "id": "9125",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77123_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mclean-untitled-p77123",
+      "id": "9126",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kilometre theatre",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78291_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mclean-kilometre-theatre-p78291",
+      "id": "26583",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a pavilion for parliament",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78292_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mclean-a-pavilion-for-parliament-p78292",
+      "id": "26584",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "an ideal home",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78293_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mclean-an-ideal-home-p78293",
+      "id": "26585",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "designer traffic jam - celebration of an intersection",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78294_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mclean-designer-traffic-jam-celebration-of-an-intersection-p78294",
+      "id": "26586",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "facade park",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78295_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mclean-facade-park-p78295",
+      "id": "26587",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "great arch of art",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78296_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mclean-great-arch-of-art-p78296",
+      "id": "26588",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "storehouse/starehouse of art",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78297_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mclean-storehousestarehouse-of-art-p78297",
+      "id": "26589",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "xerox city",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78298_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mclean-xerox-city-p78298",
+      "id": "26590",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "150ft seaskape, largiebeg",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01738_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mclean-150ft-seaskape-largiebeg-t01738",
+      "id": "9127",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "2 rock and shoreskapes, largiebeg",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01739_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mclean-2-rock-and-shoreskapes-largiebeg-t01739",
+      "id": "9128",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "six sculptures",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01740_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mclean-six-sculptures-t01740",
+      "id": "9129",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pose work for plinths i",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03273_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mclean-pose-work-for-plinths-i-t03273",
+      "id": "9130",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pose work for plinths 3",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03274_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mclean-pose-work-for-plinths-3-t03274",
+      "id": "9131",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study towards the object of the exercise",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03275_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mclean-study-towards-the-object-of-the-exercise-t03275",
+      "id": "9132",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018possibly a nude by a coal bunker\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mclean-study-for-possibly-a-nude-by-a-coal-bunker-t03411",
+      "id": "9133",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "song for the north",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mclean-ward-song-for-the-north-t05496",
+      "id": "17273",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "in the shadow of your smile, bob",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mclean-in-the-shadow-of-your-smile-bob-t13533",
+      "id": "116177",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16940",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18889",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9125",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9126",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26583",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26584",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26585",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26586",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26587",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26588",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26589",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26590",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9127",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9128",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9129",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9130",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9131",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9132",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9133",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17273",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "116177",
+      "value": 1
+    }
+  ]
+}

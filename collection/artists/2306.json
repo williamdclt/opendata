@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Beale, Mary",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/mary-beale-2306",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "portrait of a young girl",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06612_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beale-portrait-of-a-young-girl-t06612",
+      "id": "20462",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch of the artist\u2019s son, bartholomew beale, in profile",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13245_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beale-sketch-of-the-artists-son-bartholomew-beale-in-profile-t13245",
+      "id": "112238",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch of the artist\u2019s son, bartholomew beale, facing left",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13246_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/beale-sketch-of-the-artists-son-bartholomew-beale-facing-left-t13246",
+      "id": "112239",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "20462",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112238",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "112239",
+      "value": 1
+    }
+  ]
+}

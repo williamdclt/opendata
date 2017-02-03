@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Etchells, Frederick",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/frederick-etchells-1069",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the fair, fragment",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/etchells-the-fair-fragment-n04572",
+      "id": "4157",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05403_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/etchells-still-life-n05403",
+      "id": "4158",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05404_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/etchells-portrait-n05404",
+      "id": "4159",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the big girl",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00192_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/etchells-the-big-girl-t00192",
+      "id": "4160",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "inscription \u2018let us now praise famous men\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/etchells-inscription-let-us-now-praise-famous-men-t03724",
+      "id": "4161",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4157",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4158",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4159",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4160",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4161",
+      "value": 1
+    }
+  ]
+}

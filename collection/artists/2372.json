@@ -1,0 +1,281 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Malchair, John Baptist",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-baptist-malchair-2372",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "moel-y-ffrydd",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07011_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/malchair-moel-y-ffrydd-t07011",
+      "id": "21424",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "barmouth",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08210_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/malchair-barmouth-t08210",
+      "id": "23191",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a castellated mill on a waterfall, after sir g. beaumont",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09427_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/malchair-a-castellated-mill-on-a-waterfall-after-sir-g-beaumont-t09427",
+      "id": "23192",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11647_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/malchair-title-not-known-t11647",
+      "id": "23190",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11648_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/malchair-title-not-known-t11648",
+      "id": "25888",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11649_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/malchair-title-not-known-t11649",
+      "id": "25889",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11650_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/malchair-title-not-known-t11650",
+      "id": "25890",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11651_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/malchair-title-not-known-t11651",
+      "id": "25891",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "godstow abbey",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11652_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/malchair-godstow-abbey-t11652",
+      "id": "25892",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "newenham",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11653_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/malchair-newenham-t11653",
+      "id": "25893",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11654_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/malchair-title-not-known-t11654",
+      "id": "25894",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "south view from the water",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11655_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/malchair-south-view-from-the-water-t11655",
+      "id": "25895",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "north view",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11656_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/malchair-north-view-t11656",
+      "id": "25896",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view from elsfield",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11657_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/malchair-view-from-elsfield-t11657",
+      "id": "25897",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "from wolvercot",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11658_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/malchair-from-wolvercot-t11658",
+      "id": "25898",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11659_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/malchair-title-not-known-t11659",
+      "id": "25899",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "magdalen tower",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11660_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/malchair-magdalen-tower-t11660",
+      "id": "25900",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "from merton field",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11661_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/malchair-from-merton-field-t11661",
+      "id": "25901",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11662_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/malchair-title-not-known-t11662",
+      "id": "25902",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "21424",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23191",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23192",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23190",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25888",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25889",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25890",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25891",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25892",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25893",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25894",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25895",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25896",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25897",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25898",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25899",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25900",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25901",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25902",
+      "value": 1
+    }
+  ]
+}

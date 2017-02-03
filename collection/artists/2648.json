@@ -1,0 +1,267 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Wearing, OBE Gillian",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/gillian-wearing-obe-2648",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the garden",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78086_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wearing-the-garden-p78086",
+      "id": "26121",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "theresa and ben",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wearing-theresa-and-ben-p78341",
+      "id": "27092",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "theresa and seamus",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wearing-theresa-and-seamus-p78342",
+      "id": "27078",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "theresa and chris",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wearing-theresa-and-chris-p78343",
+      "id": "27079",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "theresa and george",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wearing-theresa-and-george-p78344",
+      "id": "27089",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "theresa and mick",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wearing-theresa-and-mick-p78345",
+      "id": "27080",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "theresa and ali",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wearing-theresa-and-ali-p78346",
+      "id": "27081",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "theresa and gerry",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wearing-theresa-and-gerry-p78347",
+      "id": "27082",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018i\u2019m desperate\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78348_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wearing-im-desperate-p78348",
+      "id": "27083",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018i like to be in the country\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78349_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wearing-i-like-to-be-in-the-country-p78349",
+      "id": "27084",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018i signed on and they would not give me nothing\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78350_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wearing-i-signed-on-and-they-would-not-give-me-nothing-p78350",
+      "id": "27085",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018everything is connected in life...\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78351_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wearing-everything-is-connected-in-life-p78351",
+      "id": "27086",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018i have been certified as mildly insane!\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78352_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wearing-i-have-been-certified-as-mildly-insane-p78352",
+      "id": "27087",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "confess all on video. don\u2019t worry you will be in disguise. intrigued? call gillian",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wearing-confess-all-on-video-dont-worry-you-will-be-in-disguise-intrigued-call-gillian-t07329",
+      "id": "25967",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "10-16",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wearing-10-16-t07415",
+      "id": "26208",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sacha and mum",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wearing-sacha-and-mum-t07425",
+      "id": "26248",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "confess all on video. don\u2019t worry you will be in disguise. intrigued? call gillian version ii",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07447_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wearing-confess-all-on-video-dont-worry-you-will-be-in-disguise-intrigued-call-gillian-t07447",
+      "id": "26400",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "my favourite track",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wearing-my-favourite-track-t07593",
+      "id": "26953",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "26121",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27092",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27078",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27079",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27089",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27080",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27081",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27082",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27083",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27084",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27085",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27086",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27087",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25967",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26208",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26248",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26400",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26953",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Lewis, Wyndham",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/wyndham-lewis-1502",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "red scene",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04913_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-red-scene-n04913",
+      "id": "8687",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "la suerte",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05039_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-la-suerte-n05039",
+      "id": "8688",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ezra pound",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05042_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-ezra-pound-n05042",
+      "id": "8689",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "edith sitwell",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05437_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-edith-sitwell-n05437",
+      "id": "8690",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the surrender of barcelona",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05768_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-the-surrender-of-barcelona-n05768",
+      "id": "8691",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "composition",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05886_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-composition-n05886",
+      "id": "8692",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "crouching woman",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06255_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-crouching-woman-n06255",
+      "id": "8693",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "girl reclining",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06256_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-girl-reclining-n06256",
+      "id": "8694",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "indian dance",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06257_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-indian-dance-n06257",
+      "id": "8695",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "madge pulsford",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00021_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-madge-pulsford-t00021",
+      "id": "8696",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait sketch: seated woman wearing pendant",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00022_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-portrait-sketch-seated-woman-wearing-pendant-t00022",
+      "id": "8697",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait sketch: seated woman with beads",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00023_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-portrait-sketch-seated-woman-with-beads-t00023",
+      "id": "8698",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "crouching nude",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00024_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-crouching-nude-t00024",
+      "id": "8699",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bagdad",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00099_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-bagdad-t00099",
+      "id": "8700",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs schiff",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00100_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-mrs-schiff-t00100",
+      "id": "8701",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "planners: happy day",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00106_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-planners-happy-day-t00106",
+      "id": "8702",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "creation myth",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00107_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-creation-myth-t00107",
+      "id": "8703",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two mechanics",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00108_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-two-mechanics-t00108",
+      "id": "8704",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a canadian war factory",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00135_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-a-canadian-war-factory-t00135",
+      "id": "8705",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "madge pulsford",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00193_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-madge-pulsford-t00193",
+      "id": "8706",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vorticist composition",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00625_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-vorticist-composition-t00625",
+      "id": "8707",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the crowd",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00689_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-the-crowd-t00689",
+      "id": "8708",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "workshop",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01931_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-workshop-t01931",
+      "id": "8709",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nigel tangye",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04118_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lewis-nigel-tangye-t04118",
+      "id": "8710",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8687",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8688",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8689",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8690",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8691",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8692",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8693",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8694",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8695",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8696",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8697",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8698",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8699",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8700",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8701",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8702",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8703",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8704",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8705",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8706",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8707",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8708",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8709",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8710",
+      "value": 1
+    }
+  ]
+}

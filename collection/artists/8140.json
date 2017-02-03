@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Lawler, Louise",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/louise-lawler-8140",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "etude pour la lecture, 1923, this drawing is for sale, paris",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79770_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lawler-etude-pour-la-lecture-1923-this-drawing-is-for-sale-paris-p79770",
+      "id": "85519",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "foreground",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79771_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lawler-foreground-p79771",
+      "id": "85521",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "march 25, 1991",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79772_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lawler-march-25-1991-p79772",
+      "id": "85520",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "85519",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85521",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85520",
+      "value": 1
+    }
+  ]
+}

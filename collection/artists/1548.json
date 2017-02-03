@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Mackintosh, Charles Rennie",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/charles-rennie-mackintosh-1548",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "fetges",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04438_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mackintosh-fetges-n04438",
+      "id": "9122",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9122",
+      "value": 1
+    }
+  ]
+}

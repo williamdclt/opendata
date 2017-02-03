@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Toulouse-Lautrec, Henri de",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/henri-de-toulouse-lautrec-2058",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the two friends",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05142_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/toulouse-lautrec-the-two-friends-n05142",
+      "id": "14379",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "emile bernard",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00465_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/toulouse-lautrec-emile-bernard-t00465",
+      "id": "14380",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "side-saddle",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03575_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/toulouse-lautrec-side-saddle-t03575",
+      "id": "14381",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "14379",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14380",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "14381",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Downard, Ebenezer Newman",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/ebenezer-newman-downard-158",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a mountain path at capel curig, wales",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01139_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/downard-a-mountain-path-at-capel-curig-wales-t01139",
+      "id": "3994",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "3994",
+      "value": 1
+    }
+  ]
+}

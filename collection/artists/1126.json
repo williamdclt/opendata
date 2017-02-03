@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Frost, Sir Terry",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-terry-frost-1126",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "lace i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01136_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frost-lace-i-p01136",
+      "id": "4676",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "red and black solid",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01137_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frost-red-and-black-solid-p01137",
+      "id": "4677",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black and purple on blue",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01138_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frost-black-and-purple-on-blue-p01138",
+      "id": "4678",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blues",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01139_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frost-blues-p01139",
+      "id": "4679",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "colour on the side",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01140_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frost-colour-on-the-side-p01140",
+      "id": "4680",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ochre, red, blue",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01141_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frost-ochre-red-blue-p01141",
+      "id": "4681",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "red, blue, orange on yellow",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01142_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frost-red-blue-orange-on-yellow-p01142",
+      "id": "4682",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blue suspended form",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01143_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frost-blue-suspended-form-p01143",
+      "id": "4683",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "green and orange",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01144_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frost-green-and-orange-p01144",
+      "id": "4684",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "orange dusk",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01145_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frost-orange-dusk-p01145",
+      "id": "4685",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "red with black on the side",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01146_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frost-red-with-black-on-the-side-p01146",
+      "id": "4686",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stacked on the side",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01147_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frost-stacked-on-the-side-p01147",
+      "id": "4687",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lace ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01148_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frost-lace-ii-p01148",
+      "id": "4688",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "alhambra",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01149_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frost-alhambra-p01149",
+      "id": "4689",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ice blue",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01150_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frost-ice-blue-p01150",
+      "id": "4690",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "moonship",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01151_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frost-moonship-p01151",
+      "id": "4691",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "red, blue, green",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01152_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frost-red-blue-green-p01152",
+      "id": "4692",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "straw, orange, blue",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01153_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frost-straw-orange-blue-p01153",
+      "id": "4693",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "suspended form",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01154_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frost-suspended-form-p01154",
+      "id": "4694",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "zebra",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01155_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frost-zebra-p01155",
+      "id": "4695",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03099_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frost-untitled-p03099",
+      "id": "4696",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black and red on blue",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04229_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frost-black-and-red-on-blue-p04229",
+      "id": "4697",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black on mauve grey",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04230_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frost-black-on-mauve-grey-p04230",
+      "id": "4698",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "red and black on green",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04231_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frost-red-and-black-on-green-p04231",
+      "id": "4699",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "red and black on grey",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04232_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frost-red-and-black-on-grey-p04232",
+      "id": "4700",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "red and black linear",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06208_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frost-red-and-black-linear-p06208",
+      "id": "4701",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "red and black solid",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06209_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frost-red-and-black-solid-p06209",
+      "id": "4702",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lace i (trial proof)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06210_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frost-lace-i-trial-proof-p06210",
+      "id": "4703",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blue moon",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07981_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frost-blue-moon-p07981",
+      "id": "4704",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "boat shapes",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07982_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frost-boat-shapes-p07982",
+      "id": "4705",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "boat shapes",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07983_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frost-boat-shapes-p07983",
+      "id": "4706",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "boat shapes",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07984_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frost-boat-shapes-p07984",
+      "id": "4707",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "leeds",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07985_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frost-leeds-p07985",
+      "id": "4708",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "camping, anduze",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07986_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frost-camping-anduze-p07986",
+      "id": "4709",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "umea, sweden",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07987_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frost-umea-sweden-p07987",
+      "id": "4710",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07988_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frost-self-portrait-p07988",
+      "id": "4711",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "composition",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77162_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frost-composition-p77162",
+      "id": "4712",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "madron woodcuts",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78373_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frost-madron-woodcuts-p78373",
+      "id": "27164",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "khaki and lemon",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00268_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frost-khaki-and-lemon-t00268",
+      "id": "4713",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "june, red and black",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00829_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/frost-june-red-and-black-t00829",
+      "id": "4714",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4676",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4677",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4678",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4679",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4680",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4681",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4682",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4683",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4684",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4685",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4686",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4687",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4688",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4689",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4690",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4691",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4692",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4693",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4694",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4695",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4696",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4697",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4698",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4699",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4700",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4701",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4702",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4703",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4704",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4705",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4706",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4707",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4708",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4709",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4710",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4711",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4712",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27164",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4713",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4714",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "George, Patrick",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/patrick-george-1151",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "natalie dower",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00421_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/george-natalie-dower-t00421",
+      "id": "5110",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hickbush",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00908_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/george-hickbush-t00908",
+      "id": "5111",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hickbush, the grove i",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03099_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/george-hickbush-the-grove-i-t03099",
+      "id": "5112",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5110",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5111",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5112",
+      "value": 1
+    }
+  ]
+}

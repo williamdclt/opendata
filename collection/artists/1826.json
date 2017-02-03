@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Reinhardt, Ad",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/ad-reinhardt-1826",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77814_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reinhardt-no-title-p77814",
+      "id": "21529",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "abstract painting",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01531_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reinhardt-abstract-painting-t01531",
+      "id": "12352",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "abstract painting no. 5",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01582_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reinhardt-abstract-painting-no-5-t01582",
+      "id": "12353",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "21529",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12352",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12353",
+      "value": 1
+    }
+  ]
+}

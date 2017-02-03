@@ -1,0 +1,211 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Mir\u00f3, Joan",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/joan-miro-1646",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "women and bird in the moonlight",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06007_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/miro-women-and-bird-in-the-moonlight-n06007",
+      "id": "9577",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05474_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/miro-untitled-p05474",
+      "id": "9578",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the matador",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07356_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/miro-the-matador-p07356",
+      "id": "9579",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the great carnivore",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07357_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/miro-the-great-carnivore-p07357",
+      "id": "9580",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the conductor",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07358_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/miro-the-conductor-p07358",
+      "id": "9581",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "series ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07900_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/miro-series-ii-p07900",
+      "id": "9582",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "composition",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77064_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/miro-composition-p77064",
+      "id": "9583",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "constellations",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77138_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/miro-constellations-p77138",
+      "id": "9584",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "painting",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01318_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/miro-painting-t01318",
+      "id": "9585",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03401_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/miro-woman-t03401",
+      "id": "9586",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the tightrope walker",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03402_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/miro-the-tightrope-walker-t03402",
+      "id": "9587",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a star caresses the breast of a negress (painting poem)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03690_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/miro-a-star-caresses-the-breast-of-a-negress-painting-poem-t03690",
+      "id": "9588",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "message from a friend",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03691_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/miro-message-from-a-friend-t03691",
+      "id": "9589",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of a catalan peasant",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07521_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/miro-head-of-a-catalan-peasant-t07521",
+      "id": "26596",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9577",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9578",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9579",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9580",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9581",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9582",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9583",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9584",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9585",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9586",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9587",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9588",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9589",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26596",
+      "value": 1
+    }
+  ]
+}

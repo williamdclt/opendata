@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Starr, Georgina",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/georgina-starr-2661",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "you stole my look",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/starr-you-stole-my-look-p78084",
+      "id": "26120",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "26120",
+      "value": 1
+    }
+  ]
+}

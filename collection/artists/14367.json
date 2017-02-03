@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hulusi, Mustafa",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/mustafa-hulusi-14367",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "afyon",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hulusi-afyon-t13578",
+      "id": "112308",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "112308",
+      "value": 1
+    }
+  ]
+}

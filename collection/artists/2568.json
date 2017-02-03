@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Smith, John Raphael",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-raphael-smith-2568",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a girl reading, a man standing over her",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09232_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-a-girl-reading-a-man-standing-over-her-t09232",
+      "id": "23545",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "23545",
+      "value": 1
+    }
+  ]
+}

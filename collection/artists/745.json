@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Bernik, Janez",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/janez-bernik-745",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled 8",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bernik-untitled-8-p02548",
+      "id": "942",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bernik-untitled-p07584",
+      "id": "943",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "evening in the quarry",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bernik-evening-in-the-quarry-t00428",
+      "id": "944",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "942",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "943",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "944",
+      "value": 1
+    }
+  ]
+}

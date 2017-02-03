@@ -1,0 +1,323 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Scott, Samuel",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/samuel-scott-480",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a barge seen from aft of the port beam, with a pram alongside",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36334_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-a-barge-seen-from-aft-of-the-port-beam-with-a-pram-alongside-d36334",
+      "id": "63419",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of the stern of a barge",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36335_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-study-of-the-stern-of-a-barge-d36335",
+      "id": "63420",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of the stern of a barge",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36336_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-study-of-the-stern-of-a-barge-d36336",
+      "id": "63421",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a barge seen from the port beam with a second study of the bows (above)",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36337_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-study-of-a-barge-seen-from-the-port-beam-with-a-second-study-of-the-bows-above-d36337",
+      "id": "63422",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a barge seen from above the starboard quarter",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36338_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-study-of-a-barge-seen-from-above-the-starboard-quarter-d36338",
+      "id": "63423",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "perspective diagram",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36339_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-perspective-diagram-d36339",
+      "id": "63424",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a lighter seen from above the port beam",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36340_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-study-of-a-lighter-seen-from-above-the-port-beam-d36340",
+      "id": "63425",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a wooden crane on a wharf",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36341_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-study-of-a-wooden-crane-on-a-wharf-d36341",
+      "id": "63426",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a view of london bridge before the late alterations",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00313_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-a-view-of-london-bridge-before-the-late-alterations-n00313",
+      "id": "13200",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a view of westminster bridge and parts adjacent",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00314_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-a-view-of-westminster-bridge-and-parts-adjacent-n00314",
+      "id": "13201",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "an arch of old westminster bridge",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01223_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-an-arch-of-old-westminster-bridge-n01223",
+      "id": "13202",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a view of the thames with the york buildings water tower",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01328_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-a-view-of-the-thames-with-the-york-buildings-water-tower-n01328",
+      "id": "13203",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a morning, with a view of cuckold\u2019s point",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05450_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-a-morning-with-a-view-of-cuckolds-point-n05450",
+      "id": "13204",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "admiral anson\u2019s action off cape finisterre 1747",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00202_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-admiral-ansons-action-off-cape-finisterre-1747-t00202",
+      "id": "13205",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "an arch of westminster bridge",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01193_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-an-arch-of-westminster-bridge-t01193",
+      "id": "13206",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a sunset, with a view of nine elms",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01235_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-a-sunset-with-a-view-of-nine-elms-t01235",
+      "id": "13207",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "scene in a dutch estuary",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08475_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-scene-in-a-dutch-estuary-t08475",
+      "id": "23513",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a lady in full dress, seen from behind",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08476_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-a-lady-in-full-dress-seen-from-behind-t08476",
+      "id": "23508",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a lady with hands folded",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08477_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-a-lady-with-hands-folded-t08477",
+      "id": "23509",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a crowd",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08478_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-a-crowd-t08478",
+      "id": "23512",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of an oarsman. verso: detailed study on a larger scale",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09213_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-study-of-an-oarsman-verso-detailed-study-on-a-larger-scale-t09213",
+      "id": "23511",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a cart and horse",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09240_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/scott-a-cart-and-horse-t09240",
+      "id": "23510",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "63419",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63420",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63421",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63422",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63423",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63424",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63425",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63426",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13200",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13201",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13202",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13203",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13204",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13205",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13206",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13207",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23513",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23508",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23509",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23512",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23511",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23510",
+      "value": 1
+    }
+  ]
+}

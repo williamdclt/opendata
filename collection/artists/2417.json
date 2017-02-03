@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Calvert, Charles",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/charles-calvert-2417",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "coast scene",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09510_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/calvert-coast-scene-t09510",
+      "id": "22387",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "22387",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Fehr, Henry C",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/henry-c-fehr-1085",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the rescue of andromeda",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01749_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fehr-the-rescue-of-andromeda-n01749",
+      "id": "4254",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4254",
+      "value": 1
+    }
+  ]
+}

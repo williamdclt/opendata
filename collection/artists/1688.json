@@ -1,0 +1,155 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Nash, David",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/david-nash-1688",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "rostrum with bonks",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03471_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nash-rostrum-with-bonks-t03471",
+      "id": "10512",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wood quarry - beech, otterlo",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nash-wood-quarry-beech-otterlo-t03472",
+      "id": "10513",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "family tree, 1970-1982",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nash-family-tree-1970-1982-t03473",
+      "id": "10514",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "flying frame",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nash-flying-frame-t03932",
+      "id": "10515",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pyramid",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07539_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nash-pyramid-t07539",
+      "id": "26706",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sphere",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07540_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nash-sphere-t07540",
+      "id": "26707",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cube",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07541_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nash-cube-t07541",
+      "id": "26708",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pyramid",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07542_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nash-pyramid-t07542",
+      "id": "26703",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sphere",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07543_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nash-sphere-t07543",
+      "id": "26704",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cube",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07544_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nash-cube-t07544",
+      "id": "26705",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "10512",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10513",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10514",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10515",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26706",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26707",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26708",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26703",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26704",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26705",
+      "value": 1
+    }
+  ]
+}

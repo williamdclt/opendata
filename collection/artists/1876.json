@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Rouault, Georges",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/georges-rouault-1876",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the meal",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04141_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rouault-the-meal-n04141",
+      "id": "12977",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the bride (aunt sallys)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04799_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rouault-the-bride-aunt-sallys-n04799",
+      "id": "12978",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the three judges",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05146_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rouault-the-three-judges-n05146",
+      "id": "12979",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rouault-landscape-n05458",
+      "id": "12980",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the italian woman",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05906_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rouault-the-italian-woman-n05906",
+      "id": "12981",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12977",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12978",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12979",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12980",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12981",
+      "value": 1
+    }
+  ]
+}

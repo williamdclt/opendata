@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Birdhead (Ji Weiyu, born 1980; Song Tao, born 1979)",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/birdhead-ji-weiyu-born-1980-song-tao-born-1979-16782",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "welcome to birdhead world again",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/birdhead-ji-weiyu-welcome-to-birdhead-world-again-t13800",
+      "id": "123531",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "welcome to birdhead world again",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/birdhead-ji-weiyu-welcome-to-birdhead-world-again-t13801",
+      "id": "123515",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "123531",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123515",
+      "value": 1
+    }
+  ]
+}

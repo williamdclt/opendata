@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hall, Harry",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/harry-hall-232",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "john barham day with his sons john and william on newmarket heath",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01887_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hall-john-barham-day-with-his-sons-john-and-william-on-newmarket-heath-t01887",
+      "id": "5758",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5758",
+      "value": 1
+    }
+  ]
+}

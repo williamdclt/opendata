@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Bourdelle, Antoine",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/antoine-bourdelle-789",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "sir james george frazer",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04115_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bourdelle-sir-james-george-frazer-n04115",
+      "id": "1368",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1368",
+      "value": 1
+    }
+  ]
+}

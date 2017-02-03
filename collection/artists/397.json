@@ -1,0 +1,253 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Nasmyth, Patrick",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/patrick-nasmyth-397",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "landscape",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00380_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nasmyth-landscape-n00380",
+      "id": "10566",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a landscape (\u2018the angler\u2019s nook\u2019)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00381_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nasmyth-a-landscape-the-anglers-nook-n00381",
+      "id": "10567",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape with a cottage",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01176_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nasmyth-landscape-with-a-cottage-n01176",
+      "id": "10568",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01177_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nasmyth-landscape-n01177",
+      "id": "10569",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view near sevenoaks, kent",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01178_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nasmyth-view-near-sevenoaks-kent-n01178",
+      "id": "10570",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape with a farm house",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01179_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nasmyth-landscape-with-a-farm-house-n01179",
+      "id": "10571",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape with a river",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01183_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nasmyth-landscape-with-a-river-n01183",
+      "id": "10572",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view in the new forest near lyndhurst",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01384_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nasmyth-view-in-the-new-forest-near-lyndhurst-n01384",
+      "id": "10573",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view in sussex",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01828_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nasmyth-view-in-sussex-n01828",
+      "id": "10574",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the severn off portishead",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01916_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nasmyth-the-severn-off-portishead-n01916",
+      "id": "10575",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a pond",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02208_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nasmyth-a-pond-n02208",
+      "id": "10576",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "falls of the tummell",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02950_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nasmyth-falls-of-the-tummell-n02950",
+      "id": "10577",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape with a ruin",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02951_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nasmyth-landscape-with-a-ruin-n02951",
+      "id": "10578",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view on the thames: greenwich in the distance",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05797_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nasmyth-view-on-the-thames-greenwich-in-the-distance-n05797",
+      "id": "10579",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cottage and barn",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09129_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nasmyth-cottage-and-barn-t09129",
+      "id": "23308",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a warehouse fire",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09146_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nasmyth-a-warehouse-fire-t09146",
+      "id": "23306",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lewes; a church on a hill",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09152_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/nasmyth-lewes-a-church-on-a-hill-t09152",
+      "id": "23307",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "10566",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10567",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10568",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10569",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10570",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10571",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10572",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10573",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10574",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10575",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10576",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10577",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10578",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10579",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23308",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23306",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23307",
+      "value": 1
+    }
+  ]
+}

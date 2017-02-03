@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Peri, Peter",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/peter-peri-10544",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "woodcutter",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12931_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/peri-woodcutter-t12931",
+      "id": "102043",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "batchelors",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/peri-batchelors-t12932",
+      "id": "102044",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "point fold 2",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/peri-point-fold-2-t12933",
+      "id": "102045",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head 10",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/peri-head-10-t12934",
+      "id": "102046",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "102043",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "102044",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "102045",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "102046",
+      "value": 1
+    }
+  ]
+}

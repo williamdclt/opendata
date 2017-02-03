@@ -1,0 +1,155 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Wegner, Nicholas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/nicholas-wegner-2127",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "map / girls\u2019s head",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wegner-map-girlss-head-p06604",
+      "id": "16054",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "aerial view / figures with motor bike",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wegner-aerial-view-figures-with-motor-bike-p06605",
+      "id": "16055",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "love making / aerial city",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wegner-love-making-aerial-city-p06606",
+      "id": "16056",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "girl\u2019s head / man, head and shoulders",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wegner-girls-head-man-head-and-shoulders-p06607",
+      "id": "16057",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "back view of a girl / girl standing",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wegner-back-view-of-a-girl-girl-standing-p06608",
+      "id": "16058",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "girl lying on a decorated bed / two men",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wegner-girl-lying-on-a-decorated-bed-two-men-p06609",
+      "id": "16059",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "girl lying down",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wegner-girl-lying-down-p06610",
+      "id": "16060",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "back view of standing girl",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wegner-back-view-of-standing-girl-p06611",
+      "id": "16061",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "aerial view of a city",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wegner-aerial-view-of-a-city-p06612",
+      "id": "16062",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "guitarist",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wegner-guitarist-p06613",
+      "id": "16063",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16054",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16055",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16056",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16057",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16058",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16059",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16060",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16061",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16062",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16063",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Stezaker, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-stezaker-2000",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "1. 10 and 1. 11",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08014_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stezaker-1-10-and-1-11-p08014",
+      "id": "13890",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the end",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12340_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stezaker-the-end-t12340",
+      "id": "90259",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the oath",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12341_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stezaker-the-oath-t12341",
+      "id": "90260",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the trial",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12342_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stezaker-the-trial-t12342",
+      "id": "90261",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "insert",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12343_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stezaker-insert-t12343",
+      "id": "90262",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12344_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stezaker-untitled-t12344",
+      "id": "90263",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mask xi",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stezaker-mask-xi-t12345",
+      "id": "90265",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mask xiii",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12346_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stezaker-mask-xiii-t12346",
+      "id": "90267",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mask xiv",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12347_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stezaker-mask-xiv-t12347",
+      "id": "90268",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the end (the film)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12348_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stezaker-the-end-the-film-t12348",
+      "id": "90269",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "third person",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12349_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stezaker-third-person-t12349",
+      "id": "90271",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "negotiable spaces ii: incisions for a private space no. 1-4",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stezaker-negotiable-spaces-ii-incisions-for-a-private-space-no-1-4-t12965",
+      "id": "104065",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13593_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/stezaker-untitled-t13593",
+      "id": "122399",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13890",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90259",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90260",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90261",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90262",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90263",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90265",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90267",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90268",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90269",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90271",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "104065",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "122399",
+      "value": 1
+    }
+  ]
+}

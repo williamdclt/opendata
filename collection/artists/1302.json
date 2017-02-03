@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Holland, Harry",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/harry-holland-1302",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "door",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07805_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holland-door-p07805",
+      "id": "6658",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lovers",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07806_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holland-lovers-p07806",
+      "id": "6659",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "t.v.",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07807_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/holland-tv-p07807",
+      "id": "6660",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6658",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6659",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6660",
+      "value": 1
+    }
+  ]
+}

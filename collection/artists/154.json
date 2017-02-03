@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Donaldson, Andrew Brown",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/andrew-brown-donaldson-154",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "puente san martin, toledo",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01723_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/donaldson-puente-san-martin-toledo-n01723",
+      "id": "3977",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "3977",
+      "value": 1
+    }
+  ]
+}

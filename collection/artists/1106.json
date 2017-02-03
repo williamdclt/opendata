@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Ford, Mary",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/mary-ford-1106",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "boats-antibes",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01865_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ford-boats-antibes-p01865",
+      "id": "4503",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4503",
+      "value": 1
+    }
+  ]
+}

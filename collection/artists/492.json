@@ -1,0 +1,505 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Short, Sir Frank",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-frank-short-492",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "low tide and the evening star and rye\u2019s long pier deserted",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/short-low-tide-and-the-evening-star-and-ryes-long-pier-deserted-p01052",
+      "id": "13373",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the temple of jupiter in the island of aegina",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/short-the-temple-of-jupiter-in-the-island-of-aegina-t04873",
+      "id": "13374",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "liber studiorum - frontispiece",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/short-liber-studiorum-frontispiece-t05042",
+      "id": "16609",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "little devil\u2019s bridge, over the russ above altdorft, switzerland",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/short-little-devils-bridge-over-the-russ-above-altdorft-switzerland-t05043",
+      "id": "16610",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "water mill",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/short-water-mill-t05044",
+      "id": "16611",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "water mill",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/short-water-mill-t05045",
+      "id": "16612",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "scene in the campagna",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/short-scene-in-the-campagna-t05046",
+      "id": "16613",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "procris and cephalus",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/short-procris-and-cephalus-t05047",
+      "id": "16614",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chain of alps from grenoble to chamberi",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/short-chain-of-alps-from-grenoble-to-chamberi-t05048",
+      "id": "16615",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mill near the grand chartreuse - dauphiny",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/short-mill-near-the-grand-chartreuse-dauphiny-t05049",
+      "id": "16616",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "berry pomeroy castle",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/short-berry-pomeroy-castle-t05050",
+      "id": "16617",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "berry pomeroy castle",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/short-berry-pomeroy-castle-t05051",
+      "id": "16618",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the source of the arveron, in the valley of chamouni, savoy",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/short-the-source-of-the-arveron-in-the-valley-of-chamouni-savoy-t05052",
+      "id": "16619",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bonneville, savoy",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/short-bonneville-savoy-t05053",
+      "id": "16620",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ben arthur, scotland",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/short-ben-arthur-scotland-t05054",
+      "id": "16621",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mount st gothard",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/short-mount-st-gothard-t05055",
+      "id": "16622",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st gothard",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/short-st-gothard-t05056",
+      "id": "16623",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "peat bog, scotland",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/short-peat-bog-scotland-t05057",
+      "id": "16624",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "aesacus and hesperie",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/short-aesacus-and-hesperie-t05058",
+      "id": "16625",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "apuleia in search of apuleius",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/short-apuleia-in-search-of-apuleius-t05059",
+      "id": "16626",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sheep-washing, windsor, or windsor castle from salt hill",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/short-sheep-washing-windsor-or-windsor-castle-from-salt-hill-t05060",
+      "id": "16627",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dumbarton rock",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/short-dumbarton-rock-t05061",
+      "id": "16628",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the temple of jupiter in the island of aegina",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/short-the-temple-of-jupiter-in-the-island-of-aegina-t05062",
+      "id": "16629",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the temple of jupiter in the island of aegina",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/short-the-temple-of-jupiter-in-the-island-of-aegina-t05063",
+      "id": "16630",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "via mala",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/short-via-mala-t05064",
+      "id": "16631",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pan and syrinx",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/short-pan-and-syrinx-t05065",
+      "id": "16632",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the stork and aqueduct (\u2018the heron\u2019s pool\u2019)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/short-the-stork-and-aqueduct-the-herons-pool-t05066",
+      "id": "16633",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the lost sailor (\u2018storm over the lizard\u2019)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/short-the-lost-sailor-storm-over-the-lizard-t05067",
+      "id": "16634",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "moonlight on the medway",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/short-moonlight-on-the-medway-t05068",
+      "id": "16635",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "narcissus and echo",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/short-narcissus-and-echo-t05069",
+      "id": "16636",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of a river from a terrace (\u2018macon\u2019)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/short-view-of-a-river-from-a-terrace-macon-t05070",
+      "id": "16637",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "falls of the rhine, schaffhausen",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/short-falls-of-the-rhine-schaffhausen-t05071",
+      "id": "16638",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "falls of the rhine, schaffhausen",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/short-falls-of-the-rhine-schaffhausen-t05072",
+      "id": "16639",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sion house, isleworth",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/short-sion-house-isleworth-t05073",
+      "id": "16640",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a pastoral",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/short-a-pastoral-t05074",
+      "id": "16641",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13373",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13374",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16609",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16610",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16611",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16612",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16613",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16614",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16615",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16616",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16617",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16618",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16619",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16620",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16621",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16622",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16623",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16624",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16625",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16626",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16627",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16628",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16629",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16630",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16631",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16632",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16633",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16634",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16635",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16636",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16637",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16638",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16639",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16640",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16641",
+      "value": 1
+    }
+  ]
+}

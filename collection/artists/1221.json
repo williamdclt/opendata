@@ -1,0 +1,211 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gris, Juan",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/juan-gris-1221",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the sunblind",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05747_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gris-the-sunblind-n05747",
+      "id": "5692",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "violin and fruit-dish",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05935_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gris-violin-and-fruit-dish-n05935",
+      "id": "5693",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blonde marcelle",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11370_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gris-blonde-marcelle-p11370",
+      "id": "20872",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the boy",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11371_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gris-the-boy-p11371",
+      "id": "20873",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jean the musician",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11372_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gris-jean-the-musician-p11372",
+      "id": "20874",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bottle of rum and newspaper",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06808_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gris-bottle-of-rum-and-newspaper-t06808",
+      "id": "20866",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seated harlequin",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06809_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gris-seated-harlequin-t06809",
+      "id": "20867",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "overlooking the bay",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06810_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gris-overlooking-the-bay-t06810",
+      "id": "20868",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "guitar and music book",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06811_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gris-guitar-and-music-book-t06811",
+      "id": "20869",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pipe and domino",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06812_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gris-pipe-and-domino-t06812",
+      "id": "20870",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bowl of fruit",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06813_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gris-bowl-of-fruit-t06813",
+      "id": "20871",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pierrot with book",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06814_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gris-pierrot-with-book-t06814",
+      "id": "20875",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life with guitar",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06815_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gris-still-life-with-guitar-t06815",
+      "id": "20876",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "coffee mill",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06816_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gris-coffee-mill-t06816",
+      "id": "20877",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5692",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5693",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20872",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20873",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20874",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20866",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20867",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20868",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20869",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20870",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20871",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20875",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20876",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20877",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Coldwell, Paul",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/paul-coldwell-2688",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78253_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coldwell-title-not-known-p78253",
+      "id": "26539",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78254_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coldwell-title-not-known-p78254",
+      "id": "26551",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78255_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coldwell-title-not-known-p78255",
+      "id": "26556",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78256_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coldwell-title-not-known-p78256",
+      "id": "26555",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78257_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coldwell-title-not-known-p78257",
+      "id": "26553",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78258_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coldwell-title-not-known-p78258",
+      "id": "26552",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78259_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coldwell-title-not-known-p78259",
+      "id": "26554",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78260_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coldwell-title-not-known-p78260",
+      "id": "26528",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78261_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coldwell-title-not-known-p78261",
+      "id": "26526",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78262_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coldwell-title-not-known-p78262",
+      "id": "26543",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78263_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coldwell-title-not-known-p78263",
+      "id": "26544",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78264_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coldwell-title-not-known-p78264",
+      "id": "26535",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78265_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coldwell-title-not-known-p78265",
+      "id": "26523",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78266_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coldwell-title-not-known-p78266",
+      "id": "26534",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78267_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coldwell-title-not-known-p78267",
+      "id": "26532",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78268_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coldwell-title-not-known-p78268",
+      "id": "26533",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78269_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coldwell-title-not-known-p78269",
+      "id": "26531",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78270_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coldwell-title-not-known-p78270",
+      "id": "26530",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78271_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coldwell-title-not-known-p78271",
+      "id": "26529",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78272_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coldwell-title-not-known-p78272",
+      "id": "26527",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78273_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coldwell-title-not-known-p78273",
+      "id": "26525",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78274_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coldwell-title-not-known-p78274",
+      "id": "26524",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78275_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coldwell-title-not-known-p78275",
+      "id": "26536",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78276_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coldwell-title-not-known-p78276",
+      "id": "26538",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78277_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coldwell-title-not-known-p78277",
+      "id": "26537",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78278_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/coldwell-title-not-known-p78278",
+      "id": "26542",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "26539",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26551",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26556",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26555",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26553",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26552",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26554",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26528",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26526",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26543",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26544",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26535",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26523",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26534",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26532",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26533",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26531",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26530",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26529",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26527",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26525",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26524",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26536",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26538",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26537",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26542",
+      "value": 1
+    }
+  ]
+}

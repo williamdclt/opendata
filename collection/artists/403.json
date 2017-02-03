@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "North, John William",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-william-north-403",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the winter sun",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01607_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/north-the-winter-sun-n01607",
+      "id": "10896",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a bit of southern england",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03519_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/north-a-bit-of-southern-england-n03519",
+      "id": "10897",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "at the grindstone, engraved by the dalziel brothers",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04021_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/north-at-the-grindstone-engraved-by-the-dalziel-brothers-n04021",
+      "id": "10898",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vision of a city tree, engraved by the dalziel brothers",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04022_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/north-vision-of-a-city-tree-engraved-by-the-dalziel-brothers-n04022",
+      "id": "10899",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "10896",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10897",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10898",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10899",
+      "value": 1
+    }
+  ]
+}

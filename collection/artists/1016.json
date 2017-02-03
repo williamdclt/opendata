@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Dodgson, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-dodgson-1016",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "giant snail",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00349_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dodgson-giant-snail-t00349",
+      "id": "3964",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "under arches, rue de seine",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07563_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dodgson-under-arches-rue-de-seine-t07563",
+      "id": "26776",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "market place",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07564_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dodgson-market-place-t07564",
+      "id": "26777",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018under arches, rue de seine\u2019: arches",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07565_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dodgson-study-for-under-arches-rue-de-seine-arches-t07565",
+      "id": "26830",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018under arches, rue de seine\u2019: figures",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07566_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dodgson-study-for-under-arches-rue-de-seine-figures-t07566",
+      "id": "26831",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018under arches, rue de seine\u2019: figures",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07567_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dodgson-study-for-under-arches-rue-de-seine-figures-t07567",
+      "id": "26832",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two studies for \u2018market place\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07568_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dodgson-two-studies-for-market-place-t07568",
+      "id": "26833",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "studies for \u2018market place\u2019. verso: studies for \u2018market place\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07569_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dodgson-studies-for-market-place-verso-studies-for-market-place-t07569",
+      "id": "26834",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "3964",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26776",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26777",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26830",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26831",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26832",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26833",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26834",
+      "value": 1
+    }
+  ]
+}

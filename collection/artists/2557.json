@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Becker, Ferdinand",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/ferdinand-becker-2557",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "rome from the ponte rotto",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08581_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/becker-rome-from-the-ponte-rotto-t08581",
+      "id": "22308",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rome: in the villa borghese",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09470_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/becker-rome-in-the-villa-borghese-t09470",
+      "id": "22310",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rome: in the farnesian garden",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09471_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/becker-rome-in-the-farnesian-garden-t09471",
+      "id": "22311",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rome: a ruined building",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09472_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/becker-rome-a-ruined-building-t09472",
+      "id": "22312",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rome: ruined buildings",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09473_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/becker-rome-ruined-buildings-t09473",
+      "id": "22313",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rome: ruined buildings",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09474_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/becker-rome-ruined-buildings-t09474",
+      "id": "22314",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rome, the tiber",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09475_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/becker-rome-the-tiber-t09475",
+      "id": "22309",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "22308",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22310",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22311",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22312",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22313",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22314",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22309",
+      "value": 1
+    }
+  ]
+}

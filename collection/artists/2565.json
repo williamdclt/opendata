@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Francia, Fran\u00e7ois Louis Thomas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/francois-louis-thomas-francia-2565",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "worthing point, from shoreham",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05298_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francia-worthing-point-from-shoreham-t05298",
+      "id": "17075",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "worthing point, from shoreham",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05299_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francia-worthing-point-from-shoreham-t05299",
+      "id": "17076",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a shipwreck",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08915_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francia-a-shipwreck-t08915",
+      "id": "22886",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11381_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francia-title-not-known-t11381",
+      "id": "25727",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11382_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francia-title-not-known-t11382",
+      "id": "25728",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11383_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francia-title-not-known-t11383",
+      "id": "25729",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11384_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francia-title-not-known-t11384",
+      "id": "25730",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11385_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francia-title-not-known-t11385",
+      "id": "25731",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11386_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francia-title-not-known-t11386",
+      "id": "25732",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11387_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francia-title-not-known-t11387",
+      "id": "25733",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11388_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francia-title-not-known-t11388",
+      "id": "25734",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11389_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francia-title-not-known-t11389",
+      "id": "25735",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11390_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francia-title-not-known-t11390",
+      "id": "25736",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11391_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francia-title-not-known-t11391",
+      "id": "25737",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11392_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francia-title-not-known-t11392",
+      "id": "25738",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11393_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francia-title-not-known-t11393",
+      "id": "25739",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11394_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francia-title-not-known-t11394",
+      "id": "25740",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11395_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francia-title-not-known-t11395",
+      "id": "25741",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11396_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francia-title-not-known-t11396",
+      "id": "25742",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11397_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francia-title-not-known-t11397",
+      "id": "25743",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11398_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francia-title-not-known-t11398",
+      "id": "25744",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11399_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francia-title-not-known-t11399",
+      "id": "25745",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11400_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francia-title-not-known-t11400",
+      "id": "25746",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11401_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francia-title-not-known-t11401",
+      "id": "25747",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11402_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francia-title-not-known-t11402",
+      "id": "25748",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11403_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francia-title-not-known-t11403",
+      "id": "25749",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11404_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francia-title-not-known-t11404",
+      "id": "25750",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11405_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francia-title-not-known-t11405",
+      "id": "25751",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11406_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francia-title-not-known-t11406",
+      "id": "25752",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11407_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francia-title-not-known-t11407",
+      "id": "25753",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11408_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francia-title-not-known-t11408",
+      "id": "25754",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11409_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francia-title-not-known-t11409",
+      "id": "25755",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11410_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francia-title-not-known-t11410",
+      "id": "25756",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11411_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francia-title-not-known-t11411",
+      "id": "25757",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11412_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francia-title-not-known-t11412",
+      "id": "25758",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11413_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francia-title-not-known-t11413",
+      "id": "25759",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11414_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francia-title-not-known-t11414",
+      "id": "25760",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11415_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francia-title-not-known-t11415",
+      "id": "25761",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11416_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francia-title-not-known-t11416",
+      "id": "25762",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11417_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/francia-title-not-known-t11417",
+      "id": "25763",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "17075",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17076",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22886",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25727",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25728",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25729",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25730",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25731",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25732",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25733",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25734",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25735",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25736",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25737",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25738",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25739",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25740",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25741",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25742",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25743",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25744",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25745",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25746",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25747",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25748",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25749",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25750",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25751",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25752",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25753",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25754",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25755",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25756",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25757",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25758",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25759",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25760",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25761",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25762",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25763",
+      "value": 1
+    }
+  ]
+}

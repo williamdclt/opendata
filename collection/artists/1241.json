@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hall, Oliver",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/oliver-hall-1241",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "avignon",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03003_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hall-avignon-n03003",
+      "id": "5761",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shap moors",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03555_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hall-shap-moors-n03555",
+      "id": "5762",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vale of festiniog",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04835_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hall-vale-of-festiniog-n04835",
+      "id": "5763",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5761",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5762",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5763",
+      "value": 1
+    }
+  ]
+}

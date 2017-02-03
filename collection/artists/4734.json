@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Rothschild, Eva",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/eva-rothschild-4734",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "knock knock",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12237_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothschild-knock-knock-t12237",
+      "id": "88355",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "riches",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12576_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothschild-riches-t12576",
+      "id": "96879",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "legend",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13221_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothschild-legend-t13221",
+      "id": "109877",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "homework",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothschild-homework-t13222",
+      "id": "109878",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "88355",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96879",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "109877",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "109878",
+      "value": 1
+    }
+  ]
+}

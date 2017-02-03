@@ -1,0 +1,183 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Mari\u00ebn, Marcel",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/marcel-marien-8402",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "peace during wartime",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12040_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marien-peace-during-wartime-t12040",
+      "id": "86925",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "waiting",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12041_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marien-waiting-t12041",
+      "id": "86945",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the woman from alost",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12042_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marien-the-woman-from-alost-t12042",
+      "id": "86947",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the prostitute r...",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12043_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marien-the-prostitute-r-t12043",
+      "id": "86948",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the animal kingdom (1953) with english translation (1967)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12044_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marien-the-animal-kingdom-1953-with-english-translation-1967-t12044",
+      "id": "86949",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "why we are fighting",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12045_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marien-why-we-are-fighting-t12045",
+      "id": "86950",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "monsieur courbet\u2019s good days",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12046_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marien-monsieur-courbets-good-days-t12046",
+      "id": "86951",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sculpture friends",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12047_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marien-sculpture-friends-t12047",
+      "id": "86952",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the tomb of jack the ripper",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12048_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marien-the-tomb-of-jack-the-ripper-t12048",
+      "id": "86953",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "all gum",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12049_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marien-all-gum-t12049",
+      "id": "86954",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "desperate attempt to save andy warhol from oblivion",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12050_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marien-desperate-attempt-to-save-andy-warhol-from-oblivion-t12050",
+      "id": "86955",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "star dancer",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12051_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marien-star-dancer-t12051",
+      "id": "86956",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "86925",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "86945",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "86947",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "86948",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "86949",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "86950",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "86951",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "86952",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "86953",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "86954",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "86955",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "86956",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Lambert, George",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/george-lambert-318",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a view of box hill, surrey",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05981_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lambert-a-view-of-box-hill-surrey-n05981",
+      "id": "8266",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "classical landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00211_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lambert-classical-landscape-t00211",
+      "id": "8267",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "moorland landscape with rainstorm",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04110_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lambert-moorland-landscape-with-rainstorm-t04110",
+      "id": "8268",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of copped hall in essex, from the park",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07555_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lambert-hayman-view-of-copped-hall-in-essex-from-the-park-t07555",
+      "id": "26719",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of copped hall in essex, from across the lake",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07556_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lambert-hayman-view-of-copped-hall-in-essex-from-across-the-lake-t07556",
+      "id": "26720",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8266",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8267",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8268",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26719",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26720",
+      "value": 1
+    }
+  ]
+}

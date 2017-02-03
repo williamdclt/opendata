@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Dova, Gianni",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/gianni-dova-1026",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "explosion",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dova-explosion-t00085",
+      "id": "3992",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sudden aggression",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dova-sudden-aggression-t00086",
+      "id": "3993",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "3992",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3993",
+      "value": 1
+    }
+  ]
+}

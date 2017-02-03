@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Dodd, Francis",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/francis-dodd-1015",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a smiling woman",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03957_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dodd-a-smiling-woman-n03957",
+      "id": "3959",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "edward garnett",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04227_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dodd-edward-garnett-n04227",
+      "id": "3960",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cumberland market",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04507_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dodd-cumberland-market-n04507",
+      "id": "3961",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "in the parlour",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04962_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dodd-in-the-parlour-n04962",
+      "id": "3962",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ely",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05324_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dodd-ely-n05324",
+      "id": "3963",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "charles aitken",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07026_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dodd-charles-aitken-t07026",
+      "id": "21477",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "3959",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3960",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3961",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3962",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3963",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21477",
+      "value": 1
+    }
+  ]
+}

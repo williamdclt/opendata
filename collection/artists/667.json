@@ -1,0 +1,141 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Arp, Jean",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/jean-arp-hans-arp-667",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "pagoda fruit",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06025_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arp-pagoda-fruit-n06025",
+      "id": "590",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "constellation according to the laws of chance",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00242_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arp-constellation-according-to-the-laws-of-chance-t00242",
+      "id": "591",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "torn-up woodcut",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01219_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arp-torn-up-woodcut-t01219",
+      "id": "592",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "winged being",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02007_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arp-winged-being-t02007",
+      "id": "593",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sculpture to be lost in the forest",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04854_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arp-sculpture-to-be-lost-in-the-forest-t04854",
+      "id": "594",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "according to the laws of chance",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05005_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arp-according-to-the-laws-of-chance-t05005",
+      "id": "595",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "impish fruit",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05006_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arp-impish-fruit-t05006",
+      "id": "596",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "danger of death",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05007_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arp-danger-of-death-t05007",
+      "id": "597",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "moustaches",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05504_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/arp-moustaches-t05504",
+      "id": "17290",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "590",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "591",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "592",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "593",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "594",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "595",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "596",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "597",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17290",
+      "value": 1
+    }
+  ]
+}

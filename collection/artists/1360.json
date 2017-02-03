@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Jennings, Humphrey",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/humphrey-jennings-1360",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the house in the woods",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01324_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jennings-the-house-in-the-woods-t01324",
+      "id": "7098",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "train (locomotive 101)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03212_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jennings-train-locomotive-101-t03212",
+      "id": "7099",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "swiss roll",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03213_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jennings-swiss-roll-t03213",
+      "id": "7100",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "7098",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7099",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7100",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Jefferys, James",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/james-jefferys-2434",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "romantic landscape with lake and trees. verso: a mountainous landscape with figures and trees",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09602_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jefferys-romantic-landscape-with-lake-and-trees-verso-a-mountainous-landscape-with-figures-t09602",
+      "id": "23099",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "23099",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Cooper, Abraham",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/abraham-cooper-111",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "draught horses",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05977_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cooper-draught-horses-n05977",
+      "id": "2776",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the day family",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03422_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cooper-the-day-family-t03422",
+      "id": "2777",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11295_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cooper-title-not-known-t11295",
+      "id": "25249",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11296_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cooper-title-not-known-t11296",
+      "id": "25250",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11298_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cooper-title-not-known-t11298",
+      "id": "25252",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "flemish fishermen, after wouvermens",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11299_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cooper-flemish-fishermen-after-wouvermens-t11299",
+      "id": "25253",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11300_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cooper-title-not-known-t11300",
+      "id": "25254",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11301_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cooper-title-not-known-t11301",
+      "id": "25255",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2776",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2777",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25249",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25250",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25252",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25253",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25254",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25255",
+      "value": 1
+    }
+  ]
+}

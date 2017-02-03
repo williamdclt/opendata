@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Blackadder, Elizabeth",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/elizabeth-blackadder-760",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "italian landscape",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06033_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blackadder-italian-landscape-p06033",
+      "id": "991",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fifeshire farm",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06034_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blackadder-fifeshire-farm-p06034",
+      "id": "992",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "staithes",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06035_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blackadder-staithes-p06035",
+      "id": "993",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "roman wall i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06036_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blackadder-roman-wall-i-p06036",
+      "id": "994",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dark hill, fifeshire",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06037_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blackadder-dark-hill-fifeshire-p06037",
+      "id": "995",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "roman wall ii - walltown",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06038_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blackadder-roman-wall-ii-walltown-p06038",
+      "id": "996",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life with pomegranates",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00859_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/blackadder-still-life-with-pomegranates-t00859",
+      "id": "997",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "991",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "992",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "993",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "994",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "995",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "996",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "997",
+      "value": 1
+    }
+  ]
+}

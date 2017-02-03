@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Choucair, Saloua Raouda",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/saloua-raouda-choucair-14735",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "infinite structure",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13262_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/choucair-infinite-structure-t13262",
+      "id": "113682",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "poem",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13278_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/choucair-poem-t13278",
+      "id": "113680",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "poem wall",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13279_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/choucair-poem-wall-t13279",
+      "id": "113681",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the screw",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13280_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/choucair-the-screw-t13280",
+      "id": "113683",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "composition in blue module",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13308_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/choucair-composition-in-blue-module-t13308",
+      "id": "113678",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "poem of nine verses",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13647_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/choucair-poem-of-nine-verses-t13647",
+      "id": "120105",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "113682",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "113680",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "113681",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "113683",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "113678",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "120105",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Mapplethorpe, Robert",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/robert-mapplethorpe-11413",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "self-portrait",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00145_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mapplethorpe-self-portrait-ar00145",
+      "id": "97213",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "brice marden",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00146_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mapplethorpe-brice-marden-ar00146",
+      "id": "97214",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "brice marden",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00147_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mapplethorpe-brice-marden-ar00147",
+      "id": "97215",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "willem de kooning",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00148_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mapplethorpe-willem-de-kooning-ar00148",
+      "id": "97216",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "andy warhol",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00149_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mapplethorpe-andy-warhol-ar00149",
+      "id": "97217",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "andy warhol",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00150_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mapplethorpe-andy-warhol-ar00150",
+      "id": "97218",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "francesco clemente",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00151_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mapplethorpe-francesco-clemente-ar00151",
+      "id": "97219",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "francesco clemente",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00152_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mapplethorpe-francesco-clemente-ar00152",
+      "id": "97220",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "henry geldzahler",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00153_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mapplethorpe-henry-geldzahler-ar00153",
+      "id": "97221",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "phillip johnson",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00154_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mapplethorpe-phillip-johnson-ar00154",
+      "id": "97222",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "doris saatchi",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00155_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mapplethorpe-doris-saatchi-ar00155",
+      "id": "97223",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "francesca thyssen",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00156_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mapplethorpe-francesca-thyssen-ar00156",
+      "id": "97224",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "honey",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00157_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mapplethorpe-honey-ar00157",
+      "id": "97225",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lindsay key",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00158_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mapplethorpe-lindsay-key-ar00158",
+      "id": "97226",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nick",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00159_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mapplethorpe-nick-ar00159",
+      "id": "97227",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bob love",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00160_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mapplethorpe-bob-love-ar00160",
+      "id": "97228",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lowell smith",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00161_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mapplethorpe-lowell-smith-ar00161",
+      "id": "97229",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "patti smith",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00185_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mapplethorpe-patti-smith-ar00185",
+      "id": "97232",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "patti smith",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00186_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mapplethorpe-patti-smith-ar00186",
+      "id": "97234",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "patti smith",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00187_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mapplethorpe-patti-smith-ar00187",
+      "id": "97235",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "smutty",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00188_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mapplethorpe-smutty-ar00188",
+      "id": "97236",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "smutty",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00189_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mapplethorpe-smutty-ar00189",
+      "id": "97237",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tattoo artist\u2019s son",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00190_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mapplethorpe-tattoo-artists-son-ar00190",
+      "id": "97238",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "charles tennant",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00191_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mapplethorpe-charles-tennant-ar00191",
+      "id": "97239",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nick marden",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00192_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mapplethorpe-nick-marden-ar00192",
+      "id": "97240",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "snakeman",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00193_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mapplethorpe-snakeman-ar00193",
+      "id": "97241",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "derrick cross",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00194_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mapplethorpe-derrick-cross-ar00194",
+      "id": "97247",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "eva amurri",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00195_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mapplethorpe-eva-amurri-ar00195",
+      "id": "97248",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "brian ridley and lyle heeter",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00196_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mapplethorpe-brian-ridley-and-lyle-heeter-ar00196",
+      "id": "97250",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "alan lynes",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00197_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mapplethorpe-alan-lynes-ar00197",
+      "id": "97251",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jim, sausalito",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00198_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mapplethorpe-jim-sausalito-ar00198",
+      "id": "97253",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dominick and elliot",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mapplethorpe-dominick-and-elliot-ar00199",
+      "id": "97255",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cock and devil",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mapplethorpe-cock-and-devil-ar00200",
+      "id": "97256",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "clothespinned mouth",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00201_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mapplethorpe-clothespinned-mouth-ar00201",
+      "id": "97257",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "meredith monk",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00202_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mapplethorpe-meredith-monk-ar00202",
+      "id": "97260",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "diane benson",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00203_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mapplethorpe-diane-benson-ar00203",
+      "id": "97261",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "marianne faithfull",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00204_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mapplethorpe-marianne-faithfull-ar00204",
+      "id": "97262",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "katherine cebrian",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00205_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mapplethorpe-katherine-cebrian-ar00205",
+      "id": "97263",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "grace jones",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00206_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mapplethorpe-grace-jones-ar00206",
+      "id": "97264",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "keith haring",
+      "url": "http://www.tate.org.uk/art/images/work/AR/AR00207_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mapplethorpe-keith-haring-ar00207",
+      "id": "97265",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "97213",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97214",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97215",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97216",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97217",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97218",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97219",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97220",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97221",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97222",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97223",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97224",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97225",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97226",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97227",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97228",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97229",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97232",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97234",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97235",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97236",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97237",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97238",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97239",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97240",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97241",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97247",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97248",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97250",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97251",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97253",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97255",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97256",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97257",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97260",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97261",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97262",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97263",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97264",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "97265",
+      "value": 1
+    }
+  ]
+}

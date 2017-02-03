@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Osborne, Walter Frederick",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/walter-frederick-osborne-408",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "life in the streets: hard times",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01712_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/osborne-life-in-the-streets-hard-times-n01712",
+      "id": "10986",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "10986",
+      "value": 1
+    }
+  ]
+}

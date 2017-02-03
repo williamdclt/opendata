@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Italian or German (?) School 17th century",
+      "url": null,
+      "gender": "",
+      "tatelink": "http://www.tate.org.uk/art/artists/italian-or-german-school-17th-century-2345",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "claudian landscape",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05566_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/italian-or-german-school-17th-century-claudian-landscape-n05566",
+      "id": "1526",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1526",
+      "value": 1
+    }
+  ]
+}

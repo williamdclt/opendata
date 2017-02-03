@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Jones, Allen",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/allen-jones-1368",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "legs",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03092_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-legs-p03092",
+      "id": "7204",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03192_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-i-p03192",
+      "id": "7205",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03193_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-ii-p03193",
+      "id": "7206",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03194_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-iii-p03194",
+      "id": "7207",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "iv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03195_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-iv-p03195",
+      "id": "7208",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "v",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03196_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-v-p03196",
+      "id": "7209",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vi",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03197_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-vi-p03197",
+      "id": "7210",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black feat",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03198_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-black-feat-p03198",
+      "id": "7211",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "red feat",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03199_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-red-feat-p03199",
+      "id": "7212",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dream t-shirt",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04380_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-dream-t-shirt-p04380",
+      "id": "7213",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "three-in-one",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04381_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-three-in-one-p04381",
+      "id": "7214",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cafe noir",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04382_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-cafe-noir-p04382",
+      "id": "7215",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "one way traffic",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04383_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-one-way-traffic-p04383",
+      "id": "7216",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04384_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-untitled-p04384",
+      "id": "7217",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "crazy horse",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05421_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-crazy-horse-p05421",
+      "id": "7218",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cut-a-way",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05422_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-cut-a-way-p05422",
+      "id": "7219",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06337_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-untitled-p06337",
+      "id": "7220",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "left hand lady",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06338_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-left-hand-lady-p06338",
+      "id": "7221",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "right hand lady",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06339_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-right-hand-lady-p06339",
+      "id": "7222",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "leg-splash",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06340_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-leg-splash-p06340",
+      "id": "7223",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman-splash",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06341_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-woman-splash-p06341",
+      "id": "7224",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "box",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-box-p07449",
+      "id": "7226",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "take it from the top",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07759_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-take-it-from-the-top-p07759",
+      "id": "7227",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P09/P09026_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-no-title-p09026",
+      "id": "67737",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P09/P09027_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-no-title-p09027",
+      "id": "67739",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P09/P09028_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-no-title-p09028",
+      "id": "67740",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P09/P09029_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-no-title-p09029",
+      "id": "67741",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P09/P09030_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-no-title-p09030",
+      "id": "67742",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P09/P09031_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-no-title-p09031",
+      "id": "67743",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P09/P09032_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-no-title-p09032",
+      "id": "67744",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P09/P09033_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-no-title-p09033",
+      "id": "67745",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P09/P09034_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-no-title-p09034",
+      "id": "67746",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P09/P09035_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-no-title-p09035",
+      "id": "67747",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P09/P09036_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-no-title-p09036",
+      "id": "67748",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P09/P09037_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-no-title-p09037",
+      "id": "67749",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P09/P09038_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-no-title-p09038",
+      "id": "67750",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P09/P09039_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-no-title-p09039",
+      "id": "67751",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P09/P09040_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-no-title-p09040",
+      "id": "67752",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P09/P09041_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-no-title-p09041",
+      "id": "67753",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P09/P09042_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-no-title-p09042",
+      "id": "67754",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "7204",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7205",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7206",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7207",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7208",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7209",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7210",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7211",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7212",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7213",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7214",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7215",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7216",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7217",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7218",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7219",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7220",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7221",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7222",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7223",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7224",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7226",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7227",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67737",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67739",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67740",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67741",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67742",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67743",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67744",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67745",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67746",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67747",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67748",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67749",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67750",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67751",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67752",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67753",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67754",
+      "value": 1
+    }
+  ]
+}

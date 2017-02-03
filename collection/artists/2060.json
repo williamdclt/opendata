@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Town, Harold",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/harold-town-2060",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "tyranny of the corner, persian set",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00563_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/town-tyranny-of-the-corner-persian-set-t00563",
+      "id": "14383",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "14383",
+      "value": 1
+    }
+  ]
+}

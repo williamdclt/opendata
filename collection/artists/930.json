@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Collins, Cecil",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/cecil-collins-930",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the sleeping fool",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06036_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-the-sleeping-fool-n06036",
+      "id": "2475",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the fool with a fish",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01895_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-the-fool-with-a-fish-p01895",
+      "id": "2476",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the voice of the fool",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01896_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-the-voice-of-the-fool-p01896",
+      "id": "2477",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01897_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-head-p01897",
+      "id": "2478",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "island",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01898_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-island-p01898",
+      "id": "2479",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the joy of the fool",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01899_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-the-joy-of-the-fool-p01899",
+      "id": "2480",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the pilgrim",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01900_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-the-pilgrim-p01900",
+      "id": "2481",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tree & hills",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01901_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-tree-hills-p01901",
+      "id": "2482",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01902_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-figure-p01902",
+      "id": "2483",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "angels",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01903_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-angels-p01903",
+      "id": "2484",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01904_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-head-p01904",
+      "id": "2485",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a song",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01905_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-a-song-p01905",
+      "id": "2486",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sun head",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01906_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-sun-head-p01906",
+      "id": "2487",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a joy beast",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01907_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-a-joy-beast-p01907",
+      "id": "2488",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spanish lady",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01908_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-spanish-lady-p01908",
+      "id": "2489",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a sweet song",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01909_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-a-sweet-song-p01909",
+      "id": "2490",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the great happiness",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01910_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-the-great-happiness-p01910",
+      "id": "2491",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01911_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-head-p01911",
+      "id": "2492",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "angel",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01912_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-angel-p01912",
+      "id": "2493",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01913_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-head-p01913",
+      "id": "2494",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kneeling fool",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01914_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-kneeling-fool-p01914",
+      "id": "2495",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fool and bird",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01915_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-fool-and-bird-p01915",
+      "id": "2496",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bird smoking a pipe",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01916_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-bird-smoking-a-pipe-p01916",
+      "id": "2497",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01917_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-landscape-p01917",
+      "id": "2498",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01918_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-landscape-p01918",
+      "id": "2499",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11016_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-head-p11016",
+      "id": "2500",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the artist\u2019s wife seated in a tree",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11017_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-the-artists-wife-seated-in-a-tree-p11017",
+      "id": "2501",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the fool",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11018_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-the-fool-p11018",
+      "id": "2502",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11019_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-self-portrait-p11019",
+      "id": "2503",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fool with a bird",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11020_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-fool-with-a-bird-p11020",
+      "id": "2504",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "temple of the sun",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11021_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-temple-of-the-sun-p11021",
+      "id": "2505",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the eternal sun",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11022_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-the-eternal-sun-p11022",
+      "id": "2506",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the fruit of the sun",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11023_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-the-fruit-of-the-sun-p11023",
+      "id": "2507",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sunrise",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11024_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-sunrise-p11024",
+      "id": "2508",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "angel and woman",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11025_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-angel-and-woman-p11025",
+      "id": "2509",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dance landscape",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11026_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-dance-landscape-p11026",
+      "id": "2510",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fool and woman",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11027_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-fool-and-woman-p11027",
+      "id": "2511",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11028_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-head-p11028",
+      "id": "2512",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of a woman",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11029_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-head-of-a-woman-p11029",
+      "id": "2513",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of the artist\u2019s wife",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11373_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/collins-portrait-of-the-artists-wife-p11373",
+      "id": "20911",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2475",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2476",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2477",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2478",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2479",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2480",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2481",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2482",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2483",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2484",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2485",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2486",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2487",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2488",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2489",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2490",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2491",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2492",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2493",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2494",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2495",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2496",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2497",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2498",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2499",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2500",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2501",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2502",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2503",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2504",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2505",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2506",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2507",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2508",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2509",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2510",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2511",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2512",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2513",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20911",
+      "value": 1
+    }
+  ]
+}

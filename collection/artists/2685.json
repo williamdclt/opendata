@@ -1,0 +1,225 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Orozco, Gabriel",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/gabriel-orozco-2685",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78771_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orozco-no-title-p78771",
+      "id": "78045",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78772_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orozco-no-title-p78772",
+      "id": "78046",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78773_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orozco-no-title-p78773",
+      "id": "78047",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78774_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orozco-no-title-p78774",
+      "id": "78048",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78775_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orozco-no-title-p78775",
+      "id": "78049",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78776_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orozco-no-title-p78776",
+      "id": "78050",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78777_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orozco-no-title-p78777",
+      "id": "78051",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78778_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orozco-no-title-p78778",
+      "id": "78052",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78779_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orozco-no-title-p78779",
+      "id": "78053",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78780_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orozco-no-title-p78780",
+      "id": "78054",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78781_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orozco-no-title-p78781",
+      "id": "78055",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78782_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orozco-no-title-p78782",
+      "id": "78056",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "until you find another yellow schwalbe",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07506_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orozco-until-you-find-another-yellow-schwalbe-t07506",
+      "id": "26521",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "carambole with pendulum",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orozco-carambole-with-pendulum-t12319",
+      "id": "90277",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "samurai tree (invariant 5)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/orozco-samurai-tree-invariant-5-t13785",
+      "id": "126391",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "78045",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78046",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78047",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78048",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78049",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78050",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78051",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78052",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78053",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78054",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78055",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78056",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26521",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "90277",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "126391",
+      "value": 1
+    }
+  ]
+}

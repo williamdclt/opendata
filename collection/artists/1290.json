@@ -1,0 +1,169 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hirst, Derek",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/derek-hirst-1290",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "paradox i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01878_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-paradox-i-p01878",
+      "id": "6475",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "paradox ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01879_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-paradox-ii-p01879",
+      "id": "6476",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "paradox iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01880_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-paradox-iii-p01880",
+      "id": "6477",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "paradox iv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01881_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-paradox-iv-p01881",
+      "id": "6478",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "paradox v",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01882_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-paradox-v-p01882",
+      "id": "6479",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kyoto no. 1",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01809_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-kyoto-no-1-t01809",
+      "id": "6480",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kyoto no. 2",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01810_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-kyoto-no-2-t01810",
+      "id": "6481",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kyoto no. 3",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01811_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-kyoto-no-3-t01811",
+      "id": "6482",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kyoto no. 4",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01812_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-kyoto-no-4-t01812",
+      "id": "6483",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kyoto no. 5",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01813_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-kyoto-no-5-t01813",
+      "id": "6484",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kyoto no. 6",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01814_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hirst-kyoto-no-6-t01814",
+      "id": "6485",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6475",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6476",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6477",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6478",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6479",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6480",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6481",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6482",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6483",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6484",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6485",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Jones, Sarah",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/sarah-jones-2682",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the sitting room (francis place) iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78250_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-the-sitting-room-francis-place-iii-p78250",
+      "id": "26499",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the garden (mulberry lodge) vi",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78251_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-the-garden-mulberry-lodge-vi-p78251",
+      "id": "26500",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the dining room (francis place) i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78252_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-the-dining-room-francis-place-i-p78252",
+      "id": "26498",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "actor (ii)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-actor-ii-p79731",
+      "id": "99344",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "26499",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26500",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26498",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99344",
+      "value": 1
+    }
+  ]
+}

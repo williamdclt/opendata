@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hulbert, Thelma",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/thelma-hulbert-2391",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "black screen: dried leaves",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hulbert-black-screen-dried-leaves-t07084",
+      "id": "21589",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the gauze screen ii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hulbert-the-gauze-screen-ii-t07101",
+      "id": "21604",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "21589",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21604",
+      "value": 1
+    }
+  ]
+}

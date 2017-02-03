@@ -1,0 +1,407 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Grant, Duncan",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/duncan-grant-1203",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "kinetic realisation of t01744 made for tate gallery",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/grant-kinetic-realisation-of-t01744-made-for-tate-gallery-a01111",
+      "id": "5572",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the queen of sheba",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03169_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/grant-the-queen-of-sheba-n03169",
+      "id": "5573",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lemon gatherers",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03666_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/grant-lemon-gatherers-n03666",
+      "id": "5574",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "south of france",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04443_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/grant-south-of-france-n04443",
+      "id": "5575",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "football",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04566_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/grant-football-n04566",
+      "id": "5576",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bathing",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04567_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/grant-bathing-n04567",
+      "id": "5577",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape, sussex",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05075_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/grant-landscape-sussex-n05075",
+      "id": "5578",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of a woman",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05076_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/grant-portrait-of-a-woman-n05076",
+      "id": "5579",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "girl at the piano",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05171_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/grant-girl-at-the-piano-n05171",
+      "id": "5580",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vanessa bell",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05405_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/grant-vanessa-bell-n05405",
+      "id": "5581",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the hayrick",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05428_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/grant-the-hayrick-n05428",
+      "id": "5582",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lytton strachey. verso: crime and punishment",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05764_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/grant-lytton-strachey-verso-crime-and-punishment-n05764",
+      "id": "5583",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "james strachey",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05765_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/grant-james-strachey-n05765",
+      "id": "5584",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life with carrots",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06143_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/grant-still-life-with-carrots-n06143",
+      "id": "5585",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dancers",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06181_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/grant-dancers-n06181",
+      "id": "5586",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03181_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/grant-untitled-p03181",
+      "id": "5587",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "interior",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06241_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/grant-interior-p06241",
+      "id": "5588",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "standing woman",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06242_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/grant-standing-woman-p06242",
+      "id": "5589",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "washerwoman",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06243_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/grant-washerwoman-p06243",
+      "id": "5590",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the kitchen",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00294_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/grant-the-kitchen-t00294",
+      "id": "5591",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the tub",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00723_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/grant-the-tub-t00723",
+      "id": "5592",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "interior at gordon square",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01143_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/grant-interior-at-gordon-square-t01143",
+      "id": "5593",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the mantelpiece",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01328_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/grant-the-mantelpiece-t01328",
+      "id": "5594",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "venus and adonis",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01514_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/grant-venus-and-adonis-t01514",
+      "id": "5595",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "abstract kinetic collage painting with sound",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01744_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/grant-abstract-kinetic-collage-painting-with-sound-t01744",
+      "id": "5596",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of eve",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03847_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/grant-head-of-eve-t03847",
+      "id": "5597",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "garden path in spring",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05757_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/grant-garden-path-in-spring-t05757",
+      "id": "19023",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the ass",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12277_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/grant-the-ass-t12277",
+      "id": "20162",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5572",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5573",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5574",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5575",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5576",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5577",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5578",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5579",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5580",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5581",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5582",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5583",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5584",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5585",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5586",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5587",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5588",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5589",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5590",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5591",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5592",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5593",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5594",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5595",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5596",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5597",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19023",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20162",
+      "value": 1
+    }
+  ]
+}

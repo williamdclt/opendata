@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Boughton, George Henry",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/george-henry-boughton-44",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "weeding the pavement",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01539_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/boughton-weeding-the-pavement-n01539",
+      "id": "1366",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1366",
+      "value": 1
+    }
+  ]
+}

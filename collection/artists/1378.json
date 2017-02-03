@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Judd, Donald",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/donald-judd-1378",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07555_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/judd-no-title-p07555",
+      "id": "7763",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07556_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/judd-no-title-p07556",
+      "id": "7764",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07557_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/judd-no-title-p07557",
+      "id": "7765",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07558_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/judd-no-title-p07558",
+      "id": "7766",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07559_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/judd-no-title-p07559",
+      "id": "7767",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07560_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/judd-no-title-p07560",
+      "id": "7768",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11522_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/judd-no-title-p11522",
+      "id": "26211",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11523_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/judd-no-title-p11523",
+      "id": "26220",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11524_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/judd-no-title-p11524",
+      "id": "26212",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11525_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/judd-no-title-p11525",
+      "id": "26213",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11526_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/judd-no-title-p11526",
+      "id": "26214",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11527_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/judd-no-title-p11527",
+      "id": "26215",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11528_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/judd-no-title-p11528",
+      "id": "26216",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11529_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/judd-no-title-p11529",
+      "id": "26217",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11530_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/judd-no-title-p11530",
+      "id": "26218",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11531_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/judd-no-title-p11531",
+      "id": "26219",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77325_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/judd-no-title-p77325",
+      "id": "17388",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77326_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/judd-no-title-p77326",
+      "id": "17372",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77327_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/judd-no-title-p77327",
+      "id": "17392",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77328_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/judd-no-title-p77328",
+      "id": "17377",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77329_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/judd-no-title-p77329",
+      "id": "17376",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77330_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/judd-no-title-p77330",
+      "id": "17375",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77485_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/judd-untitled-p77485",
+      "id": "19406",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77496_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/judd-no-title-p77496",
+      "id": "20212",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77497_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/judd-no-title-p77497",
+      "id": "20226",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77498_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/judd-no-title-p77498",
+      "id": "20225",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77499_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/judd-no-title-p77499",
+      "id": "20224",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77500_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/judd-no-title-p77500",
+      "id": "20223",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77501_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/judd-no-title-p77501",
+      "id": "20222",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77502_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/judd-no-title-p77502",
+      "id": "20221",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77503_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/judd-no-title-p77503",
+      "id": "20220",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77504_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/judd-no-title-p77504",
+      "id": "20219",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77505_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/judd-no-title-p77505",
+      "id": "20218",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77901_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/judd-untitled-p77901",
+      "id": "21893",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01727_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/judd-untitled-t01727",
+      "id": "7769",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03087_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/judd-untitled-t03087",
+      "id": "7770",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04936_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/judd-untitled-t04936",
+      "id": "7771",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06524_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/judd-untitled-t06524",
+      "id": "20344",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (dj 85-51)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07143_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/judd-untitled-dj-85-51-t07143",
+      "id": "21765",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (dj-89-40)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/judd-untitled-dj-89-40-t07877",
+      "id": "21911",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "7763",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7764",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7765",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7766",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7767",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7768",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26211",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26220",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26212",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26213",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26214",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26215",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26216",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26217",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26218",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26219",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17388",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17372",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17392",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17377",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17376",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17375",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19406",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20212",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20226",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20225",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20224",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20223",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20222",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20221",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20220",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20219",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20218",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21893",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7769",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7770",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7771",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20344",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21765",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21911",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Fell, Sheila",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/sheila-fell-1088",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "snowscape iv",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00473_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fell-snowscape-iv-t00473",
+      "id": "4257",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "haystack in a field",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01065_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fell-haystack-in-a-field-t01065",
+      "id": "4258",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "maryport, cumbria",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fell-maryport-cumbria-t03159",
+      "id": "4259",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4257",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4258",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4259",
+      "value": 1
+    }
+  ]
+}

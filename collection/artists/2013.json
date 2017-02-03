@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Wiener, Martin",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/martin-wiener-2013",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "1. golda meir",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wiener-1-golda-meir-p06615",
+      "id": "16155",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "2. david ben gurion",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wiener-2-david-ben-gurion-p06616",
+      "id": "16156",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "3. kibbutz palmach tzuba",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wiener-3-kibbutz-palmach-tzuba-p06755",
+      "id": "16157",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "4. three arabs and a sabra",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wiener-4-three-arabs-and-a-sabra-p06756",
+      "id": "16158",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "5. nahal settlement ein sivan",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wiener-5-nahal-settlement-ein-sivan-p06757",
+      "id": "16159",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "6. children in the panto family kindergarten",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/wiener-6-children-in-the-panto-family-kindergarten-p06758",
+      "id": "16160",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16155",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16156",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16157",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16158",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16159",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16160",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Houshiary, Shirazeh",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/shirazeh-houshiary-1314",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77593_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houshiary-no-title-p77593",
+      "id": "20649",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77594_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houshiary-no-title-p77594",
+      "id": "20650",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77595_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houshiary-no-title-p77595",
+      "id": "20651",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77596_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houshiary-no-title-p77596",
+      "id": "20652",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77597_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houshiary-no-title-p77597",
+      "id": "20653",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the angel of thought",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05012_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houshiary-the-angel-of-thought-t05012",
+      "id": "6848",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the earth is an angel",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05013_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houshiary-the-earth-is-an-angel-t05013",
+      "id": "6849",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "beating of her wings i",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houshiary-beating-of-her-wings-i-t05014",
+      "id": "6850",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "beating of her wings ii",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05015_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houshiary-beating-of-her-wings-ii-t05015",
+      "id": "6851",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "beating of her wings iii",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05016_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houshiary-beating-of-her-wings-iii-t05016",
+      "id": "6852",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "beating of her wings iv",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05017_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houshiary-beating-of-her-wings-iv-t05017",
+      "id": "6853",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the earth is an angel",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05022_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houshiary-the-earth-is-an-angel-t05022",
+      "id": "6854",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the enclosure of sanctity",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houshiary-the-enclosure-of-sanctity-t06787",
+      "id": "20906",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "veil",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07776_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houshiary-veil-t07776",
+      "id": "66693",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shroud",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07777_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/houshiary-shroud-t07777",
+      "id": "66692",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "20649",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20650",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20651",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20652",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20653",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6848",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6849",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6850",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6851",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6852",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6853",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6854",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20906",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66693",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66692",
+      "value": 1
+    }
+  ]
+}

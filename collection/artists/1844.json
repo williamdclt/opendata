@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Rickey, George",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/george-rickey-1844",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "n lines horizontal-hanging",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rickey-n-lines-horizontal-hanging-t01051",
+      "id": "12580",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "four rectangles oblique, bronze",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rickey-four-rectangles-oblique-bronze-t02019",
+      "id": "12581",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12580",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12581",
+      "value": 1
+    }
+  ]
+}

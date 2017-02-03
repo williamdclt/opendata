@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Fougeron, Andr\u00e9",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/andre-fougeron-2772",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "atlantic civilisation",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07645_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fougeron-atlantic-civilisation-t07645",
+      "id": "27229",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "martyred spain",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07703_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fougeron-martyred-spain-t07703",
+      "id": "240",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the cock fighters",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07704_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fougeron-the-cock-fighters-t07704",
+      "id": "76",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "return from the market",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07705_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fougeron-return-from-the-market-t07705",
+      "id": "77",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "massacre at sakiet iii",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07706_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fougeron-massacre-at-sakiet-iii-t07706",
+      "id": "78",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the four horsemen of the apocalypse",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07707_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fougeron-the-four-horsemen-of-the-apocalypse-t07707",
+      "id": "46",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the tournament",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07708_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fougeron-the-tournament-t07708",
+      "id": "74",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "homage to franco!!!",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07709_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fougeron-homage-to-franco-t07709",
+      "id": "75",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "27229",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "240",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "76",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "77",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "46",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "74",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "75",
+      "value": 1
+    }
+  ]
+}

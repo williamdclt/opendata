@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Tompkins, Hayley",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/hayley-tompkins-14997",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "day series",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tompkins-day-series-t13535",
+      "id": "114696",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "proto portrait",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tompkins-proto-portrait-t13536",
+      "id": "117794",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "metabuilt xxiv",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tompkins-metabuilt-xxiv-t13537",
+      "id": "117795",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "metabuilt ii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tompkins-metabuilt-ii-t13538",
+      "id": "117797",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "architecture",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tompkins-architecture-t13539",
+      "id": "117798",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "no title",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tompkins-no-title-t13540",
+      "id": "117799",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "114696",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117794",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117795",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117797",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117798",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "117799",
+      "value": 1
+    }
+  ]
+}

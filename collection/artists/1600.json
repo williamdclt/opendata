@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "May, Phil",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/phil-may-1600",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "lord rosslyn",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04265_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/may-lord-rosslyn-n04265",
+      "id": "9410",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "barney sheppard sings in the gloaming",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04266_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/may-barney-sheppard-sings-in-the-gloaming-n04266",
+      "id": "9411",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "i define the criminal characteristics in physiognomy of chas peace",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04267_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/may-i-define-the-criminal-characteristics-in-physiognomy-of-chas-peace-n04267",
+      "id": "9412",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "old lady and two men",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04268_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/may-old-lady-and-two-men-n04268",
+      "id": "9413",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the drawing master",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04433_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/may-the-drawing-master-n04433",
+      "id": "9414",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "waiter and diner. caricature",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09851_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/may-waiter-and-diner-caricature-t09851",
+      "id": "23244",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9410",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9411",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9412",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9413",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9414",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23244",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Moore, T.",
+      "url": null,
+      "gender": "",
+      "tatelink": "http://www.tate.org.uk/art/artists/t-moore-2551",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "amberley castle, sussex, after edward dayes",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08886_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/moore-amberley-castle-sussex-after-edward-dayes-t08886",
+      "id": "22796",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "22796",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Smith, Kiki",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/kiki-smith-2280",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-untitled-p11910",
+      "id": "21373",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (encryption) 1:5",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-untitled-encryption-15-p11967",
+      "id": "78687",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (encryption) 2:5",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-untitled-encryption-25-p11968",
+      "id": "78688",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (encryption) 3:5",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-untitled-encryption-35-p11969",
+      "id": "78689",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (encryption) 4:5",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-untitled-encryption-45-p11970",
+      "id": "78690",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (encryption) 5:5",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-untitled-encryption-55-p11971",
+      "id": "78691",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blue girl",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/smith-blue-girl-p79393",
+      "id": "101524",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "21373",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78687",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78688",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78689",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78690",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78691",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101524",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Dadd, Frank",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/frank-dadd-129",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "gold lace has a charm for the fair",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02264_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dadd-gold-lace-has-a-charm-for-the-fair-n02264",
+      "id": "2973",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2973",
+      "value": 1
+    }
+  ]
+}

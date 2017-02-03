@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "St John Long, John St John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-st-john-long-470",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the temptation in the wilderness",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04169_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/st-john-long-the-temptation-in-the-wilderness-t04169",
+      "id": "13062",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13062",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Marlow, William",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/william-marlow-368",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "capriccio: st paul\u2019s and a venetian canal",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06213_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marlow-capriccio-st-pauls-and-a-venetian-canal-n06213",
+      "id": "9296",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view on the thames",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00930_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marlow-view-on-the-thames-t00930",
+      "id": "9297",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a post-house near florence",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03602_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marlow-a-post-house-near-florence-t03602",
+      "id": "9298",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "villeneuve-l\u00e8s-avignon",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08209_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marlow-villeneuve-les-avignon-t08209",
+      "id": "23193",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st paul\u2019s and the river",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09111_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marlow-st-pauls-and-the-river-t09111",
+      "id": "23194",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pont royal, paris",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09122_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marlow-pont-royal-paris-t09122",
+      "id": "23226",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pont royal, paris",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09123_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marlow-pont-royal-paris-t09123",
+      "id": "23227",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rome: castle s. angelo and st peter\u2019s",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09157_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marlow-rome-castle-s-angelo-and-st-peters-t09157",
+      "id": "23195",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rome from the north",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09158_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marlow-rome-from-the-north-t09158",
+      "id": "23196",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a boat",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09159_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marlow-study-of-a-boat-t09159",
+      "id": "23197",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "villeneuve",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09160_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marlow-villeneuve-t09160",
+      "id": "23198",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st cloud",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09161_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marlow-st-cloud-t09161",
+      "id": "23199",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the thames at twickenham",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09162_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marlow-the-thames-at-twickenham-t09162",
+      "id": "23200",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "florence",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09163_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marlow-florence-t09163",
+      "id": "23201",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "avignon",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09164_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marlow-avignon-t09164",
+      "id": "23202",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st germain en laye",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09165_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marlow-st-germain-en-laye-t09165",
+      "id": "23203",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "avignon, the palace seen from the back",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09166_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marlow-avignon-the-palace-seen-from-the-back-t09166",
+      "id": "23204",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "marly. the end of the viaduct",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09167_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marlow-marly-the-end-of-the-viaduct-t09167",
+      "id": "23205",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st cloud",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09168_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marlow-st-cloud-t09168",
+      "id": "23206",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ripa grande a roma",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09169_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marlow-ripa-grande-a-roma-t09169",
+      "id": "23207",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "composition: scene on the coast",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09170_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marlow-composition-scene-on-the-coast-t09170",
+      "id": "23208",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "composition, tivoli",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09171_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marlow-composition-tivoli-t09171",
+      "id": "23209",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "veduta verso roma",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09172_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marlow-veduta-verso-roma-t09172",
+      "id": "23210",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ponte molle",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09173_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marlow-ponte-molle-t09173",
+      "id": "23211",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "naples",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09174_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marlow-naples-t09174",
+      "id": "23212",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "on the tiber",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09175_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marlow-on-the-tiber-t09175",
+      "id": "23213",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "baths of diocletian, rome",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09176_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marlow-baths-of-diocletian-rome-t09176",
+      "id": "23214",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tivoli",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09177_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marlow-tivoli-t09177",
+      "id": "23215",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tivoli",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09178_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marlow-tivoli-t09178",
+      "id": "23216",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "baths of diocletian",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09179_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marlow-baths-of-diocletian-t09179",
+      "id": "23217",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tivoli",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09180_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marlow-tivoli-t09180",
+      "id": "23218",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "n\u00eemes",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09181_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marlow-nimes-t09181",
+      "id": "23219",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "avignon",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09182_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marlow-avignon-t09182",
+      "id": "23220",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "waltham abbey",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09183_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marlow-waltham-abbey-t09183",
+      "id": "23221",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "naples",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09184_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marlow-naples-t09184",
+      "id": "23222",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "naples",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09185_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marlow-naples-t09185",
+      "id": "23223",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "studies of monks and priests",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09186_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marlow-studies-of-monks-and-priests-t09186",
+      "id": "23224",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of plants",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09187_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/marlow-study-of-plants-t09187",
+      "id": "23225",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9296",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9297",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9298",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23193",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23194",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23226",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23227",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23195",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23196",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23197",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23198",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23199",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23200",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23201",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23202",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23203",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23204",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23205",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23206",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23207",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23208",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23209",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23210",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23211",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23212",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23213",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23214",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23215",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23216",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23217",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23218",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23219",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23220",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23221",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23222",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23223",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23224",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23225",
+      "value": 1
+    }
+  ]
+}

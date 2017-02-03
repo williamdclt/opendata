@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Couderc, Gabriel",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/gabriel-couderc-948",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "cargo ship in s\u00e8te",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01701_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/couderc-cargo-ship-in-sete-p01701",
+      "id": "2834",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2834",
+      "value": 1
+    }
+  ]
+}

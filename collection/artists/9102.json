@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gander, Ryan",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/ryan-gander-9102",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "robbed us with the sight of what we should have known",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12413_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gander-robbed-us-with-the-sight-of-what-we-should-have-known-t12413",
+      "id": "88483",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "associative ghost template #2",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gander-associative-ghost-template-2-t13731",
+      "id": "126536",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "88483",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "126536",
+      "value": 1
+    }
+  ]
+}

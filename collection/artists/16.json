@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Baily, Edward Hodges",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/edward-hodges-baily-16",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the first duke of wellington (after joseph nollekens)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02236_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baily-the-first-duke-of-wellington-after-joseph-nollekens-n02236",
+      "id": "689",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "george canning (after joseph nollekens)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02247_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baily-george-canning-after-joseph-nollekens-n02247",
+      "id": "690",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "689",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "690",
+      "value": 1
+    }
+  ]
+}

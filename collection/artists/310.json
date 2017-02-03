@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Kneller, Sir Godfrey",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-godfrey-kneller-310",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "john smith the engraver",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00273_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kneller-john-smith-the-engraver-n00273",
+      "id": "8150",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the first marquess of tweeddale",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03272_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kneller-the-first-marquess-of-tweeddale-n03272",
+      "id": "8151",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a lady",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03616_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kneller-a-lady-n03616",
+      "id": "8152",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "elijah and the angel",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06222_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kneller-elijah-and-the-angel-n06222",
+      "id": "8153",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "john smith, speaker of the house of commons",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kneller-john-smith-speaker-of-the-house-of-commons-t03982",
+      "id": "8154",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of john banckes",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05019_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kneller-portrait-of-john-banckes-t05019",
+      "id": "8155",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the harvey family",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07615_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kneller-the-harvey-family-t07615",
+      "id": "27065",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "philip, 4th lord of wharton",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12029_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kneller-philip-4th-lord-of-wharton-t12029",
+      "id": "85562",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8150",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8151",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8152",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8153",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8154",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8155",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27065",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85562",
+      "value": 1
+    }
+  ]
+}

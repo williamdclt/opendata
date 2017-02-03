@@ -1,0 +1,519 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Rowlandson, Thomas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/thomas-rowlandson-463",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "landscape, with lake",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04356_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rowlandson-landscape-with-lake-n04356",
+      "id": "12992",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "four generations",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04357_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rowlandson-four-generations-n04357",
+      "id": "12993",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "departure from the wheatsheaf",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04358_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rowlandson-departure-from-the-wheatsheaf-n04358",
+      "id": "12994",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "castle and bridge, haverfordwest, pembrokeshire",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04359_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rowlandson-castle-and-bridge-haverfordwest-pembrokeshire-n04359",
+      "id": "12995",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "camelford fair",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04585_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rowlandson-camelford-fair-n04585",
+      "id": "12996",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the halt by a hill",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05952_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rowlandson-the-halt-by-a-hill-n05952",
+      "id": "12997",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape, isle of wight",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01014_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rowlandson-landscape-isle-of-wight-t01014",
+      "id": "12998",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a bench of artists",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08142_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rowlandson-a-bench-of-artists-t08142",
+      "id": "23482",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "yarmouth roads: wounded men being carried ashore",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08214_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rowlandson-yarmouth-roads-wounded-men-being-carried-ashore-t08214",
+      "id": "23488",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "yarmouth roads: open view of the estuary",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08215_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rowlandson-yarmouth-roads-open-view-of-the-estuary-t08215",
+      "id": "23489",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two women sewing by candlelight",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08273_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rowlandson-two-women-sewing-by-candlelight-t08273",
+      "id": "23479",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sir joseph banks about to eat an alligator (\u2018the fish supper\u2019)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08469_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rowlandson-sir-joseph-banks-about-to-eat-an-alligator-the-fish-supper-t08469",
+      "id": "23476",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the judge",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08531_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rowlandson-the-judge-t08531",
+      "id": "23468",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "on the ice",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08539_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rowlandson-on-the-ice-t08539",
+      "id": "23473",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the tables turned",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08546_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rowlandson-the-tables-turned-t08546",
+      "id": "23483",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two o\u2019clock ordinary",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08551_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rowlandson-two-oclock-ordinary-t08551",
+      "id": "23487",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a meal at squire worthy\u2019s",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09188_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rowlandson-a-meal-at-squire-worthys-t09188",
+      "id": "23485",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pantheon masquerade",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09193_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rowlandson-pantheon-masquerade-t09193",
+      "id": "23480",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "september the first",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09194_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rowlandson-september-the-first-t09194",
+      "id": "23471",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the auction",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09195_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rowlandson-the-auction-t09195",
+      "id": "23470",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ode for the new year",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09196_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rowlandson-ode-for-the-new-year-t09196",
+      "id": "23475",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cows in a wood",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09197_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rowlandson-cows-in-a-wood-t09197",
+      "id": "23486",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "apelles singling beauties from a variety of models",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09199_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rowlandson-apelles-singling-beauties-from-a-variety-of-models-t09199",
+      "id": "23466",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "under an arrest",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09200_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rowlandson-under-an-arrest-t09200",
+      "id": "23477",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "queen anne\u2019s bounty: triplets",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09201_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rowlandson-queen-annes-bounty-triplets-t09201",
+      "id": "23467",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "longways dance",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09202_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rowlandson-longways-dance-t09202",
+      "id": "23490",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "longways dance",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09203_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rowlandson-longways-dance-t09203",
+      "id": "24453",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "longways dance",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09204_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rowlandson-longways-dance-t09204",
+      "id": "24454",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mohawks",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09207_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rowlandson-mohawks-t09207",
+      "id": "23474",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the lover. verso: half length portrait of a pretty woman",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09208_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rowlandson-the-lover-verso-half-length-portrait-of-a-pretty-woman-t09208",
+      "id": "23469",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the mansion house monitor. an accusing ghost at a dinner table",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09209_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rowlandson-the-mansion-house-monitor-an-accusing-ghost-at-a-dinner-table-t09209",
+      "id": "23481",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cavalry by a lake",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09210_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rowlandson-cavalry-by-a-lake-t09210",
+      "id": "23484",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mr casson\u2019s shaver",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09211_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rowlandson-mr-cassons-shaver-t09211",
+      "id": "23472",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "embarking from brighthelmstone to diepp",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11683_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rowlandson-embarking-from-brighthelmstone-to-diepp-t11683",
+      "id": "25916",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "glorious defeat of the dutch navy octr 10 1797, by admirals lord duncan and sir richard onslow, with a view drawn on the spot of the six dutch line of battle ships captured and brought into yarmouth",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11684_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rowlandson-glorious-defeat-of-the-dutch-navy-octr-10-1797-by-admirals-lord-duncan-and-sir-t11684",
+      "id": "25917",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a two o\u2019clock ordinary",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11696_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rowlandson-a-two-oclock-ordinary-t11696",
+      "id": "25929",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12992",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12993",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12994",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12995",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12996",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12997",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12998",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23482",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23488",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23489",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23479",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23476",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23468",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23473",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23483",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23487",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23485",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23480",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23471",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23470",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23475",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23486",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23466",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23477",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23467",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23490",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24453",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24454",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23474",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23469",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23481",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23484",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23472",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25916",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25917",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "25929",
+      "value": 1
+    }
+  ]
+}

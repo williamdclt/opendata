@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Connard, Philip",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/philip-connard-935",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "jane, evelyn, james and helen",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02998_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/connard-jane-evelyn-james-and-helen-n02998",
+      "id": "2562",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "summer",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03673_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/connard-summer-n03673",
+      "id": "2563",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "le petit journal",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04244_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/connard-le-petit-journal-n04244",
+      "id": "2564",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman on a balcony",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04414_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/connard-woman-on-a-balcony-n04414",
+      "id": "2565",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a new arrival at the zoo",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/connard-a-new-arrival-at-the-zoo-n04699",
+      "id": "2566",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "winter at richmond",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05326_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/connard-winter-at-richmond-n05326",
+      "id": "2567",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pelican ponds",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05333_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/connard-pelican-ponds-n05333",
+      "id": "2568",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2562",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2563",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2564",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2565",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2566",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2567",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2568",
+      "value": 1
+    }
+  ]
+}

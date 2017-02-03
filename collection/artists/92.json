@@ -1,0 +1,519 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Chinnery, George",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/george-chinnery-92",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "how qua, senior hong merchant at canton, china",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05369_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chinnery-how-qua-senior-hong-merchant-at-canton-china-n05369",
+      "id": "2200",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "colonel woodburn of the bengal artillery",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01910_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chinnery-colonel-woodburn-of-the-bengal-artillery-t01910",
+      "id": "2201",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08777_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chinnery-title-not-known-t08777",
+      "id": "22407",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08778_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chinnery-title-not-known-t08778",
+      "id": "24345",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08779_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chinnery-title-not-known-t08779",
+      "id": "24346",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08780_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chinnery-title-not-known-t08780",
+      "id": "24347",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08781_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chinnery-title-not-known-t08781",
+      "id": "24348",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08782_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chinnery-title-not-known-t08782",
+      "id": "24349",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08783_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chinnery-title-not-known-t08783",
+      "id": "24350",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08784_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chinnery-title-not-known-t08784",
+      "id": "24351",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08785_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chinnery-title-not-known-t08785",
+      "id": "24352",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08786_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chinnery-title-not-known-t08786",
+      "id": "24353",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08787_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chinnery-title-not-known-t08787",
+      "id": "24354",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08788_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chinnery-title-not-known-t08788",
+      "id": "24355",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08789_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chinnery-title-not-known-t08789",
+      "id": "24356",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08790_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chinnery-title-not-known-t08790",
+      "id": "24357",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08791_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chinnery-title-not-known-t08791",
+      "id": "24358",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08792_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chinnery-title-not-known-t08792",
+      "id": "24359",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08793_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chinnery-title-not-known-t08793",
+      "id": "24360",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08794_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chinnery-title-not-known-t08794",
+      "id": "24362",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08795_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chinnery-title-not-known-t08795",
+      "id": "24363",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08796_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chinnery-title-not-known-t08796",
+      "id": "24364",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08797_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chinnery-title-not-known-t08797",
+      "id": "24361",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08798_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chinnery-title-not-known-t08798",
+      "id": "24365",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08799_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chinnery-title-not-known-t08799",
+      "id": "24366",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08800_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chinnery-title-not-known-t08800",
+      "id": "24367",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08801_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chinnery-title-not-known-t08801",
+      "id": "24368",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08802_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chinnery-title-not-known-t08802",
+      "id": "24369",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08803_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chinnery-title-not-known-t08803",
+      "id": "24370",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08804_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chinnery-title-not-known-t08804",
+      "id": "24371",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08805_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chinnery-title-not-known-t08805",
+      "id": "24372",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08806_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chinnery-title-not-known-t08806",
+      "id": "24373",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08807_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chinnery-title-not-known-t08807",
+      "id": "24374",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08808_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chinnery-title-not-known-t08808",
+      "id": "24375",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08809_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chinnery-title-not-known-t08809",
+      "id": "24376",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of a dromedary",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08810_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chinnery-head-of-a-dromedary-t08810",
+      "id": "22408",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2200",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2201",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22407",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24345",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24346",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24347",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24348",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24349",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24350",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24351",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24352",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24353",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24354",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24355",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24356",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24357",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24358",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24359",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24360",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24362",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24363",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24364",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24361",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24365",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24366",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24367",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24368",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24369",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24370",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24371",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24372",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24373",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24374",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24375",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24376",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22408",
+      "value": 1
+    }
+  ]
+}

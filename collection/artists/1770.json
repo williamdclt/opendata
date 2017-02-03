@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Pickard, Louise",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/louise-pickard-1770",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the green balcony",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04426_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pickard-the-green-balcony-n04426",
+      "id": "11883",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life by a window",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05347_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pickard-still-life-by-a-window-n05347",
+      "id": "11884",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "11883",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11884",
+      "value": 1
+    }
+  ]
+}

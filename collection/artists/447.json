@@ -1,0 +1,183 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Richmond, George",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/george-richmond-447",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "tracing of title-page of blake\u2019s \u2018book of job\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00050_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richmond-tracing-of-title-page-of-blakes-book-of-job-a00050",
+      "id": "1183",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fettered nude figure reclining by a rock",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00838_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richmond-fettered-nude-figure-reclining-by-a-rock-a00838",
+      "id": "12554",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "christ and the woman of samaria",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01492_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richmond-christ-and-the-woman-of-samaria-n01492",
+      "id": "12547",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the fatal bellman (\u2018the robber\u2019)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03692_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richmond-the-fatal-bellman-the-robber-n03692",
+      "id": "12548",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the shepherd",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04064_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richmond-the-shepherd-n04064",
+      "id": "12549",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "abel the shepherd",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05858_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richmond-abel-the-shepherd-n05858",
+      "id": "12550",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "elijah and the angel",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02102_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richmond-elijah-and-the-angel-t02102",
+      "id": "12551",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018christ and the woman of samaria\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02103_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richmond-study-for-christ-and-the-woman-of-samaria-t02103",
+      "id": "12552",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the creation of light",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04164_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richmond-the-creation-of-light-t04164",
+      "id": "12553",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of henry walter. verso: profile of a woman",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08271_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richmond-portrait-of-henry-walter-verso-profile-of-a-woman-t08271",
+      "id": "23434",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a field near margate",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08272_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richmond-a-field-near-margate-t08272",
+      "id": "23435",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of e.m. ward, ra (1816-1879)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09139_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/richmond-portrait-of-em-ward-ra-1816-1879-t09139",
+      "id": "23433",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1183",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12554",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12547",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12548",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12549",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12550",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12551",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12552",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12553",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23434",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23435",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23433",
+      "value": 1
+    }
+  ]
+}

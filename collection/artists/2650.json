@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Newcomb, Mary",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/mary-newcomb-2650",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "people walking amongst small sandhills",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07337_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/newcomb-people-walking-amongst-small-sandhills-t07337",
+      "id": "25991",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "25991",
+      "value": 1
+    }
+  ]
+}

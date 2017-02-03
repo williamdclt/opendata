@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Bustamante, Jean-Marc",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/jean-marc-bustamante-6992",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "light 01.03",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bustamante-light-0103-t11899",
+      "id": "81617",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lava i",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11941_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bustamante-lava-i-t11941",
+      "id": "81616",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "81617",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81616",
+      "value": 1
+    }
+  ]
+}

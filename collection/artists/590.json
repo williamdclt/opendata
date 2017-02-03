@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Webster, Thomas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/thomas-webster-590",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "late at school",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00426_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/webster-late-at-school-n00426",
+      "id": "16046",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a dame\u2019s school",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00427_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/webster-a-dames-school-n00427",
+      "id": "16047",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the artist\u2019s father and mother",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01225_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/webster-the-artists-father-and-mother-n01225",
+      "id": "16048",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a letter from the colonies",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00046_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/webster-a-letter-from-the-colonies-t00046",
+      "id": "16049",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018a letter from the colonies\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04145_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/webster-study-for-a-letter-from-the-colonies-t04145",
+      "id": "16050",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16046",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16047",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16048",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16049",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16050",
+      "value": 1
+    }
+  ]
+}

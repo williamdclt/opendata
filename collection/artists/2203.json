@@ -1,0 +1,365 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "G\u00f6tz, Professor Karl-Otto",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/karl-otto-gotz-2203",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02969_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gotz-untitled-p02969",
+      "id": "19131",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02970_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gotz-untitled-p02970",
+      "id": "19132",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02971_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gotz-untitled-p02971",
+      "id": "19133",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02972_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gotz-untitled-p02972",
+      "id": "19134",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the young one is coming",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02973_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gotz-the-young-one-is-coming-p02973",
+      "id": "19135",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02974_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gotz-untitled-p02974",
+      "id": "19136",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02975_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gotz-untitled-p02975",
+      "id": "19137",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "selva (series a)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02976_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gotz-selva-series-a-p02976",
+      "id": "19138",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "entym",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02977_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gotz-entym-p02977",
+      "id": "19139",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02978_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gotz-no-title-p02978",
+      "id": "19140",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02979_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gotz-untitled-p02979",
+      "id": "19141",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02980_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gotz-no-title-p02980",
+      "id": "19151",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02981_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gotz-no-title-p02981",
+      "id": "19150",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02982_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gotz-no-title-p02982",
+      "id": "19149",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02983_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gotz-no-title-p02983",
+      "id": "19148",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02984_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gotz-no-title-p02984",
+      "id": "19147",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02985_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gotz-no-title-p02985",
+      "id": "19146",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02986_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gotz-no-title-p02986",
+      "id": "19145",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02987_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gotz-no-title-p02987",
+      "id": "19144",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02988_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gotz-no-title-p02988",
+      "id": "19143",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02989_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gotz-no-title-p02989",
+      "id": "19142",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P08/P08216_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gotz-untitled-p08216",
+      "id": "5547",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11204_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gotz-untitled-p11204",
+      "id": "17275",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bird plant",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11205_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gotz-bird-plant-p11205",
+      "id": "17276",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gilgamesh",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11206_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gotz-gilgamesh-p11206",
+      "id": "17277",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "19131",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19132",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19133",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19134",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19135",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19136",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19137",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19138",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19139",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19140",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19141",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19151",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19150",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19149",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19148",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19147",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19146",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19145",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19144",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19143",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19142",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5547",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17275",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17276",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17277",
+      "value": 1
+    }
+  ]
+}

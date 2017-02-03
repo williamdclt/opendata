@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gilpin, Sawrey",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sawrey-gilpin-2578",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a wild boar attacked by hounds",
+      "url": "http://www.tate.org.uk/art/images/work/D/D00/D00714_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilpin-a-wild-boar-attacked-by-hounds-d00714",
+      "id": "28129",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a horse and two cows near a farm building",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36654_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilpin-a-horse-and-two-cows-near-a-farm-building-d36654",
+      "id": "63737",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a horse and two cows near a farm building",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36655_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilpin-a-horse-and-two-cows-near-a-farm-building-d36655",
+      "id": "63738",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "composition study of cows in a stream with wooded banks",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36656_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilpin-composition-study-of-cows-in-a-stream-with-wooded-banks-d36656",
+      "id": "63739",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a group of goats",
+      "url": "http://www.tate.org.uk/art/images/work/D/D36/D36657_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilpin-study-of-a-group-of-goats-d36657",
+      "id": "63740",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "broodmares and colts in a landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02359_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilpin-barret-broodmares-and-colts-in-a-landscape-t02359",
+      "id": "5348",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "28129",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63737",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63738",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63739",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "63740",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5348",
+      "value": 1
+    }
+  ]
+}

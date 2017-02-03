@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Shadbolt, Jack",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/jack-shadbolt-1929",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "begetting green",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shadbolt-begetting-green-p03226",
+      "id": "13331",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13331",
+      "value": 1
+    }
+  ]
+}

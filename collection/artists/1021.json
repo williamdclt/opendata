@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Dorazio, Piero",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/piero-dorazio-1021",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "very sharp",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00804_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dorazio-very-sharp-t00804",
+      "id": "3980",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "3980",
+      "value": 1
+    }
+  ]
+}

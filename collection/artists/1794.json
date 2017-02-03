@@ -1,0 +1,323 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Potter, Helen Beatrix",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/helen-beatrix-potter-1794",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "frontispiece: the tailor mouse",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01089_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/potter-frontispiece-the-tailor-mouse-a01089",
+      "id": "12180",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the tailor of gloucester at work",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01090_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/potter-the-tailor-of-gloucester-at-work-a01090",
+      "id": "12181",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lady mouse in mob cap",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01091_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/potter-lady-mouse-in-mob-cap-a01091",
+      "id": "12182",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the tailor leaving his workshop",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01092_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/potter-the-tailor-leaving-his-workshop-a01092",
+      "id": "12183",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the tailor returning home",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01093_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/potter-the-tailor-returning-home-a01093",
+      "id": "12184",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "simpkin housekeeping",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01094_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/potter-simpkin-housekeeping-a01094",
+      "id": "12185",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the tailor by the hearth",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01095_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/potter-the-tailor-by-the-hearth-a01095",
+      "id": "12186",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the tailor hears noises",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01096_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/potter-the-tailor-hears-noises-a01096",
+      "id": "12187",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the mice escape",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01097_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/potter-the-mice-escape-a01097",
+      "id": "12188",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the mice listen to the tailor\u2019s lament",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01098_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/potter-the-mice-listen-to-the-tailors-lament-a01098",
+      "id": "12189",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018where is my twist?\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01099_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/potter-where-is-my-twist-a01099",
+      "id": "12190",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the mice at work: threading the needle",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01100_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/potter-the-mice-at-work-threading-the-needle-a01100",
+      "id": "12191",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "simpkin goes out",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01101_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/potter-simpkin-goes-out-a01101",
+      "id": "12192",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "simpkin in the snowy street",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01102_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/potter-simpkin-in-the-snowy-street-a01102",
+      "id": "12193",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "simpkin hears the mice",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01103_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/potter-simpkin-hears-the-mice-a01103",
+      "id": "12194",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the mice sewing the mayor\u2019s coat",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01104_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/potter-the-mice-sewing-the-mayors-coat-a01104",
+      "id": "12195",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the mice hear simpkin outside",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01105_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/potter-the-mice-hear-simpkin-outside-a01105",
+      "id": "12196",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "simpkin at the tailor\u2019s bedside",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01106_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/potter-simpkin-at-the-tailors-bedside-a01106",
+      "id": "12197",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the tailor and simpkin set out for the shop",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01107_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/potter-the-tailor-and-simpkin-set-out-for-the-shop-a01107",
+      "id": "12198",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the finished coat",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01108_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/potter-the-finished-coat-a01108",
+      "id": "12199",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018no more twist\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01109_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/potter-no-more-twist-a01109",
+      "id": "12200",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the mice stitching button-holes",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01110_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/potter-the-mice-stitching-button-holes-a01110",
+      "id": "12201",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12180",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12181",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12182",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12183",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12184",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12185",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12186",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12187",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12188",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12189",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12190",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12191",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12192",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12193",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12194",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12195",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12196",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12197",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12198",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12199",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12200",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12201",
+      "value": 1
+    }
+  ]
+}

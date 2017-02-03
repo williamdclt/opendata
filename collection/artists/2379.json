@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Innes, Callum",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/callum-innes-2379",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "three identified forms 1993",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07039_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/innes-three-identified-forms-1993-t07039",
+      "id": "21512",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "exposed painting paynes grey/yellow oxide/red oxide on white",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07557_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/innes-exposed-painting-paynes-greyyellow-oxidered-oxide-on-white-t07557",
+      "id": "26775",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled no 39",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13305_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/innes-untitled-no-39-t13305",
+      "id": "113198",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled no 51",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13411_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/innes-untitled-no-51-t13411",
+      "id": "118745",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "21512",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26775",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "113198",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "118745",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Burt (n\u00e9e Dallas), Angela",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/angela-dallas-972",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "first out of the box",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03091_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/burt-nee-dallas-first-out-of-the-box-p03091",
+      "id": "2990",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2990",
+      "value": 1
+    }
+  ]
+}

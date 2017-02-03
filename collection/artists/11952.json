@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Crisp, Fiona",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/fiona-crisp-11952",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "norwegian series #3",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79360_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/crisp-norwegian-series-3-p79360",
+      "id": "100706",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "100706",
+      "value": 1
+    }
+  ]
+}

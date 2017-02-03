@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Devis, Anthony",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/anthony-devis-2223",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "hilly landscape with sheep",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05474_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/devis-hilly-landscape-with-sheep-t05474",
+      "id": "17254",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a rocky coast scene",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09596_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/devis-a-rocky-coast-scene-t09596",
+      "id": "22801",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "park scene with house and cottage",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09597_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/devis-park-scene-with-house-and-cottage-t09597",
+      "id": "22802",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "17254",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22801",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22802",
+      "value": 1
+    }
+  ]
+}

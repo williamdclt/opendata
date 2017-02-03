@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Pettibon, Raymond",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/raymond-pettibon-2754",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled (yoko)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pettibon-untitled-yoko-p13309",
+      "id": "27112",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (like a gumdrop)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12594_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pettibon-untitled-like-a-gumdrop-t12594",
+      "id": "27111",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a vision of a future race of men",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pettibon-a-vision-of-a-future-race-of-men-t12595",
+      "id": "27098",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (oscar meyer wishes...)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pettibon-untitled-oscar-meyer-wishes-t12596",
+      "id": "27108",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "27112",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27111",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27098",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27108",
+      "value": 1
+    }
+  ]
+}

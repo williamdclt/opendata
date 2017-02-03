@@ -1,0 +1,211 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Bonington, Richard Parkes",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/richard-parkes-bonington-41",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "view of the piazzetta near the square of st mark, venice",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00374_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bonington-view-of-the-piazzetta-near-the-square-of-st-mark-venice-n00374",
+      "id": "1300",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a distant view of st-omer",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02664_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bonington-a-distant-view-of-st-omer-n02664",
+      "id": "1301",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mountain landscape",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bonington-mountain-landscape-n04254",
+      "id": "1307",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "on the french coast",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04377_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bonington-on-the-french-coast-n04377",
+      "id": "1306",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "venice: ducal palace with a religious procession",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05789_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bonington-venice-ducal-palace-with-a-religious-procession-n05789",
+      "id": "1302",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape in normandy",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05790_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bonington-landscape-in-normandy-n05790",
+      "id": "1308",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the pont des arts, paris",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06326_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bonington-the-pont-des-arts-paris-n06326",
+      "id": "1303",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the grand canal, venice",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00965_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bonington-the-grand-canal-venice-t00965",
+      "id": "1304",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a scene on the french coast",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03857_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bonington-a-scene-on-the-french-coast-t03857",
+      "id": "1305",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "la tour du march\u00e9, at bergues near dunkirk on the river colne, engraved by w.j. cooke",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06385_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bonington-la-tour-du-marche-at-bergues-near-dunkirk-on-the-river-colne-engraved-by-wj-t06385",
+      "id": "19563",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "verona, piazza dell\u2019erbe",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08146_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bonington-verona-piazza-dellerbe-t08146",
+      "id": "22319",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "three parrots",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09696_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bonington-three-parrots-t09696",
+      "id": "22320",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a historical scene",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10332_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bonington-a-historical-scene-t10332",
+      "id": "22321",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "french coast with fishermen",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11900_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bonington-french-coast-with-fishermen-t11900",
+      "id": "80857",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1300",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1301",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1307",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1306",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1302",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1308",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1303",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1304",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1305",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19563",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22319",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22320",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22321",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80857",
+      "value": 1
+    }
+  ]
+}

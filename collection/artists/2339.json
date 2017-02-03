@@ -1,0 +1,267 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Struth, Thomas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/thomas-struth-2339",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "bankside 5, london 1995",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11683_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/struth-bankside-5-london-1995-p11683",
+      "id": "27134",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ferdinand-von-schill-strasse, dessau 1991",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20155_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/struth-ferdinand-von-schill-strasse-dessau-1991-p20155",
+      "id": "21390",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "salzmannstrasse, leipzig 1991",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20156_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/struth-salzmannstrasse-leipzig-1991-p20156",
+      "id": "21391",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "schlosstrasse, wittenberg 1991",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20157_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/struth-schlosstrasse-wittenberg-1991-p20157",
+      "id": "21392",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hermannsgarten, weissenfels 1991",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20158_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/struth-hermannsgarten-weissenfels-1991-p20158",
+      "id": "21393",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "graves at the sophienkirche, grosse hamburger strasse, berlin 1992",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20159_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/struth-graves-at-the-sophienkirche-grosse-hamburger-strasse-berlin-1992-p20159",
+      "id": "21394",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "national gallery i, london 1989",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77661_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/struth-national-gallery-i-london-1989-p77661",
+      "id": "21005",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "galleria dell\u2019accademia i, venice 1992",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77662_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/struth-galleria-dellaccademia-i-venice-1992-p77662",
+      "id": "21006",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shinju-ku (skyscrapers), tokyo 1986",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77743_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/struth-shinju-ku-skyscrapers-tokyo-1986-p77743",
+      "id": "21400",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shinju-ku (tdk), tokyo 1986",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77744_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/struth-shinju-ku-tdk-tokyo-1986-p77744",
+      "id": "21401",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the shimada family, yamaguchi, japan 1986",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77745_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/struth-the-shimada-family-yamaguchi-japan-1986-p77745",
+      "id": "21402",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the late giles robertson (with book), edinburgh 1987",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77746_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/struth-the-late-giles-robertson-with-book-edinburgh-1987-p77746",
+      "id": "21403",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hannah erdrich-hartmann and jana-maria hartmann, d\u00fcsseldorf 1987",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77747_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/struth-hannah-erdrich-hartmann-and-jana-maria-hartmann-dusseldorf-1987-p77747",
+      "id": "21404",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vico dei monti, naples 1988",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77748_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/struth-vico-dei-monti-naples-1988-p77748",
+      "id": "21405",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "via giovanni tappia, naples 1989",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77749_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/struth-via-giovanni-tappia-naples-1989-p77749",
+      "id": "21406",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the smith family, fife, scotland 1989",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77750_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/struth-the-smith-family-fife-scotland-1989-p77750",
+      "id": "21407",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kyoko and tomoharu murakami, tokyo 1991",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77751_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/struth-kyoko-and-tomoharu-murakami-tokyo-1991-p77751",
+      "id": "21408",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "boats at wushan, yangtse river",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78230_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/struth-boats-at-wushan-yangtse-river-p78230",
+      "id": "26473",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "27134",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21390",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21391",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21392",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21393",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21394",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21005",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21006",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21400",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21401",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21402",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21403",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21404",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21405",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21406",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21407",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21408",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26473",
+      "value": 1
+    }
+  ]
+}

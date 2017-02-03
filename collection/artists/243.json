@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Haydon, Benjamin Robert",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/benjamin-robert-haydon-243",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018the judgement of solomon\u2019. verso: study of a head",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00191_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/haydon-study-for-the-judgement-of-solomon-verso-study-of-a-head-a00191",
+      "id": "21070",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sir george beaumont",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00192_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/haydon-sir-george-beaumont-a00192",
+      "id": "5888",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "punch or may day",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00682_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/haydon-punch-or-may-day-n00682",
+      "id": "5889",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the raising of lazarus",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00786_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/haydon-the-raising-of-lazarus-n00786",
+      "id": "5890",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018the mock election\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05352_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/haydon-study-for-the-mock-election-n05352",
+      "id": "5891",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chairing the member",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05644_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/haydon-chairing-the-member-n05644",
+      "id": "5892",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gentleman with a horse",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01173_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/haydon-gentleman-with-a-horse-t01173",
+      "id": "5893",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "21070",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5888",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5889",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5890",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5891",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5892",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5893",
+      "value": 1
+    }
+  ]
+}

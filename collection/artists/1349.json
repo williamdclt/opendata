@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Jacobs, Janice",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/janice-jacobs-1349",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "abstract",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jacobs-abstract-p06732",
+      "id": "7072",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "7072",
+      "value": 1
+    }
+  ]
+}

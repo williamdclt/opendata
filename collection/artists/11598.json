@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Zaatari, Akram",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/akram-zaatari-11598",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "syrian resistant. studio shehrazade, saida, lebanon, early 1970s. hashem el madani",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79396_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zaatari-syrian-resistant-studio-shehrazade-saida-lebanon-early-1970s-hashem-el-madani-p79396",
+      "id": "101041",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "syrian resistant. studio shehrazade, saida, lebanon, early 1970s. hashem el madani",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79397_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zaatari-syrian-resistant-studio-shehrazade-saida-lebanon-early-1970s-hashem-el-madani-p79397",
+      "id": "101042",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "syrian resistant. studio shehrazade, saida, lebanon, early 1970s. hashem el madani",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79398_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zaatari-syrian-resistant-studio-shehrazade-saida-lebanon-early-1970s-hashem-el-madani-p79398",
+      "id": "101043",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "syrian resistant. studio shehrazade, saida, lebanon, early 1970s. hashem el madani",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79399_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zaatari-syrian-resistant-studio-shehrazade-saida-lebanon-early-1970s-hashem-el-madani-p79399",
+      "id": "101044",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "syrian resistants. studio shehrazade, saida, lebanon, early 1970s. hashem el madani",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79400_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zaatari-syrian-resistants-studio-shehrazade-saida-lebanon-early-1970s-hashem-el-madani-p79400",
+      "id": "101045",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "syrian resistant. studio shehrazade, saida, lebanon, early 1970s. hashem el madani",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79401_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zaatari-syrian-resistant-studio-shehrazade-saida-lebanon-early-1970s-hashem-el-madani-p79401",
+      "id": "101046",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "syrian resistant. studio shehrazade, saida, lebanon, early 1970s. hashem el madani",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79402_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zaatari-syrian-resistant-studio-shehrazade-saida-lebanon-early-1970s-hashem-el-madani-p79402",
+      "id": "101047",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anonymous. studio shehrazade, saida, lebanon, late 1960s. standard profile portrait, mandatory for candidates to military service. hashem el madani",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79403_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zaatari-anonymous-studio-shehrazade-saida-lebanon-late-1960s-standard-profile-portrait-p79403",
+      "id": "101048",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anonymous. studio shehrazade, saida, lebanon, late 1960s. standard frontal portrait, mandatory for candidates to military service. hashem el madani",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79404_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zaatari-anonymous-studio-shehrazade-saida-lebanon-late-1960s-standard-frontal-portrait-p79404",
+      "id": "101049",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sha\u2019ia studio shehrazade, saida, lebanon, 1970s. hashem el madani",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79405_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zaatari-shaia-studio-shehrazade-saida-lebanon-1970s-hashem-el-madani-p79405",
+      "id": "101050",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anonymous. unrwa school, south lebanon, 1960s. hashem el madani",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79406_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zaatari-anonymous-unrwa-school-south-lebanon-1960s-hashem-el-madani-p79406",
+      "id": "101051",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anonymous. unrwa school, south lebanon, 1960s. hashem el madani",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79407_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zaatari-anonymous-unrwa-school-south-lebanon-1960s-hashem-el-madani-p79407",
+      "id": "101052",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anonymous. unrwa school, south lebanon, 1960s. hashem el madani",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79408_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zaatari-anonymous-unrwa-school-south-lebanon-1960s-hashem-el-madani-p79408",
+      "id": "101053",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anonymous. unrwa school, south lebanon, 1960s. hashem el madani",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79409_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zaatari-anonymous-unrwa-school-south-lebanon-1960s-hashem-el-madani-p79409",
+      "id": "101054",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anonymous. unrwa school, south lebanon, 1960s. hashem el madani",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79410_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zaatari-anonymous-unrwa-school-south-lebanon-1960s-hashem-el-madani-p79410",
+      "id": "101055",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anonymous. unrwa school, south lebanon, 1960s. hashem el madani",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79411_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zaatari-anonymous-unrwa-school-south-lebanon-1960s-hashem-el-madani-p79411",
+      "id": "101056",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anonymous. unrwa school, south lebanon, 1960s. hashem el madani",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79412_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zaatari-anonymous-unrwa-school-south-lebanon-1960s-hashem-el-madani-p79412",
+      "id": "101057",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anonymous. unrwa school, south lebanon, 1960s. hashem el madani",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79413_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zaatari-anonymous-unrwa-school-south-lebanon-1960s-hashem-el-madani-p79413",
+      "id": "101058",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anonymous. unrwa school, south lebanon, 1960s. hashem el madani",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79414_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zaatari-anonymous-unrwa-school-south-lebanon-1960s-hashem-el-madani-p79414",
+      "id": "101059",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anonymous. unrwa school, south lebanon, 1960s. hashem el madani",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79415_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zaatari-anonymous-unrwa-school-south-lebanon-1960s-hashem-el-madani-p79415",
+      "id": "101060",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anonymous. unrwa school, south lebanon, 1960s. hashem el madani",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79416_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zaatari-anonymous-unrwa-school-south-lebanon-1960s-hashem-el-madani-p79416",
+      "id": "101061",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anonymous. unrwa school, south lebanon, 1960s. hashem el madani",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79417_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zaatari-anonymous-unrwa-school-south-lebanon-1960s-hashem-el-madani-p79417",
+      "id": "101062",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anonymous. unrwa school, south lebanon, 1960s. hashem el madani",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79418_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zaatari-anonymous-unrwa-school-south-lebanon-1960s-hashem-el-madani-p79418",
+      "id": "101063",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anonymous. unrwa school, south lebanon, 1960s. hashem el madani",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79419_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zaatari-anonymous-unrwa-school-south-lebanon-1960s-hashem-el-madani-p79419",
+      "id": "101064",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anonymous. unrwa school, south lebanon, 1960s. hashem el madani",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79420_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zaatari-anonymous-unrwa-school-south-lebanon-1960s-hashem-el-madani-p79420",
+      "id": "101065",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anonymous. unrwa school, south lebanon, 1960s. hashem el madani",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79421_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zaatari-anonymous-unrwa-school-south-lebanon-1960s-hashem-el-madani-p79421",
+      "id": "101066",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kulthum saqqa. saqqa family house, saida, lebanon, 1948-53. hashem el madani",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79422_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zaatari-kulthum-saqqa-saqqa-family-house-saida-lebanon-1948-53-hashem-el-madani-p79422",
+      "id": "101067",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a fisherman with his daughters. saqqa family house, saida, lebanon, 1948-53. hashem el madani",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79423_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zaatari-a-fisherman-with-his-daughters-saqqa-family-house-saida-lebanon-1948-53-hashem-el-p79423",
+      "id": "101068",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anonymous. client\u2019s home, saida, lebanon, 1948-53. hashem el madani",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79424_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zaatari-anonymous-clients-home-saida-lebanon-1948-53-hashem-el-madani-p79424",
+      "id": "101069",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anonymous. client\u2019s home, saida, lebanon, 1948-53. hashem el madani",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79425_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zaatari-anonymous-clients-home-saida-lebanon-1948-53-hashem-el-madani-p79425",
+      "id": "101070",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "student of aisha om el mo\u2019minin school for girls. school courtyard, saida, lebanon, 1948-49. hashem el madani",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79426_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zaatari-student-of-aisha-om-el-mominin-school-for-girls-school-courtyard-saida-lebanon-p79426",
+      "id": "101071",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "student of aisha om el mo\u2019minin school for girls. school courtyard, saida, lebanon, 1948-49. hashem el madani",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79427_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zaatari-student-of-aisha-om-el-mominin-school-for-girls-school-courtyard-saida-lebanon-p79427",
+      "id": "101072",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "student of aisha om el mo\u2019minin school for girls. school courtyard, saida, lebanon, 1948-49. hashem el madani",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79428_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zaatari-student-of-aisha-om-el-mominin-school-for-girls-school-courtyard-saida-lebanon-p79428",
+      "id": "101073",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "students of aisha om el mo\u2019minin school for girls. ibtissam hashisho (right) and a school friend. school courtyard, saida, lebanon, 1948-49. hashem el madani",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79429_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zaatari-students-of-aisha-om-el-mominin-school-for-girls-ibtissam-hashisho-right-and-a-p79429",
+      "id": "101074",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "students of aisha om el mo\u2019minin school for girls. sakakini (right) and hadiyeh bsat. school courtyard, saida, lebanon, 1948-49. hashem el madani",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79430_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zaatari-students-of-aisha-om-el-mominin-school-for-girls-sakakini-right-and-hadiyeh-bsat-p79430",
+      "id": "101075",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "student of aisha om el mo\u2019minin school for girls. haydar. school courtyard, saida, lebanon, 1948-49. hashem el madani",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79431_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zaatari-student-of-aisha-om-el-mominin-school-for-girls-haydar-school-courtyard-saida-p79431",
+      "id": "101076",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "students and teachers of aisha om el mo\u2019minin school for girls. wadiah lofty (right) and a school teacher colleague. school courtyard, saida, lebanon, 1948-49. hashem el madani",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79432_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zaatari-students-and-teachers-of-aisha-om-el-mominin-school-for-girls-wadiah-lofty-right-p79432",
+      "id": "101077",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "student of aisha om el mo\u2019minin school for girls. school courtyard, saida, lebanon, 1948-49. hashem el madani",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79433_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zaatari-student-of-aisha-om-el-mominin-school-for-girls-school-courtyard-saida-lebanon-p79433",
+      "id": "101078",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anonymous. south lebanon, 1952. hashem el madani",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79434_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zaatari-anonymous-south-lebanon-1952-hashem-el-madani-p79434",
+      "id": "101079",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anonymous. south lebanon, 1952. hashem el madani",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79435_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/zaatari-anonymous-south-lebanon-1952-hashem-el-madani-p79435",
+      "id": "101080",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "101041",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101042",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101043",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101044",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101045",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101046",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101047",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101048",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101049",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101050",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101051",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101052",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101053",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101054",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101055",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101056",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101057",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101058",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101059",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101060",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101061",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101062",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101063",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101064",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101065",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101066",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101067",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101068",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101069",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101070",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101071",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101072",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101073",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101074",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101075",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101076",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101077",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101078",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101079",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101080",
+      "value": 1
+    }
+  ]
+}

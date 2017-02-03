@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hopwood, Henry Silkstone",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/henry-silkstone-hopwood-2193",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "industry",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01706_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hopwood-industry-n01706",
+      "id": "6715",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6715",
+      "value": 1
+    }
+  ]
+}

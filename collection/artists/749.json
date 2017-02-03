@@ -1,0 +1,141 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Bic\u00e2t, Andr\u00e9",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/andre-bicat-749",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "berkshire downs",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01368_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bicat-berkshire-downs-p01368",
+      "id": "974",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the thames at goring",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01369_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bicat-the-thames-at-goring-p01369",
+      "id": "975",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shadows",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11757_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bicat-shadows-p11757",
+      "id": "27379",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "trio",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11758_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bicat-trio-p11758",
+      "id": "27377",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head form 2",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11759_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bicat-head-form-2-p11759",
+      "id": "27361",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "armoured head",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11760_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bicat-armoured-head-p11760",
+      "id": "27360",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "orchestration",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11761_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bicat-orchestration-p11761",
+      "id": "27385",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "night meeting",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11762_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bicat-night-meeting-p11762",
+      "id": "27366",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "percussion",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11763_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bicat-percussion-p11763",
+      "id": "27386",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "974",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "975",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27379",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27377",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27361",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27360",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27385",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27366",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27386",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,491 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Fulton, Hamish",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/hamish-fulton-1133",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "northern france/southern england",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07350_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fulton-northern-francesouthern-england-p07350",
+      "id": "4749",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "no darkness",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07382_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fulton-no-darkness-p07382",
+      "id": "4750",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "slioch hilltop cairn/circling buzzards",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07383_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fulton-slioch-hilltop-cairncircling-buzzards-p07383",
+      "id": "4751",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "full moon. may 1st 1988. kent, england",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fulton-full-moon-may-1st-1988-kent-england-p77420",
+      "id": "19010",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seven winds. scotland 1985",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77421_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fulton-seven-winds-scotland-1985-p77421",
+      "id": "19078",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mountain skyline. nepal 1983",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fulton-mountain-skyline-nepal-1983-p77422",
+      "id": "19079",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "no thoughts counting seven paces on senjoh dake at sunset. japan 1988",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fulton-no-thoughts-counting-seven-paces-on-senjoh-dake-at-sunset-japan-1988-p77423",
+      "id": "19080",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled. australia 1982",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fulton-untitled-australia-1982-p77424",
+      "id": "19081",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dead dogs. portugal and spain 1989",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fulton-dead-dogs-portugal-and-spain-1989-p77425",
+      "id": "19082",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled. japan 1986",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fulton-untitled-japan-1986-p77426",
+      "id": "19083",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled. brittany 1987",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fulton-untitled-brittany-1987-p77427",
+      "id": "19084",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled. 21 day walk 1987",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77428_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fulton-untitled-21-day-walk-1987-p77428",
+      "id": "19085",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "21 walks walking from one to twenty one days. various countries 1971-1988",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fulton-21-walks-walking-from-one-to-twenty-one-days-various-countries-1971-1988-p77429",
+      "id": "19086",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled. nepal 1989",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fulton-untitled-nepal-1989-p77430",
+      "id": "19087",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fourteen coast to coast walks. british isles 1971-1987",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fulton-fourteen-coast-to-coast-walks-british-isles-1971-1987-p77431",
+      "id": "19088",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled. alberta 1984",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fulton-untitled-alberta-1984-p77432",
+      "id": "19089",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rock fall echo dust. baffin island, canada 1988",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fulton-rock-fall-echo-dust-baffin-island-canada-1988-p77433",
+      "id": "19090",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "night life",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fulton-night-life-p77614",
+      "id": "20816",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "no talking for seven days",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fulton-no-talking-for-seven-days-p77615",
+      "id": "20815",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the crow speaks",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77616_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fulton-the-crow-speaks-p77616",
+      "id": "20814",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seven 7 day walks",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fulton-seven-7-day-walks-p77617",
+      "id": "20813",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seven days walking and seven nights camping in a wood scotland march 1985",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77618_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fulton-seven-days-walking-and-seven-nights-camping-in-a-wood-scotland-march-1985-p77618",
+      "id": "20812",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "eroded rock outline beinn mheadhoin",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77619_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fulton-eroded-rock-outline-beinn-mheadhoin-p77619",
+      "id": "20811",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "geese flying south",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77620_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fulton-geese-flying-south-p77620",
+      "id": "20810",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wind through the pines",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77621_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fulton-wind-through-the-pines-p77621",
+      "id": "20809",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "song path",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77622_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fulton-song-path-p77622",
+      "id": "20817",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a condor",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01762_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fulton-a-condor-t01762",
+      "id": "4752",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "france on the horizon",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03268_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fulton-france-on-the-horizon-t03268",
+      "id": "4753",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "arkle sutherland",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07410_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fulton-arkle-sutherland-t07410",
+      "id": "26224",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the pilgrim\u2019s way",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07995_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fulton-the-pilgrims-way-t07995",
+      "id": "78519",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "winter solstice full moon, the pilgrim\u2019s way 1991",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fulton-winter-solstice-full-moon-the-pilgrims-way-1991-t07996",
+      "id": "78520",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "solstice journey, france",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fulton-solstice-journey-france-t07997",
+      "id": "78521",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gravity nothing rhythms, alaska 1999",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fulton-gravity-nothing-rhythms-alaska-1999-t07998",
+      "id": "78522",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "raven, japan",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fulton-raven-japan-t07999",
+      "id": "78523",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4749",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4750",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4751",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19010",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19078",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19079",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19080",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19081",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19082",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19083",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19084",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19085",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19086",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19087",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19088",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19089",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19090",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20816",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20815",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20814",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20813",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20812",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20811",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20810",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20809",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20817",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4752",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "4753",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26224",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78519",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78520",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78521",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78522",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78523",
+      "value": 1
+    }
+  ]
+}

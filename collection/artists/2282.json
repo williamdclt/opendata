@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Deeble, W.",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/w-deeble-2282",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "part of st augustine\u2019s monastery, canterbury, kent, engraved by w. deeble",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06417_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/deeble-part-of-st-augustines-monastery-canterbury-kent-engraved-by-w-deeble-t06417",
+      "id": "19595",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "19595",
+      "value": 1
+    }
+  ]
+}

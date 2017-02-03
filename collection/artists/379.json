@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Millais, Sir John Everett, Bt",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-john-everett-millais-bt-379",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the lost sheep",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00792_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millais-the-lost-sheep-a00792",
+      "id": "9484",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the pharisee and the publican",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00793_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millais-the-pharisee-and-the-publican-a00793",
+      "id": "9485",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the wise virgins",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00794_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millais-the-wise-virgins-a00794",
+      "id": "9486",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the unjust judge and the importunate widow",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00795_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millais-the-unjust-judge-and-the-importunate-widow-a00795",
+      "id": "9487",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the leaven",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00796_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millais-the-leaven-a00796",
+      "id": "9488",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the rich man and lazarus",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00797_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millais-the-rich-man-and-lazarus-a00797",
+      "id": "9489",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the labourers in the vineyard",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00798_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millais-the-labourers-in-the-vineyard-a00798",
+      "id": "9490",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the marriage feast",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00799_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millais-the-marriage-feast-a00799",
+      "id": "9491",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the sower",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00800_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millais-the-sower-a00800",
+      "id": "9492",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the lost piece of silver",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00801_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millais-the-lost-piece-of-silver-a00801",
+      "id": "9493",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the foolish virgins",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00802_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millais-the-foolish-virgins-a00802",
+      "id": "9494",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the importunate friend",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00803_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millais-the-importunate-friend-a00803",
+      "id": "9495",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the pearl of great price",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00804_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millais-the-pearl-of-great-price-a00804",
+      "id": "9496",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the tares",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00805_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millais-the-tares-a00805",
+      "id": "9497",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the good shepherd",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00806_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millais-the-good-shepherd-a00806",
+      "id": "9498",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the wicked husbandman",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00807_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millais-the-wicked-husbandman-a00807",
+      "id": "9499",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the good samaritan",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00808_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millais-the-good-samaritan-a00808",
+      "id": "20509",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the unmerciful servant",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00809_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millais-the-unmerciful-servant-a00809",
+      "id": "9500",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the hidden treasure",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00810_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millais-the-hidden-treasure-a00810",
+      "id": "9501",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the prodigal son",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00811_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millais-the-prodigal-son-a00811",
+      "id": "9502",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018the black brunswicker\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00812_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millais-study-for-the-black-brunswicker-a00812",
+      "id": "9503",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018the black brunswicker\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00813_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millais-study-for-the-black-brunswicker-a00813",
+      "id": "12385",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018the black brunswicker\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00814_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millais-study-for-the-black-brunswicker-a00814",
+      "id": "12689",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the yeoman of the guard",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01494_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millais-the-yeoman-of-the-guard-n01494",
+      "id": "9504",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "equestrian portrait (begun by sir edwin landseer)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millais-equestrian-portrait-begun-by-sir-edwin-landseer-n01503",
+      "id": "9505",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ophelia",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01506_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millais-ophelia-n01506",
+      "id": "9506",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the vale of rest",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01507_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millais-the-vale-of-rest-n01507",
+      "id": "9507",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the knight errant",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01508_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millais-the-knight-errant-n01508",
+      "id": "9508",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the north-west passage",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01509_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millais-the-north-west-passage-n01509",
+      "id": "9509",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mercy: st bartholomew\u2019s day, 1572",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01510_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millais-mercy-st-bartholomews-day-1572-n01510",
+      "id": "9510",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "saint stephen",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01563_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millais-saint-stephen-n01563",
+      "id": "9511",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a disciple",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01564_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millais-a-disciple-n01564",
+      "id": "9512",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "speak! speak!",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01584_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millais-speak-speak-n01584",
+      "id": "9513",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the order of release 1746",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01657_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millais-the-order-of-release-1746-n01657",
+      "id": "9514",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the boyhood of raleigh",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01691_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millais-the-boyhood-of-raleigh-n01691",
+      "id": "9515",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a maid offering a basket of fruit to a cavalier",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01807_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millais-a-maid-offering-a-basket-of-fruit-to-a-cavalier-n01807",
+      "id": "9516",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "charles i and his son in the studio of van dyck",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01808_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millais-charles-i-and-his-son-in-the-studio-of-van-dyck-n01808",
+      "id": "9517",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sir henry thompson, bt",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01941_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millais-sir-henry-thompson-bt-n01941",
+      "id": "9518",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "serjeant ralph thomas",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03159_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millais-serjeant-ralph-thomas-n03159",
+      "id": "9519",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs currie",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03414_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/millais-mrs-currie-n03414",
+      "id": "9520",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9484",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9485",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9486",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9487",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9488",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9489",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9490",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9491",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9492",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9493",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9494",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9495",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9496",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9497",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9498",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9499",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20509",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9500",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9501",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9502",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9503",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12385",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12689",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9504",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9505",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9506",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9507",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9508",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9509",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9510",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9511",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9512",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9513",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9514",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9515",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9516",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9517",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9518",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9519",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9520",
+      "value": 1
+    }
+  ]
+}

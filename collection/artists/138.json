@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Daniell, William",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/william-daniell-138",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the lands end, cornwall",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-the-lands-end-cornwall-t02415",
+      "id": "3011",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the long-ships light-house, off the lands end, cornwall",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-the-long-ships-light-house-off-the-lands-end-cornwall-t02416",
+      "id": "3012",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the entrance to portreath, cornwall",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-the-entrance-to-portreath-cornwall-t02417",
+      "id": "3013",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "boscastle pier on the coast of cornwall",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-boscastle-pier-on-the-coast-of-cornwall-t02418",
+      "id": "3014",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hartland pier, north devon",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-hartland-pier-north-devon-t02419",
+      "id": "3015",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "clovelly, on the coast of north devon",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-clovelly-on-the-coast-of-north-devon-t02420",
+      "id": "3016",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ilfracombe, on the coast of north devon",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-ilfracombe-on-the-coast-of-north-devon-t02421",
+      "id": "3017",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of ilfracombe, from hilsborough",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-view-of-ilfracombe-from-hilsborough-t02422",
+      "id": "3018",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "near combmartin, on the coast of north devon",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-near-combmartin-on-the-coast-of-north-devon-t02423",
+      "id": "3019",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lynmouth, on the coast of north devon",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-lynmouth-on-the-coast-of-north-devon-t02424",
+      "id": "3020",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st donats, glamorganshire",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-st-donats-glamorganshire-t02425",
+      "id": "3021",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "britton ferry, glamorganshire",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-britton-ferry-glamorganshire-t02426",
+      "id": "3022",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the mumbles light-house, in swansea bay",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-the-mumbles-light-house-in-swansea-bay-t02427",
+      "id": "3023",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the worms-head, in tenby bay",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-the-worms-head-in-tenby-bay-t02428",
+      "id": "3024",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tenby, pembrokeshire",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-tenby-pembrokeshire-t02429",
+      "id": "3025",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the eligug-stack, near st gowans-head, pembrokeshire",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-the-eligug-stack-near-st-gowans-head-pembrokeshire-t02430",
+      "id": "3026",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "solva, near st david\u2019s, pembrokeshire",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-solva-near-st-davids-pembrokeshire-t02431",
+      "id": "3027",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of the entrance to fishguard, from goodwych sands",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-view-of-the-entrance-to-fishguard-from-goodwych-sands-t02432",
+      "id": "3028",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "goodwych pier, near fishguard, pembrokeshire",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-goodwych-pier-near-fishguard-pembrokeshire-t02433",
+      "id": "3029",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view near aberystwith, cardiganshire",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-view-near-aberystwith-cardiganshire-t02434",
+      "id": "3030",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "barmouth, merionethshire",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-barmouth-merionethshire-t02435",
+      "id": "3031",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of caernarvon castle, from anglesea",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-view-of-caernarvon-castle-from-anglesea-t02436",
+      "id": "3032",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the harbour light-house, holyhead",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-the-harbour-light-house-holyhead-t02437",
+      "id": "3033",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "light-house on the south stack, holyhead",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-light-house-on-the-south-stack-holyhead-t02438",
+      "id": "3034",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "part of the south stack, holyhead",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-part-of-the-south-stack-holyhead-t02439",
+      "id": "3035",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the rope bridge, near the light-house, holyhead",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-the-rope-bridge-near-the-light-house-holyhead-t02440",
+      "id": "3036",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black marble quarry, near red wharf bay, anglesea",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-black-marble-quarry-near-red-wharf-bay-anglesea-t02441",
+      "id": "3037",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the entrance to amlwych harbour, anglesea",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-the-entrance-to-amlwych-harbour-anglesea-t02442",
+      "id": "3038",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "red wharf bay, anglesea",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-red-wharf-bay-anglesea-t02443",
+      "id": "3039",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "beaumaris castle, anglesea",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-beaumaris-castle-anglesea-t02444",
+      "id": "3040",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view on puffin island, near anglesea",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-view-on-puffin-island-near-anglesea-t02445",
+      "id": "3041",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the bath, built by lord penryn, near bangor, n. wales",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-the-bath-built-by-lord-penryn-near-bangor-n-wales-t02446",
+      "id": "3042",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "penman-maur, taken from near aber, n. wales",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-penman-maur-taken-from-near-aber-n-wales-t02447",
+      "id": "3043",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of conway castle, caernarvonshire",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-view-of-conway-castle-caernarvonshire-t02448",
+      "id": "3044",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the light-house on point of air, flintshire",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-the-light-house-on-point-of-air-flintshire-t02449",
+      "id": "3045",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view near hoyle-lake, cheshire",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-view-near-hoyle-lake-cheshire-t02450",
+      "id": "3046",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the towns-end mill, liverpool",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02451_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-the-towns-end-mill-liverpool-t02451",
+      "id": "3047",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seacombe ferry, liverpool",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-seacombe-ferry-liverpool-t02452",
+      "id": "3048",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "liverpool, taken from opposite side of the river",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-liverpool-taken-from-opposite-side-of-the-river-t02453",
+      "id": "3049",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lancaster castle",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/daniell-lancaster-castle-t02454",
+      "id": "3050",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "3011",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3012",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3013",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3014",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3015",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3016",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3017",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3018",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3019",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3020",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3021",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3022",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3023",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3024",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3025",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3026",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3027",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3028",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3029",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3030",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3031",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3032",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3033",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3034",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3035",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3036",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3037",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3038",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3039",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3040",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3041",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3042",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3043",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3044",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3045",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3046",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3047",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3048",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3049",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3050",
+      "value": 1
+    }
+  ]
+}

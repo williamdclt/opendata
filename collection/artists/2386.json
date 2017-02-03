@@ -1,0 +1,253 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Yass, Catherine",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/catherine-yass-2386",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "bankside: cherrypicker",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11685_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yass-bankside-cherrypicker-p11685",
+      "id": "27136",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stage",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78088_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yass-stage-p78088",
+      "id": "26124",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "northwest c4",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78587_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yass-northwest-c4-p78587",
+      "id": "67098",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "northwest c6",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78588_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yass-northwest-c6-p78588",
+      "id": "67100",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "northwest d2",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78589_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yass-northwest-d2-p78589",
+      "id": "67101",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "northwest d6",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78590_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yass-northwest-d6-p78590",
+      "id": "67102",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "northwest f3",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78591_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yass-northwest-f3-p78591",
+      "id": "67103",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "northwest f6",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78592_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yass-northwest-f6-p78592",
+      "id": "67104",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "corridors",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07065_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yass-corridors-t07065",
+      "id": "21562",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "corridors",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07066_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yass-corridors-t07066",
+      "id": "21563",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "corridors",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07067_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yass-corridors-t07067",
+      "id": "21564",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "corridors",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07068_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yass-corridors-t07068",
+      "id": "21565",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "corridors",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07069_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yass-corridors-t07069",
+      "id": "21566",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "corridors",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07070_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yass-corridors-t07070",
+      "id": "21567",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "corridors",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07071_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yass-corridors-t07071",
+      "id": "21568",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "corridors",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07072_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yass-corridors-t07072",
+      "id": "21569",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "descent",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yass-descent-t13569",
+      "id": "109713",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "27136",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26124",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67098",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67100",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67101",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67102",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67103",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "67104",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21562",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21563",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21564",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21565",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21566",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21567",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21568",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21569",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "109713",
+      "value": 1
+    }
+  ]
+}

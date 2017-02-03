@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Constable, Lionel Bicknell",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/lionel-bicknell-constable-109",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "near stoke-by-nayland",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02649_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-near-stoke-by-nayland-n02649",
+      "id": "2765",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "leathes water (thirlmere)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02662_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-leathes-water-thirlmere-n02662",
+      "id": "2766",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "near stoke-by-nayland",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01258_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/constable-near-stoke-by-nayland-t01258",
+      "id": "2767",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2765",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2766",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2767",
+      "value": 1
+    }
+  ]
+}

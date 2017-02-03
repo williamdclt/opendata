@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Steadman, Ralph",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/ralph-steadman-1988",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "courtroom scene from alice in wonderland",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steadman-courtroom-scene-from-alice-in-wonderland-p06580",
+      "id": "13770",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13770",
+      "value": 1
+    }
+  ]
+}

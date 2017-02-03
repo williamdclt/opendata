@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Tyson, Ian",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/ian-tyson-2081",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the graves 1",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01632_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-the-graves-1-p01632",
+      "id": "15579",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the graves 2",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01633_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-the-graves-2-p01633",
+      "id": "15580",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the graves 3",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01634_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-the-graves-3-p01634",
+      "id": "15581",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the graves 4",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01635_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-the-graves-4-p01635",
+      "id": "15582",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01636_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-no-title-p01636",
+      "id": "15583",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01637_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-no-title-p01637",
+      "id": "15584",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01638_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-no-title-p01638",
+      "id": "15585",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01639_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-no-title-p01639",
+      "id": "15586",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01640_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-no-title-p01640",
+      "id": "15587",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01641_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-no-title-p01641",
+      "id": "15588",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01642_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-no-title-p01642",
+      "id": "15589",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01643_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-no-title-p01643",
+      "id": "15590",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01644_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-no-title-p01644",
+      "id": "15591",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01645_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-no-title-p01645",
+      "id": "15592",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01646_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-no-title-p01646",
+      "id": "15593",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01647_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-no-title-p01647",
+      "id": "15594",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01648_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-no-title-p01648",
+      "id": "15595",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01649_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-no-title-p01649",
+      "id": "15596",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01650_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-no-title-p01650",
+      "id": "15597",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01651_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-no-title-p01651",
+      "id": "15598",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01652_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-no-title-p01652",
+      "id": "15599",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01653_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-no-title-p01653",
+      "id": "15600",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01654_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-no-title-p01654",
+      "id": "15601",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01655_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-no-title-p01655",
+      "id": "15602",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01656_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-no-title-p01656",
+      "id": "15603",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01657_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-no-title-p01657",
+      "id": "15604",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01658_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-no-title-p01658",
+      "id": "15605",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01659_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-no-title-p01659",
+      "id": "15606",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01660_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-no-title-p01660",
+      "id": "15607",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01661_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-no-title-p01661",
+      "id": "15608",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01662_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-no-title-p01662",
+      "id": "15609",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01663_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-no-title-p01663",
+      "id": "15610",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01664_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-no-title-p01664",
+      "id": "15611",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01665_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-no-title-p01665",
+      "id": "15612",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01685_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-untitled-p01685",
+      "id": "15613",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01686_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-untitled-p01686",
+      "id": "15614",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01687_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-untitled-p01687",
+      "id": "15615",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "knights eminence",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01695_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-knights-eminence-p01695",
+      "id": "15616",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mask masque",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01696_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-mask-masque-p01696",
+      "id": "15617",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "23rd light poem 7th poem for larry eigner 15 january 1969",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01697_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tyson-23rd-light-poem-7th-poem-for-larry-eigner-15-january-1969-p01697",
+      "id": "15618",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "15579",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15580",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15581",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15582",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15583",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15584",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15585",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15586",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15587",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15588",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15589",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15590",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15591",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15592",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15593",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15594",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15595",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15596",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15597",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15598",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15599",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15600",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15601",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15602",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15603",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15604",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15605",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15606",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15607",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15608",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15609",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15610",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15611",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15612",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15613",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15614",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15615",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15616",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15617",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "15618",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,519 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Legros, Alphonse",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/alphonse-legros-341",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00704_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/legros-title-not-known-a00704",
+      "id": "8529",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00705_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/legros-title-not-known-a00705",
+      "id": "8530",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00706_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/legros-title-not-known-a00706",
+      "id": "8531",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00707_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/legros-title-not-known-a00707",
+      "id": "8532",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00708_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/legros-title-not-known-a00708",
+      "id": "8533",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00709_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/legros-title-not-known-a00709",
+      "id": "8534",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00710_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/legros-title-not-known-a00710",
+      "id": "8535",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00711_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/legros-title-not-known-a00711",
+      "id": "8536",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00712_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/legros-title-not-known-a00712",
+      "id": "8537",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00713_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/legros-title-not-known-a00713",
+      "id": "8538",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00714_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/legros-title-not-known-a00714",
+      "id": "8539",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00715_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/legros-title-not-known-a00715",
+      "id": "8540",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00716_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/legros-title-not-known-a00716",
+      "id": "8541",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00717_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/legros-title-not-known-a00717",
+      "id": "8542",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00718_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/legros-title-not-known-a00718",
+      "id": "8543",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00719_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/legros-title-not-known-a00719",
+      "id": "8544",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00720_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/legros-title-not-known-a00720",
+      "id": "8545",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00721_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/legros-title-not-known-a00721",
+      "id": "8546",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/A/A00/A00722_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/legros-title-not-known-a00722",
+      "id": "8547",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/legros-title-not-known-a00723",
+      "id": "8548",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/legros-title-not-known-a00724",
+      "id": "8549",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/legros-title-not-known-a00725",
+      "id": "8550",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/legros-title-not-known-a00726",
+      "id": "8551",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/legros-title-not-known-a00727",
+      "id": "8552",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/legros-title-not-known-a00728",
+      "id": "8553",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/legros-title-not-known-a00729",
+      "id": "8554",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "femmes en pri\u00e8re",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01501_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/legros-femmes-en-priere-n01501",
+      "id": "8555",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "john gray",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02117_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/legros-john-gray-n02117",
+      "id": "8556",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "memorial portrait of alfred stevens",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02433_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/legros-memorial-portrait-of-alfred-stevens-n02433",
+      "id": "8557",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "le repas des pauvres",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02898_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/legros-le-repas-des-pauvres-n02898",
+      "id": "8558",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the retreat",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/legros-the-retreat-n02918",
+      "id": "8559",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rehearsing the service",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03135_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/legros-rehearsing-the-service-n03135",
+      "id": "8560",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cupid and psyche",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03274_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/legros-cupid-and-psyche-n03274",
+      "id": "8561",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mask of an old man",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/legros-mask-of-an-old-man-n03608",
+      "id": "8562",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mask of an old man",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/legros-mask-of-an-old-man-n03609",
+      "id": "8563",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pour le monument d\u2019alfred stevens",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05026_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/legros-pour-le-monument-dalfred-stevens-n05026",
+      "id": "8564",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8529",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8530",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8531",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8532",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8533",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8534",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8535",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8536",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8537",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8538",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8539",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8540",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8541",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8542",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8543",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8544",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8545",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8546",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8547",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8548",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8549",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8550",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8551",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8552",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8553",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8554",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8555",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8556",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8557",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8558",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8559",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8560",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8561",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8562",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8563",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8564",
+      "value": 1
+    }
+  ]
+}

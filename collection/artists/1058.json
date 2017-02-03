@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Emilian, C\u00e9line",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/celine-emilian-1058",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "angela",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/emilian-angela-n05051",
+      "id": "4106",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4106",
+      "value": 1
+    }
+  ]
+}

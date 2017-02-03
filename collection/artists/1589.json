@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Mason, Raymond",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/raymond-mason-1589",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "man in the street (large version)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77190_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mason-man-in-the-street-large-version-p77190",
+      "id": "9366",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the month of may in paris",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77191_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mason-the-month-of-may-in-paris-p77191",
+      "id": "9367",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "barcelona tram",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03678_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mason-barcelona-tram-t03678",
+      "id": "9368",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st mark\u2019s place, east village, new york city",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03797_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mason-st-marks-place-east-village-new-york-city-t03797",
+      "id": "9369",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the departure of fruit and vegetables from the heart of paris, 28 february 1969",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11924_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mason-the-departure-of-fruit-and-vegetables-from-the-heart-of-paris-28-february-1969-t11924",
+      "id": "27387",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9366",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9367",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9368",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9369",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27387",
+      "value": 1
+    }
+  ]
+}

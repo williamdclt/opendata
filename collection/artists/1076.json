@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Fabro, Luciano",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/luciano-fabro-1076",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "every order is contemporaneous of every other order: four ways of examining the fa\u00e7ade of the ss. redentore in venice",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07994_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fabro-every-order-is-contemporaneous-of-every-other-order-four-ways-of-examining-the-p07994",
+      "id": "4210",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ovaries",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05537_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fabro-ovaries-t05537",
+      "id": "17337",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the sun",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fabro-the-sun-t07894",
+      "id": "221",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the moon",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fabro-the-moon-t07895",
+      "id": "222",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "foot",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fabro-foot-t12002",
+      "id": "85277",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "clotheshanger of the north",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12003_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fabro-clotheshanger-of-the-north-t12003",
+      "id": "85278",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4210",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17337",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "221",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "222",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85277",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85278",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Philpot, Glyn Warren",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/glyn-warren-philpot-1765",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the man in black",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03002_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/philpot-the-man-in-black-n03002",
+      "id": "11842",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a young breton",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03218_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/philpot-a-young-breton-n03218",
+      "id": "11843",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "oedipus replying to the sphinx",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/philpot-oedipus-replying-to-the-sphinx-n04666",
+      "id": "11844",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs gerard simpson",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04893_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/philpot-mrs-gerard-simpson-n04893",
+      "id": "11845",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "three figures",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05382_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/philpot-three-figures-n05382",
+      "id": "11846",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "repose on the flight into egypt",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11861_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/philpot-repose-on-the-flight-into-egypt-t11861",
+      "id": "82956",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "11842",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11843",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11844",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11845",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11846",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "82956",
+      "value": 1
+    }
+  ]
+}

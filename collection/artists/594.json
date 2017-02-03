@@ -1,0 +1,211 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "West, Benjamin",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/benjamin-west-594",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "cleombrotus ordered into banishment by leonidas ii, king of sparta",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00121_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/west-cleombrotus-ordered-into-banishment-by-leonidas-ii-king-of-sparta-n00121",
+      "id": "16095",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pylades and orestes brought as victims before iphigenia",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00126_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/west-pylades-and-orestes-brought-as-victims-before-iphigenia-n00126",
+      "id": "16096",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the last supper",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00132_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/west-the-last-supper-n00132",
+      "id": "16097",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018the installation of the order of the garter\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00315_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/west-sketch-for-the-installation-of-the-order-of-the-garter-n00315",
+      "id": "16098",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mrs worrell as hebe",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00799_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/west-mrs-worrell-as-hebe-n00799",
+      "id": "16099",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sir thomas beauchamp-proctor, bt",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05264_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/west-sir-thomas-beauchamp-proctor-bt-n05264",
+      "id": "16100",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lady beauchamp-proctor",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05265_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/west-lady-beauchamp-proctor-n05265",
+      "id": "16101",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view from the terrace at windsor",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05310_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/west-view-from-the-terrace-at-windsor-n05310",
+      "id": "16102",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a view of windsor from snow hill, windsor great park",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/west-a-view-of-windsor-from-snow-hill-windsor-great-park-n05620",
+      "id": "16103",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018the ascension\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05621_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/west-sketch-for-the-ascension-n05621",
+      "id": "16104",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018st paul shaking off the viper\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05622_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/west-sketch-for-st-paul-shaking-off-the-viper-n05622",
+      "id": "16105",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the golden age",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00945_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/west-the-golden-age-t00945",
+      "id": "16106",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the bard",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01900_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/west-the-bard-t01900",
+      "id": "16107",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "an old warrior in armour, half length",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10359_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/west-an-old-warrior-in-armour-half-length-t10359",
+      "id": "23967",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16095",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16096",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16097",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16098",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16099",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16100",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16101",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16102",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16103",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16104",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16105",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16106",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16107",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23967",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Witherington, William Frederick",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/william-frederick-witherington-608",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the broken pitcher",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01026_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/witherington-the-broken-pitcher-a01026",
+      "id": "16393",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "going to school",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01027_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/witherington-going-to-school-a01027",
+      "id": "16394",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the gleaners",
+      "url": "http://www.tate.org.uk/art/images/work/A/A01/A01028_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/witherington-the-gleaners-a01028",
+      "id": "16395",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stepping stones on the machno, north wales - study from nature",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00420_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/witherington-stepping-stones-on-the-machno-north-wales-study-from-nature-n00420",
+      "id": "16396",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the hop garland",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00421_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/witherington-the-hop-garland-n00421",
+      "id": "16397",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woodcutters",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09275_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/witherington-woodcutters-t09275",
+      "id": "24031",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "16393",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16394",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16395",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16396",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16397",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24031",
+      "value": 1
+    }
+  ]
+}

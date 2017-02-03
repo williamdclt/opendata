@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Bell, Larry",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/larry-bell-727",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01473_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bell-untitled-t01473",
+      "id": "886",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01695_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bell-untitled-t01695",
+      "id": "887",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01696_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bell-untitled-t01696",
+      "id": "888",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01697_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bell-untitled-t01697",
+      "id": "889",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vapor drawing ldif 4",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bell-vapor-drawing-ldif-4-t02411",
+      "id": "890",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vapor drawing lnvf xi",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bell-vapor-drawing-lnvf-xi-t02412",
+      "id": "891",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "886",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "887",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "888",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "889",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "890",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "891",
+      "value": 1
+    }
+  ]
+}

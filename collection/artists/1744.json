@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Pasmore, Victor",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/victor-pasmore-1744",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "lamplight",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05253_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pasmore-lamplight-n05253",
+      "id": "11373",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "square motif, blue and gold: the eclipse",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05974_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pasmore-square-motif-blue-and-gold-the-eclipse-n05974",
+      "id": "11374",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reclining nude",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05975_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pasmore-reclining-nude-n05975",
+      "id": "11375",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spiral motif in green, violet, blue and gold: the coast of the inland sea",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06191_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pasmore-spiral-motif-in-green-violet-blue-and-gold-the-coast-of-the-inland-sea-n06191",
+      "id": "11376",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blue development",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01461_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pasmore-blue-development-p01461",
+      "id": "11377",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "brown image",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01462_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pasmore-brown-image-p01462",
+      "id": "11378",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018am i the object which i see?\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01463_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pasmore-am-i-the-object-which-i-see-p01463",
+      "id": "11379",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018by what geometry must we construct the physical world?\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01464_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pasmore-by-what-geometry-must-we-construct-the-physical-world-p01464",
+      "id": "11380",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018by what means can we know?\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01465_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pasmore-by-what-means-can-we-know-p01465",
+      "id": "11381",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018deep inside i looked\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01466_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pasmore-deep-inside-i-looked-p01466",
+      "id": "11382",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018quiet is the island\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01467_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pasmore-quiet-is-the-island-p01467",
+      "id": "11383",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018the tear that falls\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01468_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pasmore-the-tear-that-falls-p01468",
+      "id": "11384",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018when the curtain falls\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01469_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pasmore-when-the-curtain-falls-p01469",
+      "id": "11385",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "linear development in one movement",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01470_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pasmore-linear-development-in-one-movement-p01470",
+      "id": "11386",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "linear development in one movement",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01471_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pasmore-linear-development-in-one-movement-p01471",
+      "id": "11387",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "linear motif in two movements",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01472_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pasmore-linear-motif-in-two-movements-p01472",
+      "id": "11388",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "linear motif in three movements",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01473_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pasmore-linear-motif-in-three-movements-p01473",
+      "id": "11389",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the plough and the stars",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01474_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pasmore-the-plough-and-the-stars-p01474",
+      "id": "11390",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "turning and turning in the widening gyre",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01475_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pasmore-turning-and-turning-in-the-widening-gyre-p01475",
+      "id": "11391",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vertical development",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01476_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pasmore-vertical-development-p01476",
+      "id": "11392",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "when the lute is broken",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01477_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pasmore-when-the-lute-is-broken-p01477",
+      "id": "11393",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "un bel di vedremo (puccini)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02545_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pasmore-un-bel-di-vedremo-puccini-p02545",
+      "id": "10185",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "villa dei misteri",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02546_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pasmore-villa-dei-misteri-p02546",
+      "id": "12850",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (from iaa portfolio)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03105_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pasmore-untitled-from-iaa-portfolio-p03105",
+      "id": "11394",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the cave of calypso i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03213_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pasmore-the-cave-of-calypso-i-p03213",
+      "id": "11395",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the cave of calypso ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03214_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pasmore-the-cave-of-calypso-ii-p03214",
+      "id": "11396",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the cave of calypso iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03215_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pasmore-the-cave-of-calypso-iii-p03215",
+      "id": "11397",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the cave of calypso iv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03216_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pasmore-the-cave-of-calypso-iv-p03216",
+      "id": "11398",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "brown image two",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03263_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pasmore-brown-image-two-p03263",
+      "id": "11399",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the cave of calypso",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pasmore-the-cave-of-calypso-p03264",
+      "id": "11400",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "points of contact no. 2",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04888_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pasmore-points-of-contact-no-2-p04888",
+      "id": "11401",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "points of contact no. 8",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04889_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pasmore-points-of-contact-no-8-p04889",
+      "id": "11402",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "points of contact no. 10",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pasmore-points-of-contact-no-10-p04890",
+      "id": "11403",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "variation of points of contact no. 9",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04891_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pasmore-variation-of-points-of-contact-no-9-p04891",
+      "id": "11404",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "points of contact no. 9",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pasmore-points-of-contact-no-9-p04892",
+      "id": "11405",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "points of contact no. 11",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04893_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pasmore-points-of-contact-no-11-p04893",
+      "id": "11406",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "points of contact no. 12",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04894_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pasmore-points-of-contact-no-12-p04894",
+      "id": "11407",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "points of contact a",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pasmore-points-of-contact-a-p04895",
+      "id": "11408",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "points of contact no. 13",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pasmore-points-of-contact-no-13-p04896",
+      "id": "11409",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "points of contact no. 14",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04897_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pasmore-points-of-contact-no-14-p04897",
+      "id": "11410",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "11373",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11374",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11375",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11376",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11377",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11378",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11379",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11380",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11381",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11382",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11383",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11384",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11385",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11386",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11387",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11388",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11389",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11390",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11391",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11392",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11393",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10185",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12850",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11394",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11395",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11396",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11397",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11398",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11399",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11400",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11401",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11402",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11403",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11404",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11405",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11406",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11407",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11408",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11409",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11410",
+      "value": 1
+    }
+  ]
+}

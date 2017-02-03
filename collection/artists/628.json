@@ -1,0 +1,253 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Adams, Robert",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/robert-adams-628",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03096_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/adams-untitled-p03096",
+      "id": "4371",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06001_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/adams-untitled-p06001",
+      "id": "436",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "screen i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06002_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/adams-screen-i-p06002",
+      "id": "437",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "screen ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06003_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/adams-screen-ii-p06003",
+      "id": "438",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "screen iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06004_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/adams-screen-iii-p06004",
+      "id": "439",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "screen form",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06005_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/adams-screen-form-p06005",
+      "id": "440",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77147_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/adams-title-not-known-p77147",
+      "id": "441",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77148_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/adams-title-not-known-p77148",
+      "id": "442",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77149_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/adams-title-not-known-p77149",
+      "id": "443",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77150_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/adams-title-not-known-p77150",
+      "id": "444",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "whiteprint",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77151_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/adams-whiteprint-p77151",
+      "id": "445",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77152_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/adams-title-not-known-p77152",
+      "id": "446",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77153_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/adams-title-not-known-p77153",
+      "id": "447",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "large screen form no. 2",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00555_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/adams-large-screen-form-no-2-t00555",
+      "id": "448",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "maquette for architectural screen",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/adams-maquette-for-architectural-screen-t00906",
+      "id": "449",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03866_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/adams-figure-t03866",
+      "id": "450",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "space construction with a spiral",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07034_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/adams-space-construction-with-a-spiral-t07034",
+      "id": "21491",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4371",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "436",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "437",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "438",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "439",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "440",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "441",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "442",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "443",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "444",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "445",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "446",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "447",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "448",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "449",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "450",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21491",
+      "value": 1
+    }
+  ]
+}

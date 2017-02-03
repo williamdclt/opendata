@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "McKeever, Ian",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/ian-mckeever-2335",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "print a - version i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20170_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mckeever-print-a-version-i-p20170",
+      "id": "26007",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "print d - version iv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20171_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mckeever-print-d-version-iv-p20171",
+      "id": "26015",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "print e - version iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20172_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mckeever-print-e-version-iii-p20172",
+      "id": "26016",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "print h - version iv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20173_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mckeever-print-h-version-iv-p20173",
+      "id": "26017",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "print j - version vi",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20174_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mckeever-print-j-version-vi-p20174",
+      "id": "26018",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "print k - version viii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20175_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mckeever-print-k-version-viii-p20175",
+      "id": "26019",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "print l - version viii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P20/P20176_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mckeever-print-l-version-viii-p20176",
+      "id": "26020",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77645_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mckeever-no-title-p77645",
+      "id": "20989",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77646_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mckeever-no-title-p77646",
+      "id": "21004",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77647_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mckeever-no-title-p77647",
+      "id": "20996",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77648_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mckeever-no-title-p77648",
+      "id": "21003",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77649_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mckeever-no-title-p77649",
+      "id": "21002",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77650_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mckeever-no-title-p77650",
+      "id": "21001",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77651_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mckeever-no-title-p77651",
+      "id": "21000",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77652_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mckeever-no-title-p77652",
+      "id": "20999",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77653_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mckeever-no-title-p77653",
+      "id": "20998",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77654_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mckeever-no-title-p77654",
+      "id": "20997",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77655_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mckeever-no-title-p77655",
+      "id": "20990",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77656_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mckeever-no-title-p77656",
+      "id": "20994",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77657_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mckeever-no-title-p77657",
+      "id": "20991",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77658_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mckeever-no-title-p77658",
+      "id": "20993",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77659_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mckeever-no-title-p77659",
+      "id": "20995",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[colophon]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77660_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mckeever-colophon-p77660",
+      "id": "20992",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "after marianne north no. 1",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77893_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mckeever-after-marianne-north-no-1-p77893",
+      "id": "21748",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "after marianne north no. 2",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77894_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mckeever-after-marianne-north-no-2-p77894",
+      "id": "21749",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "colour etching a",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77914_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mckeever-colour-etching-a-p77914",
+      "id": "21882",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "colour etching b",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77915_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mckeever-colour-etching-b-p77915",
+      "id": "21883",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "colour etching c",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77916_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mckeever-colour-etching-c-p77916",
+      "id": "21891",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "colour etching d",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77917_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mckeever-colour-etching-d-p77917",
+      "id": "21890",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "colour etching e",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77918_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mckeever-colour-etching-e-p77918",
+      "id": "21889",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "colour etching f",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77919_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mckeever-colour-etching-f-p77919",
+      "id": "21888",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "colour etching g",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77920_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mckeever-colour-etching-g-p77920",
+      "id": "21887",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "colour etching h",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77921_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mckeever-colour-etching-h-p77921",
+      "id": "21886",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "colour etching i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77922_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mckeever-colour-etching-i-p77922",
+      "id": "21885",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "colour etching j",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77923_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mckeever-colour-etching-j-p77923",
+      "id": "21884",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "print b - version iv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78060_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mckeever-print-b-version-iv-p78060",
+      "id": "26079",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "print c - version vii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78061_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mckeever-print-c-version-vii-p78061",
+      "id": "26080",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "print f - version v",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78062_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mckeever-print-f-version-v-p78062",
+      "id": "26081",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "print g - version iv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78063_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mckeever-print-g-version-iv-p78063",
+      "id": "26082",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "print i - version viii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78064_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mckeever-print-i-version-viii-p78064",
+      "id": "26083",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "26007",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26015",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26016",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26017",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26018",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26019",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26020",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20989",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21004",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20996",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21003",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21002",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21001",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21000",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20999",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20998",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20997",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20990",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20994",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20991",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20993",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20995",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20992",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21748",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21749",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21882",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21883",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21891",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21890",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21889",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21888",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21887",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21886",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21885",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21884",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26079",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26080",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26081",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26082",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26083",
+      "value": 1
+    }
+  ]
+}

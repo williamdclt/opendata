@@ -1,0 +1,197 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Rothko, Mark",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/mark-rothko-1875",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "light red over black",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00275_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothko-light-red-over-black-t00275",
+      "id": "12964",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black on maroon",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01031_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothko-black-on-maroon-t01031",
+      "id": "12965",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black on maroon",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01163_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothko-black-on-maroon-t01163",
+      "id": "12966",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black on maroon",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01164_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothko-black-on-maroon-t01164",
+      "id": "12967",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "red on maroon",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01165_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothko-red-on-maroon-t01165",
+      "id": "12968",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black on maroon",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01166_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothko-black-on-maroon-t01166",
+      "id": "12969",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "red on maroon",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01167_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothko-red-on-maroon-t01167",
+      "id": "12970",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "red on maroon",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01168_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothko-red-on-maroon-t01168",
+      "id": "12971",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "red on maroon",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01169_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothko-red-on-maroon-t01169",
+      "id": "12972",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black on maroon",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01170_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothko-black-on-maroon-t01170",
+      "id": "12973",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04147_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothko-untitled-t04147",
+      "id": "12974",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04148_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothko-untitled-t04148",
+      "id": "12975",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04149_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rothko-untitled-t04149",
+      "id": "12976",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12964",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12965",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12966",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12967",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12968",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12969",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12970",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12971",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12972",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12973",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12974",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12975",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12976",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Iglesias, Cristina",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/cristina-iglesias-8673",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "pavilion suspended in a room i",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12135_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/iglesias-pavilion-suspended-in-a-room-i-t12135",
+      "id": "88072",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (diptico xxi)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12142_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/iglesias-untitled-diptico-xxi-t12142",
+      "id": "88364",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for suspended pavilions",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/iglesias-study-for-suspended-pavilions-t12967",
+      "id": "102931",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for suspended pavilions",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/iglesias-study-for-suspended-pavilions-t12968",
+      "id": "102932",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "88072",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "88364",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "102931",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "102932",
+      "value": 1
+    }
+  ]
+}

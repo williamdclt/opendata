@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Joseph, Peter",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/peter-joseph-1377",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "no. 55 green with dark blue surround",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03467_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/joseph-no-55-green-with-dark-blue-surround-t03467",
+      "id": "7761",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "4 colour square, yellow purple red green",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/joseph-4-colour-square-yellow-purple-red-green-t13216",
+      "id": "110067",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "7761",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "110067",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Walton, Edward Arthur",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/edward-arthur-walton-2119",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "berwickshire field-workers",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03447_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/walton-berwickshire-field-workers-t03447",
+      "id": "15913",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "15913",
+      "value": 1
+    }
+  ]
+}

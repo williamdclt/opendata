@@ -1,0 +1,295 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Koller, J\u00falius",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/julius-koller-10345",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "universal-cultural futurological operation",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12430_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/koller-universal-cultural-futurological-operation-t12430",
+      "id": "93816",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "continuation/stoop (universal-cultural futurological operation)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12431_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/koller-continuationstoop-universal-cultural-futurological-operation-t12431",
+      "id": "93818",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "archaeological monument-presence (u.f.o.)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12432_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/koller-archaeological-monument-presence-ufo-t12432",
+      "id": "93819",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "contact (anti-happening)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12433_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/koller-contact-anti-happening-t12433",
+      "id": "93820",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "p.o.p. u.f.o.",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12434_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/koller-pop-ufo-t12434",
+      "id": "93822",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "! 1971",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12435_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/koller-1971-t12435",
+      "id": "93823",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "u.f.o. universal fantastic occupation",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12436_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/koller-ufo-universal-fantastic-occupation-t12436",
+      "id": "93824",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "g-astronomy",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12437_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/koller-g-astronomy-t12437",
+      "id": "93825",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "universal physical-cultural operation",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12438_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/koller-universal-physical-cultural-operation-t12438",
+      "id": "93826",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "universal-cultural physical-cultural picture",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12439_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/koller-universal-cultural-physical-cultural-picture-t12439",
+      "id": "93827",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "universal physical-cultural operation (ping-pong)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12440_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/koller-universal-physical-cultural-operation-ping-pong-t12440",
+      "id": "93828",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "universal futurological question mark a-d (u.f.o.)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12441_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/koller-universal-futurological-question-mark-a-d-ufo-t12441",
+      "id": "94230",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "universal physical cultural operation-defence (u.f.o.)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12442_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/koller-universal-physical-cultural-operation-defence-ufo-t12442",
+      "id": "94231",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "no art!",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12572_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/koller-no-art-t12572",
+      "id": "96942",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "universal fantastic orientation 1-6 (u.f.o.)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12573_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/koller-universal-fantastic-orientation-1-6-ufo-t12573",
+      "id": "96943",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anti-performance (u.f.o)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12574_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/koller-anti-performance-ufo-t12574",
+      "id": "96944",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "question mark b. (anti-painting, anti-text)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13312_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/koller-question-mark-b-anti-painting-anti-text-t13312",
+      "id": "114457",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "universal futurological opening (for a red chickadee)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/koller-universal-futurological-opening-for-a-red-chickadee-t13313",
+      "id": "114458",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "con(end)ception",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/koller-conendception-t13314",
+      "id": "114459",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "country-city (trenc\u00edn)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/koller-country-city-trencin-t13315",
+      "id": "114460",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "93816",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93818",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93819",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93820",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93822",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93823",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93824",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93825",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93826",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93827",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "93828",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "94230",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "94231",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96942",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96943",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "96944",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114457",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114458",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114459",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "114460",
+      "value": 1
+    }
+  ]
+}

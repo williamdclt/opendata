@@ -1,0 +1,197 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Bayer, Herbert",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/herbert-bayer-711",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the four seasons",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04026_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bayer-the-four-seasons-p04026",
+      "id": "802",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "four yellow corners",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04027_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bayer-four-yellow-corners-p04027",
+      "id": "803",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "building a house",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04028_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bayer-building-a-house-p04028",
+      "id": "804",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "one reversed",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04029_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bayer-one-reversed-p04029",
+      "id": "805",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "birthday picture i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04030_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bayer-birthday-picture-i-p04030",
+      "id": "806",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "birthday picture ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04031_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bayer-birthday-picture-ii-p04031",
+      "id": "807",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chromatic intersection",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04032_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bayer-chromatic-intersection-p04032",
+      "id": "808",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chromatic triangulation ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04033_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bayer-chromatic-triangulation-ii-p04033",
+      "id": "809",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chromatic twist",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04034_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bayer-chromatic-twist-p04034",
+      "id": "810",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "complementary with gold",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04035_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bayer-complementary-with-gold-p04035",
+      "id": "811",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "four segmented circles",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04036_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bayer-four-segmented-circles-p04036",
+      "id": "812",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "yellow centre",
+      "url": "http://www.tate.org.uk/art/images/work/P/P04/P04037_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bayer-yellow-centre-p04037",
+      "id": "813",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bayer-self-portrait-p13103",
+      "id": "101229",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "802",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "803",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "804",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "805",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "806",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "807",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "808",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "809",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "810",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "811",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "812",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "813",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "101229",
+      "value": 1
+    }
+  ]
+}

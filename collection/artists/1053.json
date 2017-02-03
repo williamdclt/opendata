@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Elliott, Geoffrey",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/geoffrey-elliott-1053",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "brighton fish market",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06112_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/elliott-brighton-fish-market-p06112",
+      "id": "4099",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4099",
+      "value": 1
+    }
+  ]
+}

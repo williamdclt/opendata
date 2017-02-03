@@ -1,0 +1,169 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Jones, Thomas",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/thomas-jones-301",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "mount vesuvius from torre dell\u2019annunziata near naples",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01844_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-mount-vesuvius-from-torre-dellannunziata-near-naples-t01844",
+      "id": "7749",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the outskirts of london: a view looking towards queen square",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01929_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-the-outskirts-of-london-a-view-looking-towards-queen-square-t01929",
+      "id": "7750",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "in the road to santa maria de\u2019monti, near naples: morning",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03367_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-in-the-road-to-santa-maria-demonti-near-naples-morning-t03367",
+      "id": "7751",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "an excavation of an antique building in a cava in the villa negroni, rome",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-an-excavation-of-an-antique-building-in-a-cava-in-the-villa-negroni-rome-t03544",
+      "id": "7752",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "naples: the capella nuova outside the porta di chiaja",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03545_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-naples-the-capella-nuova-outside-the-porta-di-chiaja-t03545",
+      "id": "7753",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a scene in the colosseum, rome",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-a-scene-in-the-colosseum-rome-t03546",
+      "id": "7754",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "naples: buildings on a cliff top",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04872_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-naples-buildings-on-a-cliff-top-t04872",
+      "id": "7755",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ariccia, buildings on the edge of the town. verso: relative positions of the benedictine convent of the madona of the galoro near larici and the gardens of the convent of the capuchins at albano as well as the dome of the church at l\u2019arriccia",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08141_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-ariccia-buildings-on-the-edge-of-the-town-verso-relative-positions-of-the-t08141",
+      "id": "23105",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pencerrig",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08243_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-pencerrig-t08243",
+      "id": "23103",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the bay of naples and the mole lighthouse",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08246_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-the-bay-of-naples-and-the-mole-lighthouse-t08246",
+      "id": "23104",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pencerrig",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08247_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/jones-pencerrig-t08247",
+      "id": "23102",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "7749",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7750",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7751",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7752",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7753",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7754",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7755",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23105",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23103",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23104",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "23102",
+      "value": 1
+    }
+  ]
+}

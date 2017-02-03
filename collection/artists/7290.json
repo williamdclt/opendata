@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Benglis, Lynda",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/lynda-benglis-7290",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "quartered meteor",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13353_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/benglis-quartered-meteor-t13353",
+      "id": "104654",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "104654",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Speed, Harold",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/harold-speed-1974",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the alcantara, toledo, by moonlight",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01964_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/speed-the-alcantara-toledo-by-moonlight-n01964",
+      "id": "13664",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13664",
+      "value": 1
+    }
+  ]
+}

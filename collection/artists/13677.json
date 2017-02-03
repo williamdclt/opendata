@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Ansarinia, Nazgol",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/nazgol-ansarinia-13677",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "living room",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ansarinia-living-room-t13194",
+      "id": "109002",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "109002",
+      "value": 1
+    }
+  ]
+}

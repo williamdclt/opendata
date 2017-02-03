@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gilliam, Sam",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sam-gilliam-1170",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "simmering",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilliam-simmering-t01326",
+      "id": "5333",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5333",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Roper, Richard",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/richard-roper-460",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the match between aaron and driver at maidenhead, aug. 1754: driver winning the third heat",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02367_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roper-the-match-between-aaron-and-driver-at-maidenhead-aug-1754-driver-winning-the-third-t02367",
+      "id": "12753",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12753",
+      "value": 1
+    }
+  ]
+}

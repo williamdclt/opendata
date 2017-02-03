@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Dennis, Jeffrey",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/jeffrey-dennis-2294",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the confinement of richard dadd",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06531_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dennis-the-confinement-of-richard-dadd-t06531",
+      "id": "20350",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "20350",
+      "value": 1
+    }
+  ]
+}

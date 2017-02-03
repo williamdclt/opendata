@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Steir, Pat",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/pat-steir-1993",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "waterfall night",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steir-waterfall-night-p02952",
+      "id": "17306",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kyoto chrysanthemum",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steir-kyoto-chrysanthemum-p11207",
+      "id": "17304",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "long vertical falls #1",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steir-long-vertical-falls-1-p20044",
+      "id": "20185",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "long vertical falls #2",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steir-long-vertical-falls-2-p20045",
+      "id": "20186",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "long vertical falls #3",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steir-long-vertical-falls-3-p20046",
+      "id": "20187",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "long vertical falls #4",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steir-long-vertical-falls-4-p20047",
+      "id": "20188",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the wave - from the sea - after leonardo, hokusai and courbet",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/steir-the-wave-from-the-sea-after-leonardo-hokusai-and-courbet-p77193",
+      "id": "13812",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "17306",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "17304",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20185",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20186",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20187",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20188",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13812",
+      "value": 1
+    }
+  ]
+}

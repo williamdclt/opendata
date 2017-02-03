@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hobbs, Peter",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/peter-hobbs-1292",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "elba series",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hobbs-elba-series-p01420",
+      "id": "6507",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "berck-plage",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hobbs-berck-plage-p11776",
+      "id": "66628",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "female box",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hobbs-female-box-p11777",
+      "id": "66629",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "house lithograph",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hobbs-house-lithograph-p11778",
+      "id": "66630",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "house no. 3",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hobbs-house-no-3-p11779",
+      "id": "66631",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "oceanic femme",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hobbs-oceanic-femme-p11780",
+      "id": "66633",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "oceanic femme",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hobbs-oceanic-femme-p11781",
+      "id": "66634",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6507",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66628",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66629",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66630",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66631",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66633",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66634",
+      "value": 1
+    }
+  ]
+}

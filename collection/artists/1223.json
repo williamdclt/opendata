@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Grosz, George",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/george-grosz-1223",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a married couple",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00019_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/grosz-a-married-couple-t00019",
+      "id": "5715",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018the mirror of the bourgeoisie\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00020_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/grosz-drawing-for-the-mirror-of-the-bourgeoisie-t00020",
+      "id": "5716",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "suicide",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02053_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/grosz-suicide-t02053",
+      "id": "5717",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5715",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5716",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5717",
+      "value": 1
+    }
+  ]
+}

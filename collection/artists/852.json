@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Cameron, Katherine",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/katherine-cameron-852",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the mountain fern",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04513_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cameron-the-mountain-fern-n04513",
+      "id": "1966",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the mountain fern",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02947_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cameron-the-mountain-fern-p02947",
+      "id": "1967",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1966",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1967",
+      "value": 1
+    }
+  ]
+}

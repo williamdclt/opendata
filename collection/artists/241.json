@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hatherell, William",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/william-hatherell-241",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "o, romeo, romeo, wherefore art thou romeo?",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02937_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hatherell-o-romeo-romeo-wherefore-art-thou-romeo-n02937",
+      "id": "5866",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5866",
+      "value": 1
+    }
+  ]
+}

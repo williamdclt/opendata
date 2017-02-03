@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Davis, John Scarlett",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-scarlett-davis-140",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "interior of amiens cathedral",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04794_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-interior-of-amiens-cathedral-n04794",
+      "id": "3660",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "man in a top hat",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05634_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-man-in-a-top-hat-n05634",
+      "id": "3661",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the church of st michael, munich; the interior",
+      "url": "http://www.tate.org.uk/art/images/work/T/T08/T08885_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-the-church-of-st-michael-munich-the-interior-t08885",
+      "id": "22767",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "florence, piazza della signoria",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10558_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-florence-piazza-della-signoria-t10558",
+      "id": "22792",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a woman seated, looking to left",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10559_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-a-woman-seated-looking-to-left-t10559",
+      "id": "22788",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a woman seated, looking to right",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10560_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-a-woman-seated-looking-to-right-t10560",
+      "id": "22789",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "paris: a church porch",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10561_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-paris-a-church-porch-t10561",
+      "id": "22768",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "paris: remains of the archbishop\u2019s palace, notre dame. verso: sketches",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10562_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-paris-remains-of-the-archbishops-palace-notre-dame-verso-sketches-t10562",
+      "id": "22769",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "paris: remains of an ancient building in the rue poissy",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10563_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-paris-remains-of-an-ancient-building-in-the-rue-poissy-t10563",
+      "id": "22770",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "paris: entrance to the church of st germain des pr\u00e9s",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10564_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-paris-entrance-to-the-church-of-st-germain-des-pres-t10564",
+      "id": "22771",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "?paris: the courtyard of a house",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10565_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-paris-the-courtyard-of-a-house-t10565",
+      "id": "22772",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "paris: column in the church of st bennett",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10566_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-paris-column-in-the-church-of-st-bennett-t10566",
+      "id": "22773",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "paris: capitals in the ancient abbey of st martin",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10567_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-paris-capitals-in-the-ancient-abbey-of-st-martin-t10567",
+      "id": "22774",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "capitals in the ancient church of montmartre near paris",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10568_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-capitals-in-the-ancient-church-of-montmartre-near-paris-t10568",
+      "id": "22775",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "after titian\u2019s holy family (with hare) in the louvre",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10569_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-after-titians-holy-family-with-hare-in-the-louvre-t10569",
+      "id": "22776",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "after watteau, two figures and a putto, in the louvre",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10570_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-after-watteau-two-figures-and-a-putto-in-the-louvre-t10570",
+      "id": "22777",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "after velasquez, the infanta margarita, in the louvre",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10571_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-after-velasquez-the-infanta-margarita-in-the-louvre-t10571",
+      "id": "22778",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "?after velasquez, dwarf and dog, in the louvre. verso: head of a bearded man in profile",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10572_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-after-velasquez-dwarf-and-dog-in-the-louvre-verso-head-of-a-bearded-man-in-profile-t10572",
+      "id": "22779",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "after van dyck: portrait of a girl, in the louvre",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10573_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-after-van-dyck-portrait-of-a-girl-in-the-louvre-t10573",
+      "id": "22780",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "after mola: vision of st francis in the louvre",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10574_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-after-mola-vision-of-st-francis-in-the-louvre-t10574",
+      "id": "22781",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "after correggio: seated female figure, in the louvre",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10575_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-after-correggio-seated-female-figure-in-the-louvre-t10575",
+      "id": "22782",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "after f. albano: death of an infant",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10576_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-after-f-albano-death-of-an-infant-t10576",
+      "id": "22783",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "after titian: francis i, in the louvre",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10577_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-after-titian-francis-i-in-the-louvre-t10577",
+      "id": "22784",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "an annunciation, after ?",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10578_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-an-annunciation-after-t10578",
+      "id": "22785",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10579_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-title-not-known-t10579",
+      "id": "22786",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10580_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-title-not-known-t10580",
+      "id": "22787",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10581_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-title-not-known-t10581",
+      "id": "22790",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10582_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-title-not-known-t10582",
+      "id": "22791",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10583_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-title-not-known-t10583",
+      "id": "22793",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10584_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-title-not-known-t10584",
+      "id": "24977",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10585_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-title-not-known-t10585",
+      "id": "24978",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10586_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-title-not-known-t10586",
+      "id": "24979",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10587_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-title-not-known-t10587",
+      "id": "24980",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known] verso: sketch",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10588_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-title-not-known-verso-sketch-t10588",
+      "id": "24981",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10589_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-title-not-known-t10589",
+      "id": "24982",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10590_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-title-not-known-t10590",
+      "id": "24983",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10591_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-title-not-known-t10591",
+      "id": "24984",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10592_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-title-not-known-t10592",
+      "id": "24985",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10593_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-title-not-known-t10593",
+      "id": "24986",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10594_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/davis-title-not-known-t10594",
+      "id": "24987",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "3660",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "3661",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22767",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22792",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22788",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22789",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22768",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22769",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22770",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22771",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22772",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22773",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22774",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22775",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22776",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22777",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22778",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22779",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22780",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22781",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22782",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22783",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22784",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22785",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22786",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22787",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22790",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22791",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22793",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24977",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24978",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24979",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24980",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24981",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24982",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24983",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24984",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24985",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24986",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24987",
+      "value": 1
+    }
+  ]
+}

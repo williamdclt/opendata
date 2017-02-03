@@ -1,0 +1,491 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Ovenden, Graham",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/graham-ovenden-1730",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "lorraine",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ovenden-lorraine-p01253",
+      "id": "10994",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "little lorraine",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ovenden-little-lorraine-p01254",
+      "id": "10995",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "belinda",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ovenden-belinda-p01255",
+      "id": "10996",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wendy",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ovenden-wendy-p01256",
+      "id": "10997",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ashley",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ovenden-ashley-p01257",
+      "id": "10998",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "contemporary girl",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ovenden-contemporary-girl-p01258",
+      "id": "10999",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "edwardian girl",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ovenden-edwardian-girl-p01259",
+      "id": "11000",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hide and seek",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ovenden-hide-and-seek-p01260",
+      "id": "11001",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lure me",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ovenden-lure-me-p01261",
+      "id": "11002",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the meeting",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ovenden-the-meeting-p01262",
+      "id": "11003",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the final reproach",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ovenden-the-final-reproach-p01263",
+      "id": "11004",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "initial rites",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ovenden-initial-rites-p01264",
+      "id": "11005",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lolita by the lake",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ovenden-lolita-by-the-lake-p01265",
+      "id": "11006",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lolita meditating",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ovenden-lolita-meditating-p01266",
+      "id": "11007",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lolita perturbed",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ovenden-lolita-perturbed-p01267",
+      "id": "11008",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lolita recumbent",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ovenden-lolita-recumbent-p01268",
+      "id": "11009",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lolita seductive",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ovenden-lolita-seductive-p01269",
+      "id": "11010",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lolita vanitas",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ovenden-lolita-vanitas-p01270",
+      "id": "11011",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lo scrapes her knee",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ovenden-lo-scrapes-her-knee-p01271",
+      "id": "11012",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lo thoughtful by the lake",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ovenden-lo-thoughtful-by-the-lake-p01272",
+      "id": "11013",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018she kept on growing\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ovenden-she-kept-on-growing-p04732",
+      "id": "11014",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018you ought to be ashamed of yourself\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ovenden-you-ought-to-be-ashamed-of-yourself-p04733",
+      "id": "11015",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018and alice looked around eager to see the queen\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ovenden-and-alice-looked-around-eager-to-see-the-queen-p04734",
+      "id": "11016",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018we beg your acceptance of this elegant thimble\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ovenden-we-beg-your-acceptance-of-this-elegant-thimble-p04735",
+      "id": "11017",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018i don\u2019t think they play at all fairly\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ovenden-i-dont-think-they-play-at-all-fairly-p04736",
+      "id": "11018",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018i don\u2019t see how he can finish\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ovenden-i-dont-see-how-he-can-finish-p04737",
+      "id": "11019",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018but there isn\u2019t any wine\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ovenden-but-there-isnt-any-wine-p04738",
+      "id": "11020",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018wake up alice dear\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ovenden-wake-up-alice-dear-p04739",
+      "id": "11021",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the jane doll",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ovenden-the-jane-doll-p04740",
+      "id": "11022",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "birnham wood",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ovenden-birnham-wood-p04741",
+      "id": "11023",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the brigitte doll",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ovenden-the-brigitte-doll-p04742",
+      "id": "11024",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "great dunsinane",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ovenden-great-dunsinane-p04743",
+      "id": "11025",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the margie doll",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ovenden-the-margie-doll-p04744",
+      "id": "11026",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "this blasted heath",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/ovenden-this-blasted-heath-p04745",
+      "id": "11027",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "10994",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10995",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10996",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10997",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10998",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "10999",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11000",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11001",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11002",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11003",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11004",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11005",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11006",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11007",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11008",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11009",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11010",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11011",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11012",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11013",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11014",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11015",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11016",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11017",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11018",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11019",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11020",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11021",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11022",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11023",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11024",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11025",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11026",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11027",
+      "value": 1
+    }
+  ]
+}

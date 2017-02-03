@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Shee, Sir Martin Archer",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-martin-archer-shee-490",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a young bacchus",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00367_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shee-a-young-bacchus-n00367",
+      "id": "13359",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "thomas morton esq.",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00368_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shee-thomas-morton-esq-n00368",
+      "id": "13360",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gilbert stuart",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01480_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shee-gilbert-stuart-n01480",
+      "id": "13362",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two rustic figures",
+      "url": "http://www.tate.org.uk/art/images/work/T/T04/T04368_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/shee-two-rustic-figures-t04368",
+      "id": "13361",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "13359",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13360",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13362",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "13361",
+      "value": 1
+    }
+  ]
+}

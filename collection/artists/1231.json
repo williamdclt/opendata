@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Guston, Philip",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/philip-guston-1231",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "door",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07999_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guston-door-p07999",
+      "id": "5728",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "room",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11072_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guston-room-p11072",
+      "id": "5729",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "east side",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11073_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guston-east-side-p11073",
+      "id": "5730",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rug",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11074_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guston-rug-p11074",
+      "id": "5731",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "summer",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11075_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guston-summer-p11075",
+      "id": "5732",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sea",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guston-sea-p11076",
+      "id": "5733",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "car",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11077_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guston-car-p11077",
+      "id": "5734",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "elements",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11078_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guston-elements-p11078",
+      "id": "5735",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "coat",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11079_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guston-coat-p11079",
+      "id": "5736",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11394_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guston-untitled-p11394",
+      "id": "21433",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "title page",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11395_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guston-title-page-p11395",
+      "id": "21704",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11396_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guston-untitled-p11396",
+      "id": "21705",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11397_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guston-untitled-p11397",
+      "id": "21706",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11398_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guston-untitled-p11398",
+      "id": "21707",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11399_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guston-untitled-p11399",
+      "id": "21708",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11400_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guston-untitled-p11400",
+      "id": "21709",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11401_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guston-untitled-p11401",
+      "id": "21710",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11402_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guston-untitled-p11402",
+      "id": "21711",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11403_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guston-untitled-p11403",
+      "id": "21712",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11404_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guston-untitled-p11404",
+      "id": "21713",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11405_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guston-untitled-p11405",
+      "id": "21714",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the street",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11406_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guston-the-street-p11406",
+      "id": "21715",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "studio corner",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11407_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guston-studio-corner-p11407",
+      "id": "21716",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "agean",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11408_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guston-agean-p11408",
+      "id": "21717",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "curtain",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11409_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guston-curtain-p11409",
+      "id": "21718",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "group",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11410_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guston-group-p11410",
+      "id": "21719",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "scene",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11411_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guston-scene-p11411",
+      "id": "21720",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shoes",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11412_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guston-shoes-p11412",
+      "id": "21721",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11413_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guston-view-p11413",
+      "id": "21722",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pile up",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11414_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guston-pile-up-p11414",
+      "id": "21723",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "objects",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11415_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guston-objects-p11415",
+      "id": "21724",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sea group",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11416_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guston-sea-group-p11416",
+      "id": "21725",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "easel",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11417_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guston-easel-p11417",
+      "id": "21726",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sky",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11418_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guston-sky-p11418",
+      "id": "21727",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gulf",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11419_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guston-gulf-p11419",
+      "id": "21728",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "studio forms",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11420_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guston-studio-forms-p11420",
+      "id": "21729",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "painter",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77009_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guston-painter-p77009",
+      "id": "5737",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77419_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guston-untitled-p77419",
+      "id": "19077",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the return",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00252_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guston-the-return-t00252",
+      "id": "5738",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black sea",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03364_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/guston-black-sea-t03364",
+      "id": "5739",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5728",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5729",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5730",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5731",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5732",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5733",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5734",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5735",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5736",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21433",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21704",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21705",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21706",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21707",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21708",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21709",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21710",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21711",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21712",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21713",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21714",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21715",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21716",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21717",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21718",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21719",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21720",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21721",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21722",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21723",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21724",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21725",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21726",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21727",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21728",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21729",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5737",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19077",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5738",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "5739",
+      "value": 1
+    }
+  ]
+}

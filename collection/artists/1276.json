@@ -1,0 +1,477 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Herman, Josef",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/josef-herman-1276",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "three miners",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06198_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herman-three-miners-n06198",
+      "id": "6091",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the cart",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06272_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herman-the-cart-p06272",
+      "id": "6092",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two miners",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06273_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herman-two-miners-p06273",
+      "id": "6093",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two miners",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06274_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herman-two-miners-p06274",
+      "id": "6094",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two seated peasants",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06275_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herman-two-seated-peasants-p06275",
+      "id": "6095",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mother and child",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06276_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herman-mother-and-child-p06276",
+      "id": "6096",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "dusk",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06277_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herman-dusk-p06277",
+      "id": "6097",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure against dark sky",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06278_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herman-figure-against-dark-sky-p06278",
+      "id": "6098",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "in the mountains",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06279_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herman-in-the-mountains-p06279",
+      "id": "6099",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cockle gatherers",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06280_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herman-cockle-gatherers-p06280",
+      "id": "6100",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the first star",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06281_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herman-the-first-star-p06281",
+      "id": "6101",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "four fisherwomen",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06282_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herman-four-fisherwomen-p06282",
+      "id": "6102",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "scene on the shore",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06283_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herman-scene-on-the-shore-p06283",
+      "id": "6103",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "on the way home",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06284_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herman-on-the-way-home-p06284",
+      "id": "6104",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the red sun",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06285_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herman-the-red-sun-p06285",
+      "id": "6105",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "figure against a dark sky (colour variant)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P06/P06711_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herman-figure-against-a-dark-sky-colour-variant-p06711",
+      "id": "6106",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "in the miner\u2019s arms",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00002_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herman-in-the-miners-arms-t00002",
+      "id": "6107",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the pit pony",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00354_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herman-the-pit-pony-t00354",
+      "id": "6108",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018in the mountains\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02095_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herman-study-for-in-the-mountains-t02095",
+      "id": "6109",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018dusk\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02096_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herman-study-for-dusk-t02096",
+      "id": "6110",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two women weeding",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02097_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herman-two-women-weeding-t02097",
+      "id": "6111",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "pregnant woman with friend",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03193_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herman-pregnant-woman-with-friend-t03193",
+      "id": "6112",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two sketches of two seated miners, sketch of a single miner",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herman-two-sketches-of-two-seated-miners-sketch-of-a-single-miner-t03194",
+      "id": "6113",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two separate sketches for whole composition, pony at right",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03195_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herman-two-separate-sketches-for-whole-composition-pony-at-right-t03195",
+      "id": "6114",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reclining miner",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03196_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herman-reclining-miner-t03196",
+      "id": "6115",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two separate sketches for whole composition, pony at centre",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03197_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herman-two-separate-sketches-for-whole-composition-pony-at-centre-t03197",
+      "id": "6116",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seven separate sketches",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03198_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herman-seven-separate-sketches-t03198",
+      "id": "6117",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "three seated miners, miner with pony in background",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03199_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herman-three-seated-miners-miner-with-pony-in-background-t03199",
+      "id": "6118",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two seated miners, miner with pony in background",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03200_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herman-two-seated-miners-miner-with-pony-in-background-t03200",
+      "id": "6119",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two separate sketches, each with a pony at right",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03201_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herman-two-separate-sketches-each-with-a-pony-at-right-t03201",
+      "id": "6120",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two separate sketches, upper one with a pony at right",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03202_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herman-two-separate-sketches-upper-one-with-a-pony-at-right-t03202",
+      "id": "6121",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "evening, ystradgynlais",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06523_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herman-evening-ystradgynlais-t06523",
+      "id": "20306",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the rower",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07551_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/herman-the-rower-t07551",
+      "id": "26763",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "6091",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6092",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6093",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6094",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6095",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6096",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6097",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6098",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6099",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6100",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6101",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6102",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6103",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6104",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6105",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6106",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6107",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6108",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6109",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6110",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6111",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6112",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6113",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6114",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6115",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6116",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6117",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6118",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6119",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6120",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "6121",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20306",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26763",
+      "value": 1
+    }
+  ]
+}

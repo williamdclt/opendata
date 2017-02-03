@@ -1,0 +1,183 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Pacheco, Ana Maria",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/ana-maria-pacheco-2389",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "as proezas de macuna\u00edma 1",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pacheco-as-proezas-de-macunaima-1-p77816",
+      "id": "21606",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "as proezas de macuna\u00edma 2",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pacheco-as-proezas-de-macunaima-2-p77817",
+      "id": "21607",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "as proezas de macuna\u00edma 3",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pacheco-as-proezas-de-macunaima-3-p77818",
+      "id": "21608",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "as proezas de macuna\u00edma 4",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pacheco-as-proezas-de-macunaima-4-p77819",
+      "id": "21609",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "as proezas de macuna\u00edma 5",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pacheco-as-proezas-de-macunaima-5-p77820",
+      "id": "21610",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "as proezas de macuna\u00edma 6",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pacheco-as-proezas-de-macunaima-6-p77821",
+      "id": "21611",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "as proezas de macuna\u00edma 7",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pacheco-as-proezas-de-macunaima-7-p77822",
+      "id": "21612",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "as proezas de macuna\u00edma 8",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pacheco-as-proezas-de-macunaima-8-p77823",
+      "id": "21613",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "as proezas de macuna\u00edma 9",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pacheco-as-proezas-de-macunaima-9-p77824",
+      "id": "21614",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "as proezas de macuna\u00edma 10",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pacheco-as-proezas-de-macunaima-10-p77825",
+      "id": "21615",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "as proezas de macuna\u00edma 11",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pacheco-as-proezas-de-macunaima-11-p77826",
+      "id": "21616",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "as proezas de macuna\u00edma 12",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/pacheco-as-proezas-de-macunaima-12-p77827",
+      "id": "21617",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "21606",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21607",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21608",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21609",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21610",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21611",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21612",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21613",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21614",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21615",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21616",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21617",
+      "value": 1
+    }
+  ]
+}

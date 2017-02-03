@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Brett, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-brett-53",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "britannia\u2019s realm",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01617_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brett-britannias-realm-n01617",
+      "id": "1481",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the british channel seen from the dorsetshire cliffs",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01902_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brett-the-british-channel-seen-from-the-dorsetshire-cliffs-n01902",
+      "id": "1482",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lady with a dove: madame loeser",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03393_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brett-lady-with-a-dove-madame-loeser-n03393",
+      "id": "1483",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "glacier of rosenlaui",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05643_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brett-glacier-of-rosenlaui-n05643",
+      "id": "1484",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "florence from bellosguardo",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01560_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brett-florence-from-bellosguardo-t01560",
+      "id": "1485",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1481",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1482",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1483",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1484",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1485",
+      "value": 1
+    }
+  ]
+}

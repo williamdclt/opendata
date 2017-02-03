@@ -1,0 +1,155 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Gilpin, Rev. William",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/rev-william-gilpin-2496",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "landscape, cliffs and trees",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09533_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilpin-landscape-cliffs-and-trees-t09533",
+      "id": "22926",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape, a river between hills",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09534_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilpin-landscape-a-river-between-hills-t09534",
+      "id": "22925",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09535_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilpin-landscape-t09535",
+      "id": "22927",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09536_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilpin-landscape-t09536",
+      "id": "24466",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09537_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilpin-landscape-t09537",
+      "id": "24467",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "view of a ruined castle over a gorge",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09538_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilpin-view-of-a-ruined-castle-over-a-gorge-t09538",
+      "id": "22928",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mountains and lakes",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09539_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilpin-mountains-and-lakes-t09539",
+      "id": "22929",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mountains and lakes",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09540_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilpin-mountains-and-lakes-t09540",
+      "id": "24468",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mountains and lakes",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09541_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilpin-mountains-and-lakes-t09541",
+      "id": "24469",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mountains and lakes",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09542_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/gilpin-mountains-and-lakes-t09542",
+      "id": "24470",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "22926",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22925",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22927",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24466",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24467",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22928",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22929",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24468",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24469",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24470",
+      "value": 1
+    }
+  ]
+}

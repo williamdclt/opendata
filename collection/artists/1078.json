@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Falkenstein, Claire",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/claire-falkenstein-1078",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "point as a set no. 26",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/falkenstein-point-as-a-set-no-26-t01228",
+      "id": "4219",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4219",
+      "value": 1
+    }
+  ]
+}

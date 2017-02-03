@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Tillmans, Wolfgang",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/wolfgang-tillmans-2747",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "concorde grid",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11674_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillmans-concorde-grid-p11674",
+      "id": "27054",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "swimming free 16",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillmans-swimming-free-16-p20284",
+      "id": "86994",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "faltenwurf (cubitt edition)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78405_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillmans-faltenwurf-cubitt-edition-p78405",
+      "id": "27249",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "grey jeans over stair post",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillmans-grey-jeans-over-stair-post-p79244",
+      "id": "85211",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "adam",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillmans-adam-p79245",
+      "id": "85212",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lutz and alex sitting in the trees",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillmans-lutz-and-alex-sitting-in-the-trees-p79246",
+      "id": "85213",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shaker tree",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillmans-shaker-tree-p79247",
+      "id": "85214",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "u-bahn sitz",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillmans-u-bahn-sitz-p79248",
+      "id": "85215",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hallenbad, detail",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillmans-hallenbad-detail-p79249",
+      "id": "85216",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "isa vor sound factory",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillmans-isa-vor-sound-factory-p79250",
+      "id": "85217",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "moonrise, puerto rico",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillmans-moonrise-puerto-rico-p79251",
+      "id": "85218",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sportflecken",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillmans-sportflecken-p79252",
+      "id": "85219",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "faltenwurf (off soho)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillmans-faltenwurf-off-soho-p79253",
+      "id": "85220",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kate sitting",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillmans-kate-sitting-p79254",
+      "id": "85221",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "faltenwurf (oliv)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillmans-faltenwurf-oliv-p79255",
+      "id": "85222",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bahndamm",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillmans-bahndamm-p79256",
+      "id": "85223",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "o.t., m\u00fcnchen",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillmans-ot-munchen-p79257",
+      "id": "85224",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "f\u00fcr immer burgen",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillmans-fur-immer-burgen-p79258",
+      "id": "85225",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fluten",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillmans-fluten-p79259",
+      "id": "85226",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chaos cup",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillmans-chaos-cup-p79260",
+      "id": "85227",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stilleben markstrasse",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillmans-stilleben-markstrasse-p79261",
+      "id": "85228",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (la gomera)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillmans-untitled-la-gomera-p79262",
+      "id": "85229",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "supergrass ii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillmans-supergrass-ii-p79263",
+      "id": "85230",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "concorde l449-11",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillmans-concorde-l449-11-p79264",
+      "id": "85231",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "concorde l449-15a",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillmans-concorde-l449-15a-p79265",
+      "id": "85232",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "concorde l433-9",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillmans-concorde-l433-9-p79266",
+      "id": "85233",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "concorde l433-11",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillmans-concorde-l433-11-p79267",
+      "id": "85234",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "concorde 440-2a",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillmans-concorde-440-2a-p79268",
+      "id": "85235",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "concorde l433-18a",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillmans-concorde-l433-18a-p79269",
+      "id": "85236",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "concorde l441-2a",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillmans-concorde-l441-2a-p79270",
+      "id": "85237",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "concorde l441-10a",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillmans-concorde-l441-10a-p79271",
+      "id": "85238",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "concorde l449-15",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillmans-concorde-l449-15-p79272",
+      "id": "85239",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "concorde l441-1a",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillmans-concorde-l441-1a-p79273",
+      "id": "85240",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "concorde l449-17",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillmans-concorde-l449-17-p79274",
+      "id": "85241",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "concorde l449-9",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillmans-concorde-l449-9-p79275",
+      "id": "85242",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "we\u2019re in this together",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillmans-were-in-this-together-p79276",
+      "id": "85243",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tresor garten",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillmans-tresor-garten-p79277",
+      "id": "85244",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kneeling nude",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillmans-kneeling-nude-p79278",
+      "id": "85245",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "naoya tulips",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillmans-naoya-tulips-p79279",
+      "id": "85246",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jal",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/tillmans-jal-p79280",
+      "id": "85247",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "27054",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "86994",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "27249",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85211",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85212",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85213",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85214",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85215",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85216",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85217",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85218",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85219",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85220",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85221",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85222",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85223",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85224",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85225",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85226",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85227",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85228",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85229",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85230",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85231",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85232",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85233",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85234",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85235",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85236",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85237",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85238",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85239",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85240",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85241",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85242",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85243",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85244",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85245",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85246",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "85247",
+      "value": 1
+    }
+  ]
+}

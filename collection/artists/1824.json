@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Reid, Sir Norman",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-norman-reid-1824",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "mr pencil at annestown",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03478_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reid-mr-pencil-at-annestown-t03478",
+      "id": "12348",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "manhattan (for robert adeane)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07085_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reid-manhattan-for-robert-adeane-t07085",
+      "id": "21590",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stop: (red and two yellows)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07086_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/reid-stop-red-and-two-yellows-t07086",
+      "id": "21591",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12348",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21590",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21591",
+      "value": 1
+    }
+  ]
+}

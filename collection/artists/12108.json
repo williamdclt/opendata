@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Chetwynd, Spartacus",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/spartacus-chetwynd-12108",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "bat opera 33",
+      "url": "http://www.tate.org.uk/art/images/work/P/P79/P79375_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chetwynd-bat-opera-33-p79375",
+      "id": "101486",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hermitos children, the pilot episode",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13044_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/chetwynd-hermitos-children-the-pilot-episode-t13044",
+      "id": "103775",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "101486",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "103775",
+      "value": 1
+    }
+  ]
+}

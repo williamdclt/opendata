@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Rae, Fiona",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/fiona-rae-2287",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "untitled (grey and brown)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06481_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rae-untitled-grey-and-brown-t06481",
+      "id": "20171",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (yellow)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06482_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rae-untitled-yellow-t06482",
+      "id": "20170",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "night vision",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07446_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rae-night-vision-t07446",
+      "id": "26392",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (emergency room)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07462_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rae-untitled-emergency-room-t07462",
+      "id": "26447",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shadowland",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11972_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/rae-shadowland-t11972",
+      "id": "83443",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "20171",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20170",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26392",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26447",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "83443",
+      "value": 1
+    }
+  ]
+}

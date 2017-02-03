@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Lee, Frederick Richard",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/frederick-richard-lee-339",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "cover side (figures and animals by sir e. landseer)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00418_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lee-landseer-cover-side-figures-and-animals-by-sir-e-landseer-n00418",
+      "id": "8513",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sea coast, sunrise",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00419_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lee-sea-coast-sunrise-n00419",
+      "id": "8509",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "evening in the meadows (cattle by thomas sidney cooper)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00619_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lee-cooper-evening-in-the-meadows-cattle-by-thomas-sidney-cooper-n00619",
+      "id": "8511",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a river scene (cattle by thomas sidney cooper)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00620_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lee-cooper-a-river-scene-cattle-by-thomas-sidney-cooper-n00620",
+      "id": "8512",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "scottish landscape: bringing in a stag (figure and animals by sir e. landseer)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01788_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lee-landseer-scottish-landscape-bringing-in-a-stag-figure-and-animals-by-sir-e-landseer-n01788",
+      "id": "8514",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lake in a park",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02949_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lee-lake-in-a-park-n02949",
+      "id": "8510",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8513",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8509",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8511",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8512",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8514",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8510",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Dijkstra, Rineke",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/rineke-dijkstra-2666",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "james. tate modern, london. 10 december 1999",
+      "url": "http://www.tate.org.uk/art/images/work/P/P11/P11679_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dijkstra-james-tate-modern-london-10-december-1999-p11679",
+      "id": "27130",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "julie, den haag, netherlands, february 29 1994",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78097_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dijkstra-julie-den-haag-netherlands-february-29-1994-p78097",
+      "id": "26250",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tecla, amsterdam, netherlands, may 16 1994",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78098_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dijkstra-tecla-amsterdam-netherlands-may-16-1994-p78098",
+      "id": "26249",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "saskia, harderwijk, netherlands, march 16 1994",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78099_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dijkstra-saskia-harderwijk-netherlands-march-16-1994-p78099",
+      "id": "26251",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "de panne, belgium, august 7 1992",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78328_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dijkstra-de-panne-belgium-august-7-1992-p78328",
+      "id": "26771",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kolobrzeg, poland, july 23 1992",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78329_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dijkstra-kolobrzeg-poland-july-23-1992-p78329",
+      "id": "26772",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "kolobrzeg, poland, july 26 1992",
+      "url": "http://www.tate.org.uk/art/images/work/P/P78/P78330_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/dijkstra-kolobrzeg-poland-july-26-1992-p78330",
+      "id": "26774",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "27130",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26250",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26249",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26251",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26771",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26772",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26774",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,435 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Bellany, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-bellany-732",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "death knell for john knox",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bellany-death-knell-for-john-knox-p07901",
+      "id": "910",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "janus",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bellany-janus-p07902",
+      "id": "911",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bellany-untitled-p20063",
+      "id": "20329",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bellany-untitled-p20064",
+      "id": "20330",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bellany-untitled-p20065",
+      "id": "20331",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bellany-untitled-p20066",
+      "id": "20332",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bellany-untitled-p20067",
+      "id": "20333",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bellany-untitled-p20068",
+      "id": "20334",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bellany-untitled-p20069",
+      "id": "20335",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bellany-untitled-p20070",
+      "id": "20342",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bellany-untitled-p20071",
+      "id": "20341",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bellany-untitled-p20072",
+      "id": "20340",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bellany-untitled-p20073",
+      "id": "20339",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bellany-untitled-p20074",
+      "id": "20338",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bellany-untitled-p20075",
+      "id": "20337",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bellany-untitled-p20076",
+      "id": "20336",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "odyssey",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bellany-odyssey-p20266",
+      "id": "78669",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the kiss ii",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bellany-the-kiss-ii-p78017",
+      "id": "22108",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "confessions of a justified sinner",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bellany-confessions-of-a-justified-sinner-p78018",
+      "id": "22109",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "death and the maiden",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bellany-death-and-the-maiden-p78019",
+      "id": "22193",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "my father",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bellany-my-father-p78020",
+      "id": "22194",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "requiem for juliet",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bellany-requiem-for-juliet-p78021",
+      "id": "22195",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait (addenbrooke\u2019s) i",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bellany-self-portrait-addenbrookes-i-p78022",
+      "id": "22196",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "celtic marriage",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02333_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bellany-celtic-marriage-t02333",
+      "id": "915",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "star of bethlehem",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02336_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bellany-star-of-bethlehem-t02336",
+      "id": "916",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bellany-self-portrait-t05734",
+      "id": "18985",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bellany-self-portrait-t05735",
+      "id": "18986",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "homage to david b",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bellany-homage-to-david-b-t11750",
+      "id": "78000",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "my grandmother",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bellany-my-grandmother-t11751",
+      "id": "78001",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "my grandmother",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/bellany-my-grandmother-t11752",
+      "id": "78002",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "910",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "911",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20329",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20330",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20331",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20332",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20333",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20334",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20335",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20342",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20341",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20340",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20339",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20338",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20337",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20336",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78669",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22108",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22109",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22193",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22194",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22195",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22196",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "915",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "916",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18985",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "18986",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78000",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78001",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "78002",
+      "value": 1
+    }
+  ]
+}

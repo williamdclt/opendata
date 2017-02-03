@@ -1,0 +1,225 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Kennington, Eric",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/eric-kennington-1399",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "bayonet practice",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03205_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kennington-bayonet-practice-n03205",
+      "id": "7908",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a bantam hercules",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03552_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kennington-a-bantam-hercules-n03552",
+      "id": "7909",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sleeping soldier",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kennington-sleeping-soldier-n03593",
+      "id": "7910",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "muttar il hamoud min beni hassan",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03637_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kennington-muttar-il-hamoud-min-beni-hassan-n03637",
+      "id": "7911",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "raider with a cosh",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04075_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kennington-raider-with-a-cosh-n04075",
+      "id": "7912",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "earth child",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05029_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kennington-earth-child-n05029",
+      "id": "7913",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of t.e. lawrence",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05438_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kennington-head-of-te-lawrence-n05438",
+      "id": "7914",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sergeant h.d. parker, r.a.f.",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05704_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kennington-sergeant-hd-parker-raf-n05704",
+      "id": "7915",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "reclining figure of t.e. lawrence, replica",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kennington-reclining-figure-of-te-lawrence-replica-n06230",
+      "id": "7916",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "making soldiers: bayonet practice",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03039_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kennington-making-soldiers-bayonet-practice-p03039",
+      "id": "7917",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "making soldiers: the gas mask",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03040_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kennington-making-soldiers-the-gas-mask-p03040",
+      "id": "7918",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "making soldiers: ready for service",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03041_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kennington-making-soldiers-ready-for-service-p03041",
+      "id": "7919",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "making soldiers: in the trenches",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03042_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kennington-making-soldiers-in-the-trenches-p03042",
+      "id": "7920",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "making soldiers: over the top",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03043_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kennington-making-soldiers-over-the-top-p03043",
+      "id": "7921",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "making soldiers: bringing in prisoners",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03044_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/kennington-making-soldiers-bringing-in-prisoners-p03044",
+      "id": "7922",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "7908",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7909",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7910",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7911",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7912",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7913",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7914",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7915",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7916",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7917",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7918",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7919",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7920",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7921",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "7922",
+      "value": 1
+    }
+  ]
+}

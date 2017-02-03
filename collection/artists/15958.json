@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Haerizadeh, Rokni",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/rokni-haerizadeh-15958",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "fictionville: blackness ringed with light bulbs",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/haerizadeh-fictionville-blackness-ringed-with-light-bulbs-t13584",
+      "id": "120381",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fictionville: poverty is the spectre of genius",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/haerizadeh-fictionville-poverty-is-the-spectre-of-genius-t13585",
+      "id": "120383",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fictionville: act like you talk",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/haerizadeh-fictionville-act-like-you-talk-t13586",
+      "id": "120384",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fictionville: praying for each other\u2019s salvation",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/haerizadeh-fictionville-praying-for-each-others-salvation-t13587",
+      "id": "120385",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fictionville: the miniature wings of speedy thoughts",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/haerizadeh-fictionville-the-miniature-wings-of-speedy-thoughts-t13588",
+      "id": "120386",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "120381",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "120383",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "120384",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "120385",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "120386",
+      "value": 1
+    }
+  ]
+}

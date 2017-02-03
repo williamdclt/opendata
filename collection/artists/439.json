@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Raven, John Samuel",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-samuel-raven-439",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018saintfoin in bloom\u2019: view near cobham in kent",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03326_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/raven-study-for-saintfoin-in-bloom-view-near-cobham-in-kent-t03326",
+      "id": "12324",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12324",
+      "value": 1
+    }
+  ]
+}

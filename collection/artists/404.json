@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Northcote, James",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/james-northcote-404",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "a young lady playing the harp",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04376_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/northcote-a-young-lady-playing-the-harp-n04376",
+      "id": "10900",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "10900",
+      "value": 1
+    }
+  ]
+}

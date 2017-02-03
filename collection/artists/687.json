@@ -1,0 +1,197 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Baldessari, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-baldessari-687",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07808_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baldessari-no-title-p07808",
+      "id": "693",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baldessari-no-title-p07809",
+      "id": "694",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baldessari-no-title-p07810",
+      "id": "695",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baldessari-no-title-p07811",
+      "id": "696",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baldessari-no-title-p07812",
+      "id": "697",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baldessari-no-title-p07813",
+      "id": "698",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baldessari-no-title-p07814",
+      "id": "699",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baldessari-no-title-p07815",
+      "id": "700",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baldessari-no-title-p07816",
+      "id": "701",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07853_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baldessari-no-title-p07853",
+      "id": "702",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fugitive essays (with caterpillar)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baldessari-fugitive-essays-with-caterpillar-p13263",
+      "id": "122702",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hope (blue) supported by a bed of oranges (life): amid a context of allusions",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11845_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baldessari-hope-blue-supported-by-a-bed-of-oranges-life-amid-a-context-of-allusions-t11845",
+      "id": "80245",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "aligning: balls",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/baldessari-aligning-balls-t13795",
+      "id": "100834",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "693",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "694",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "695",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "696",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "697",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "698",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "699",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "700",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "701",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "702",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "122702",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "80245",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "100834",
+      "value": 1
+    }
+  ]
+}

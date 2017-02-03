@@ -1,0 +1,561 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Brown, Ford Madox",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/ford-madox-brown-65",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "cathy madox brown at the age of three",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01356_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brown-cathy-madox-brown-at-the-age-of-three-n01356",
+      "id": "1580",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jesus washing peter\u2019s feet",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01394_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brown-jesus-washing-peters-feet-n01394",
+      "id": "1581",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chaucer at the court of edward iii",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02063_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brown-chaucer-at-the-court-of-edward-iii-n02063",
+      "id": "1582",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "king ren\u00e9\u2018s honeymoon",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02409_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brown-king-renes-honeymoon-n02409",
+      "id": "1583",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sheepshearing",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02410_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brown-sheepshearing-n02410",
+      "id": "1584",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "studies for \u2018work\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02411_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brown-studies-for-work-n02411",
+      "id": "1585",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "design for badge for gillum\u2019s homes",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02412_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brown-design-for-badge-for-gillums-homes-n02412",
+      "id": "1586",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "arkwright\u2019s mill",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02413_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brown-arkwrights-mill-n02413",
+      "id": "1587",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018john kay\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02414_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brown-study-for-john-kay-n02414",
+      "id": "1588",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018southend\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02415_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brown-study-for-southend-n02415",
+      "id": "1589",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018where are you going, my pretty maid?\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02416_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brown-where-are-you-going-my-pretty-maid-n02416",
+      "id": "1590",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "section of the bridgewater canal",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02417_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brown-section-of-the-bridgewater-canal-n02417",
+      "id": "1591",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a barge on the bridgewater canal",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02418_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brown-a-barge-on-the-bridgewater-canal-n02418",
+      "id": "1592",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of the tow-path on the bridgewater canal",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02419_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brown-study-of-the-tow-path-on-the-bridgewater-canal-n02419",
+      "id": "1593",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "our lady of good children",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02684_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brown-our-lady-of-good-children-n02684",
+      "id": "1594",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "arkwright\u2019s mill",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02791_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brown-arkwrights-mill-n02791",
+      "id": "1595",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the bridgewater canal",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02792_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brown-the-bridgewater-canal-n02792",
+      "id": "1596",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the bridgewater canal",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02793_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brown-the-bridgewater-canal-n02793",
+      "id": "1597",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the last of england",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03064_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brown-the-last-of-england-n03064",
+      "id": "1598",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lear and cordelia",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03065_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brown-lear-and-cordelia-n03065",
+      "id": "1599",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mauvais sujet",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03228_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brown-mauvais-sujet-n03228",
+      "id": "1600",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "king ren\u00e9\u2018s honeymoon",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03229_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brown-king-renes-honeymoon-n03229",
+      "id": "1601",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of a man painting",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03472_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brown-study-of-a-man-painting-n03472",
+      "id": "1602",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the brent at hendon",
+      "url": "http://www.tate.org.uk/art/images/work/N/N03/N03528_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brown-the-brent-at-hendon-n03528",
+      "id": "1603",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "elijah and the widow\u2019s son, engraved by the dalziel brothers",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04014_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brown-elijah-and-the-widows-son-engraved-by-the-dalziel-brothers-n04014",
+      "id": "1604",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for the dean in the \u2018execution of mary queen of scots\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04280_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brown-study-for-the-dean-in-the-execution-of-mary-queen-of-scots-n04280",
+      "id": "1605",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018jesus washing peter\u2019s feet\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04281_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brown-sketch-for-jesus-washing-peters-feet-n04281",
+      "id": "1606",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018cromwell on his farm\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04282_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brown-sketch-for-cromwell-on-his-farm-n04282",
+      "id": "1607",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018take your son, sir\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04429_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brown-take-your-son-sir-n04429",
+      "id": "1608",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the coat of many colours",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04584_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brown-the-coat-of-many-colours-n04584",
+      "id": "1609",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "stages of cruelty",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04625_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brown-stages-of-cruelty-n04625",
+      "id": "1610",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "carrying corn",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04735_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brown-carrying-corn-n04735",
+      "id": "1611",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "head of a girl",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04803_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brown-head-of-a-girl-n04803",
+      "id": "1612",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of dykes barry as a child",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04866_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brown-portrait-of-dykes-barry-as-a-child-n04866",
+      "id": "1613",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jesus washing peter\u2019s feet",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05301_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brown-jesus-washing-peters-feet-n05301",
+      "id": "1614",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "platt lane",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05383_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brown-platt-lane-n05383",
+      "id": "1615",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study of f.g. stephens for \u2018jesus washing peter\u2019s feet\u2019. verso: a head crowned with laurels",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00571_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brown-study-of-fg-stephens-for-jesus-washing-peters-feet-verso-a-head-crowned-with-laurels-t00571",
+      "id": "1616",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch for \u2018jesus washing peter\u2019s feet\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01035_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brown-sketch-for-jesus-washing-peters-feet-t01035",
+      "id": "1617",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the hayfield",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01920_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/brown-the-hayfield-t01920",
+      "id": "1618",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "1580",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1581",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1582",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1583",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1584",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1585",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1586",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1587",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1588",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1589",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1590",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1591",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1592",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1593",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1594",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1595",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1596",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1597",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1598",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1599",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1600",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1601",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1602",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1603",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1604",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1605",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1606",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1607",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1608",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1609",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1610",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1611",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1612",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1613",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1614",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1615",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1616",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1617",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "1618",
+      "value": 1
+    }
+  ]
+}

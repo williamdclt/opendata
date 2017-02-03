@@ -1,0 +1,183 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "L\u00e9ger, Fernand",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/fernand-leger-1488",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "leaves and shell",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05907_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leger-leaves-and-shell-n05907",
+      "id": "8522",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "keys (composition)",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05990_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leger-keys-composition-n05990",
+      "id": "8523",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "playing card and pipe",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05991_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leger-playing-card-and-pipe-n05991",
+      "id": "8524",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the king of hearts",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01711_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leger-the-king-of-hearts-p01711",
+      "id": "12144",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "les objets \u00e0 r\u00e9action poetique",
+      "url": "http://www.tate.org.uk/art/images/work/P/P80/P80180_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leger-perriand-jeanneret-les-objets-a-reaction-poetique-p80180",
+      "id": "122403",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "two women holding flowers",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00246_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leger-two-women-holding-flowers-t00246",
+      "id": "8525",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "still life with a beer mug",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02035_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leger-still-life-with-a-beer-mug-t02035",
+      "id": "8526",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the acrobat and his partner",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03118_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leger-the-acrobat-and-his-partner-t03118",
+      "id": "8527",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mechanical elements",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06798_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leger-mechanical-elements-t06798",
+      "id": "20847",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "abc",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06799_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leger-abc-t06799",
+      "id": "20848",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "three bottles",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06800_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leger-three-bottles-t06800",
+      "id": "20849",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "trees",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06801_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/leger-trees-t06801",
+      "id": "20850",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8522",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8523",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8524",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12144",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "122403",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8525",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8526",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8527",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20847",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20848",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20849",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20850",
+      "value": 1
+    }
+  ]
+}

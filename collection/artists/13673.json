@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Mrou\u00e9, Rabih",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/rabih-mroue-13673",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "on three posters",
+      "url": "http://www.tate.org.uk/art/images/work/T/T13/T13196_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/mroue-on-three-posters-t13196",
+      "id": "108996",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "108996",
+      "value": 1
+    }
+  ]
+}

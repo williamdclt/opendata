@@ -1,0 +1,141 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Hamilton, William",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/william-hamilton-2580",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the invasion of a harem",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00939_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-the-invasion-of-a-harem-t00939",
+      "id": "5833",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09751_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-title-not-known-t09751",
+      "id": "22976",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09752_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-title-not-known-t09752",
+      "id": "24568",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09753_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-title-not-known-t09753",
+      "id": "24569",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09754_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-title-not-known-t09754",
+      "id": "24570",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09755_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-title-not-known-t09755",
+      "id": "24571",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09756_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-title-not-known-t09756",
+      "id": "24572",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09757_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-title-not-known-t09757",
+      "id": "24573",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title not known]",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09758_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/hamilton-title-not-known-t09758",
+      "id": "24574",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5833",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22976",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24568",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24569",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24570",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24571",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24572",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24573",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "24574",
+      "value": 1
+    }
+  ]
+}

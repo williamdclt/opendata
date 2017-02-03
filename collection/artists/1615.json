@@ -1,0 +1,211 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Meadows, Bernard",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/bernard-meadows-1615",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "standing figure",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meadows-standing-figure-n06208",
+      "id": "9418",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "help",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03164_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meadows-help-p03164",
+      "id": "9419",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03165_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meadows-untitled-p03165",
+      "id": "9420",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "four reliefs",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meadows-four-reliefs-t00329",
+      "id": "9421",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "black crab",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03409_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meadows-black-crab-t03409",
+      "id": "9422",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "crab",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meadows-crab-t03759",
+      "id": "9423",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lovers",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03811_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meadows-lovers-t03811",
+      "id": "9424",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "large flat bird",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07232_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meadows-large-flat-bird-t07232",
+      "id": "21913",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "startled bird",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07907_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meadows-startled-bird-t07907",
+      "id": "120",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "spring \u2018seasons\u2019 cock",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07908_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meadows-spring-seasons-cock-t07908",
+      "id": "121",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "fallen bird",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07909_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meadows-fallen-bird-t07909",
+      "id": "123",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shot bird",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07910_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meadows-shot-bird-t07910",
+      "id": "124",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "armed bust iv",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07911_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meadows-armed-bust-iv-t07911",
+      "id": "125",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "help",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07912_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/meadows-help-t07912",
+      "id": "225",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "9418",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9419",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9420",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9421",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9422",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9423",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "9424",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21913",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "120",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "121",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "124",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "125",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "225",
+      "value": 1
+    }
+  ]
+}

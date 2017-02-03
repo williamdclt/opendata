@@ -1,0 +1,141 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Haden, Sir Francis Seymour",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/sir-francis-seymour-haden-230",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "battersea reach",
+      "url": "http://www.tate.org.uk/art/images/work/N/N02/N02427_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/haden-battersea-reach-n02427",
+      "id": "5753",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sketch of a church, italian (or perhaps spanish) under a cliff",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09438_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/haden-sketch-of-a-church-italian-or-perhaps-spanish-under-a-cliff-t09438",
+      "id": "22974",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "studies of rabbits",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09439_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/haden-studies-of-rabbits-t09439",
+      "id": "22969",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a cottage",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09440_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/haden-a-cottage-t09440",
+      "id": "22972",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "distant view of a cottage",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09441_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/haden-distant-view-of-a-cottage-t09441",
+      "id": "22973",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait study, a head of a woman. verso: sketch and a caricature",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09443_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/haden-portrait-study-a-head-of-a-woman-verso-sketch-and-a-caricature-t09443",
+      "id": "22970",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait study, a head of a man",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09444_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/haden-portrait-study-a-head-of-a-man-t09444",
+      "id": "22971",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "porta del carmine, naples",
+      "url": "http://www.tate.org.uk/art/images/work/T/T09/T09445_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/haden-porta-del-carmine-naples-t09445",
+      "id": "22968",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a house on a hill. verso: study of four sheep",
+      "url": "http://www.tate.org.uk/art/images/work/T/T10/T10134_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/haden-a-house-on-a-hill-verso-study-of-four-sheep-t10134",
+      "id": "22975",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "5753",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22974",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22969",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22972",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22973",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22970",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22971",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22968",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "22975",
+      "value": 1
+    }
+  ]
+}

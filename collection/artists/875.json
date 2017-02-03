@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Cazin, Marie",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/marie-cazin-875",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "evening",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05571_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cazin-evening-n05571",
+      "id": "2089",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2089",
+      "value": 1
+    }
+  ]
+}

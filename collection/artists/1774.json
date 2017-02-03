@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Piper, John",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/john-piper-1774",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the dairy, fawley court",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05215_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piper-the-dairy-fawley-court-n05215",
+      "id": "11925",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st mary le port, bristol",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05718_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piper-st-mary-le-port-bristol-n05718",
+      "id": "11927",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "all saints chapel, bath",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05719_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piper-all-saints-chapel-bath-n05719",
+      "id": "11928",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "somerset place, bath",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05720_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piper-somerset-place-bath-n05720",
+      "id": "11929",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "seaton delaval",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05748_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piper-seaton-delaval-n05748",
+      "id": "11930",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "abstract i",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06212_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piper-abstract-i-n06212",
+      "id": "11931",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nursery frieze i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02273_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piper-nursery-frieze-i-p02273",
+      "id": "11933",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nursery frieze ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02274_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piper-nursery-frieze-ii-p02274",
+      "id": "11934",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drysllwyn castle",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02275_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piper-drysllwyn-castle-p02275",
+      "id": "11935",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chamecy, burgundy",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02276_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piper-chamecy-burgundy-p02276",
+      "id": "11936",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u00c9glise de vernon, normandy",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02277_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piper-eglise-de-vernon-normandy-p02277",
+      "id": "11937",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "notre dame de l\u2019\u00c9pine, near rheims",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02278_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piper-notre-dame-de-lepine-near-rheims-p02278",
+      "id": "11938",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rheims cathedral",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02279_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piper-rheims-cathedral-p02279",
+      "id": "11939",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (from iaa portfolio)",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03106_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piper-untitled-from-iaa-portfolio-p03106",
+      "id": "11940",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "foliate head",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03297_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piper-foliate-head-p03297",
+      "id": "11941",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "eye and camera",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03298_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piper-eye-and-camera-p03298",
+      "id": "11942",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "palazzo pesaro",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03299_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piper-palazzo-pesaro-p03299",
+      "id": "11943",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st germain de l\u2019ivret",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03300_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piper-st-germain-de-livret-p03300",
+      "id": "11944",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blenheim gates",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03301_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piper-blenheim-gates-p03301",
+      "id": "11945",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "eastnor castle",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03302_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piper-eastnor-castle-p03302",
+      "id": "11946",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "saltash bridge",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03303_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piper-saltash-bridge-p03303",
+      "id": "11947",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lower brockhampton",
+      "url": "http://www.tate.org.uk/art/images/work/P/P03/P03304_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piper-lower-brockhampton-p03304",
+      "id": "11948",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "penybont ford congregational church",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05012_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piper-penybont-ford-congregational-church-p05012",
+      "id": "11949",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "eye and camera: blue to yellow",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05013_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piper-eye-and-camera-blue-to-yellow-p05013",
+      "id": "11950",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "eye and camera: flame four",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05014_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piper-eye-and-camera-flame-four-p05014",
+      "id": "11951",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "eye and camera: yellow and green",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05015_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piper-eye-and-camera-yellow-and-green-p05015",
+      "id": "11952",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "travel notes: castle ashby avenue",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05016_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piper-travel-notes-castle-ashby-avenue-p05016",
+      "id": "11953",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "travel notes: devil\u2019s bridge waterfalls",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05017_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piper-travel-notes-devils-bridge-waterfalls-p05017",
+      "id": "11954",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "besse, dordogne",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05018_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piper-besse-dordogne-p05018",
+      "id": "11955",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "creysse, dordogne",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05019_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piper-creysse-dordogne-p05019",
+      "id": "11956",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "floirac",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05020_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piper-floirac-p05020",
+      "id": "11957",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "garn fawr, pembrokeshire",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05021_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piper-garn-fawr-pembrokeshire-p05021",
+      "id": "11958",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jazenne, charente",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05022_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piper-jazenne-charente-p05022",
+      "id": "11959",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "la chapelle st robert, dordogne",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05023_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piper-la-chapelle-st-robert-dordogne-p05023",
+      "id": "11960",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "montpellier de didonne, charente",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05024_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piper-montpellier-de-didonne-charente-p05024",
+      "id": "11961",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mosnac, dordogne",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05025_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piper-mosnac-dordogne-p05025",
+      "id": "11962",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "near newcastle emlyn, cardigan",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05026_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piper-near-newcastle-emlyn-cardigan-p05026",
+      "id": "11963",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st amand de coly, dordogne",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05027_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piper-st-amand-de-coly-dordogne-p05027",
+      "id": "11964",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st raphael, dordogne",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05028_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piper-st-raphael-dordogne-p05028",
+      "id": "11965",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "st simon de pelouialle",
+      "url": "http://www.tate.org.uk/art/images/work/P/P05/P05029_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/piper-st-simon-de-pelouialle-p05029",
+      "id": "11966",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "11925",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11927",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11928",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11929",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11930",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11931",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11933",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11934",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11935",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11936",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11937",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11938",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11939",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11940",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11941",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11942",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11943",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11944",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11945",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11946",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11947",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11948",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11949",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11950",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11951",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11952",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11953",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11954",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11955",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11956",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11957",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11958",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11959",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11960",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11961",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11962",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11963",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11964",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11965",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "11966",
+      "value": 1
+    }
+  ]
+}

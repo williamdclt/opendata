@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Fuchs, Emil",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/emil-fuchs-1130",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "sir joseph duveen",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05999_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/fuchs-sir-joseph-duveen-n05999",
+      "id": "4743",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "4743",
+      "value": 1
+    }
+  ]
+}

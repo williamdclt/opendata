@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Lim, Kim",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/kim-lim-1512",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01227_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lim-no-title-p01227",
+      "id": "8797",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01228_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lim-no-title-p01228",
+      "id": "8798",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01229_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lim-no-title-p01229",
+      "id": "8799",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01230_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lim-no-title-p01230",
+      "id": "8800",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01231_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lim-no-title-p01231",
+      "id": "8801",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01232_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lim-no-title-p01232",
+      "id": "8802",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "yellow ring",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01233_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lim-yellow-ring-p01233",
+      "id": "8803",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blue engraving",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01234_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lim-blue-engraving-p01234",
+      "id": "8804",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ladder series i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01235_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lim-ladder-series-i-p01235",
+      "id": "8805",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "red aquatint",
+      "url": "http://www.tate.org.uk/art/images/work/P/P01/P01236_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lim-red-aquatint-p01236",
+      "id": "8806",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woodcut blue",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lim-woodcut-blue-p02440",
+      "id": "8807",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bx i",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lim-bx-i-p02441",
+      "id": "8808",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bx ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02442_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lim-bx-ii-p02442",
+      "id": "8809",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woodcut",
+      "url": "http://www.tate.org.uk/art/images/work/P/P02/P02443_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lim-woodcut-p02443",
+      "id": "8810",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bridge i",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07174_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lim-bridge-i-p07174",
+      "id": "8811",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "bridge ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07175_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lim-bridge-ii-p07175",
+      "id": "8812",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "shogan",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07176_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lim-shogan-p07176",
+      "id": "8813",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "screenprint - blue on blue",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lim-screenprint-blue-on-blue-p07177",
+      "id": "8814",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "screenprint - white on white",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07178_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lim-screenprint-white-on-white-p07178",
+      "id": "8815",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "green etching",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07179_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lim-green-etching-p07179",
+      "id": "8816",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "small etching",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07180_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lim-small-etching-p07180",
+      "id": "8817",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blue disc",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07181_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lim-blue-disc-p07181",
+      "id": "8818",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ring",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07182_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lim-ring-p07182",
+      "id": "8819",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "silver engraving",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07183_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lim-silver-engraving-p07183",
+      "id": "8820",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07184_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lim-untitled-p07184",
+      "id": "8821",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07185_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lim-untitled-p07185",
+      "id": "8822",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07186_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lim-untitled-p07186",
+      "id": "8823",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "brown aquatint",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07187_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lim-brown-aquatint-p07187",
+      "id": "8824",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lim-no-title-p07188",
+      "id": "8825",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lim-no-title-p07189",
+      "id": "8826",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lim-no-title-p07190",
+      "id": "8827",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lim-no-title-p07191",
+      "id": "8828",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jaune fonc\u00e9",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07192_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lim-jaune-fonce-p07192",
+      "id": "8829",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "jaune fonc\u00e9 aquatint",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07193_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lim-jaune-fonce-aquatint-p07193",
+      "id": "8830",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ladder series iii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07194_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lim-ladder-series-iii-p07194",
+      "id": "8831",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ladder series iv",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07195_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lim-ladder-series-iv-p07195",
+      "id": "8832",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ladder series v",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07196_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lim-ladder-series-v-p07196",
+      "id": "8833",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "yellow ochre aquatint",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07197_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lim-yellow-ochre-aquatint-p07197",
+      "id": "8834",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "silver engraving",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07198_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lim-silver-engraving-p07198",
+      "id": "8835",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ladder series ii",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07243_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/lim-ladder-series-ii-p07243",
+      "id": "16980",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "8797",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8798",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8799",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8800",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8801",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8802",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8803",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8804",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8805",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8806",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8807",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8808",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8809",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8810",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8811",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8812",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8813",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8814",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8815",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8816",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8817",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8818",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8819",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8820",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8821",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8822",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8823",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8824",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8825",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8826",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8827",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8828",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8829",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8830",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8831",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8832",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8833",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8834",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "8835",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16980",
+      "value": 1
+    }
+  ]
+}

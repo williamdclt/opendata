@@ -1,0 +1,99 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Molodkin, Andrei",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/andrei-molodkin-15353",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "liquid modernity",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/molodkin-liquid-modernity-t13635",
+      "id": "116387",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study from the series \u2018liquid modernity\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/molodkin-study-from-the-series-liquid-modernity-t13670",
+      "id": "123198",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study from the series \u2018liquid modernity\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/molodkin-study-from-the-series-liquid-modernity-t13671",
+      "id": "123199",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study from the series \u2018liquid modernity\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/molodkin-study-from-the-series-liquid-modernity-t13672",
+      "id": "123200",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study from the series \u2018liquid modernity\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/molodkin-study-from-the-series-liquid-modernity-t13673",
+      "id": "123203",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study from the series \u2018liquid modernity\u2019",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/molodkin-study-from-the-series-liquid-modernity-t13674",
+      "id": "123204",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "116387",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123198",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123199",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123200",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123203",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "123204",
+      "value": 1
+    }
+  ]
+}

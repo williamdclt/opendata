@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Roberts, William",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/william-roberts-1855",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "the char",
+      "url": "http://www.tate.org.uk/art/images/work/N/N04/N04148_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-the-char-n04148",
+      "id": "12654",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "self-portrait wearing a cap",
+      "url": "http://www.tate.org.uk/art/images/work/N/N05/N05372_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-self-portrait-wearing-a-cap-n05372",
+      "id": "12655",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cantering to the post",
+      "url": "http://www.tate.org.uk/art/images/work/N/N06/N06018_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-cantering-to-the-post-n06018",
+      "id": "12656",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "\u2018the withered root\u2019 by rhys davies",
+      "url": "http://www.tate.org.uk/art/images/work/P/P13/P13073_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-the-withered-root-by-rhys-davies-p13073",
+      "id": "99461",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the horse dealers",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00174_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-the-horse-dealers-t00174",
+      "id": "12657",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the cockatoos",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00196_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-the-cockatoos-t00196",
+      "id": "12658",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the diners",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00230_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-the-diners-t00230",
+      "id": "12659",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "athletes exercising in a gymnasium",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00322_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-athletes-exercising-in-a-gymnasium-t00322",
+      "id": "12660",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the vorticists at the restaurant de la tour eiffel: spring, 1915",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00528_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-the-vorticists-at-the-restaurant-de-la-tour-eiffel-spring-1915-t00528",
+      "id": "12661",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "leadenhall market",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00581_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-leadenhall-market-t00581",
+      "id": "12662",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the lake",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00660_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-the-lake-t00660",
+      "id": "12663",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the cinema",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00813_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-the-cinema-t00813",
+      "id": "12664",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the return of ulysses",
+      "url": "http://www.tate.org.uk/art/images/work/T/T00/T00878_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-the-return-of-ulysses-t00878",
+      "id": "12665",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018two step\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01100_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-study-for-two-step-t01100",
+      "id": "12666",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "esther lahr",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01184_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-esther-lahr-t01184",
+      "id": "12667",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "drawing for \u2018the return of ulysses\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T01/T01561_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-drawing-for-the-return-of-ulysses-t01561",
+      "id": "12668",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "playground (the gutter)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02346_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-playground-the-gutter-t02346",
+      "id": "12669",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "skipping (the gutter)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T02/T02347_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-skipping-the-gutter-t02347",
+      "id": "12670",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "portrait of a man lighting a pipe",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03075_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-portrait-of-a-man-lighting-a-pipe-t03075",
+      "id": "12671",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "l\u2019alg\u00e9rienne",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03076_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-lalgerienne-t03076",
+      "id": "12672",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "trooping the colour",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03248_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-trooping-the-colour-t03248",
+      "id": "12673",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the port of london",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05761_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-the-port-of-london-t05761",
+      "id": "19019",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "david choosing the three days\u2019 pestilence",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06668_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-david-choosing-the-three-days-pestilence-t06668",
+      "id": "20595",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the temptation of st anthony",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07391_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-the-temptation-of-st-anthony-t07391",
+      "id": "26008",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "deposition from the cross",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07740_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-deposition-from-the-cross-t07740",
+      "id": "66598",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sparring partners",
+      "url": "http://www.tate.org.uk/art/images/work/T/T11/T11792_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-sparring-partners-t11792",
+      "id": "81058",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018the tea garden\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12628_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-study-for-the-tea-garden-t12628",
+      "id": "99331",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "families on a beach",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12629_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-families-on-a-beach-t12629",
+      "id": "99332",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the horsemen",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12630_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-the-horsemen-t12630",
+      "id": "99333",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018sawing wood\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12631_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-study-for-sawing-wood-t12631",
+      "id": "99334",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ferry crossing, study for \u2018the ferry\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12632_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-ferry-crossing-study-for-the-ferry-t12632",
+      "id": "99335",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "coffin making",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12633_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-coffin-making-t12633",
+      "id": "99336",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a reception at the london group",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12634_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-a-reception-at-the-london-group-t12634",
+      "id": "99337",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "woman with a cat",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12635_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-woman-with-a-cat-t12635",
+      "id": "99338",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018guarding the masterpiece\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12636_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-study-for-guarding-the-masterpiece-t12636",
+      "id": "99339",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "music lovers",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12637_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-music-lovers-t12637",
+      "id": "99340",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "study for \u2018the gipsies\u2019",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12638_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-study-for-the-gipsies-t12638",
+      "id": "99341",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the life master",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12639_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-the-life-master-t12639",
+      "id": "99342",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "old women and girl",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12640_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-old-women-and-girl-t12640",
+      "id": "99343",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "peasants and horseman",
+      "url": "http://www.tate.org.uk/art/images/work/T/T12/T12641_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/roberts-peasants-and-horseman-t12641",
+      "id": "99346",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "12654",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12655",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12656",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99461",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12657",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12658",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12659",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12660",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12661",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12662",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12663",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12664",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12665",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12666",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12667",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12668",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12669",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12670",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12671",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12672",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "12673",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "19019",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20595",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "26008",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66598",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "81058",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99331",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99332",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99333",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99334",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99335",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99336",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99337",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99338",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99339",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99340",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99341",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99342",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99343",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "99346",
+      "value": 1
+    }
+  ]
+}

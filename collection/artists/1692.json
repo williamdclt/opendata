@@ -1,0 +1,253 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Neagu, Paul",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/paul-neagu-1692",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "jump",
+      "url": "http://www.tate.org.uk/art/images/work/P/P07/P07259_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/neagu-jump-p07259",
+      "id": "10582",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "rocking hyphen (edge runner)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/neagu-rocking-hyphen-edge-runner-t05032",
+      "id": "16603",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tactile object 2",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07749_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/neagu-tactile-object-2-t07749",
+      "id": "259",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "great tactile table",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07750_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/neagu-great-tactile-table-t07750",
+      "id": "260",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tactile object 3",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07751_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/neagu-tactile-object-3-t07751",
+      "id": "261",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "empty hand",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07752_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/neagu-empty-hand-t07752",
+      "id": "262",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "full hand",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07753_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/neagu-full-hand-t07753",
+      "id": "263",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "anthropocosmic mould",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/neagu-anthropocosmic-mould-t07754",
+      "id": "264",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "palpable object",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07755_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/neagu-palpable-object-t07755",
+      "id": "265",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tactile object (hand)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07756_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/neagu-tactile-object-hand-t07756",
+      "id": "266",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "palpable object (mosaic)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07757_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/neagu-palpable-object-mosaic-t07757",
+      "id": "267",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "(white) tactile object with hinges",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07758_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/neagu-white-tactile-object-with-hinges-t07758",
+      "id": "268",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "box, tactile object (receptacle)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07759_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/neagu-box-tactile-object-receptacle-t07759",
+      "id": "269",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "ceramic skull",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07760_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/neagu-ceramic-skull-t07760",
+      "id": "270",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "36 possibilities realised simultaneously",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/neagu-36-possibilities-realised-simultaneously-t07761",
+      "id": "271",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "neagu\u2019s boxes",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/neagu-neagus-boxes-t07892",
+      "id": "257",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "going tornado",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/neagu-going-tornado-t07893",
+      "id": "283",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "10582",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16603",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "259",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "260",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "261",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "262",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "263",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "264",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "265",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "266",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "267",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "268",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "269",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "270",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "271",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "257",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "283",
+      "value": 1
+    }
+  ]
+}

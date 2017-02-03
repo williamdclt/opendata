@@ -1,0 +1,547 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Woodrow, Bill",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/bill-woodrow-2170",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77556_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodrow-no-title-p77556",
+      "id": "20516",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77557_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodrow-no-title-p77557",
+      "id": "20518",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77558_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodrow-no-title-p77558",
+      "id": "20519",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77559_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodrow-no-title-p77559",
+      "id": "20521",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[no title]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77560_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodrow-no-title-p77560",
+      "id": "20520",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[title page]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77703_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodrow-title-page-p77703",
+      "id": "21135",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[index page]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77704_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodrow-index-page-p77704",
+      "id": "21157",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "argon",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77705_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodrow-argon-p77705",
+      "id": "21156",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "hydrogen",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77706_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodrow-hydrogen-p77706",
+      "id": "21155",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "zinc",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77707_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodrow-zinc-p77707",
+      "id": "21154",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "iron",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77708_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodrow-iron-p77708",
+      "id": "21153",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "potassium",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77709_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodrow-potassium-p77709",
+      "id": "21152",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nickel",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77710_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodrow-nickel-p77710",
+      "id": "21151",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "lead",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77711_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodrow-lead-p77711",
+      "id": "21150",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "mercury",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77712_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodrow-mercury-p77712",
+      "id": "21149",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "phosphorous",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77713_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodrow-phosphorous-p77713",
+      "id": "21147",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "gold",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77714_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodrow-gold-p77714",
+      "id": "21148",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "cerium",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77715_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodrow-cerium-p77715",
+      "id": "21146",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "chromium",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77716_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodrow-chromium-p77716",
+      "id": "21145",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "sulphur",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77717_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodrow-sulphur-p77717",
+      "id": "21144",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "titanium",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77718_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodrow-titanium-p77718",
+      "id": "21143",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "arsenic",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77719_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodrow-arsenic-p77719",
+      "id": "21142",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "nitrogen",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77720_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodrow-nitrogen-p77720",
+      "id": "21141",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "tin",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77721_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodrow-tin-p77721",
+      "id": "21136",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "uranium",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77722_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodrow-uranium-p77722",
+      "id": "21139",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "silver",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77723_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodrow-silver-p77723",
+      "id": "21137",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "vanadium",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77724_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodrow-vanadium-p77724",
+      "id": "21138",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "carbon",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77725_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodrow-carbon-p77725",
+      "id": "21140",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "[colophon]",
+      "url": "http://www.tate.org.uk/art/images/work/P/P77/P77742_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodrow-colophon-p77742",
+      "id": "21279",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "twin-tub with guitar",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03354_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodrow-twin-tub-with-guitar-t03354",
+      "id": "16465",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "car door, ironing board and twin-tub with north american indian head-dress",
+      "url": "http://www.tate.org.uk/art/images/work/T/T03/T03355_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodrow-car-door-ironing-board-and-twin-tub-with-north-american-indian-head-dress-t03355",
+      "id": "16466",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "english heritage - humpty fucking dumpty",
+      "url": "http://www.tate.org.uk/art/images/work/T/T05/T05009_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodrow-english-heritage-humpty-fucking-dumpty-t05009",
+      "id": "16467",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "the glass oar",
+      "url": "http://www.tate.org.uk/art/images/work/T/T06/T06747_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodrow-the-glass-oar-t06747",
+      "id": "20785",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "elephant",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07169_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodrow-elephant-t07169",
+      "id": "21791",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (92/21)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07219_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodrow-untitled-9221-t07219",
+      "id": "21902",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "wilson\u2019s phalarope (94/03)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07236_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodrow-wilsons-phalarope-9403-t07236",
+      "id": "21903",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "untitled (95/04)",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07237_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodrow-untitled-9504-t07237",
+      "id": "21904",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "well done!",
+      "url": "http://www.tate.org.uk/art/images/work/T/T07/T07766_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/woodrow-well-done-t07766",
+      "id": "66720",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "20516",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20518",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20519",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20521",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20520",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21135",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21157",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21156",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21155",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21154",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21153",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21152",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21151",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21150",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21149",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21147",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21148",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21146",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21145",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21144",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21143",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21142",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21141",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21136",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21139",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21137",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21138",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21140",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21279",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16465",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16466",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "16467",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "20785",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21791",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21902",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21903",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "21904",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "66720",
+      "value": 1
+    }
+  ]
+}

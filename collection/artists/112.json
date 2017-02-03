@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Cooper, Thomas Sidney",
+      "url": null,
+      "gender": "male",
+      "tatelink": "http://www.tate.org.uk/art/artists/thomas-sidney-cooper-112",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "milking time - study of a farm-yard near canterbury",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00435_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cooper-milking-time-study-of-a-farm-yard-near-canterbury-n00435",
+      "id": "2782",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "among the cumberland mountains - mist clearing off",
+      "url": "http://www.tate.org.uk/art/images/work/N/N00/N00436_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cooper-among-the-cumberland-mountains-mist-clearing-off-n00436",
+      "id": "2783",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "landscape and cattle",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01800_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cooper-landscape-and-cattle-n01800",
+      "id": "2784",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "a cow and two sheep",
+      "url": "http://www.tate.org.uk/art/images/work/N/N01/N01976_8.jpg",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/cooper-a-cow-and-two-sheep-n01976",
+      "id": "2785",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "2782",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2783",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2784",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "2785",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "name": "Yarrow, Catherine",
+      "url": null,
+      "gender": "female",
+      "tatelink": "http://www.tate.org.uk/art/artists/catherine-yarrow-17410",
+      "id": "Artist",
+      "size": 30
+    },
+    {
+      "group": 1,
+      "name": "not what i want",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yarrow-not-what-i-want-t13789",
+      "id": "126539",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "four heads",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yarrow-four-heads-t13790",
+      "id": "126540",
+      "size": 50
+    },
+    {
+      "group": 1,
+      "name": "blue house (morges)",
+      "url": "",
+      "gender": null,
+      "tatelink": "http://www.tate.org.uk/art/artworks/yarrow-blue-house-morges-t13791",
+      "id": "126541",
+      "size": 50
+    }
+  ],
+  "links": [
+    {
+      "source": "Artist",
+      "target": "126539",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "126540",
+      "value": 1
+    },
+    {
+      "source": "Artist",
+      "target": "126541",
+      "value": 1
+    }
+  ]
+}
