@@ -20,7 +20,7 @@ var color = d3.scaleLinear()
 
 //On récupere la table artiste-id
 var research;
-d3.json("/collection/research.json", function(error, json) {
+d3.json("collection/research.json", function(error, json) {
     research = json;
 })
 
