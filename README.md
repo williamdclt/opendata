@@ -1,4 +1,4 @@
-> Kept as archived as it is referenced by https://github.com/tategallery/collection
+> Kept as archive as it is referenced by https://github.com/tategallery/collection
 
 # Context
 This app was developped as a project for our Computer Science Engineering school (Ensimag).
